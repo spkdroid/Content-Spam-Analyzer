@@ -1,0 +1,13 @@
+number of files: 5109
+Final Report
+Average Length of the words
+Average Length of the Word 1 0
+Average Length of the Word 2 1
+Average Length of the Word 3 31
+Average Length of the Word 4 269
+Average Length of the Word 5 752
+Average Length of the Word 6 929
+Average Length of the Word 7 863
+Average Length of the Word 8 667
+Average Length of the Word 9 471
+Average Length of the Word 10 1126

@@ -1,0 +1,11 @@
+VISIBILITY
+Range 1:31
+Range 2:81
+Range 3:175
+Range 4:292
+Range 5:458
+Range 6:563
+Range 7:766
+Range 8:1127
+Range 9:1100
+Range 10:516

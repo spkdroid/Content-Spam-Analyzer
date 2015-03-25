@@ -1,0 +1,14 @@
+number of files: 5109
+Final Report
+Number of Word Count Range in the DataSet
+wordcount range 1 2500
+wordcount range 2 1330
+wordcount range 3 499
+wordcount range 4 245
+wordcount range 5 141
+wordcount range 6 100
+wordcount range 7 74
+wordcount range 8 41
+wordcount range 9 61
+wordcount range 10 19
+wordcount range 11 86
