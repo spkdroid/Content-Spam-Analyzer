@@ -1,14 +1,14 @@
 # Content-Spam-Analyzer
 
-Content Spam Analyzer is a tool based that rates a web page based on following word attributes
+<h4>Content Spam Analyzer is a tool based that rates a web page based on following word attributes</h4>
 
-1) Word Count
-2) Number of Anchor Tags
-3) Visibility Ratio
-4) Compression Ratio
-5) Content in the Title Text
-6) Popular Word Ratio
-7) Average Word Length.
+1) Word Count <br>
+2) Number of Anchor Tags<br>
+3) Visibility Ratio<br>
+4) Compression Ratio<br>
+5) Content in the Title Text<br>
+6) Popular Word Ratio<br>
+7) Average Word Length.<br>
 
 Based on the 7 Test that is performed by the page our analyzer program will give a score back to you.
 
