@@ -1,0 +1,1204 @@
+<!-- URL: http://www.ecost.com/ecost/shop/detail.asp?DPNo=759918&wt.mc_id=EWB07275&adcampaign=email,EWB07275 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: Public -->
+<!-- Connection: Keep-Alive -->
+<!-- Date: Fri, 30 Dec 2005 01:57:05 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Length: 48987 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Thu, 01 Dec 1994 16:00:00 GMT -->
+<!-- Expires: Fri, 30 Dec 2005 01:57:05 GMT -->
+<!-- Client-Peer: 209.233.130.43:80 -->
+<!-- Link: <http://eimages.ecost.com/w3c/p3p-ecost.xml>; rel="P3Pv1" -->
+<!-- Link: <http://www.ecost.com/ecost/favicon.ico>; rel="shortcut icon" -->
+<!-- Set-Cookie: SITESERVER=ID=c4baac6afd6e5c182b24d36652b243fa; expires=Monday, 01-Jan-2035 00:00:00 GMT; path=/; domain=.ecost.com -->
+<!-- Set-Cookie: SITESERVER=GUID=2751F4AA9B394E6F89301BAA46EED671;path=/;expires=Sat, 29-Oct-2030 23:12:40 GMT; domain=.ecost.com -->
+<!-- Set-Cookie: SITESERVER=GUID=2751F4AA9B394E6F89301BAA46EED671; expires=Sat, 29-Dec-2007 08:00:00 GMT; path=/ -->
+<!-- Set-Cookie: APP%5FDEBUG=False; expires=Wed, 04-Jan-2006 01:57:04 GMT; path=/ -->
+<!-- Set-Cookie: ASPSESSIONIDAQBBBSAQ=MIPFFINBBHMEPNALGCLAOIDF; path=/ -->
+<!-- Title: eCost – Computers and Electronics for Home and Business – Plasma TV iPODS Laptop MP3 Player -->
+<!-- X-Meta-Description: Save on  –  -  at eCOST. Find the latest  products at extremely competitive prices. Compare pricing at eCOST & and save! -->
+<!-- X-Meta-Keywords: ,,,,,,, -->
+<!-- X-Meta-WT.Pn-Sku:  -->
+<!-- X-Meta-WT.Si-N: shoppingcart -->
+<!-- X-Meta-WT.Si-X: 1 -->
+<!-- X-Meta-WT.Tx-E: v -->
+<!-- X-Meta-WT.Tx-U: 1 -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+ <!-- include virtual="include_en/lib_email.asp" -->
+
+
+
+<script>
+function MM_openBMLWindow(theURL, winName, features) 
+{ 
+  window.open("/ecost/shop/checkout/CorePopup1.asp","help", "width=800,height=600, top=50,left=200,menubar=yes,scrollbars=yes,status=no,toolbar=yes");
+}	
+</script>
+	<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+	<html lang="EN">	
+	<!-- ServerName: EWEB008 -->
+
+	<head>
+	<title>			
+	eCost – Computers and Electronics for Home and Business – Plasma TV iPODS Laptop MP3 Player
+	</title>
+		<meta name="WT.si_n" content="shoppingcart">
+<meta name="WT.si_x" content="1">
+<meta name="WT.pn_sku" content="">
+<meta name="WT.tx_e" content="v">
+<meta name="WT.tx_u" content="1">
+<meta name="description" content="Save on  –  -  at eCOST. Find the latest  products at extremely competitive prices. Compare pricing at eCOST & and save!">
+<meta name="keywords" content=",,,,,,,">
+
+	<link rel="P3Pv1" href="http://eimages.ecost.com/w3c/p3p-ecost.xml">
+	<link rel="shortcut icon" href="http://www.ecost.com/ecost/favicon.ico">	
+	
+	
+	<style type="text/css">
+		/*
+
+	Global Customer Type CSS
+	
+	Uses positional css for consumer and business
+	IDs are used to differentiate between customer types:
+	
+	ID				Type
+	
+	pcTypeConsumer	Consumer
+	pcTypeBusiness	Business
+
+*/
+
+
+/*	basic styles	*/
+
+	body	{
+		margin: 0;
+		padding: 0;
+		border: 0;
+		text-align: center;
+		background: #ffffff;
+	}
+	
+	.displayOn	{
+		display: visible;
+	}
+	
+	.displayOff	{
+		display: none;
+	}
+	
+	hr	{
+		width: 100%;
+		border: solid 1px #ffffff;
+		border-bottom: solid 1px #ababab;
+		filter: progid:DXImageTransform.Microsoft.Shadow(direction=180,color=#cbcbcb,strength=4);
+	}
+
+
+/*	main page header	*/
+
+	#pcMainHeader	{
+		background: #ffffff;
+		height: 72px;
+		width: 750px;
+		padding: 4px 0 4px 0;
+	}
+
+	#pcMainHeader #pcMainSearch	{
+		background: #f2f2f2;
+		border: solid 1px #ababab;
+		float: right;
+		height: 64px;
+		width: 300px;
+		color: #003464;
+		text-align: center;
+		font: 10px Arial, Helvetica, sans-serif;
+	}
+
+	#pcMainHeader #pcMainSearch ul	{
+		width: 296px;
+		height: 20px;
+		margin: 0;
+		padding: 2px;
+		list-style: none;
+		background: #ffffff;
+		border-bottom: solid 1px #ababab;
+		margin-bottom: 5px;
+	}
+
+	#pcMainHeader #pcMainSearch li	{
+		float: left;
+		padding: 2px 3px 2px 3px;
+	}
+
+	#pcMainHeader #pcMainSearch a	{
+		text-decoration: none;
+		float: left;
+		color: #003464;
+	}
+	
+	/* CBH \*/
+	#pcMainHeader #pcMainSearch a {float:none;}
+	/* End CBH */
+
+	#pcMainHeader #pcMainSearch li a:hover	{
+		background: #f2f2f2;
+	}
+
+	#pcMainHeader #pcMainSearch p a:hover	{
+		background: #ffffff;
+	}
+
+	#pcMainHeader form	{
+		vertical-align: middle;
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+
+	#pcMainHeader input	{
+		background: #ffffff;
+		border: solid 1px #003464;
+		padding: 0;
+		margin: 0;
+	}
+
+	#pcMainHeader p	{
+		font: 10px Arial, Helvetica, sans-serif;
+		width: 100%;
+		margin: 0;
+		padding: 2px;
+	}
+
+
+/*	main header bar	*/
+
+	#pcTypeConsumer #pcMainHeaderBar	{
+		background: #fe0000 url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/cons/bg_headerbar_consumer.gif) repeat-x;
+		border-bottom: solid 2px #ffffff;
+		height: 33px;
+		width: 100%;
+		padding: 0;
+	}
+	
+	#pcTypeBusiness #pcMainHeaderBar	{
+		background: #123a7f url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/bg_headerbar_business.gif) repeat-x;
+		border-bottom: solid 2px #ffffff;
+		height: 33px;
+		width: 100%;
+		padding: 0;
+	}
+	
+	#pcMainHeaderBar table	{
+		font: bold 12px Arial, Helvetica, sans-serif;
+		color: #ffffff;
+		height: 33px;
+	}
+	
+	#pcMainHeaderBar td a	{
+		color: #094081;
+		font: bold 12px Arial, Helvetica, sans-serif;
+		text-decoration: none;
+		height: 33px;
+		padding: 12px 10px 0 10px;
+	}
+
+	#pcTypeConsumer #pcMainHeaderBar #tabs	{
+		background: #fe0000 url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/cons/bg_headertabs_consumer.gif) repeat-x;
+	}
+
+	#pcTypeConsumer #pcMainHeaderBar #selected	{
+		background: #fe0000 url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/cons/bg_headertabdown_consumer.gif) repeat-x;
+		height: 33px;
+		padding: 8px 10px 0 10px;
+		font: bold 12px Arial, Helvetica, sans-serif;
+		color: #fe0000;
+	}
+	
+	#pcTypeBusiness #pcMainHeaderBar #tabs	{
+		background: #123a7f url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/bg_headertabs_business.gif) repeat-x;
+	}
+
+	#pcTypeBusiness #pcMainHeaderBar #selected	{
+		background: #123a7f url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/bg_headertabdown_business.gif) repeat-x;
+		height: 33px;
+		padding: 8px 10px 0 10px;
+		font: bold 12px Arial, Helvetica, sans-serif;
+		color: #2b2b61;
+	}
+	
+	#pcTypeConsumer #pcMainHeaderBar #change_homepage	{
+		text-align: right;
+		color: #ffffff;
+		font-weight: normal;
+	}
+	
+	#pcTypeBusiness #pcMainHeaderBar #change_homepage	{
+		text-align: right;
+		color: #a9abdb;
+		font-weight: normal;
+	}
+	
+	#pcTypeConsumer #pcMainHeaderBar #change_homepage a	{
+		color: #ffffff;
+		padding: 10px 0 0 0;
+	}
+	
+	#pcTypeBusiness #pcMainHeaderBar #change_homepage a	{
+		color: #a9abdb;
+		padding: 10px 0 0 0;
+	}
+	
+	/* CBH \*/
+	#pcMainHeaderBar a {float:none;}
+	/* End CBH */
+
+	#pcTypeConsumer #pcMainHeaderBar .noType	{
+		background: #0066ff url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/cons/bg_headerbar_default.gif) repeat-x;
+		height: 30px;
+	}
+
+
+/*	main menu bar	*/
+
+	#pcMainMenuBar	{
+		background: #2b2b61;
+		border-top: solid 1px #acb9c2;
+		border-bottom: solid 1px #2b2b61;
+		font: 12px Arial, Helvetica, sans-serif;
+		height: 24px;
+		width: 100%;
+		padding: 0;
+	}
+	
+	#pcMainMenuBar table	{
+		background: #6785a1;
+		border-right: solid 1px #acb9c2;
+		width: 750px;
+		height: 24px;
+	}
+	
+	#pcMainMenuBar a	{
+		border-left: solid 1px #acb9c2;
+		text-decoration: none;
+		color: #ffffff;
+		padding: 4px 5px 0 5px;
+		height: 24px;
+		width: 100%;
+	}
+	
+	#pcMainMenuBar a:hover	{
+		background: #ffffff;
+		color: #6785a1;
+	}
+
+
+/*	change homepage	*/
+
+	#pcMainChangeHomepage	{
+		margin-top: 12px;
+	}
+
+
+/*	main body	*/
+
+	#pcMainBody	{
+		background: #ffffff;
+		margin-top: 12px;
+		width: 750px;
+	}
+	
+	#pcMainBody .topShadow	{
+		background: url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/hr_shadow.gif) repeat-x;
+	}
+
+
+/*	promotion signup	*/
+
+	#pcMainBody #promotion	{
+		background: #ffffff;
+		border: solid 1px #ababab;
+		padding: 10px;
+		text-align: center;
+	}
+
+	#pcTypeConsumer #pcMainBody #promotion h1	{
+		font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+		color: #fe0000;
+	}
+	
+	#pcTypeBusiness #pcMainBody #promotion h1	{
+		font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+		color: #123a7f;
+	}
+	
+	#pcMainBody #promotion h2	{
+		background: url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/hr_shadow.gif) repeat-x;
+		font: bold 24px Verdana, Arial, Helvetica, sans-serif;
+		color: #6785a1;
+		padding-top: 15px;
+	}
+	
+	#pcMainBody #promotion h3	{
+		font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+		color: #094081;
+	}
+	
+	#pcMainBody #promotion input	{
+		background: #ffffff;
+		border: solid 1px #003464;
+		padding: 0;
+		margin: 0;
+	}
+	
+	#pcMainBody #promotion .popBox	{
+		background: #ff0000;
+		font: bold 12px Verdana, Arial, Helvetica, sans-serif;
+		color: #ffffff;
+		border: outset 2px #ff3333;
+		padding: 2px;
+	}
+	
+
+/*	left navigation	*/
+
+	#pcLeftNav	{
+		font: 12px Verdana, Arial, Helvetica, sans-serif;
+		width: 172px;
+		text-align: left;
+		background: #ffffff;
+		border: solid 1px #bababa;
+	}
+
+	#pcLeftNav ul	{
+		list-style: none;
+		margin: 0;
+		margin-bottom: 5px;
+		padding: 0;
+	}
+	
+	#pcTypeConsumer #pcLeftNav li h1	{
+		margin: 0;
+		display: block;
+		background: #ffffff;
+		padding: 7px 5px 5px 10px;
+		font: bold 11px Verdana, Arial, Helvetica, sans-serif;
+		color: #002b6c;
+	}
+	
+	#pcTypeBusiness #pcLeftNav li h1	{
+		margin: 0;
+		display: block;
+		background: #ffffff;
+		padding: 7px 5px 5px 10px;
+		font: bold 11px Verdana, Arial, Helvetica, sans-serif;
+		color: #2b2b61;
+	}
+	
+	#pcTypeConsumer #pcLeftNav li h2	{
+		color: #002b6c;
+		font: bold 11px Verdana, Arial, Helvetica, sans-serif;
+		padding: 0 10px 0 10px;
+		margin: 0;
+	}
+	
+	#pcTypeBusiness #pcLeftNav li h2	{
+		color: #2b2b61;
+		font: bold 11px Verdana, Arial, Helvetica, sans-serif;
+		padding: 0 10px 0 10px;
+		margin: 0;
+	}
+	
+	#pcLeftNav li p	{
+		color: #003464;
+		font: 10px Verdana, Arial, Helvetica, sans-serif;
+		padding: 3px 10px 5px 10px;
+		margin: 0;
+	}
+	
+	#pcLeftNav li a	{
+		color: #003464;
+		font: 10px Verdana, Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+	
+	#pcLeftNav li a:hover	{
+		background: #f2f2f2;
+	}
+	
+	#pcLeftNav li input	{
+		background: #ffffff;
+		border: solid 1px #003464;
+		font: 11px Verdana, Arial, Helvetica, sans-serif;
+	}
+
+	#pcLeftNav li li a	{
+		color: #003464;
+		display: block;
+		font: 11px Verdana, Arial, Helvetica, sans-serif;
+		background: fixed url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/bullet_blue_dash.gif) left center no-repeat;
+		padding: 3px 10px 0px 10px;
+		margin-left: 10px;
+		text-decoration: none;
+	}
+
+	#pcLeftNav li li a:hover	{
+		background: fixed #f2f2f2 url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/bullet_blue_dash.gif) left center no-repeat;
+	}
+
+
+/*	corp headlines	*/
+	#pcHeadlines	{
+		font: 12px Verdana, Arial, Helvetica, sans-serif;
+		display: block;
+		width: 100%;
+		background: #ffffff;
+	}
+
+	#pcHeadlines ul	{
+		list-style: none;
+		margin: 0;
+		padding: 10;
+		background: #f2f2f2;
+		height: 220px;
+		border: solid 1px #bababa;
+		border-top: none;
+	}
+
+	#pcHeadlines li	{
+		padding: 5px;
+		margin-left: 5px;
+		padding-left: 20px;
+		background: fixed url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/arrow.gif) left center no-repeat;
+	}
+
+	#pcHeadlines li a	{
+		color: #012a6c;
+		display: block;
+		font: 11px Verdana, Arial, Helvetica, sans-serif;
+		text-decoration: none;
+	}
+
+	#pcHeadlines li a:hover	{
+		background: #ffffff;
+	}
+
+	#pcHeadlines a.more	{
+		color: #012a6c;
+		font: 10px Verdana, Arial, Helvetica, sans-serif;
+		float: right;
+		text-decoration: none;
+		padding: 2px;
+		margin: 5px 10px 5px 0;
+		padding-left: 20px;
+		background: fixed url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/arrow_2.gif) left center no-repeat;
+	}
+
+	#pcHeadlines a.more:hover	{
+		background: fixed #f2f2f2 url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/corp/arrow_2.gif) left center no-repeat;
+	}
+
+/*	main footer	*/
+
+	#pcMainFooter	{
+		background: #ffffff;
+		border: solid 1px #ababab;
+		height: 132px;
+		width: 750px;
+		padding: 0;
+		margin-top: 12px;
+		margin-bottom: 12px;
+		color: #003464;
+		font: 11px Verdana, Arial, Helvetica, sans-serif;
+		text-align: center;
+	}
+	
+	#pcMainFooter ul	{
+		margin: 25px;
+		padding: 2px;
+		list-style: none;
+		width: 625px;
+	}
+
+	#pcMainFooter li	{
+		float: left;
+		padding: 2px 5px 2px 5px;
+	}
+
+	#pcMainFooter a	{
+		text-decoration: none;
+		float: left;
+		color: #003464;
+	}
+	
+	/* CBH \*/
+	#pcMainFooter a {float:none;}
+	/* End CBH */
+
+	#pcMainFooter a:hover	{
+		background: #f2f2f2;
+	}
+	
+	#pcMainFooter p	{
+		color: #003464;
+		font: 11px Verdana, Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 20px;
+	}
+
+
+/*	Splash Main Body	*/
+
+	#pcSplash	{
+		background: #123a7f url(https://image1.cc-inc.com/en_ideamall/co_pcmall/div_pcmall/div_interface/cons/bg_splash_wp.gif) center center repeat-y;
+	}
+	
+	#pcSplash a	{
+		text-decoration: none;
+		color: #003464;
+	}
+	
+	#pcSplash a:hover	{
+		background: #f2f2f2;
+	}
+
+	#pcSplashMainBody	{
+		/*background: #ffffff;
+		border-right: solid 1px #123a7f;
+		border-left: solid 1px #123a7f;*/
+		width: 754px;
+		height: 100%;
+		position: relative;
+	}
+	
+	#pcSplashMainBody table	{
+		margin-top: 25px;
+	}
+	
+	#pcSplashMainBody #pcMallPhone	{
+		color: #000e83;
+		font: 24px Verdana, Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 30px 0 60px 0;
+	}
+
+
+/*	Splash Footer	*/
+
+	#pcSplashFooter p	{
+		color: #003464;
+		font: 11px/200% Verdana, Arial, Helvetica, sans-serif;
+		padding: 0;
+		margin: 20px;
+	}
+
+
+	</style>	
+	
+	<script language="javascript" type="text/javascript" src="/include_en/presentation_layer/css/global_css.js"></script>
+	<script language="javascript" type="text/javascript" src="/co_ecost/div_ecost/include/css/div_properties.js"></script>
+	<script language="JavaScript" type="text/javascript" src="/co_ecost/div_ecost/include/scripts/display_functions.js"></script>	
+	<script language="JavaScript" type="text/javascript">
+<!--
+window.name="home"
+//-->
+</script>
+
+	
+	<script language="JavaScript" type="text/javascript">
+		<!--	
+			function init()
+			{
+				
+			}
+	
+			function open_borderfree_window()
+			{
+				merch_url = escape(location.href);
+				redirect_url = "http://www.borderfree.com/bf/cgi-bin/popup_new.pl?id=79" + "&m_url=" + merch_url;
+				window.open(redirect_url,"thiswindow","width=418,height=380");
+			}
+					
+			function errNoImage(objImage) {
+			// Reduce the Product Pop demo button to invisibility if a connection could not be made with the Product Pop server.
+			//	Oct 25, 2000 - C. Wilson
+	
+				//alert(objImage.name)
+				// CHANGE the demo button to a transparent gif and REDUCE the image size (width/height) to zero.
+				objImage.src = "/images/spacer.gif";
+				//alert(objImage.src)
+
+
+			}
+
+			function openAvailabilityLegend() {
+				window.open("/ecost/shop/tools/availability_legend.asp","thisName","menubar=no,status=no,location=no,width=610,height=450,toolbar=no,scrollbars=yes");
+			}
+					
+			function goHere(newLoc) {
+				newPage = newLoc.options[newLoc.selectedIndex].value;
+											
+				if (newPage != "") {
+					window.location.href = newPage;
+				}
+											
+			}
+
+	
+	
+			function openPopup(url,width,height,scroll,name)
+			{
+			window.open(url,name,"menubar=no,status=no,location=no,width=" + width + ",height=" + height + ",toolbar=yes,scrollbars=" + scroll);
+			}
+
+			function openSony()
+			{
+			window.open("/ecost/shop/showcase/sony/flash.asp","thisName","menubar=no,status=no,location=no,width=660,height=420,toolbar=no,scrollbars=yes");
+			}
+			
+			function openFreeShipping()
+			{
+			window.open("/ecost/information/help/about_ecost.asp#a2","thisName","menubar=no,status=no,location=no,width=610,height=450,toolbar=no,scrollbars=yes");
+			}
+
+			function openShippingLegend()
+			{
+			window.open("/ecost/shop/tools/availability_legend.asp","thisName","menubar=no,status=no,location=no,width=610,height=450,toolbar=no,scrollbars=yes");
+			}
+
+			function openEnableCookies()
+			{
+			window.open("http://www.ecost.com/Content/EnableCookies.asp?store=ecsplash&catalog_id=63&set_id=4&section=welcome","thisName","menubar=no,status=no,location=no,width=610,height=450,toolbar=no,scrollbars=yes");
+			}
+
+			function openOrderPolicy()
+			{
+			window.open("http://www.ecost.com/Content/OrderPolicyPopup.asp?store=ecsplash&catalog_id=63&set_id=4&section=welcome","thisName","menubar=no,status=no,location=no,width=610,height=450,toolbar=no,scrollbars=yes");
+			}
+
+			function openBBBOnline()
+			{
+			window.open("http://www.bbbonline.org/r.cfm?ID=1176000217","thisName","menubar=no,status=no,location=no,width=370,height=400,toolbar=no,scrollbars=no");
+			}
+			function openDetails(strLink)
+			{
+			window.open(strLink,'printspecs','menubar=yes,status=no,location=no,width=610,height=450,toolbar=yes,scrollbars=yes')
+			}
+			function openBizRate2()
+			{
+			window.open("http://images.bizrate.com/details/card18045.gif","thisName","menubar=no,status=no,location=no,width=270,height=330,toolbar=no,scrollbars=no");
+			}
+			function openBizRate()
+			{
+			window.open("http://cnet.bizrate.com/cobrand/report.xpml?mid=18045","thisName","menubar=no,status=no,location=no,width=820,height=580,toolbar=no,scrollbars=yes");
+			}
+
+			function CloseThisWindow()
+			{
+			window.close();
+			}
+					
+			function OmniConfig() {
+			   var windowHandle = window.open("http://206.62.140.31/omni/ecostconfig/default.asp?returnurl=http://www.ecost.com/ecost/ecsplash/shop/cart/cart_item.asp?action=add","InkjetConfigurator",
+			                        "height=250,width=650,menubar=no,scrollbars=yes,status=no");
+			}
+					
+			function configurator()
+			 {
+				remote = window.open ("","remotewin",
+				"status=yes,toolbar=no,menubar=no,location=no,resizable=yes,width=500,height=500,top=50,left=200");
+				remote.location.href = "http://208.178.183.8/companies/eCOST/index.shtml";
+				if (remote.opener == null)
+				{
+					remote.opener = window;
+				}
+				remote.opener.name = "opener";
+			}
+
+		//-->
+	</script>
+	
+	
+
+	<!-- OL - 2LayerTabs INCLUDE STYLE SHEET ==================================== -->
+	<style rel="stylesheet" type="text/css">@import "/ecost/include/css/ecost.css";</style>
+
+	<!--[if IE]>
+	<style rel="stylesheet" type="text/css" media="screen">
+			#top {  z-index: 0; top: 46px;  }
+			#bottom {  z-index: 1; top: 83px;  }
+	</style>
+	<![endif]-->
+	
+	
+
+<SCRIPT LANGUAGE="JavaScript">
+<!-- Begin
+function OnSalePopUp(URL) {
+	day = new Date();
+	id = day.getTime();
+	var OnSalePopUp = eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=300,height=300');");
+	if( navigator.appName.substring(0,8) == "Netscape" )
+	{
+		OnSalePopUp.location = URL;
+	}
+}	
+// End -->
+</script></head>
+<body id="ecost" bgcolor="#ffffff" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
+
+	<map name="ship">
+	    <area shape="rect" coords="18,2,273,38" href="javascript:openFreeShipping()">
+	    <area shape="rect" coords="289,2,580,37" href="/ecost/ecsplash/promotions/fedex/">
+	</map>
+<div align="center" style="margin-top:3px;clear:both">
+<img src="http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/free_600x40.gif" width=600 height=40 border=0 usemap="#ship" /></div>
+<!-- Navigation Tabs -->
+<table width=100% border=0 cellpadding=0 cellspacing=0 align=center style="background: url(http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/bg.gif) repeat-x bottom;">
+<tr>
+<td><img src="/images/spacer.gif" width=1 height=56></td>
+<td rowspan=3 width=800>
+<div style="height:76px;"></div>
+<div id="top">
+<ul class="short">
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://travel.ian.com/index.jsp?cid=118312" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Travel</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecbath/default_XML.asp" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Bed &amp; Bath</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecapparel/" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Apparel &amp;<br> Accessories</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/echw/default_XML.asp" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Home &amp;<br>Houseware</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecws/default_XML.asp" class="double fixWidth" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Jewelry</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/shop/showcase/business/default.asp" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Business<br>&amp; Gov/Ed</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecdvd/default_ecdvd.asp" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>DVD<br>Movies</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecvg/" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Video<br>Games</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecce/shop/showcaseb/default~showcaseb~satellite.asp" class="double fixWidth" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Satellite TV <br> &amp; Radio</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecsport/" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Licensed<br>Sports Gear</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecmac/shop/showcaseb/default~showcaseb~ipod.asp" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Apple<br>iPod</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;position:relative !important;left:8px !important;'><div id="clock"><img src="http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/clock.gif" border="0" align="left" /></div><a href="http://www.ecost.com/ecost/shop/countdown/default.asp" class="double bargainTab" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Bargain<br>Countdown</a></li>
+</ul>
+</div>
+<div id="bottom">
+<ul>
+<li class='raise' style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecsplash/" class="super" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'><img src="http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/ecost_logo_off.gif" alt="eCOST.com" border="0" /></a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecmac/" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Shop Mac</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/computer_right.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/computer_left.gif") no-repeat left top;color:#FFF;'>Computers</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecce/default_XML.asp" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Electronics</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecsw/" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Software</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/eccamera/" class="double" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Cameras &amp;<br>Camcorders</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecdm/" class="double fixWidth" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Digital<br>Media</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecnet/" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Networking</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecprint/" class="" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Printers</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecplasma/" class="double fixWidth" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>TVs &amp;<br>Monitors</a></li>
+<li style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/right_off.gif") no-repeat right top;'><a href="http://www.ecost.com/ecost/ecphone/" class="fixWidth" style='background:url("http://eimages.ecost.com/en_ideamall/co_ecost/div_ecost/div_interface/navigation/slidingtab/left.gif") no-repeat left top;'>Cellular</a></li>
+</ul>
+</div>
+
+</td>
+<td><img src="/images/spacer.gif" width=1 height=56 alt=""></td>
+</tr>
+</table>
+<!-- top text links -->
+<table width=100% border=0 cellspacing=0 cellpadding=0 bgcolor=666666>
+<tr>
+<td align=center><p style="margin:12px 0 10px 0;">
+<a href="http://www.ecost.com/ecost/shop/countdown/platinum/default.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" ><b>New</b> Platinum Club</a><a href="http://www.ecost.com/ecost/shop/countdown/clearance/default.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" >Clearance Countdown</a><a href="http://www.ecost.com/ecost/shop/showcase/default~showcase~hp_blowout.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" ><b>New</b> HP Blowout! </a><a href="http://www.ecost.com/ecost/ecsplash/shop/tools/hsbc/hsbc.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" >eCOST Credit Card</a><a href="http://www.ecost.com/ecost/ecsplash/promotions/" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" >Rebate Center</a><a href="http://www.ecost.com/ecost/ecsplash/information/subscription_services/default~page~showtext.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" >HotSheet</a><a href="http://www.ecost.com/ecost/ecsplash/shop/premiere/morestores.asp" class="TopTextLinks" style="background-color: #444444; white-space:nowrap;" ><b>More Stores!</b></a><span></span></p>
+</td></tr>
+<tr>
+<td colspan=3><img src="/images/spacer.gif" width=1 height=3></td></tr>
+</table>
+
+
+
+<!-- shadow -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td bgcolor="#000000"><img src="/images/spacer.gif" width="1" height="1"></td></tr>
+</table>
+
+
+<!-- Search Bar -->
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f0f0f0">
+	<tr>
+		<input type="hidden" Name="geoff" value="is the bomb">
+		<td><img src="/images/spacer.gif" width="5" height="32"></td>
+		<td width="40%" align="left" nowrap>
+		
+			<b>Order Now! Call 1-877-888-2678</b>	
+		
+		<td><img src="/images/spacer.gif" width="5" height="32"></td>
+		<td align="center" valign="middle" nowrap>
+
+			<!--- start SEARCH --->
+			
+
+	  	<form style="display:inline" id="searchgo" name="newsearch" method="get" action="/ecost/search/search.asp">
+		<table border="0" cellpadding="1" cellspacing="0">
+		<tr>
+			<td>
+				
+				<input tabindex="0" accesskey="s" type="text" name="Search" id="Search" size="15" class="searchforms"><input type="hidden" id="NavID_Search" name="NavID_Search" value="false"/></td>
+			<td>
+				<input TYPE="image" SRC="http://eimages.ecost.com/i/navigation/goBtn_24x24.gif" width="24" height="24" alt="Search Submit Button" border="0" name="submit1" value="Go!" class="searchforms">
+			
+		<!-- parameters required for search -->
+		<!-- <input  type="hidden" id="CatalogIDList" name="CatalogIDList" value="63">-->
+		<!-- <input  type="hidden" id="AccountID" name="AccountID" value="" > -->
+		<!-- <input  type="hidden" id="PType" name="PType" value="E" > -->
+		<!-- <input  type="hidden" id="ShowCaseID" name="ShowCaseID" value="10" > -->
+		<!-- <input  type="hidden" id="Tier" name="Tier" value="0" > -->
+		<!-- <input  type="hidden" id="RankGroupID" name="RankGroupID" value="3" >-->
+		<!-- <input  type="hidden" id="mallname" name="mallname" value="ecost" >-->
+		<!-- <input  type="hidden" id="shopperid" name="shopperid" value="" >-->
+		<!-- <input  type="hidden" id="Type" name="Type" value="4" > -->
+		<input  type="hidden" id="CurDSN" name="CurDSN" value="simple">
+		<input  type="hidden" id="calledfrom" name="calledfrom" value="1" >
+		<input  type="hidden" id="incimage" name="incimage" value="on" >
+
+	
+
+			</td></tr>
+		</table>
+		</form>
+					
+			<!--- end SEARCH --->
+
+		</td>
+		<td width="40%" align="right" nowrap>
+			<table width=240 border=0 cellpadding=0 cellspacing=2>
+<tr>
+<td nowrap>
+<a href="https://www.ecost.com/ecost/MyAccount/Order/Order.asp">
+Order Status</a></td>
+<td align="center" class="lblue"> - </td>
+<td nowrap>
+<a href="http://www.ecost.com/ecost/ecsplash/information/help/help.asp">
+Help Desk</a></td>
+<td align="center" class="lblue"> - </td>
+<td nowrap >
+<a href="/ecost/MyAccount/newlogin.asp">
+My Account</a></td>
+<td><img src="http://eimages.ecost.com/i/spacer_1x1.gif" width="3" height="1" border="0"></td>
+<td>
+<a href="http://www.ecost.com/ecost/shop/cart/shopping_cart~action~view.asp">
+<img src="http://eimages.ecost.com/i/navigation/shopCartBtn_75x26.gif" width="75" height="26" border="0" ALT="Shopping Cart" target="home"></a></td>
+</tr>
+</table>
+</td>
+		<td><img src="/images/spacer.gif" width="5" height="32"></td>
+	</tr>
+</table>
+
+
+<!-- shadow -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td bgcolor="#808080"><img src="/images/spacer.gif" width="1" height="1"></td></tr>
+</table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" ID="Table1">
+		<tr>
+			<td width="100%" align="center" style="background: url(https://eimages.ecost.com/en_ideamall/en_banner/MulPay/billmelater_bg_480x1.gif) repeat-x top"
+				ALIGN="CENTER">
+				<a href="javascript:onClick=MM_openBMLWindow();"><img src="https://eimages.ecost.com/en_ideamall/en_banner/BML/billmelater_480x40.gif"
+						width="480" height="40" border="0" alt="" />
+			</td>
+		</tr>
+	</table>
+
+
+<!---------------------------- Start Sidebar and Main page ----------------------------------->
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+	
+		<!-- Start Main Body Cell -->
+<td width="100%" valign="top" align="center" border="0">
+Cannot find item: 759918</td></tr>
+</table>
+<td><img src="/images/spacer.gif" width=5 height=1 border=0></td></tr>
+</table>
+
+	<!-- START OF WEBTRENDS LIVE TAG -->
+	<!-- Copyright 2001 NetIQ Corporation -->
+	<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/privacy_policy.htm -->
+
+	<!-- eCommerce Revenue Tracking (patent pending) -->
+	<!-- For eCommerce implementation, visit the following page: -->
+	<!-- http://www.webtrendslive.com/support/online_help/open_help.asp?helppage=techsupport_code_ecommerce&redirection=help -->
+	
+	<SCRIPT LANGUAGE="JavaScript">
+	<!--
+	// Modification of this code is not allowed and will permanently disable your account!
+	// SiteName:  PC Mall
+	function wtl_Tag6(intWBTL_Tag)
+	{
+		var ORDER= "";
+		var SERVER= "EWEB008";
+		var CONTENTGROUP= "";
+		var INVOICE= "";
+		var CARTVIEW= "759918";
+		var CARTADD= "";
+		var CARTREMOVE= "";
+		var CHECKOUT= "";
+		var CARTBUY= "";
+		var ADCAMPAIGN= "email,EWB07275";
+		
+		var wtl_URL= document.URL;
+		var wtl_Title= document.title;
+
+		function D8( d)
+		{
+			var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+			var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+			s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+			while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+			var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+			s+= key.charAt( (w-(w%16))/16 );
+			s+= key.charAt( w%16);
+			return s;
+		}
+
+		function A( B, C)
+		{
+			W+="&"+B+"="+escape(C);
+		}
+		
+		var t = new Date();
+		var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S"+intWBTL_Tag+"/button6.asp?tagver=6&si="+intWBTL_Tag+"&fw=1";
+		A( "server", typeof(SERVER)== "string" ? SERVER : "");
+		A( "order", typeof(ORDER)== "string" ? ORDER : "");
+		A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+		A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
+		A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
+		A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
+		A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
+		A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
+		A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
+		A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
+		A( "tz", t.getTimezoneOffset());
+		A( "ch", t.getHours());
+		A( "cl", D8(t));
+		A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
+		A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
+		A( "rf", window.document.referrer);
+		A( "js", "Yes");
+		A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+		if(typeof(screen)=="object")
+		{
+		A( "sr", screen.width+"x"+screen.height);
+		A( "cd", screen.colorDepth);
+		A( "jo", navigator.javaEnabled() ? "Yes" : "No");
+		}
+		if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+			W= W.substring( 0, 2043)+"&tu=1";
+
+		document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
+	}
+
+	wtl_Tag6(109869);
+	wtl_Tag6(118485);
+	//-->
+		</SCRIPT>
+		<NOSCRIPT>
+		<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S109869/button6.asp?tagver=6&si=109869&fw=1&js=No&">
+		<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S118485/button6.asp?tagver=6&si=118485&fw=1&js=No&">
+		</NOSCRIPT>
+
+	<!-- END OF WEBTRENDS LIVE TAG -->
+<!--BEGIN ROI TRACKING Code-->
+<script language="javascript" src="http://track.roiservice.com/track/track.aspx?ROIID=931343107134312"></script>
+<script language="javascript">
+<!--
+if (typeof(ROIID) + '' != 'undefined') {
+TrackEvent('LandingPage', 0); 
+           }
+//-->
+</script>
+<!--END ROI TRACKING Code-->
+<!--  Overture Tracking Start -->
+<SCRIPT LANGUAGE="JavaScript" type="text/javascript">
+<!-- Overture Services, Inc
+var pm_tagname = "universalTag.txt";
+var pm_tagversion = "1.4";
+var pm_accountid = "L36RL252T3MUIM2B78CVG78KJ4";
+var pm_scripthost = "srv.perf.overture.com";
+var pm_customargs = "";
+var pm_querystr = "?" + "ver=" + pm_tagversion + "&aid=" + pm_accountid + pm_customargs;
+var pm_tag = "<SCR" + "IPT LANGUAGE='JavaScript' " + "SRC=//" + pm_scripthost + "/collweb/ScriptServlet" + pm_querystr + "></SCR" + "IPT>";
+document.write(pm_tag);
+// -->
+</SCRIPT>
+
+
+
+	
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- © 1999-2004 NetIQ Corporation. All rights reserved. -->
+<!-- V7.0 -->
+<!-- $DateTime: 2003/10/28 16:26:23 $ -->
+<SCRIPT LANGUAGE="Javascript"><!--
+gVersion="1.0";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcsc5k1y36twkfwddu2xlbvwn_2p6y";
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+					//CHANGE MADE HERE ---
+					//alert(myMeta.content);
+					//CHANGE MADE HERE ---
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag();
+//-->
+</SCRIPT>
+
+<NOSCRIPT>
+
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsc5k1y36twkfwddu2xlbvwn_2p6y/njs.gif?dcsuri=/nojavascript&WT.js=No">
+
+</NOSCRIPT>
+<!-- END OF SmartSource Data Collector  TAG -->	
+	
+
+
+<!--  Overture Tracking End -->
+<table width="100%" cellpadding="0" cellspacing="0" align="left"><tr><td width="20%">&nbsp;</td><td align="center"><table width="100%" cellpadding="0" cellspacing="0" ><tr><td colspan="3" style="border-color: #BBBABA; border-width: 1px 1px 1px 1px; border-style: solid"background="http://eimages.ecost.com/i/TemplateBottom/customer_service_bg_1x35.gif"><img src="http://eimages.ecost.com/i/TemplateBottom/customer_service_338x35_border_not_included.gif"></td><tr><tr><td style="border-color: #BBBABA; border-width: 0px 1px 1px 1px; border-style: solid"><table width="100%" cellpadding="0" cellspacing="0" ><tr><td><img src="/images/spacer.gif" width="10"></td><td width="50%" valign="top" nowrap><b><u>Customer Support</u></b><br>> <a class="p" href="https://www.ecost.com/ecost/myaccount/">My Account</a><br>> <a class="p" href="https://www.ecost.com/ecost/myaccount/newlogin.asp">Order Status</a><br>> <a class="p" href="https://www.ecost.com/ecost/information/help/shipping_handling.asp#g">Return Policy</a><br>> <a class="p" href="http://www.ecost.com/ecost/MyAccount/Rebates/">Rebate Center</a><br>> <a class="p" href="https://www.ecost.com/ecost/myaccount/">Shipping Information</a><br>> <a class="p" href="http://www.ecost.com/ecost//shop/showcaseb/default~showcaseb~spanish.asp">Hablamos Español</a><br></td><td><img src="/images/spacer.gif" width="10"></td><td width="50%" valign="top" nowrap><b><u>Company Information</u></b><br>> <a class="p" href="http://www.ecost.com/ecost/ir/">Investor Relations</a><br>> <a class="p" href="http://www.ecost.com/ecost/shop/tools/affiliate/default.asp">Affiliate Program</a><br>> <a class="p" href="http://www.ecost.com/ecost/information/help/getting_started.asp#d">Privacy Policy</a><br>> <a class="p" href="http://www.ecost.com/ecost/information/help/terms_service.asp#a">Terms and  Conditions</a><br>> <a class="p" href="http://www.ecost.com/ecost/ecsplash/shop/showcaseb/default~showcaseb~international.asp">International Customers</a><br></td><td><img src="/images/spacer.gif" width="10"></td><tr></table></td><td style="border-color: #BBBABA; border-width: 0px 1px 1px 0px; border-style: solid"><a class="p" href="http://www.ecost.com/ecost/shop/tools/subscriptions/catalog.asp"><img src="http://eimages.ecost.com/i/TemplateBottom/customer_banner1_162x130.gif" border="0"></td><td style="border-color: #BBBABA; border-width: 0px 1px 1px 0px; border-style: solid"><a class="p" href="/ecost/information/subscription_services/default~page~showtext.asp"><img src="http://eimages.ecost.com/i/TemplateBottom/customer_banner2_162x130.gif" border="0"></td></tr><tr><td colspan="4" align="center"><img src="/images/spacer.gif" height="20"></td></tr><tr><td colspan="4" align="center"><table width="50%" cellpadding="0" cellspacing="0" align="center"><tr><td><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.ECOST.COM&amp;lang=en" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/verisign.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.bbbonline.org/cks.asp?id=10410141104747723" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/bbb.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.ecost.com/ecost/information/help/payment_information.asp#a" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/mastercard.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.ecost.com/ecost/information/help/payment_information.asp#a" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/american_express.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.ecost.com/ecost/information/help/payment_information.asp#a" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/discover.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.ecost.com/ecost/information/help/payment_information.asp#a" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/diners_club.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="http://www.ecost.com/ecost/information/verified_visa/default.asp" target="_blank"><img src="http://eimages.ecost.com/i/TemplateBottom/verified_by_visa.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td><td><a href="/ecost/Shop/checkout/CorePopup1.asp" target="_blank"><img src="http://eimages.ecost.com/en_ideamall/en_banner/BillMeLater/billmelater_very_bottom.gif" border="0"></a></td><td><img src="/images/spacer.gif" width="10"></td></tr></table></td></tr><tr><td colspan="4" align="center"><img src="/images/spacer.gif" height="20"></td></tr><tr><td colspan="4" align="center"><table width="40%" cellpadding="0" cellspacing="0" align="center"><tr><td align="center" nowrap><a href="http://www.ecost.com/ecost/promotions/default.asp">Show All Rebates<br></td><td><img src="/images/spacer.gif" width="10">|<img src="/images/spacer.gif" width="10"></td><td align="center" nowrap><a href="http://www.ecost.com/ecost/shop/showcase/business/default.asp">eCOST.com CAP<br></td><td><img src="/images/spacer.gif" width="10">|<img src="/images/spacer.gif" width="10"></td><td align="center" nowrap><a href="http://www.ecost.com/ecost/shop/showcase/business/default.asp">eCOST.com Business<br></td><td><img src="/images/spacer.gif" width="10"><img src="/images/spacer.gif" width="10"></td></tr></table></td></tr><tr><td colspan="4" align="center"><img src="/images/spacer.gif" height="5"></td></tr><tr><td colspan="4" align="center"><table width="100%" cellpadding="0" cellspacing="0" align="center"><tr><td align="center" nowrap>© 2004 eCOST.com. All rights reserved.<br></td><td><img src="/images/spacer.gif" width="10"></td></tr></table></td></tr></table></td><td width="20%">&nbsp;</td></tr><tr><td colspan="3"></td><tr></table>

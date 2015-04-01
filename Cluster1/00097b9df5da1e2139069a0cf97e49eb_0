@@ -1,0 +1,60 @@
+<!-- URL: http://valuevalet.Seeq.com/lander.jsp?referrer=&domain=valuevalet.com&cm_mmc= -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-cache, must-revalidate -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 21:52:24 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache -->
+<!-- Content-Length: 1377 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Mon, 26 Jul 1997 05:00:00 GMT -->
+<!-- Last-Modified: 28 Dec 2005 21:52:24 GMT -->
+<!-- Cartoon: Woody -->
+<!-- Client-Peer: 208.254.3.166:80 -->
+<!-- P3P: CP="NOI CURa ADMa OUR NOR BUS PHY ONL UNI PUR COM NAV STA" -->
+
+
+
+
+
+            <html>
+            <head>
+            <noscript>
+            Click <a href="/results.jsp?domain=valuevalet.com&portal_id=188&keyword=value">here</a> if you are not redirected.
+            <meta http-equiv="refresh" content="1;url=/results.jsp?domain=valuevalet.com&portal_id=188&keyword=value">
+            </noscript>
+
+            <script type="text/javascript" src="/cookies.js"></script>
+
+    <script language="javascript">
+    <!--
+    function bd_redirect()
+    {
+        self.location = "/results.jsp?domain=valuevalet.com&portal_id=188&keyword=value";
+    }
+
+    // just in case we are directing back to seeq
+    setCookie("hasSession", "true");
+    setCookie("hasPops","false");
+
+    // set a session cookie for AB test
+    // A will be the basaeline until there is a B
+    setCookie("test", "A");
+
+    var img = new Image;
+    img.onload = bd_redirect;
+    img.onerror = bd_redirect;
+    img.onabort = bd_redirect;
+    img.src = "/servlet/ImageTracker?referrer=&provider=overture&domain=valuevalet.com&timestamp=1135806744688";
+
+    setTimeout("bd_redirect()",5000);
+    //-->
+    </script>
+    </head>
+    <body>
+    <noscript>
+        <img width="1" height="1" src="/servlet/ImageTracker?referrer=&provider=overture&domain=valuevalet.com&timestamp=1135806744688">
+    </noscript>
+    </body>
+    </html>
+

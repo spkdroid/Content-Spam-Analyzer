@@ -1,0 +1,1031 @@
+<!-- URL: http://www.homegain.com/broker?entryid=2684&ht=bdcamdenhpx -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 21:47:05 GMT -->
+<!-- Pragma: no-cache -->
+<!-- ETag:  -->
+<!-- Server: Zope/(Zope 2.6.1 (source release, python 2.1, linux2), python 2.1.3, linux2) ZServer/1.1b1 -->
+<!-- Vary: Accept-Encoding,U -->
+<!-- Content-Length: 35116 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 64.124.5.200:80 -->
+<!-- Link: </css/ie/common_02.css>; rel="stylesheet"; type="text/css" -->
+<!-- P3P: policyref="/w3c/p3p.xml", CP="ALL DSP COR CURa ADMa DEVa TAIa PSAa PSDa OUR STP UNI COM NAV INT STA PRE" -->
+<!-- Set-Cookie: suppression="%28dp0%0AS%27token_name_prefix%27%0Ap1%0AS%27%27%0Ap2%0AsS%27return_url%27%0Ap3%0Ag2%0AsS%27partner_id%27%0Ap4%0AL100000299L%0AsS%27privacy_url%27%0Ap5%0Ag2%0AsS%27optout_email_select%27%0Ap6%0AI0%0AsS%27terms_url%27%0Ap7%0Ag2%0AsS%27full_ad_suppress%27%0Ap8%0AI0%0AsS%27entry_id%27%0Ap9%0AL2684L%0AsS%27gbmortgage_suppress%27%0Ap10%0AI0%0AsS%27link_style%27%0Ap11%0AI0%0AsS%27header_url%27%0Ap12%0Ag2%0AsS%27token_text%27%0Ap13%0Ag2%0AsS%27form_type%27%0Ap14%0AI2%0AsS%27ad_params%27%0Ap15%0Ag2%0AsS%27suppress_list%27%0Ap16%0A%28lp17%0AsS%27guest_footer_url%27%0Ap18%0Ag2%0AsS%27user%27%0Ap19%0AI0%0AsS%27hsx_next_steps_url%27%0Ap20%0Ag2%0AsS%27footer_url%27%0Ap21%0Ag2%0AsS%27regist_type%27%0Ap22%0AI2%0As%2e"; Path=/ -->
+<!-- Set-Cookie: ck_myhginfo="%28dp0%0AS%27user_type%27%0Ap1%0AS%27anonymous%27%0Ap2%0As%2e"; Path=/ -->
+<!-- Set-Cookie: ck_hgcreativeimp="%28dp0%0AS%27last_visited%27%0Ap1%0AS%27%27%0Ap2%0As%2e"; Path=/ -->
+<!-- Set-Cookie: ck_hgpartnerinfo="%28dp0%0AS%27entryid%27%0Ap1%0AS%272684%27%0Ap2%0As%2e"; Path=/ -->
+<!-- Title: Real Estate, Homes for Sale, REALTOR (R) Agents, Houses Nationwide: HomeGain -->
+<!-- X-Cache: MISS from www.homegain.com -->
+<!-- X-Meta-Description: Real estate simplicity from HomeGain. Choose a REALTOR, use free online tools to help you compare house values and real estate agents, find out what your house is worth, find your dream house from thousands of homes for sale and get a custom mortgage rate quote. All your real estate listing needs are at one stop online and it's free. -->
+<!-- X-Meta-Keywords: real estate homegain REALTORS homes for sale houses realty REALTOR house home,local property updates,home listings nationwide evaluate REALTORS experience sales commissions,estimate value home,apply for loan today's interest custom rates quote mortgage loan rates -->
+<!-- X-Meta-Robots: index, follow -->
+
+  
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+  
+  
+    
+  
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+  
+  
+
+  
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+<html>
+<head>
+<!-- nav -->
+<title>Real Estate, Homes for Sale, REALTOR (R) Agents, Houses Nationwide: HomeGain</title>
+<META name="keywords" content="real estate homegain REALTORS homes for sale houses realty REALTOR house home,local property updates,home listings nationwide evaluate REALTORS experience sales commissions,estimate value home,apply for loan today's interest custom rates quote mortgage loan rates">
+<META name="description" content="Real estate simplicity from HomeGain. Choose a REALTOR, use free online tools to help you compare house values and real estate agents, find out what your house is worth, find your dream house from thousands of homes for sale and get a custom mortgage rate quote. All your real estate listing needs are at one stop online and it's free.">
+<META name="robots" content="index, follow">
+<meta http-equiv="Pragma" content="no-cache">
+
+
+  
+  
+
+
+<script language="javascript">
+<!--
+
+  var forced_entry_id;
+
+// -->
+</script>
+
+
+    <script src="/javascript/common_02.js"></script>
+
+
+
+<script src="/javascript/wt_sdc.js"></script>
+
+<script language="javascript">
+<!--
+
+// Start WEBTRENDS SDC JS
+// Without these the pageview won't be logged to sdc log
+dcsVar();
+dcsMeta();
+dcsTag();
+// End WEBTRENDS SDC JS
+
+
+  var hg_click = 0;
+
+
+var ad_ord = Math.floor(Math.random()*1000000);
+
+var is_hsx;
+
+
+var curr_qs = "";
+var q_ind = location.href.indexOf('?');
+if (q_ind != -1) {
+  curr_qs = location.href.substring(q_ind, location.href.length);
+}
+if (curr_qs.indexOf('setNoPopUnder=1') != -1 ) {
+  setFlagInCookie('ck_hgcreativeimp', 'noPopUnder', '1');
+}
+if (curr_qs.indexOf('setNoExitPopUp=1') != -1 ) {
+  setFlagInCookie('ck_hgcreativeimp', 'noExitPopUp', '1');
+}
+if (curr_qs.indexOf('setNoPopUp=1') != -1 ) {
+  setFlagInCookie('ck_hgcreativeimp', 'noPopUnder', '1');
+  setFlagInCookie('ck_hgcreativeimp', 'noExitPopUp', '1');
+}
+if (curr_qs.indexOf('setnopopup=1') != -1 ) {
+  setFlagInCookie('ck_hgcreativeimp', 'noPopUnder', '1');
+  setFlagInCookie('ck_hgcreativeimp', 'noExitPopUp', '1');
+}
+EM_reg=/(\?|&)EM=([^&]+)/;
+if (EM_reg.test(curr_qs)) setFlagInCookie('ck_hgpartnerinfo', 'EM', '1');
+// -->
+</script>
+
+<link rel="stylesheet" href="/css/ie/common_02.css" type="text/css">
+
+
+</head>
+
+<body bgcolor="white" link="#0033CC" vlink="#0033CC" topmargin=10 leftmargin=10 marginwidth=10 marginheight=10 onLoad="listLinks(document)">
+
+        
+
+<a name="top"></a>
+<!-- modular -->
+
+<table border=0 cellpadding=0 cellspacing=0>
+  <tr>
+    <td>
+  <table border=0 cellpadding=0 cellspacing=0 height=40 width=740>
+    <tr>
+      <td valign=bottom width=216><a href="/"><img src="http://images.homegain.com/i/logo_only.gif" alt="Real estate online from HomeGain. Find and compare REALTORS, view homes for sale, and get property values." height="40" width="214" border="0"></a></td>
+      <td align="left" valign="bottom" width="94">
+	  &nbsp;
+      </td>
+      <td align="right" valign="bottom" nowrap width=430>      
+        <table border="0" cellpadding="0" cellspacing="0" width=373>
+        
+          <tr>
+            <td align="right" valign="bottom" nowrap> 
+			 <table cellspacing=1 cellpadding=0 border=0>
+			 <tr><td style="padding-right:15px;" class="small_content"><a href="/welcome_02?ht=def_nav_cc" title="Already Registered? View Your Results Here">My HomeGain Results</a></td>
+                 <td class="small_content"><a href="/?ht=def_nav_home">Home</a></td>
+			 </tr>
+			 <tr><td class="small_content">
+			      <script language="javascript"> 
+				    if (isLoggedIn()){ 
+				     document.write('<a href="/acl_users/logout">Logout</a>'); 
+				    } else { 
+					 document.write('<a href="/login">Login Here</a>'); 
+					} 
+				  </script>
+				  </font>
+				 </td>			 
+                 <td class="small_content"><a href="/help_center?ht=def_nav_help"><font class="top_nav_text">Help</font></a></td>
+             </tr>
+			 </table>
+			</td>
+          </tr>
+        </table>          
+      </td>
+    </tr>
+    <tr>
+      <td bgcolor="#000000" colspan=3><img src="http://images.homegain.com/i/clearpixel.gif" alt="HomeGain" height="2" width="1"></td>
+    </tr>
+  </table></td>
+  </tr>
+
+  
+
+
+  <tr>
+    <td>
+<table border=0 cellpadding=0 cellspacing=0 width=740 background="http://images.homegain.com/i/gradient_01.gif">
+    <tr>
+      <td><img src="http://images.homegain.com/i/greenpixel.gif" height="24" width="1" border="0"></td>
+      <td>
+        <table border=0 cellpadding=0 width=738>
+          <tr>
+
+      
+        <td align="center">
+          <a class="top_nav_link" href="/find_real_estate_agent/index" 
+           onMouseOver="swapImage('ae_img','ng_ae_on')"
+           onMouseOut="swapImage('ae_img','ng_ae_off')">
+           <img src="http://images.homegain.com/i/ng_ae_off.gif" alt="Find and compare top local real estate agents" height="16" width="28" name="ae_img" border="0" align="absmiddle">Find a REALTOR<sup>&reg;</sup></a>
+        </td>
+      
+
+      
+        <td align="center">
+          <a href="/housead/homes_for_sale/index" class="top_nav_link"
+           onMouseOver="swapImage('hsx_img','ng_hsx_on')"
+           onMouseOut="swapImage('hsx_img','ng_hsx_off')">
+           <img src="http://images.homegain.com/i/ng_hsx_off.gif" alt="View homes for sale, real estate listings, and your local MLS" height="17" width="23" name="hsx_img" border="0" align="absmiddle">Find a Home</a>
+          </td>
+      
+  
+      
+        <td align="center">
+          <a class="top_nav_link" href="/home_prices/index" 
+           onMouseOver="swapImage('hpx_img','ng_hpx_on')"
+           onMouseOut="swapImage('hpx_img','ng_hpx_off')"
+           ><img src="http://images.homegain.com/i/ng_hpx_off.gif" alt="Get a free home or property valuation estimate" height="17" width="24" name="hpx_img" border="0" align="absmiddle">Get Your Home's Value</a>
+        </td>
+       
+
+	  
+      
+      
+        <td align="center">
+          <a target="_blank" class="top_nav_link" href="/ads/mortcent_partner/mortcent_1?ht=mortcent1"  
+           onMouseOver="swapImage('mc_img','ng_mc_on')"
+           onMouseOut="swapImage('mc_img','ng_mc_off')">
+           <img src="http://images.homegain.com/i/ng_mc_off.gif" alt="Find the loan that&#39;s right for you, and get pre-qualified" height="15" width="24" name="mc_img" border="0" align="absmiddle">Mortgage Center</a>
+        </td>
+      
+        <td align="center">
+		 
+          <a class="top_nav_link" href="/goto?ht=navnscout&dest=http%3A//homegain.neighborhoodscout.com" 
+           onMouseOver="swapImage('nbr_img','ng_nbr_on')"
+           onMouseOut="swapImage('nbr_img','ng_nbr_off')">
+		   <img src="http://images.homegain.com/i/ng_nbr_off.gif" alt="Get a detailed neighborhood profile for any zip code." height="17" width="25" name="nbr_img" border="0" align="absmiddle"> Neighborhoods</a>
+		
+         </td>
+         </tr>
+        </table>
+      </td>
+      <td><img src="http://images.homegain.com/i/greenpixel.gif" height="24" width="1" border="0"></td>
+    </tr>
+    <tr>
+      <td colspan=3><img src="http://images.homegain.com/i/clearpixel.gif" alt="HomeGain" height="1" width="1" border="0"></td>
+    </tr>
+  </table></td>
+  </tr>
+  <tr>
+    <td>
+  <table border=0 cellpadding=0 cellspacing=0 background="http://images.homegain.com/i/gradient_02.gif" width=740>
+
+    <tr>
+      <td width=1><img src="http://images.homegain.com/i/greenpixel.gif" height="24" width="1" border="0"></td>
+      <td width=334><a href="/agent/realestateagent"><img src="http://images.homegain.com/i/nav/realtors_join_here.gif" alt="REALTORS&reg; Join Here" height="24" width="158" name="ro_img" border="0"></a><a href="/broker_solutions/index_html"><img src="http://images.homegain.com/i/nav/split_hp_broker_link.gif" alt="Brokers Join Here" height="24" width="152" name="ro_img" border="0"></a></td>
+      <td width=1><img src="http://images.homegain.com/i/clearpixel.gif" alt="HomeGain" height="24" width="1" border="0"></td>
+      <td width=403 align="right">
+        <script language="javascript">
+        <!-- 
+        drawLoginTable();
+        // -->
+        </script>
+      </td>
+      <td width=1><img src="http://images.homegain.com/i/greenpixel.gif" height="24" width="1" border="0"></td>
+    </tr>
+
+    <tr>
+      <td colspan=5 bgcolor="#003366"><img src="http://images.homegain.com/i/clearpixel.gif" alt="HomeGain" height="1" width="1"></td>
+    </tr>
+  </table>
+</td>
+  </tr>
+</table>
+ <!-- modular -->
+<table border=0 cellpadding=0 cellspacing=0 width=740>
+  <tr>
+    <td>
+<br>
+<div align="left">
+ 
+<table border=0 cellpading=0 cellspacing=0 width=100%>
+  <tr>
+    <td>
+      <font face="Arial,helvetica,sans-serif" size=5 color="#669900"><b>
+        Broker Licensing
+      </b></font>
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  <tr>
+    <td align="center">
+      <font face="Arial, Helvetica, sans-serif" size="2"><b>
+        HomeGain.com, Inc.<br>
+        1250 45th Street - Suite 200<br>
+        Emeryville, CA 94608<br>
+        Phone:  510-655-0800<br>
+        Fax: 510-655-0848<br><br>
+      </b></font>
+      <font face="Arial, Helvetica, sans-serif" size="2">
+	   HomeGain is a licensed broker in the state of California able to accept referral fees in all fifty states. Below is our license information for California and the additional states where we have also become licensed. 
+	   	<p>
+        California Department of Real Estate License # 01268088
+      </font>
+    </td>
+  </tr>
+  <tr><td>&nbsp;</td></tr>
+  
+  <tr>
+    <td>
+	
+      <table border=0 cellpading=0 cellspacing=2 width=100%>
+	  <!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Alabama </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 067124 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Alabama Real Estate Commission </font></td>
+        </tr>
+		-->
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Arizona </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>CO52402700</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Arizona Department of Real Estate</font></td>
+        </tr>
+		
+        <!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">
+           Arkansas</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">HomeGain.com, 
+            Inc.<br>
+            License Number: PB00052962<br>
+            Ernest L. Galer, Broker</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">Arkansas 
+            Real Estate Commission</font></td>
+        </tr>
+		-->
+		
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            California </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>01268088 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            California Department of Real Estate </font></td>
+        </tr>
+		
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Colorado</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>EC40023175</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Colorado Department of Regulatory Agencies Division <br>of Real Estate</font></td>
+        </tr>
+
+        <tr> 
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+            Connecticut</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>REB.0754431</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+         Connecticut Department of Consumer Protection
+            <br>Real Estate and Professional Trades Division</font></td>
+        </tr>
+
+        <tr> 
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">District 
+            of Columbia </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>CO101700 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            District of Columbia Board of Real Estate</font></td>
+        </tr>
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Florida</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: <br>CQ1011349</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Florida Division of Real Estate</font></td>
+        </tr>
+        
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Georgia </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>H-39014 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+           Georgia Real Estate Commission</font></td>
+        </tr>
+
+
+        <!--
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Idaho</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: CO00024612</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Idaho Real Estate Commission</font></td>
+        </tr>
+        -->
+        
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Illinois</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number:  <br>078.0009806 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Illinois Department of Financial and Professional Regulation</font></td>
+        </tr>
+        
+
+      
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Indiana</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number:<br>CO10000256</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Indiana Real Estate Commission</font></td>
+        </tr>
+		
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Iowa </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: F04273000 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+             Iowa Professional Licensing and Regulation Division
+             <br>Real Estate Commission
+            </font></td>
+        </tr>
+		-->
+		
+		
+        <!--
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Kansas </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">HomeGain.com, 
+            Inc. - Co. # C090087210<br>
+            License Number: EB00054065 <br>
+            Molly J. Gleason, Broker </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Kansas Real Estate Commission </font></td>
+        </tr>
+        -->
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Kentucky </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License No. 56966 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Kentucky Real Estate Commission </font></td>
+        </tr>
+		-->
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Louisiana </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 30149 <br>
+            Dewey Gassaway, Broker </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Louisiana Real Estate Commission</font></td>
+        </tr>
+		-->
+
+        <!-- REMOVED PER SPEC RM3837
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Maryland</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: 2617147 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Maryland Real Estate Commission</font></td>
+        </tr>
+		-->
+		
+		
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Massachusetts</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: <br>6159</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">
+            Massachusetts Board of Registration of <br>Real Estate
+            Brokers and Salespersons
+            </font></td>
+        </tr>
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Michigan</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: <br>6501299470 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Michigan Division of Labor and Economic Growth</font></td>
+        </tr>
+
+        <!-- REMOVED PER SPEC RM3837
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Minnesota</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number:20229878</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Minnesota Department of Commerce
+            <br>Licensing Division</font></td>
+        </tr>
+		-->
+
+        <!-- REMOVED PER SPEC RM3837
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Mississippi</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc.<br>
+            License Number: 14808</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Mississippi Real Estate Commission</font></td>
+        </tr>
+		-->
+
+        
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Missouri </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>2002019777 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Missouri Department of Economic Development </font></td>
+        </tr>
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Montana </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">HomeGain.Com, 
+            Inc. <br>
+            Ernest L. Galer, Broker </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Montana Board of Realty Regulation</font></td>
+        </tr>
+		-->
+		
+        <!--
+        <tr> 
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">Nebraska 
+            </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">HomeGain.com, 
+            Inc. <br>
+            Molly Gleason, Broker </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Nebraska Real Estate Commission </font></td>
+        </tr>
+        -->
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            New Hampshire </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 053112 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            New Hampshire Real Estate Commission </font></td>
+        </tr>
+		-->
+        
+		
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            New York </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number:<br>32FE1070571 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+            NY Dept. of State, Division of Licensing Services
+			</font></td>
+        </tr>
+		
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            North Carolina</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>C11521</font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+            North Carolina Real Estate Commission
+          </font></td>
+        </tr>
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            North Dakota </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 664 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">North
+            Dakota Real Estate Commission </font></td>
+        </tr>
+		-->
+		
+		<!-- REMOVED PER SPEC RM3837
+         <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Oklahoma</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 138591 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+             Oklahoma Real Estate Commission 
+            </font></td>
+        </tr>
+		-->
+		
+		<!-- REMOVED PER SPEC RM3837
+         <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Oregon</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 200101178 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+             Oregon Real Estate Agency
+            </font></td>
+        </tr>
+		-->
+				
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Pennsylvania</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>RB062802C</font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+             Pennsylvania Dept. of State Bureau of Prof. & Occup. Affairs
+            </font></td>
+
+        
+       <!-- REMOVED PER SPEC RM3837
+	   <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Rhode Island</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: Pending</font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+             Rhode Island Department of Business Regulation Commercial Licensing and Regulation</font></td>
+        </tr>
+		-->
+
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            South Carolina </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 62008989 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            South Carolina Real Estate Commission </font></td>
+        </tr>
+		-->
+
+        <!-- REMOVED PER SPEC RM3837
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            South Dakota </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 12196 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            South Dakota Real Estate Commission </font></td>
+        </tr>
+		-->
+
+        <tr>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">
+            Tennessee </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">
+            HomeGain.com, Inc. <br>
+            License Number: <br>256797 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Tennessee Real Estate Commission </font></td>
+        </tr>
+		
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Texas </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 477516 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2">Texas Real Estate Commission</font></td>
+        </tr>
+
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Utah </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: CN59674</font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Utah Department of Commerce<br>
+            Division of Real Estate
+            </font>
+          </td>
+        </tr>
+		-->
+		
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Virginia </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number <br>0226 005677 </font></td>
+          <td valign=top> <font face="Arial, Helvetica, sans-serif" size="2">
+            Virginia Department of Professional and Occupational Regulation</font>
+          </td>
+        </tr>
+
+        <!-- REMOVED PER SPEC RM3837
+		<tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            West Virginia </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number:  004034-00 <br>
+            C. Eugene Gilbert, Broker </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            West Virginia Real Estate Commission</font></td>
+        </tr>
+		-->
+
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Wisconsin </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: <br>835326-091 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Wisconsin Department of Regulation and Licensing
+            <br>Real Estate Board</font></td>
+        </tr>
+		
+		<!-- REMOVED PER SPEC RM3837
+        <tr> 
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Wyoming </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            HomeGain.com, Inc. <br>
+            License Number: 94100 </font></td>
+          <td valign=top><font face="Arial, Helvetica, sans-serif" size="2"> 
+            Wyoming Real Estate Commission </font></td>
+        </tr>
+		-->
+      </table>
+    </td>
+  </tr>
+</table>
+</div>
+<br>
+
+  
+
+<br>
+
+<table border=0 cellpadding=0 cellspacing=0 width=740>
+
+
+  <tr>
+    <td align="center">
+
+<table border=0>
+  <tr>
+    <td nowrap align="center"><a href="/find_real_estate_agent/index" class="footer_link">Find a Real Estate Agent</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&nbsp;&#149;&nbsp;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/housead/homes_for_sale/index" class="footer_link">Homes for Sale</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&nbsp;&#149;&nbsp;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/home_prices/index" class="footer_link">Home Values</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&nbsp;&#149;&nbsp;&nbsp;</span></td>
+
+  
+    <td nowrap align="center"><a href="/ads/mortcent_partner/mortcent_1?ht=mortcent1"  class="footer_link" target="_blank">Mortgage Center</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&nbsp;&#149;&nbsp;&nbsp;</span></td>
+  
+
+  
+    
+    <td nowrap align="center"><a href="/goto?dest=http%3A//homegain.monstermoving.monster.com/Moving_and_Planning/Quotes/index.asp&ht=def_foot_mc" class="footer_link" target="_blank">Moving Center</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&nbsp;&#149;&nbsp;&nbsp;</span></td>
+  
+
+    <td nowrap align="center"><a href="/real_estate/index?ht=def_foot_mc" class="footer_link">Resource Center</a></td>
+
+  </tr>
+</table>
+</td>
+  </tr>
+  <tr>
+    <td align="center">
+<table border=0>
+  <tr>
+    <td nowrap align="center"><a href="/agent/realestateagent" class="footer_link">REALTORS&reg; Join Here</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/local_real_estate/sitemap.html?ht=def_foot_sitemap" class="footer_link">Sitemap</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/about_hg/advertising?ht=def_foot_advertise" class="footer_link">Advertise</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/about_hg/affiliate_program?ht=def_foot_affiliate" class="footer_link">Affiliate Program</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/press_center?ht=def_foot_news" class="footer_link">Newsroom</a></td>
+  </tr>
+</table>
+<table border=0>
+  <tr>
+    <td nowrap align="center"><a href="/about_hg/index_html?ht=def_foot_about" class="footer_link">About HomeGain</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/privacy?ht=def_foot_privacy" class="footer_link">Privacy Policy</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/terms?ht=def_foot_terms" class="footer_link">Terms of Use</a></td>
+    <td nowrap align="center"><span class="footer_link">&nbsp;&#149;&nbsp;</span></td>
+    <td nowrap align="center"><a href="/housing?ht=def_foot_fair" class="footer_link">Fair Housing</a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+  
+  <tr>
+    <td align="center">
+      <span class="footer_text">
+        HomeGain is an independent real estate site with no direct affiliations to any other real estate firms.
+      </span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <span class="footer_text">
+      A REALTOR<sup>&reg;</sup> is a real estate professional who is a member of the National Association of REALTORS<sup>&reg;</sup>.
+  
+      </span>      
+      <br>
+    </td>
+  </tr>
+ <!-- modular -->
+</table>
+
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      
+      <span class="footer_text">Copyright &copy; 2005 HomeGain.com, Inc. is a </span>
+      <a href="javascript:newwin('http://www.homegain.com/popup/broker?ht=def_foot_licensed', 500, 500)" class="footer_link">Licensed Real Estate Broker</a><br>
+
+    </td>
+  </tr>
+</table>
+
+
+
+
+  
+
+
+  
+
+
+
+  
+  
+    
+      
+        
+
+          
+          
+
+          
+            
+            
+            
+          
+
+          
+            
+          
+   
+          
+
+            <NOSCRIPT>
+              <Img border="0" name="DCSIMG" width="1" height="1" src="http://tagger.homegain.com/dcs.gif?dcsdat=418066&dcsuri=/broker&dcsqry=%3Fentryid%3D2684%26ht%3Dbdcamdenhpx&WT.js=No">
+            </NOSCRIPT>
+
+          
+        
+      
+    
+  
+
+
+</body>
+</html>
+

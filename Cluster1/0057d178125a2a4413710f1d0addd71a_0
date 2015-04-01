@@ -1,0 +1,20 @@
+<!-- URL: http://c.azjmp.com/az/ch.php?f=477&i=1083 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 15:30:28 GMT -->
+<!-- Server: Apache -->
+<!-- Content-Length: 242 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Client-Peer: 209.47.46.150:80 -->
+
+
+
+
+<script>
+function openpopup(){
+var popurl="redirectpop2.html"
+winpops=window.open(popurl,"","width=400,height=180,resizable,")
+}
+openpopup()
+</script>
+<Script language = javascript> window.location.href='ch.php?f=277&i=1083&sub=';</script>

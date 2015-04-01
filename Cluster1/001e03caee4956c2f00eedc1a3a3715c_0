@@ -1,0 +1,24 @@
+<!-- URL: http://www.edilpuccio.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 06:33:00 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "22c291-105-fb9d0fc0" -->
+<!-- Server: Apache/2.0.40 (Red Hat Linux) -->
+<!-- Content-Length: 261 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Last-Modified: Sun, 09 Jan 2005 23:40:55 GMT -->
+<!-- Client-Peer: 83.103.22.150:80 -->
+<!-- Title: http://www.webhousedomini.it/edilpucci/home.htm -->
+
+<HTML>
+<HEAD>
+<TITLE> http://www.webhousedomini.it/edilpucci/home.htm </TITLE>
+</HEAD>
+<FRAMESET ROWS="*,0">
+<FRAME SRC="http://www.webhousedomini.it/edilpucci/home.htm" NORESIZE>
+<NOFRAMES>
+Your browser does not support frames.
+</NOFRAMES>
+</FRAMESET>
+</HTML>

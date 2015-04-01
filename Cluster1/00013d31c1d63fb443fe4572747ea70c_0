@@ -1,0 +1,279 @@
+<!-- URL: http://echoes.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 10:43:36 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "6a708-427e-43b2ab2a" -->
+<!-- Server: Apache/1.3.33 (Unix) -->
+<!-- Content-Length: 17022 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Last-Modified: Wed, 28 Dec 2005 15:11:38 GMT -->
+<!-- Client-Peer: 208.42.80.201:80 -->
+<!-- Title: echoes.com -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<!-- #BeginTemplate "/Templates/normal-leaderboad.dwt" -->
+<head>
+<!-- #BeginEditable "doctitle" --> 
+<title>echoes.com</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">a
+<style type="text/css">
+<!--
+a.linkcolor:link { color: white; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a.linkcolor:visited { color: white; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a.linkcolor:hover { color: red; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: normal}
+a.linkcolor:active { color: #00FFFF; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif;; text-decoration: none}
+.linkcolor {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: x-small; color: #FFFFFF}
+a.logo:link {  font-family: "Courier New", Courier, mono; font-size: x-large; font-weight: bold; text-decoration: none; color: blue}
+a.logo:visited {  font-family: "Courier New", Courier, mono; font-size: x-large; font-weight: bold; text-decoration: none; color: blue}
+a.logo:hover {  font-family: "Courier New", Courier, mono; font-size: x-large; font-weight: bold; text-decoration: none; color: red}
+a.logo:active {  font-family: "Courier New", Courier, mono; font-size: x-large; font-weight: bold; text-decoration: underline; color: blue}
+a.subnav:link { color: black; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a.subnav:visited { color: black; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: none}
+a.subnav:hover { color: red; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: normal}
+a.subnav:active { color: black; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif;  text-decoration: none}
+.subnav { color: black; font-size: x-small; font-family: Verdana, Arial, Helvetica, sans-serif;  text-decoration: none}
+
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="147" bordercolor="#0000FF">
+  <tr> 
+    <td width="45%"><img src="http://www.echoes.com/echoes.jpg" width="300" height="147"></td>
+    <td width="55%" height="124"> 
+      <div align="right"> <a href="http://www.echoes.com" class="logo">www<br>
+        .echoes<br>
+        .com</a>
+        <p align="center"><font face="Courier New, Courier, mono" color="#0000FF">A division of ApSCo. Microware</font></p>
+      </div>
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="3" bgcolor="#6699cc" class="linkcolor">
+  <tr> 
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/index.html" class="linkcolor">Home</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/trading.html" class="linkcolor">Trading</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/rememberaday/" class="linkcolor">Remember 
+        A Day</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/msf/" class="linkcolor">MSF</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/kablam/" class="linkcolor">Kablam!</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/movies.html" class="linkcolor">Movies</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/pictures.html" class="linkcolor">Pictures</a></div>
+    </td>
+    <td nowrap> 
+      <div align="center">|</div>
+    </td>
+    <td nowrap> 
+      <div align="center"><a href="http://www.echoes.com/about.html" class="linkcolor">About</a></div>
+    </td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="5" height="75">
+  <tr> 
+    <td height="20" width="19%" valign="top" bgcolor="#CCCCCC" rowspan="2">
+      <table width="100%" border="0" cellspacing="1" cellpadding="1">
+        <tr>
+          <td><!-- #BeginEditable "Navigation" -->
+            <table width="100%" border="0" cellspacing="1" cellpadding="5" class="subnav">
+              <tr> 
+                <td bgcolor="#3366FF" height="18">Index</td>
+              </tr>
+              <tr> 
+                <td><a href="http://www.echoes.com/greymatter/archives/" class="subnav">Log Archives</a></td>
+              </tr>
+              <tr> 
+                <td>&nbsp;</td>
+              </tr>
+              <tr> 
+                <td><a href="/bookmark.html" class="subnav">Bookmarks</a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.echoes.com/pf.html" class="subnav">Pink Floyd 
+            Info</a></td>
+              </tr>
+              <tr>
+                <td><a href="http://www.echoes.com/amb.html" class="subnav">alt.music.bootlegs</a></td>
+              </tr>
+              <tr> 
+                <td><a href="/greymatter/archives/00000058.html" class="subnav">Amazon.com Customer Service Phone Number</a></td>
+              </tr>      
+<tr>
+<td>
+                  <div align="left">
+                    <p><a href="http://www.premiumconcerttickets.com/" 
+      target=_blank class="subnav"><font face="Verdana, Arial, Helvetica, sans-serif">Sold Out Concert 
+      Tickets</font></a><font face="Verdana, Arial, Helvetica, sans-serif"><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/u2.htm" target=_blank class="subnav">U2 
+      Tickets</a><br>
+                    <a href="http://www.premiumconcerttickets.com/inxs.htm" 
+      target=_blank class="subnav">INXS Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/queen.htm" 
+      target=_blank class="subnav">Queen Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/genesis.htm" 
+      target=_blank class="subnav">Genesis Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/bonjovi.htm" 
+      target=_blank class="subnav">Bon Jovi Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/billyjoel.htm" 
+      target=_blank class="subnav">Billy Joel Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/aerosmith.htm" 
+      target=_blank class="subnav">Aerosmith Tickets</a> <br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/neildiamond.htm" 
+      target=_blank class="subnav">Neil Diamond Tickets</a> <br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/rollingstones.htm" 
+      target=_blank class="subnav">Rolling Stones Tickets</a><br>
+                    <a 
+      href="http://www.premiumconcerttickets.com/transsiberianorchestra.htm" 
+      target=_blank class="subnav">Trans Siberian Tickets</a><br>
+                  <a href="http://www.echoes.com/tickets.html" class="subnav">More</a></font>
+                  </div>
+                </td>
+</tr>
+
+</table>
+            <!-- #EndEditable --></td>
+        </tr>
+        
+        
+        
+      </table>
+      <p>&nbsp;</p>
+    </td>
+    <td height="3" width="81%" valign="top" bordercolor="#000000">
+        
+      <div align="center">
+        <script type="text/javascript"><!--
+google_ad_client = "pub-8849454213289238";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_channel ="5106114611";
+google_color_border = "6699CC";
+google_color_bg = "003366";
+google_color_link = "FFFFFF";
+google_color_url = "AECCEB";
+google_color_text = "AECCEB";
+//--></script>
+        
+        <script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+    </div>
+    </td>
+  </tr>
+  <tr>
+    <td height="123" width="81%" valign="top" bordercolor="#000000"><!-- #BeginEditable "Content" --> 
+<font face="Verdana, Arial, Helvetica, sans-serif"> <font size="2"><P ALIGN=LEFT> <font size="+2"><b>Thursday, December 15, 2005</b></font> 
+</P>
+<P ALIGN=JUSTIFY><font size="+1">Instant bootlegs</font></P>
+<P ALIGN=JUSTIFY><a href="http://www.usatoday.com/tech/news/2005-12-14-live-concerts_x.htm">A good article at USA Today</a> about bands providing instant records as an alternative to bootleggers and tapers. </P>
+<P ALIGN=left> Posted by <a href="http://www.echoes.com" >Adam</a> @ 09:00 PM 
+  CST [<A HREF="http://www.echoes.com/greymatter/archives/00000212.html" onMouseOver="window.status='12/15/05: Instant bootlegs';return true" onMouseOut="window.status='';return true">Link</A>] [<A HREF="http://www.echoes.com/greymatter/archives/00000212.html#comments" onMouseOver="window.status='Add a comment to this entry';return true" onMouseOut="window.status='';return true">No Comments</A>] 
+</P><P ALIGN=LEFT> <font size="+2"><b>Wednesday, December 14, 2005</b></font> 
+</P>
+<P ALIGN=JUSTIFY><font size="+1">First Ave Bootlegs</font></P>
+<P ALIGN=JUSTIFY><a href="http://news.minnesota.publicradio.org/features/2005/12/07_robertsc_firstavecd/">According to MPR</a>: First Avenue in Minneapolis has long been viewed as the epicenter of the Twin Cities music scene and a nationally known music destination. To celebrate its 35th anniversary the nightclub has released a compilation of bootleg recordings. <BR> </P>
+<P ALIGN=left> Posted by <a href="http://www.echoes.com" >Adam</a> @ 08:44 PM 
+  CST [<A HREF="http://www.echoes.com/greymatter/archives/00000211.html" onMouseOver="window.status='12/14/05: First Ave Bootlegs';return true" onMouseOut="window.status='';return true">Link</A>] [<A HREF="http://www.echoes.com/greymatter/archives/00000211.html#comments" onMouseOver="window.status='Add a comment to this entry';return true" onMouseOut="window.status='';return true">No Comments</A>] 
+</P><P ALIGN=LEFT> <font size="+2"><b>Thursday, December 1, 2005</b></font> 
+</P>
+<P ALIGN=JUSTIFY><font size="+1">David Gilmour releases "On An Island" on March 6 2006</font></P>
+<P ALIGN=JUSTIFY>Pink Floyd guitarist David Gilmour has more than one reason to celebrate on his 60th birthday next year - March 6th 2006 sees the long-awaited release of his new solo album "On An Island".</P><P ALIGN=JUSTIFY>
+Released on EMI Records, the album is the first solo release from David since 1984's "About Face". Following the release of "On An Island", David will embark on a European and American tour during the months of March, April and May 2006 - and we should have details of these dates soon.</P><P ALIGN=JUSTIFY>
+"On An Island" is produced by David, along with Chris Thomas and Phil Manzanera. Orchestrations are by the renowned composer Zbigniew Preisner and were recorded at Abbey Road Studios in London.</P><P ALIGN=JUSTIFY>
+The title track teams Gilmour with David Crosby and Graham Nash - three of the greatest voices in contemporary music. Richard Wright, Robert Wyatt, Jools Holland, and Guy Pratt also feature on the album.<BR> </P>
+<P ALIGN=left> Posted by <a href="http://www.echoes.com" >Adam</a> @ 05:36 AM 
+  CST [<A HREF="http://www.echoes.com/greymatter/archives/00000210.html" onMouseOver="window.status='12/01/05: David Gilmour releases \'On An Island\' on March 6 2006';return true" onMouseOut="window.status='';return true">Link</A>] [<A HREF="http://www.echoes.com/greymatter/archives/00000210.html#comments" onMouseOver="window.status='Add a comment to this entry';return true" onMouseOut="window.status='';return true">2 comments</A>] 
+</P><P ALIGN=LEFT> <font size="+2"><b>Thursday, November 24, 2005</b></font> 
+</P>
+<P ALIGN=JUSTIFY><font size="+1">David Gilmour 2006 tour dates</font></P>
+<P ALIGN=JUSTIFY>According to <a href="http://www.brain-damage.co.uk/">Brain Damage</a>:</P><P ALIGN=JUSTIFY>
+March 10 - Dortmund, Konzerthaus<BR>March 11 - Hamburg, Congress Centrum Hamburg<BR>March 15 - Paris, Le Grand Rex<BR>March 16 - Paris, L’Olympia<BR>March 18 - Frankfurt, Alte Oper<BR>March 19 - Amsterdam, The Heineken Music Hall<BR>March 20 - Amsterdam, The Heineken Music Hall<BR>March 24 - Milan, Teatro Arcimboldi<BR>March 25 - Milan, Teatro Arcimboldi<BR>March 26 - Rome, Auditorium Parco Della Musica<BR> <BR>April 4 - New York - Radio City Music Hall <BR>April 5 - New York - Radio City Music Hall <BR>April 9 - Toronto - Massey Hall <BR>April 10 - Toronto - Massey Hall <BR>April 12 - Chicago - Paramount Theatre <BR>April 13 - Chicago - Paramount Theatre <BR>April 16 - San Francisco - Oakland Paramount <BR>April 17 - San Francisco - Oakland Paramount <BR>April 19 - Los Angeles - Kodak <BR>April 20 - Los Angeles - Gibson Theatre <BR> <BR>May 29 - London, Royal Albert Hall<BR>May 30 - London, Royal Albert Hall</P><P ALIGN=JUSTIFY>
+Ticket Information for all the concerts will be at: <a href="http://www.davidgilmour.com/">www.davidgilmour.com</a> shortly.</P><P ALIGN=JUSTIFY>
+ </P>
+<P ALIGN=left> Posted by <a href="http://www.echoes.com" >Adam</a> @ 07:02 AM 
+  CST [<A HREF="http://www.echoes.com/greymatter/archives/00000209.html" onMouseOver="window.status='11/24/05: David Gilmour 2006 tour dates';return true" onMouseOut="window.status='';return true">Link</A>] [<A HREF="http://www.echoes.com/greymatter/archives/00000209.html#comments" onMouseOver="window.status='Add a comment to this entry';return true" onMouseOut="window.status='';return true">No Comments</A>] 
+</P><P ALIGN=LEFT> <font size="+2"><b>Friday, November 11, 2005</b></font> 
+</P>
+<P ALIGN=JUSTIFY><font size="+1">DirecTV R-15 DVR review</font></P>
+<P ALIGN=JUSTIFY>TiVo Community has a <a href="http://www.tivocommunity.com/tivo-vb/showthread.php?t=270214&page=1&pp=30">very lengthy, comprehensive review of DirecTV's R-15 NDS based 'DTiVo killer' DVR</a>. There are loads of screenshots and details of the signup process (no phone required, it uses the satellite!), along with testing of all the ports and even the hard drive.  </P>
+<P ALIGN=left> Posted by <a href="http://www.echoes.com" >Adam</a> @ 10:02 AM 
+  CST [<A HREF="http://www.echoes.com/greymatter/archives/00000208.html" onMouseOver="window.status='11/11/05: DirecTV R-15 DVR review';return true" onMouseOut="window.status='';return true">Link</A>] [<A HREF="http://www.echoes.com/greymatter/archives/00000208.html#comments" onMouseOver="window.status='Add a comment to this entry';return true" onMouseOut="window.status='';return true">No Comments</A>] 
+</P> 
+        </font> </font>
+      <P ALIGN=left><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+        </font></P>
+      <P ALIGN=left><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+        Search entries: <FORM ACTION="http://www.echoes.com/greymatter/gm-comments.cgi" METHOD=POST><INPUT TYPE=TEXT NAME="gmsearch" SIZE=20> <INPUT TYPE=SUBMIT VALUE="Search"></FORM> </font></P>
+      <P ALIGN=left><font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
+        <a href="http://www.greymatterforums.com/" target="_top"><img border="0" src="http://www.echoes.com/gm-icon.gif" alt="Powered By Greymatter" /></a> </font></P>
+      <P ALIGN=left> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"><B></B> 
+        </font><font face="Verdana, Arial, Helvetica, sans-serif"> </font></P>
+      <!-- #EndEditable --></td>
+  </tr>
+</table>
+<hr align="center" width="100%" size="3" noshade>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">Last updated: 
+<script language="JavaScript">
+<!--//Date Stamp
+		var dayArray = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+		var monthArray = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+		var lastUpdate = new Date(document.lastModified);
+		var thisDay=dayArray[lastUpdate.getDay()];
+		var thisDate=lastUpdate.getDate() < 10 ? '0'+lastUpdate.getDate() : lastUpdate.getDate();
+		var thisMonth=monthArray[lastUpdate.getMonth()];
+		var thisMonthNum=lastUpdate.getMonth()+1 < 10 ? '0'+ (lastUpdate.getMonth()+1) : lastUpdate.getMonth()+1;
+		var thisFullYear=String(lastUpdate.getFullYear());
+		var thisYear= thisFullYear.charAt(2) + thisFullYear.charAt(3);
+
+		document.write(thisDay + ', ' + thisDate + ' ' + thisMonth + ' ' + thisFullYear+ '  '+ lastUpdate.getHours()+':'+lastUpdate.getMinutes()+':'+lastUpdate.getSeconds());
+//-->
+</script>
+<br>
+Copyright 2005, <a href="mailto:astanley@echoes.com">Adam Stanley</a></font> 
+</body>
+<!-- #EndTemplate -->
+</html>
+

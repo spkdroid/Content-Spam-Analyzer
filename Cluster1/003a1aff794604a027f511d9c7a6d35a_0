@@ -1,0 +1,49 @@
+<!-- URL: http://www.hardpromo.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 18:53:03 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "2c0141-42b-8ad27f00" -->
+<!-- Server: Apache/2.0.51 (Fedora) -->
+<!-- Content-Length: 1067 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html;  charset= -->
+<!-- Last-Modified: Sat, 01 Nov 2003 18:02:04 GMT -->
+<!-- Client-Peer: 69.64.37.230:80 -->
+<!-- Title: HardPromo.com - Complete promotional solutions -->
+
+<HTML>
+<HEAD>
+<meta http-equiv=Content-Type content="text/html;  charset=">
+<TITLE>HardPromo.com - Complete promotional solutions</TITLE>
+</HEAD>
+<BODY bgcolor="#FFFFFF" leftmargin=0 topmargin=0 rightmargin=0 bottommargin=0>
+
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr>
+
+<td bgcolor=#FFFFFF background="hp_filler_left.jpg">&nbsp;</td>
+<td width=900px>
+
+<!-- URL's used in the movie-->
+<!-- text used in the movie-->
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="900" HEIGHT="600" id="hardpromo" ALIGN="">
+<PARAM NAME=movie VALUE="888.swf">
+<PARAM NAME=quality VALUE=high>
+<PARAM NAME=bgcolor VALUE=#FFFFFF>
+
+<EMBED src="888.swf" quality=high bgcolor=#FFFFFF  WIDTH="900" HEIGHT="600" NAME="hardpromo" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+
+</OBJECT>
+
+</td>
+<td bgcolor=#FFFFFF background="hp_filler_right.jpg">&nbsp;</td>
+
+</tr>
+</table>
+
+</BODY>
+</HTML>

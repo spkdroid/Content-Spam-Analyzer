@@ -1,0 +1,356 @@
+<!-- URL: http://lb3.netster.com/index.asp?t=3&Site=b3B0aW4tc2VydmVycy5jb20= -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 03:46:15 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 29773 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Fri, 30 Dec 2005 03:46:15 GMT -->
+<!-- Client-Peer: 207.219.111.23:80 -->
+<!-- MicrosoftOfficeWebServer: 5.0_Pub -->
+<!-- Set-Cookie: ASPSESSIONIDQCDBBBBB=GFHBIKECCIHEENAEJIGPDEOC; path=/ -->
+<!-- Title: Here are your heroic search results -->
+<!-- X-Meta-Description: Email List Servers, Optin Emailing, Optin Leads, OPT Out Credit, OPT Online, Optin Emails, OPT in Email Addresses, OPT, OPT In, Optin List,  -->
+<!-- X-Meta-Keywords: Email List Servers, Optin Emailing, Optin Leads, OPT Out Credit, OPT Online, Optin Emails, OPT in Email Addresses, OPT, OPT In, Optin List,  -->
+<!-- X-Powered-By: ASP.NET -->
+
+<html>
+<head>
+<title>Here are your heroic search results</title>
+<meta name="keywords" content="Email List Servers, Optin Emailing, Optin Leads, OPT Out Credit, OPT Online, Optin Emails, OPT in Email Addresses, OPT, OPT In, Optin List, ">
+<meta name="description" content="Email List Servers, Optin Emailing, Optin Leads, OPT Out Credit, OPT Online, Optin Emails, OPT in Email Addresses, OPT, OPT In, Optin List, ">
+<style>
+		body,td,div,.p,a{font-family:arial,sans-serif; }
+		div,td{color:#000;}
+		.title_txt02{font-size: 12pt;font-weight: bold;color:#3366CC}
+		.head_txt02{PADDING-BOTTOM: 5px;FONT-SIZE: 10pt;}
+		.search_txt02{font-weight:bold;FONT-SIZE: 12pt;}
+		.search_txtBig{font-weight:bold;FONT-SIZE: 16pt;color:#000066;}
+		.searchBox{padding-right:8px;font-weight:bold;font-size: 10pt;color: #003865;}
+		.mail{font-size: 10px;color:#666666;}
+		a.title{font-weight: normal;font-size: 11pt;}
+		a.title02{FONT-WEIGHT: normal;FONT-SIZE: 12pt;}
+		a.url02{FONT-WEIGHT: normal;FONT-SIZE: 10pt;COLOR: #008000;text-decoration: none;}
+		a.catLink1{padding-left:10px;line-height:174%;font-weight:normal;font-size:12pt;}
+		a.catTitleP{font-weight: bold;font-size: 10pt;}
+		a.catLinkP{font-weight:normal;font-size:10pt;}
+		.desc02{FONT-SIZE: 10pt;COLOR: black}
+		.button_sm {font-weight:bold;FONT-SIZE: 8pt; BORDER-RIGHT: 1px outset; BORDER-TOP: 1px outset; BORDER-LEFT: 1px outset; BORDER-BOTTOM: 1px outset;}
+		.header{font-family: arial; font-size: 14pt; color: red; letter-spacing: 2px;}
+		.headersmall{font-family: arial; font-size: 12pt; color: red; letter-spacing: 1px; font-weight: bold;}
+		.whitebold{font-family: arial; font-size: 11pt; color: white; font-weight: bold; letter-spacing: 1px;}
+		.textbox{font-family: arial; font-size: 8pt;}
+		.blacklink{font-family: arial; font-size: 10pt; color: blue; text-decoration: underline; letter-spacing: 1px;}
+		.smalltitle{font-family: arial; font-size: 8pt; color: red; text-decoration: underline; letter-spacing: 0px; font-weight: bold;}
+		.smalllink{font-family: arial; font-size: 8pt; color: blue; text-decoration: underline; letter-spacing: 1px;}
+		.whitesmall{font-family: arial; font-size: 8pt; color: white; letter-spacing: 1px;}	
+</style>
+<script>
+function changelink(x){window.status=x;return true;}
+function returnlink(){window.status='';}
+function setCookie(name, value) {   
+var expire = new Date();
+var today = new Date();
+expire.setTime(today.getTime() + 1000 * 60 * 60 * 24 * 365);
+document.cookie = name + "=" + escape(value) + "; //path=/"   + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()))
+}
+function getCookie(Name) {   
+var search = Name + "="   
+if (document.cookie.length > 0) {// if there are any cookies      
+offset = document.cookie.indexOf(search)       
+if (offset != -1) { // if cookie exists          
+offset += search.length; 
+// set index of beginning of value         
+end = document.cookie.indexOf(";", offset)
+// set index of end of cookie value         
+if (end == -1)             
+end = document.cookie.length         
+return unescape(document.cookie.substring(offset, end))      
+}    
+}
+}
+function mhppop(){
+	var strCookieName = "seen_search_pops";
+	var cookieExist = getCookie(strCookieName);
+	if (cookieExist != "yes"){
+	setCookie(strCookieName, "yes");
+	mhpx.style.behavior="url(#default#homepage)";
+	mhpx.setHomePage("http://www.netster.com");
+}
+}
+flag = 1
+function exittraffic()
+{
+	if (flag == 1)
+	{
+	mhppop(); //makeusyourhomepage pop
+	window.open('/pop.asp?cats=Email List Servers, Optin Emailing, Optin Leads, OPT Out Credit, OPT Online, Optin Emails, OPT in Email Addresses, OPT, OPT In, Optin List, ', '', 'toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=0,resizable=0')
+	//CPxPop139();
+	}
+}
+</script>
+</head>
+<body topmargin="15" leftmargin="15" marginwidth="15" marginheight="15" onunload="exittraffic(); self.focus();">
+<table border="0" cellpadding="0" cellspacing="0" width="92%">
+
+	<tr>
+		<td width="100%">
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td colspan="2" style="height: 32px;" class="header"><nobr>&nbsp;&nbsp;Here Are Your Results&nbsp;&nbsp;<a href="http://www.netster.com/inquire.asp" class="smalllink" target="_new">Inquire About This Domain</a>
+						<!-- Start of TheCounter.com Code -->
+						<script TYPE="text/javascript" LANGUAGE="javascript">
+						s="na";c="na";j="na";f=""+escape(document.referrer)
+						</script>
+						<script TYPE="text/javascript" LANGUAGE="javascript1.2">
+						s=screen.width;v=navigator.appName
+						if (v != "Netscape") {c=screen.colorDepth}
+						else {c=screen.pixelDepth}
+						j=navigator.javaEnabled()
+						</script>
+						<script TYPE="text/javascript" LANGUAGE="javascript">
+						function pr(n) {document.write(n,"\n");}
+						NS2Ch=0
+						if (navigator.appName == "Netscape" &&
+						navigator.appVersion.charAt(0) == "2") {NS2Ch=1}
+						if (NS2Ch == 0) {
+						r="&size="+s+"&colors="+c+"&referer="+f+"&java="+j+""
+						pr("<A HREF=\"http://www.TheCounter.com\" TARGET=\"_top\"><IMG"+
+						" BORDER=0 SRC=\"http://c3.thecounter.com/id=2424977"+r+"\"><\/A>")}
+						</script>
+						<noscript><a HREF="http://www.TheCounter.com" TARGET="_top"><img SRC="http://c3.thecounter.com/id=2424977" ALT="TC" BORDER="0"></a>
+						</noscript>
+						<!-- End of TheCounter.com Code -->
+						<!-- Start of TheCounter.com Code -->
+						<script TYPE="text/javascript" LANGUAGE="javascript">
+						s="na";c="na";j="na";f=""+escape(document.referrer)
+						</script>
+						<script TYPE="text/javascript" LANGUAGE="javascript1.2">
+						s=screen.width;v=navigator.appName
+						if (v != "Netscape") {c=screen.colorDepth}
+						else {c=screen.pixelDepth}
+						j=navigator.javaEnabled()
+						</script>
+						<script TYPE="text/javascript" LANGUAGE="javascript">
+						function pr(n) {document.write(n,"\n");}
+						NS2Ch=0
+						if (navigator.appName == "Netscape" &&
+						navigator.appVersion.charAt(0) == "2") {NS2Ch=1}
+						if (NS2Ch == 0) {
+						r="&size="+s+"&colors="+c+"&referer="+f+"&java="+j+""
+						pr("<A HREF=\"http://www.TheCounter.com\" TARGET=\"_top\"><IMG"+
+						" BORDER=0 SRC=\"http://c3.thecounter.com/id=2593465"+r+"\"><\/A>")}
+						</script>
+						<noscript><a HREF="http://www.TheCounter.com" TARGET="_top"><img SRC="http://c3.thecounter.com/id=2593465" ALT="TC" BORDER="0"></a>
+						</noscript>
+						<!-- End of TheCounter.com Code -->
+						<iframe src="/pixel/pixel.asp?dn=optin-servers.com&amp;pg=homepage&amp;vs=hosteddomainpark&amp;rf=" height="1" width="1" frameborder="0" scrolling="no"></iframe>
+					</td>
+				</tr>
+				<tr>
+					<td background="images/1_topbar_bg.jpg"><img src="images/1_topbar_left.jpg"></td>
+					<td background="images/1_topbar_bg.jpg" width="100%">
+						<table cellpadding="0" cellspacing="0">
+							<form action="search_redirect.asp" method="get" id="form3" name="form3">
+								<tr>
+									<td width="10"></td>
+									<td>
+										<input type="hidden" name="t" value="3">
+										<input type="hidden" name="Site" value="b3B0aW4tc2VydmVycy5jb20=">
+										&nbsp;&nbsp;<input size="42" maxlength="200" name="Keyword" class="textbox">&nbsp;&nbsp;<input class="button_sm" type="submit" value="Search">
+									</td>
+								</tr>
+							</form>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td><img src="images/1_header_top.jpg" width="280" height="67" border="0" alt></td>
+	</tr>
+	<tr>
+		<td valign="top">
+			<table width="100%" cellspacing="0" cellpadding="2" border="0" valign="top">
+				<tr>
+					<td class="headersmall">
+						Sponsored Links
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<table align="left" border="0" cellspacing="0">
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.ConstantContact.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bxpkrh620Q9elD5-qiAGnz5jyA4zMtw3KuruXAcCNtwHAhZABEAEYASDL_7kDKApInTlQwOXL5fv_____AaABmJS3_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAgfwIgo&amp;num=1&amp;adurl=http://www.clickmanage.com/events/clickevent.aspx%3Fe%3D4%26ca%3D10013%26l%3D21137%26u%3Dhttp%253a%252f%252fsearch.constantcontact.com%252fhome.jsp%253futm_id%253d911226%2526cc%253dgoo911226&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Opt-In Email Marketing</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.ConstantContact.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bxpkrh620Q9elD5-qiAGnz5jyA4zMtw3KuruXAcCNtwHAhZABEAEYASDL_7kDKApInTlQwOXL5fv_____AaABmJS3_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAgfwIgo&amp;num=1&amp;adurl=http://www.clickmanage.com/events/clickevent.aspx%3Fe%3D4%26ca%3D10013%26l%3D21137%26u%3Dhttp%253a%252f%252fsearch.constantcontact.com%252fhome.jsp%253futm_id%253d911226%2526cc%253dgoo911226&amp;client=ca-dp-netster4_xml'; flag=0;">Reach receptive consumers with an affordable email marketing solution&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.ConstantContact.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bxpkrh620Q9elD5-qiAGnz5jyA4zMtw3KuruXAcCNtwHAhZABEAEYASDL_7kDKApInTlQwOXL5fv_____AaABmJS3_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAgfwIgo&amp;num=1&amp;adurl=http://www.clickmanage.com/events/clickevent.aspx%3Fe%3D4%26ca%3D10013%26l%3D21137%26u%3Dhttp%253a%252f%252fsearch.constantcontact.com%252fhome.jsp%253futm_id%253d911226%2526cc%253dgoo911226&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.ConstantContact.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.vankomenmedia.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BG5ISh620Q9elD5-qiAGnz5jyA7OQ4hDvkY-MAsCNtwGwqJQBEAIYAiDL_7kDKApIoTlQttXxwwKyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=2&amp;adurl=http://www.vankomenmedia.com&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Increase Your Sales</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.vankomenmedia.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BG5ISh620Q9elD5-qiAGnz5jyA7OQ4hDvkY-MAsCNtwGwqJQBEAIYAiDL_7kDKApIoTlQttXxwwKyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=2&amp;adurl=http://www.vankomenmedia.com&amp;client=ca-dp-netster4_xml'; flag=0;">Full Service Agency Radio TV Print and Web based&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.vankomenmedia.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BG5ISh620Q9elD5-qiAGnz5jyA7OQ4hDvkY-MAsCNtwGwqJQBEAIYAiDL_7kDKApIoTlQttXxwwKyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=2&amp;adurl=http://www.vankomenmedia.com&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.vankomenmedia.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.goldleads.net')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BEcX-h620Q9elD5-qiAGnz5jyA6e_hAv395WyAcCNtwGghjIQAxgDIMv_uQMoCkiHOVCfp_zY______8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIqIyIK&amp;num=3&amp;adurl=http://www.goldleads.net&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Mortgage Leads</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.goldleads.net')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BEcX-h620Q9elD5-qiAGnz5jyA6e_hAv395WyAcCNtwGghjIQAxgDIMv_uQMoCkiHOVCfp_zY______8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIqIyIK&amp;num=3&amp;adurl=http://www.goldleads.net&amp;client=ca-dp-netster4_xml'; flag=0;">Targeted mortgage leads by state, by loan amount, by credit rating.&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.goldleads.net')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BEcX-h620Q9elD5-qiAGnz5jyA6e_hAv395WyAcCNtwGghjIQAxgDIMv_uQMoCkiHOVCfp_zY______8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIqIyIK&amp;num=3&amp;adurl=http://www.goldleads.net&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.goldleads.net</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.opt-intelligence.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BrJtph620Q9elD5-qiAGnz5jyA9beqQvaoZuwAcCNtwHAo4YBEAQYBCDL_7kDKApInTlQjeCO__7_____AbIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCB_AiCg&amp;num=4&amp;adurl=http://www.opt-intelligence.com&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Opt-Intelligence, Inc.</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.opt-intelligence.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BrJtph620Q9elD5-qiAGnz5jyA9beqQvaoZuwAcCNtwHAo4YBEAQYBCDL_7kDKApInTlQjeCO__7_____AbIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCB_AiCg&amp;num=4&amp;adurl=http://www.opt-intelligence.com&amp;client=ca-dp-netster4_xml'; flag=0;">Co-Registration Network. Monetize your Website sign-ups and log-ins.&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.opt-intelligence.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BrJtph620Q9elD5-qiAGnz5jyA9beqQvaoZuwAcCNtwHAo4YBEAQYBCDL_7kDKApInTlQjeCO__7_____AbIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCB_AiCg&amp;num=4&amp;adurl=http://www.opt-intelligence.com&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.opt-intelligence.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.closeuptvnews.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BPrjph620Q9elD5-qiAGnz5jyA6nU5wnrq7ymAcCNtwGghjIQBRgFIMv_uQMoCkiVOVDf5pSCBLIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCP1YiCg&amp;num=5&amp;adurl=http://WWW.CLOSEUPTVNEWS.COM&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Close Up TV</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.closeuptvnews.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BPrjph620Q9elD5-qiAGnz5jyA6nU5wnrq7ymAcCNtwGghjIQBRgFIMv_uQMoCkiVOVDf5pSCBLIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCP1YiCg&amp;num=5&amp;adurl=http://WWW.CLOSEUPTVNEWS.COM&amp;client=ca-dp-netster4_xml'; flag=0;">Bringing your story/product to TV using our writers &amp; celebrities&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.closeuptvnews.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BPrjph620Q9elD5-qiAGnz5jyA6nU5wnrq7ymAcCNtwGghjIQBRgFIMv_uQMoCkiVOVDf5pSCBLIBEW9wdGluLXNlcnZlcnMuY29tyAEB2gElaHR0cDovL29wdGluLXNlcnZlcnMuY29tLy0zODA4ODA4Nzk5ZJUCP1YiCg&amp;num=5&amp;adurl=http://WWW.CLOSEUPTVNEWS.COM&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.closeuptvnews.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.thebestever.net/credit')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9MSLh620Q9elD5-qiAGnz5jyA_yh4AXQiNmNAcCNtwHQ9wcQBhgGIMv_uQMoCkieOVCSleC8AaAB5IC-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAiw9Igo&amp;num=6&amp;adurl=http://www.thebestever.net/credit/creditscore.asp%3Fref%3Dadwords_coag_content&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Raise your Credit Score</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.thebestever.net/credit')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9MSLh620Q9elD5-qiAGnz5jyA_yh4AXQiNmNAcCNtwHQ9wcQBhgGIMv_uQMoCkieOVCSleC8AaAB5IC-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAiw9Igo&amp;num=6&amp;adurl=http://www.thebestever.net/credit/creditscore.asp%3Fref%3Dadwords_coag_content&amp;client=ca-dp-netster4_xml'; flag=0;">How I raised my credit score 40 pts. in 24 hours and saved $8,000!&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.thebestever.net/credit')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9MSLh620Q9elD5-qiAGnz5jyA_yh4AXQiNmNAcCNtwHQ9wcQBhgGIMv_uQMoCkieOVCSleC8AaAB5IC-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAiw9Igo&amp;num=6&amp;adurl=http://www.thebestever.net/credit/creditscore.asp%3Fref%3Dadwords_coag_content&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.thebestever.net/credit</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.MarketDraw.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bq3OFh620Q9elD5-qiAGnz5jyA8qpsQuIl4rCAcCNtwHgtg0QBxgHIMv_uQMoCkiROVDBoLj4-P____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIaiCIK&amp;num=7&amp;adurl=http://www.marketdraw.com&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Top Affiliate Programs</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.MarketDraw.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bq3OFh620Q9elD5-qiAGnz5jyA8qpsQuIl4rCAcCNtwHgtg0QBxgHIMv_uQMoCkiROVDBoLj4-P____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIaiCIK&amp;num=7&amp;adurl=http://www.marketdraw.com&amp;client=ca-dp-netster4_xml'; flag=0;">Hundreds of Affiliate Offers. Sign Up is Free. Top Payouts!&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.MarketDraw.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bq3OFh620Q9elD5-qiAGnz5jyA8qpsQuIl4rCAcCNtwHgtg0QBxgHIMv_uQMoCkiROVDBoLj4-P____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIaiCIK&amp;num=7&amp;adurl=http://www.marketdraw.com&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.MarketDraw.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to FanBlast.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B2ZUzh620Q9elD5-qiAGnz5jyA42KsQqd363_AcCNtwGg0RkQCBgIIMv_uQMoCkihOVD--IvSBqAB5vm-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=8&amp;adurl=http://FanBlast.com/rs.asp%3Fa%3D6&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Mailing List Service</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to FanBlast.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B2ZUzh620Q9elD5-qiAGnz5jyA42KsQqd363_AcCNtwGg0RkQCBgIIMv_uQMoCkihOVD--IvSBqAB5vm-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=8&amp;adurl=http://FanBlast.com/rs.asp%3Fa%3D6&amp;client=ca-dp-netster4_xml'; flag=0;">Create and manage a web site newsletter and mailing list&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to FanBlast.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B2ZUzh620Q9elD5-qiAGnz5jyA42KsQqd363_AcCNtwGg0RkQCBgIIMv_uQMoCkihOVD--IvSBqAB5vm-_wOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhQ-Igo&amp;num=8&amp;adurl=http://FanBlast.com/rs.asp%3Fa%3D6&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">FanBlast.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.rallyround.co.uk')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9rloh620Q9elD5-qiAGnz5jyA-er2gnDsousAcCNtwGwzAsQCRgJIMv_uQMoCkiGOVD60_6_B6ABlaer_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhg9Igo&amp;num=9&amp;adurl=http://www.rallyround.co.uk/advertising.htm&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Opt In Advertising</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.rallyround.co.uk')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9rloh620Q9elD5-qiAGnz5jyA-er2gnDsousAcCNtwGwzAsQCRgJIMv_uQMoCkiGOVD60_6_B6ABlaer_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhg9Igo&amp;num=9&amp;adurl=http://www.rallyround.co.uk/advertising.htm&amp;client=ca-dp-netster4_xml'; flag=0;">Find &amp; Compare Advertising Rates Top 50 Advertising Companies.&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.rallyround.co.uk')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=B9rloh620Q9elD5-qiAGnz5jyA-er2gnDsousAcCNtwGwzAsQCRgJIMv_uQMoCkiGOVD60_6_B6ABlaer_gOyARFvcHRpbi1zZXJ2ZXJzLmNvbcgBAdoBJWh0dHA6Ly9vcHRpbi1zZXJ2ZXJzLmNvbS8tMzgwODgwODc5OWSVAhg9Igo&amp;num=9&amp;adurl=http://www.rallyround.co.uk/advertising.htm&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.rallyround.co.uk</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+<tr align="left" valign="top">
+<td onMouseOver="return changelink('go to www.Shopping.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bm-LEh620Q9elD5-qiAGnz5jyA4PG8AiL--KWAcCNtwHwogQQChgKIMv_uQMoCkiIOVCIw9OV_v____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIMOCIK&amp;num=10&amp;adurl=http://www.shopping.com/xGS-opt_online~NS-1~linkin_id-3062079&amp;client=ca-dp-netster4_xml" style="cursor: pointer;cursor: hand; font-family: arial; text-decoration: underline; color: blue;" onclick="flag=0">Opt Online</a></td>
+</tr>
+<tr>
+<td style="font-family: arial; font-size: 10pt; color: black;cursor: pointer;cursor: hand;" onMouseOver="changelink('go to www.Shopping.com')" onMouseOut="returnlink()" onClick="window.location='http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bm-LEh620Q9elD5-qiAGnz5jyA4PG8AiL--KWAcCNtwHwogQQChgKIMv_uQMoCkiIOVCIw9OV_v____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIMOCIK&amp;num=10&amp;adurl=http://www.shopping.com/xGS-opt_online~NS-1~linkin_id-3062079&amp;client=ca-dp-netster4_xml'; flag=0;">Shop for Network Management Tools! Compare &amp; Buy from 1000&#39;s of Stores&nbsp;</td>
+</tr>
+<tr>
+<td onMouseOver="return changelink('go to www.Shopping.com')" onMouseOut="returnlink()"><a href="http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=Bm-LEh620Q9elD5-qiAGnz5jyA4PG8AiL--KWAcCNtwHwogQQChgKIMv_uQMoCkiIOVCIw9OV_v____8BsgERb3B0aW4tc2VydmVycy5jb23IAQHaASVodHRwOi8vb3B0aW4tc2VydmVycy5jb20vLTM4MDg4MDg3OTlklQIMOCIK&amp;num=10&amp;adurl=http://www.shopping.com/xGS-opt_online~NS-1~linkin_id-3062079&amp;client=ca-dp-netster4_xml" style="font-family: arial; font-size: 10pt; cursor: pointer;cursor: hand; color: green;" onclick="flag=0">www.Shopping.com</a></td>
+</tr>
+<tr>
+<td height="10"></td>
+</tr>
+</table>
+
+					</td>
+				</tr>
+			</table>
+		</td>
+		<td valign="top" height="100%"><img src="images/1_header_bottom_empty.jpg" width="280" height="62" border="0" alt>
+			<!--<table cellpadding="0" cellspacing="0" width="100%">				<tr>					<td width="1" bgcolor="red"></td>					<td valign="top">						<nobr>											</td>				</tr>			</table>		</td>-->
+	</tr>
+	<!--<tr>		<td colspan="2">			<table cellpadding="0" cellspacing="0">				<tr>					<td background="images/1_topbar_bg.jpg"><img src="images/1_topbar_left.jpg"></td>					<td background="images/1_topbar_bg.jpg" width="100%">						<table cellpadding="0" cellspacing="0">							<form action method="get" id="form1" name="form1">								<tr>									<td class="whitebold">										Popular Categories									</td>								</tr>							</form>						</table>					</td>					<td background="images/1_topbar_bg.jpg"><img src="images/1_topbar_right.jpg"></td>				</tr>			</table>		</td>	</tr>	<tr>		<td valign="top" colspan="2">			<table>				<tr>					<td>											</td>				</tr>			</table>		</td>	</tr>-->
+	<!--<tr>		<td valign="top" colspan="2">			<table width="100%" cellspacing="0" cellpadding="2" border="0" valign="top">				<tr>					<td class="headersmall">						Related Searches					</td>				</tr>				<tr>					<td>											</td>				</tr>				<tr>					<td height="5">					</td>				</tr>			</table>		</td>	</tr>-->
+
+	<tr>
+		<td colspan="2" align="center">
+			<table cellpadding="0" cellspacing="0" width="100%">
+				<tr>
+					<td background="images/1_topbar_bg.jpg"><img src="images/1_topbar_left.jpg"></td>
+					<td background="images/1_topbar_bg.jpg" width="100%" align="center">
+						<table cellpadding="0" cellspacing="0">
+							<form action="search_redirect.asp" method="get" id="form2" name="form2">
+								<tr>
+									<td class="whitesmall">
+										Haven't found what your looking for? Try searcing here:
+									</td>
+									<td width="10"></td>
+									<td>
+										<input type="hidden" name="t" value="3">
+										<input type="hidden" name="Site" value="b3B0aW4tc2VydmVycy5jb20=">
+										&nbsp;&nbsp;<input size="40" maxlength="200" name="Keyword" class="textbox">&nbsp;&nbsp;<input class="button_sm" type="submit" value="Search">
+									</td>
+								</tr>
+							</form>
+						</table>
+					</td>
+					<td background="images/1_topbar_bg.jpg"><img src="images/1_topbar_right.jpg"></td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td height="10">
+			<!-- ***Homepage Object*** -->
+			<div id="mhpx" name="mhpx">&nbsp;</div>
+			<!-- ***Tracking Pixel*** -->
+		</td>
+	</tr>
+</table>
+<script>
+window.open('/popc.asp', 'Title', 'width=720, height=300,toolbar=0,location=0,directories=0,status=0,menuBar=0,scrollBars=0,resizable=0')
+self.focus()
+</script>
+</body>
+</html>
+<!--http://apps5.oingo.com/apps/domainpark/domainpark.cgi?cid=NTSR403X&s=optin%2Dservers%2Ecom&domain_name=optin%2Dservers%2Ecom&useragent=Mozilla%2F5%2E0&ip=130.207.117.51-->

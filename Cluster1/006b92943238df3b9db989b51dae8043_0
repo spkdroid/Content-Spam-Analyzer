@@ -1,0 +1,111 @@
+<!-- URL: http://www.sierratradingpost.com/xt_kc.asp?wc=true&kc=WS111&pg=t&dept_id=L1~3908 -->
+<!-- HTTP/1.0 200 OK -->
+<!-- Cache-Control: max-age=0, no-cache, no-store -->
+<!-- Connection: close -->
+<!-- Date: Sat, 31 Dec 2005 05:25:04 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Length: 3206 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Sat, 31 Dec 2005 05:25:04 GMT -->
+<!-- Client-Peer: 72.246.121.48:80 -->
+<!-- P3P: CP="OI DSP OUR BUS UNI" -->
+<!-- Refresh: 2;url=prod_list_display.asp?dept_id=L1~3908&mscssid=6A623C1845CF433185E40C86C9F37DC9 -->
+<!-- Set-Cookie: eCCId=6A623C1845CF433185E40C86C9F37DC9; expires=Fri, 16-Jun-2006 09:22:56 GMT; domain=sierratradingpost.com; path=/ -->
+<!-- Set-Cookie: SITEBRAND%5FSESSION%5FID=3CBAD8879FDC4E0081277E60F3D2F8B8; path=/ -->
+<!-- Set-Cookie: STP%5FShopper%5FId=%2A; expires=Fri, 30-Dec-2005 05:23:20 GMT; path=/ -->
+<!-- Set-Cookie: LVD=12%2F30%2F2005; path=/ -->
+<!-- Set-Cookie: kc=WS111; path=/ -->
+<!-- Set-Cookie: NET=0; expires=Fri, 16-Jun-2006 09:22:56 GMT; domain=sierratradingpost.com; path=/ -->
+<!-- Set-Cookie: NSC_c0a8650a0050=c0a865230050;path=/ -->
+<!-- X-Meta-Robots: noindex, follow -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+	<!--35-->
+
+	<!-- *** SEO RUNNING *** --><!--Mozilla/5.0--><!-- NOT SE -->
+
+	<html>
+	<head>
+	<!---->
+	<meta http-equiv="refresh" content="2;url=prod_list_display.asp?dept_id=L1~3908&mscssid=6A623C1845CF433185E40C86C9F37DC9"> 
+	<meta name="robots" content="noindex, follow">
+		<script language="javascript">
+			function f_go(url)
+			   {
+				if (document.images)
+					  window.location.replace(url);
+				else
+					  window.location.href = url;
+				}
+
+		</script>
+	</head>
+	<body onLoad="javascript:f_go('prod_list_display.asp?dept_id=L1~3908&mscssid=6A623C1845CF433185E40C86C9F37DC9')">
+	<!---->
+	
+	<!-- BEGIN WEBSIDESTORY CODE v9.0.1 (11up) -->
+	<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+	<script language="javascript" id="_hbc">
+	var _acct="DM530808KHRN93EN3";	//account number(s)
+	var _pn="xt_kc.asp"; //page name(s)
+	var _mlc="CONTENT+CATEGORY"; //multi-level content category
+	var _seg=""; // visitor segmentation
+	var _cmp=""; // campaign id
+	var _gp="";  // campaign goal
+	var _cmpn="";// campaign id in query
+	var _gpn=""; // campaign goal in query
+	var _fnl=""; // funnels
+	var _pec=""; // error codes
+	var _fv="";  // form validation function name
+	var _dcmp="";// dynamic campaign
+	var _dcmpn="";//dynamic campaign in query
+	var _hra=""; // response attribute
+	var _hcn=""; // conversion
+	var _hcv=""; // conversion value
+	var _hlt=""; // lead tracking
+	var _hla=""; // lead attribute
+	var _hqsr="AFF";// response attribute in referrer query
+	var _hqsp="AFF";// response attribute in query
+	var _hc1=""; // ENDECA KEYWORD TRACKING
+	var _hc2=""; // custom 2
+	var _hc3=""; // custom 3
+	var _hc4=""; // custom 4
+	var _lt="auto";  // link tracking
+	var _ci="";  // customer id
+	var _cp="null"; // campaign
+	var _cpd=""; // campaign domain
+	var _pndef="title"; //default page name
+	var _ctdef="full"; //default content category
+	var _dlf="n"; //download filter
+	var _elf="n"; //exit link filter
+	var _dft="n"; // download file tracker variable, set to y to use the name reference
+	var _hrf=""; // custom referrer. use valid url or param name
+	var _epg="n"; //event page identifier
+	var _vpc="090001r";
+	var _gn="ehg-sierratradingpost.hitbox.com",_mn="we54"; //gateway & machine name
+	</script>
+	
+	<script language="javascript1.1" defer src="http://www.SierraTradingPost.com/HitBox/hbe-11up.js?"></script>
+	
+	<script language="javascript">
+		if(navigator.appName!='Netscape'&&parseInt(
+			navigator.appVersion)==4)document.write("<\!"+"--")
+	</script>
+	
+	<noscript>
+		<img src="http://ehg-sierratradingpost.hitbox.com/HG?hc=we54&cd=1&hv=6&ce=u&hb=DM530808KHRN93EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&cv=&ld=&la=&c1=&c2=&c3=&c4=&vpc=090001rn" border="0" width="1" height="1">
+	</noscript>
+	<!--//-->
+	<!-- END WEBSIDESTORY CODE  -->
+	
+	
+
+<!-- *** Atlas Code *** -->
+	<img src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=939985107000032&desc=OrgLandingPage&sid=&refr=" border="0" width="1" height="1">
+<!-- *** Atlas Code *** -->
+
+
+	</body>
+	</html>

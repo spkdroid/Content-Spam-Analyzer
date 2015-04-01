@@ -1,0 +1,50 @@
+<!-- URL: http://clicks.winsweepstakes.net/unlist.asp?email=svru@gmx.de -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: Keep-Alive -->
+<!-- Date: Sat, 24 Dec 2005 04:25:12 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Length: 769 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Sat, 24 Dec 2005 04:25:12 GMT -->
+<!-- Client-Peer: 66.226.4.28:80 -->
+<!-- Set-Cookie: ASPSESSIONIDCSSRTDCS=EPLAOLKDAFHBPJAIMCPIJAII; path=/ -->
+<!-- Title: WinSweepstakes -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+
+<html>
+<head>
+<title> WinSweepstakes </title>
+<style type="text/css">
+<!--
+body,td { font-family: arial,helvetica,sans-serif; font-size: 12px; }
+.red { color: #c00; }
+form { margin: 0; }
+-->
+</style>
+</head>
+
+<body>
+
+<b> WinSweepstakes </b>
+
+
+    <p>
+    Please enter your email address to unsubscribe.
+
+    <form action="unlist.asp" method="post">
+    <input type="text" name="email" value="svru@gmx.de">
+    <br>
+    <input type="submit" name="submit" value="Submit">
+    <input type="hidden" name="unlist" value="unlist">
+    <input type="hidden" name="domain" value="clicks.winsweepstakes.net">
+    <input type="hidden" name="sad" value="404037">
+    <input type="hidden" name="userid" value="">
+    </form>
+
+
+</body>
+</html>
+

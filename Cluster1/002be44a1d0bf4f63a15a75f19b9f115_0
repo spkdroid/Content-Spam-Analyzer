@@ -1,0 +1,913 @@
+<!-- URL: http://web.tickle.com/tests/mostathome/authorize/register.jsp?url=%2Ftests%2Fmostathome%2Findex.jsp -->
+<!-- HTTP/1.0 200 OK -->
+<!-- Cache-Control: no-cache -->
+<!-- Date: Thu, 29 Dec 2005 01:17:30 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Resin/2.1.6 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Expires: Sun, 21 Sep 1975 00:00:00 GMT -->
+<!-- Client-Peer: 129.250.134.115:80 -->
+<!-- Link: <http://i.emode.com/favicon.ico>; /="/"; rel="shortcut icon"; type="image/x-icon" -->
+<!-- P3P: policyref="http://web.tickle.com/w3c/p3p.xml", CP="CAO DSP COR IND CUR ADMi DEVi PSAi IVAi IVDi CONi OUR PHY ONL UNI PUR DEM PRE" -->
+<!-- Set-Cookie: U=qNrfmejvDhDpCxSs6EGzKBJTnbZ87BVkFTXJxNvTvddI_Wuv; Domain=.tickle.com; Path=/; Expires=Sat, 29-Dec-2007 01:17:30 GMT -->
+<!-- Set-Cookie: ua=-+N6-----+-; Domain=.tickle.com; Path=/ -->
+<!-- Set-Cookie: F=null; Domain=.tickle.com; Path=/; Expires=Fri, 30-Dec-2005 01:17:30 GMT -->
+<!-- Title: Tickle: Tests, Matchmaking and Social Networking -->
+<!-- X-Meta-Keywords: Tickle, Emode, social networking, friend network, friend of a friend, connect, meet people, degrees of separation, personals network, business networking, professional networking, online community, groups, linking, friends, contacts, relationships, recommendations, discussion groups, bulletin boards -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html 
+    PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Tickle: Tests, Matchmaking and Social Networking</title>
+    <meta name="keywords" content="Tickle, Emode, social networking, friend network, friend of a friend, connect, meet people, degrees of separation, personals network, business networking, professional networking, online community, groups, linking, friends, contacts, relationships, recommendations, discussion groups, bulletin boards" />  
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link href="http://i.emode.com/favicon.ico" rel="shortcut icon" type="image/x-icon" />  
+    
+    
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/style/main20050815.css";</style>
+    
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/style/header20051117.css";</style>
+    
+
+
+
+
+  <style type="text/css" media="all">@import "http://i.emode.com/style/images20050819.css";</style>
+
+
+
+
+    
+    
+      
+      
+      
+      
+      
+
+
+
+<script type="text/javascript" language="javascript">
+<!--
+var js12=false,modern=false;
+
+//FUNC: g_alert(element,message)
+//DESC: returns the input string with all single-quotes and backslashes escaped
+function g_alert(x,m) {
+  x.focus(); if (js12) { scrollBy(0,-50); }
+  alert(m);
+}
+
+//FUNC: g_escapejs(inputstring)
+//DESC: returns the input string with all single-quotes and backslashes escaped
+function g_escapejs(x) {
+  for (var i=0;i<x.length;i++) {
+    if (x.charAt(i)=='\'' || x.charAt(i)=='\\') {
+      x=x.substring(0,i)+'\\'+x.substring(i);
+      i++;
+    }
+  }
+  return(x);
+}
+
+var ua=navigator.userAgent.toLowerCase(),v=parseFloat(navigator.appVersion);
+js12=true;
+modern=((v>=5) || (ua.indexOf("msie")!=-1 && v>=4 && ua.indexOf("webtv")==-1));
+
+
+function g_onload() {}
+function g_onunload() {}
+//-->
+</script>
+
+<script type="text/javascript" language="javascript">
+function trackSubOrigin(suborigin) {
+  document.cookie='suborigin='+suborigin+';path=/;domain=.tickle.com;';
+  return(true);
+}
+</script>
+
+<script type="text/javascript" language="javascript">
+<!-- <![CDATA[
+var NoPaidTestExitPopup=true, pu_win=true;
+var cookiedomain='.tickle.com';
+
+function writeshortusername(name) {
+  if(name.length>20){
+    name=name.substr(0,19);
+  }
+  document.write(name);
+}
+function doSearch(){
+  if (document.searchform.sel.value==2){
+    document.searchform.action='http://connect.tickle.com/search/result.html?friendlevel=-1&photoonly=Y';
+  }
+  return true;
+}
+
+function DetectFlashV() {
+  var cookiedomain='.tickle.com';
+  var flashv = 0;
+  // check if we have already detected flash version
+  var pos = document.cookie.indexOf('flashv=');
+  if (pos != -1) {
+    pos+=7;
+    flashv = parseInt(document.cookie.substr(pos,1));
+  } 
+  else {
+    // check for netscape plugins. navigator.plugins exists but is empty in IE
+    if (navigator.plugins && (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"])) {
+      var words =
+  		navigator.plugins["Shockwave Flash"].description.split(" ");
+  		flashv = parseInt(words[2]);
+    } 
+    else if ((navigator.appVersion.indexOf("MSIE") != -1) && (navigator.appVersion.indexOf("Windows") != -1)) {
+      document.writeln('<SCR'+'IPT LANGUAGE=VBScript\>');
+    	document.writeln('Private i, x');
+      document.writeln('On Error Resume Next');
+      document.writeln('MM_FlashControlInstalled = False');
+    	document.writeln('For i = 7 To 1 Step -1');
+      document.writeln('Set x = CreateObject("ShockwaveFlash.ShockwaveFlash." & i)');
+      document.writeln('MM_FlashControlInstalled = IsObject(x)');
+      document.writeln('If MM_FlashControlInstalled Then');
+     	document.writeln('MM_FlashControlVersion = CStr(i)');
+     	document.writeln('Exit For');
+      document.writeln('End If');
+      document.writeln('Next');
+      document.writeln('</SCR'+'IPT\>');
+  	  flashv = parseInt(MM_FlashControlVersion);
+    } 
+  }
+  // set flash version into cookie
+  if (flashv >= 2) { 
+    document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
+  }
+  else { 
+    flashv = 0;
+    document.cookie='flashv='+flashv+';path=/;domain='+cookiedomain; 
+  }
+  return (flashv);
+}
+
+// ]]> -->
+</script>
+<script type="text/javascript" src="http://i.emode.com/includes/js/tickleCT051025.js"></script>
+      
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+
+
+
+<style type="text/css" media="all">@import "http://i.emode.com/style/test20051212.css";</style>
+
+
+<script language="javascript">
+var sqIdError = '';
+var sqAnswerError = '';
+
+
+//18 years in milliseconds
+var a18 = 1000*60*60*24*365.25*18;
+//24 years in milliseconds
+var a24 = 1000*60*60*24*365.25*25;
+var t_milli = '1135819050446';
+
+
+var sqo_text;
+var sqo_id;
+
+var sq1824_text;
+var sq1824_id;
+
+
+/* -----
+FUNCTION: getSqOther
+PURPOSE:	call tag and get info for All Others group
+--------------------------------------------------------- */
+function getSqOther(){
+	
+	
+	sqo_text = "<strong>Are you a veteran or service member?</strong><br>Get benefits updates, military discounts &amp; scholarship alerts.  Find old service buddies and veteran job opportunities at Military.com.  Join 4 million members in getting all the benefits you've earned in service to America.";
+	sqo_id =  "7220";
+	sq1824_text = '';
+	sq1824_id = '';
+}
+
+/* -----
+FUNCTION: getSq1824
+PURPOSE:	call tag and get info for Males 18-24 group
+--------------------------------------------------------- */
+function getSq1824(){
+	
+	
+	sq1824_text = "<strong>Thinking of joining the military?</strong><br>Get the Insider's Guide to Joining &amp; a free newsletter with info on military jobs, pay, benefits and money for college.  See if military service is right for you! No bull, no bias, no pressure... just good information from people who've served.";
+	sq1824_id =  "7210";
+	sqo_text = '';
+	sqo_id = '';
+}
+
+/* -----
+FUNCTION: writePromo
+PURPOSE: 	output HTML
+--------------------------------------------------------- */
+function writePromo(){
+	var c = '<table border="0" cellpadding="2" cellspacing="0">';
+	c += '<tr><td valign="top"><input type="checkbox" name="sqAnswerBox" value="A" onclick="getSqAns();"';
+	
+	if (sqo_id != ''){
+		if ( sqIdError  == sqo_id && '' == 'A'){
+			c += 'checked';
+		}
+		c += '></td><td style="padding-left:1px;">'+sqo_text+'</td></tr>';
+	}
+
+	else if (sq1824_id != ''){
+		if ( sqIdError  == sq1824_id  && '' == 'A' ){
+			c += ' checked';
+		}
+		c += '></td><td style="padding-left:1px;">'+sq1824_text+'</td></tr>';
+	}	
+	
+	c += '</table>';
+
+	document.getElementById('promo').innerHTML = c;
+	
+}
+
+/* -----
+FUNCTION: displaySQ
+PURPOSE:	display sq based on user input
+--------------------------------------------------------- */
+function displaySQ(){
+	var fn = document.registerform;
+	var gval = fn.gender.value;
+	var dval= fn.birthday.value;
+	var mval = (fn.birthmonth.value==0?-2:fn.birthmonth.value - 1);
+
+	var yval = fn.birthyear.value;
+	var is1824 = '';
+	var isChild = '';
+	
+	if (dval == 0 || mval == -2 || yval == 0){
+		isChild = true;
+		is1824 = false;
+	}
+	else {
+	  is1824 = checkBD1824(dval,mval,yval);
+		isChild = checkBDchild(dval,mval,yval);
+	}
+	if ( ( gval!=0 ) && ( checkZIP() ) ){
+		if (gval == 'M' && is1824 && !isChild){
+			getSq1824();
+			writePromo();
+			showHide('promo','y');
+			getSqAns();
+			fn.sqId.value = sq1824_id;		
+		}
+		else if (isChild){
+			showHide('promo','n');
+			fn.sqAnswer.value='';
+			fn.sqId.value = '';		
+		}
+		else {
+			getSqOther();
+			writePromo();
+			showHide('promo','y');
+			getSqAns();
+		 	fn.sqId.value = sqo_id;		
+		}
+	}
+	else {
+		showHide('promo','n');
+		fn.sqAnswer.value='';
+		fn.sqId.value = '';		
+	}
+	
+}
+
+/* -----
+FUNCTION: checkBD1824
+PURPOSE:	verify if user entered age is between 18-24
+--------------------------------------------------------- */
+function checkBD1824(d,m,y){
+	//convert user entered birthdate into milliseconds
+	var bd = new Date(y,m,d,0,0,0,0);
+	var bd_milli = bd.valueOf();
+
+	//get their age and see if they are between 18 & 24
+	var theirage = t_milli - bd_milli;
+	if (theirage >= a18 && theirage <= a24)	return true;
+	else return false;		
+}
+
+/* -----
+FUNCTION: checkBDchild
+PURPOSE:	verify if user entered age under 18
+--------------------------------------------------------- */
+function checkBDchild(d,m,y){
+	//convert user entered birthdate into milliseconds
+	var bd = new Date(y,m,d,0,0,0,0);
+	var bd_milli = bd.valueOf();
+
+	//get their age and see if they are under 18
+	var theirage = t_milli - bd_milli;	
+	if (theirage < a18)	return true;
+	else return false;		
+}
+
+/* -----
+FUNCTION: checkZIP
+PURPOSE:	verify US zip (we only support 5 digits)
+--------------------------------------------------------- */
+function checkZIP(){
+	var fn = document.registerform;
+	var zip = fn.zipcode.value;
+	var p = /(^\d{5}$)/;
+	if (p.test(zip)) return true;
+	else return false;
+}
+
+/* -----
+FUNCTION: getSqAns
+PURPOSE: 	tag expects A for checked, B for unchecked
+--------------------------------------------------------- */
+function getSqAns(){
+	var fn = document.registerform;
+		if (fn.sqAnswerBox.checked == true)
+    	fn.sqAnswer.value = "A";
+		else if (fn.sqAnswerBox.checked == false)
+    	fn.sqAnswer.value = "B";
+}
+
+/* -----
+FUNCTION: showHide
+PURPOSE:	show or hide div (stole from match reg page)
+--------------------------------------------------------- */
+function showHide(divname,d){
+  if (document.all) {
+    if ((document.all[divname].style.display==''||document.all[divname].style.display=='block')&&(d=='n')){
+      document.all[divname].style.display='none';
+    } 
+    else if (d=='y'){
+      document.all[divname].style.display='';
+	  }
+  } 
+  else if (document.getElementById) {
+    if ((document.getElementById(divname).style.display=='block'||document.getElementById(divname).style.display=='')&&(d=='n')) {
+      document.getElementById(divname).style.display='none';
+    } 
+    else if (d=='y') {
+      document.getElementById(divname).style.display='block';
+	  }
+  }
+}
+
+</script>
+
+  </head>
+  <body id="tests">
+
+    <div id="adContainer">
+      
+        
+          <div id="headernav">
+            <div class="lftcol">
+              
+               
+                <a href="/rd/42593/">Home</a> | <a href="/rd/42594/tests/">Tests</a> | <a href="/rd/42595/http://connect.tickle.com/">Networking</a> | <a href="/rd/42596/http://www.lovehappens.com/fw/index.html?sid=3233&supp=header&tickleUserId=">Matchmaking</a> | <a href="/rd/42597/marriage/">Happy Marriage</a>
+              
+            </div>
+            <div class="rtcol">
+              <a href="/rd/42598/account/">My Account</a> | <a href="/rd/42599/account/tests/">My Test Results</a> | <a href="/rd/42600/http://support.tickle.com/">Help</a> | <a href="/rd/42601/account/authorize/signin.jsp?url=/&amp;stay">Sign In</a>
+            </div>
+            <br class="clear" />
+          </div>      
+          
+        
+        <div id="header">
+        
+           
+            
+
+
+
+
+
+  
+
+
+
+
+
+   
+    
+    
+      
+        <div id="ldrad">
+          <iframe src="http://ads.monster.com/html.ng/size=728x90&tpath=/tests/mostathome/authorize/register.jsp&pp=1&site=tick&affiliate=tkts&adtype=ldr&cy=US&ord=1135819050447&tickletest=2" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="728" height="90"></iframe>
+        </div>
+      
+          
+  
+
+
+
+
+
+<div class="logo">
+  <a href="/rd/42592/"><img src="http://i.emode.com/images/channels/logotests.gif" border="0" alt="Tickle" /></a>    
+</div>
+
+
+
+ 
+
+           
+<div id="breadcrumb">
+  <a href="/">Home</a> &raquo; <a href="/channel/lifestyle/">Lifestyle</a> &raquo; <a href="/jumpto?test=mostathomeogt">Where Are You Most at Home?</a>
+</div>
+          
+          <br class="clear" />
+        </div>
+        
+        
+          
+        <div class="content">
+          
+
+          
+          
+          
+
+
+<div class="maincontent">
+
+<div class="intro" >
+
+
+  
+    <div class="progress">
+
+<div class="stage" id="on">1. Sign In</div>
+<div class="stage">2. Test</div>
+<div class="stage">3. Results</div>
+
+</div>
+  
+
+
+
+<div class="testtitle">
+ 
+    <div class="maintitle" >Where Are You Most at Home?</div>
+    <div class="subtitle"></div>
+    
+    
+</div>
+
+</div>
+
+  <div id="authintropic"><img src="http://i.emode.com/tests/mostathome/images/intro.gif" width="120" height="115" border="0" alt="" align="right" style="position:relative;bottom:8px;padding-left:2px;"/></div>
+
+<p >
+  
+    
+      What room is <I>really</I> your favorite room in the house? Everyone should have at least one haven on the home front: A place to kick back, a place where you can just be yourself and enjoy all of your favorite things. So how about it? Where are you most at home? Take the test and find out!
+    
+    
+  
+  
+</p>
+<p >
+  <strong>Already a Member? <a href="signin.jsp?url=%2Ftests%2Fmostathome%2Findex.jsp&stay">Sign in</a></strong>
+</p>
+<form method="post" action="register.jsp" name="registerform">
+<div class="registrationfeature">
+<div class="featurecontent" >
+
+<table id="registration">
+<tr>
+<th>First Name:</th>
+<td>
+
+
+<INPUT type="text" name="firstname" value="" size=20 maxlength=20>
+</td>
+</tr>
+
+<tr>
+<th>Last Name:</th>
+<td>
+
+
+<INPUT type="text" name="lastname" value="" size=35 maxlength="20">
+</td>
+</tr>
+
+<tr>
+<th>Gender:</th>
+<td>
+<SELECT name="gender" onchange="displaySQ();"><OPTION value="0">Select</OPTION><OPTION value="M">Male</OPTION><OPTION value="F">Female</OPTION></SELECT> 
+</td>
+</tr>
+
+<tr>
+<th>Date of Birth:</th>
+<td>
+
+
+
+
+<SELECT name="birthmonth" onchange="displaySQ();"><OPTION value="0">Month</OPTION><OPTION value="1">Jan</OPTION><OPTION value="2">Feb</OPTION><OPTION value="3">Mar</OPTION><OPTION value="4">Apr</OPTION><OPTION value="5">May</OPTION><OPTION value="6">Jun</OPTION><OPTION value="7">Jul</OPTION><OPTION value="8">Aug</OPTION><OPTION value="9">Sep</OPTION><OPTION value="10">Oct</OPTION><OPTION value="11">Nov</OPTION><OPTION value="12">Dec</OPTION></SELECT>
+<SELECT name="birthday" onchange="displaySQ();"><OPTION value="0">Day</OPTION><OPTION value="1">1</OPTION><OPTION value="2">2</OPTION><OPTION value="3">3</OPTION><OPTION value="4">4</OPTION><OPTION value="5">5</OPTION><OPTION value="6">6</OPTION><OPTION value="7">7</OPTION><OPTION value="8">8</OPTION><OPTION value="9">9</OPTION><OPTION value="10">10</OPTION><OPTION value="11">11</OPTION><OPTION value="12">12</OPTION><OPTION value="13">13</OPTION><OPTION value="14">14</OPTION><OPTION value="15">15</OPTION><OPTION value="16">16</OPTION><OPTION value="17">17</OPTION><OPTION value="18">18</OPTION><OPTION value="19">19</OPTION><OPTION value="20">20</OPTION><OPTION value="21">21</OPTION><OPTION value="22">22</OPTION><OPTION value="23">23</OPTION><OPTION value="24">24</OPTION><OPTION value="25">25</OPTION><OPTION value="26">26</OPTION><OPTION value="27">27</OPTION><OPTION value="28">28</OPTION><OPTION value="29">29</OPTION><OPTION value="30">30</OPTION><OPTION value="31">31</OPTION></SELECT> 
+<SELECT name="birthyear" onchange="displaySQ();"><OPTION value="0">Year</OPTION><OPTION value="2004">2004</OPTION><OPTION value="2003">2003</OPTION><OPTION value="2002">2002</OPTION><OPTION value="2001">2001</OPTION><OPTION value="2000">2000</OPTION><OPTION value="1999">1999</OPTION><OPTION value="1998">1998</OPTION><OPTION value="1997">1997</OPTION><OPTION value="1996">1996</OPTION><OPTION value="1995">1995</OPTION><OPTION value="1994">1994</OPTION><OPTION value="1993">1993</OPTION><OPTION value="1992">1992</OPTION><OPTION value="1991">1991</OPTION><OPTION value="1990">1990</OPTION><OPTION value="1989">1989</OPTION><OPTION value="1988">1988</OPTION><OPTION value="1987">1987</OPTION><OPTION value="1986">1986</OPTION><OPTION value="1985">1985</OPTION><OPTION value="1984">1984</OPTION><OPTION value="1983">1983</OPTION><OPTION value="1982">1982</OPTION><OPTION value="1981">1981</OPTION><OPTION value="1980">1980</OPTION><OPTION value="1979">1979</OPTION><OPTION value="1978">1978</OPTION><OPTION value="1977">1977</OPTION><OPTION value="1976">1976</OPTION><OPTION value="1975">1975</OPTION><OPTION value="1974">1974</OPTION><OPTION value="1973">1973</OPTION><OPTION value="1972">1972</OPTION><OPTION value="1971">1971</OPTION><OPTION value="1970">1970</OPTION><OPTION value="1969">1969</OPTION><OPTION value="1968">1968</OPTION><OPTION value="1967">1967</OPTION><OPTION value="1966">1966</OPTION><OPTION value="1965">1965</OPTION><OPTION value="1964">1964</OPTION><OPTION value="1963">1963</OPTION><OPTION value="1962">1962</OPTION><OPTION value="1961">1961</OPTION><OPTION value="1960">1960</OPTION><OPTION value="1959">1959</OPTION><OPTION value="1958">1958</OPTION><OPTION value="1957">1957</OPTION><OPTION value="1956">1956</OPTION><OPTION value="1955">1955</OPTION><OPTION value="1954">1954</OPTION><OPTION value="1953">1953</OPTION><OPTION value="1952">1952</OPTION><OPTION value="1951">1951</OPTION><OPTION value="1950">1950</OPTION><OPTION value="1949">1949</OPTION><OPTION value="1948">1948</OPTION><OPTION value="1947">1947</OPTION><OPTION value="1946">1946</OPTION><OPTION value="1945">1945</OPTION><OPTION value="1944">1944</OPTION><OPTION value="1943">1943</OPTION><OPTION value="1942">1942</OPTION><OPTION value="1941">1941</OPTION><OPTION value="1940">1940</OPTION><OPTION value="1939">1939</OPTION><OPTION value="1938">1938</OPTION><OPTION value="1937">1937</OPTION><OPTION value="1936">1936</OPTION><OPTION value="1935">1935</OPTION><OPTION value="1934">1934</OPTION><OPTION value="1933">1933</OPTION><OPTION value="1932">1932</OPTION><OPTION value="1931">1931</OPTION><OPTION value="1930">1930</OPTION><OPTION value="1929">1929</OPTION><OPTION value="1928">1928</OPTION><OPTION value="1927">1927</OPTION><OPTION value="1926">1926</OPTION><OPTION value="1925">1925</OPTION><OPTION value="1924">1924</OPTION><OPTION value="1923">1923</OPTION><OPTION value="1922">1922</OPTION><OPTION value="1921">1921</OPTION><OPTION value="1920">1920</OPTION><OPTION value="1919">1919</OPTION><OPTION value="1918">1918</OPTION><OPTION value="1917">1917</OPTION><OPTION value="1916">1916</OPTION><OPTION value="1915">1915</OPTION><OPTION value="1914">1914</OPTION><OPTION value="1913">1913</OPTION><OPTION value="1912">1912</OPTION><OPTION value="1911">1911</OPTION><OPTION value="1910">1910</OPTION><OPTION value="1909">1909</OPTION><OPTION value="1908">1908</OPTION><OPTION value="1907">1907</OPTION><OPTION value="1906">1906</OPTION><OPTION value="1905">1905</OPTION><OPTION value="1904">1904</OPTION><OPTION value="1903">1903</OPTION><OPTION value="1902">1902</OPTION><OPTION value="1901">1901</OPTION><OPTION value="1900">1900</OPTION></SELECT>
+</td>
+</tr>
+
+
+<tr>
+<th>Zipcode:</th>
+<td>
+
+
+<input type="text" name="zipcode" value="30332" maxlength="10" onchange="displaySQ();"/>
+<small>(Not in USA/Canada? Check here: <INPUT type="checkbox" name="nonus"><INPUT type="hidden" name="nonus_hint">)</small>
+</td>
+</tr>
+
+<tr>
+<th>Education:</th>
+<td>
+
+<SELECT name="education"><OPTION value="0">Select one...</OPTION><OPTION value="H">Some high school</OPTION><OPTION value="P">High school graduate</OPTION><OPTION value="C">Some college or technical school</OPTION><OPTION value="D">College or technical school graduate</OPTION><OPTION value="G">Graduate school</OPTION></SELECT>
+</td>
+</tr>
+
+<tr>
+<th>Relationship Status:</th>
+<td>
+
+<SELECT name="lifestyle"><OPTION value="0">Select one...</OPTION><OPTION value="S">Single</OPTION><OPTION value="M">Married/partnered</OPTION><OPTION value="C">Married/partnered with children</OPTION><OPTION value="U">Unmarried with children</OPTION></SELECT>
+</td>
+</tr>
+
+<tr>
+<th>Email Address:<br /><small>(We'll save your results and send your password here.)</small></th>
+<td>
+
+
+
+<INPUT type="text" name="email" value="" size=20 maxlength=96>
+</td>
+</tr>
+
+
+</table>
+<div id="newsletteroffer">
+<table border="0" cellpadding="2" cellspacing="0">
+  <tr><td valign="top"><INPUT type="checkbox" name="opt_all" value="Y"><INPUT type="hidden" name="opt_all_hint"></td><td><strong>Yes!</strong> Tell me about the newest tests, entertainment news and special offers from Tickle.</td></tr>
+ 
+<tr>
+</table>
+
+  	<div id="promo" style="display:none;padding-top:20px;">
+  	</div>
+	
+ </div>
+
+
+<INPUT type="hidden" name="url" value="/tests/mostathome/index.jsp">
+
+</div>
+<div class="featurecontent spamprivacy">Tickle does not send spam or sell email addresses. Read our <a href="/about/privacy.jsp">Privacy Policy</a>.</div>
+</div>
+<input type="hidden" name="sqAnswer" value="">
+<input type="hidden" name="sqId" value="" />
+<input type="hidden" name="auto_password" value="Y"/>
+<div class="resultcontrols"><input type="submit" name="submitbutton" value="Continue" class="submitbutton" /></div>
+
+</form>
+
+</div>
+
+<div class="auxcontent">
+  <iframe src="http://ads.monster.com/html.ng/size=160x600&tpath=/tests/mostathome/authorize/register.jsp&pp=1&site=tick&affiliate=tkts&adtype=sky&cy=US&ord=1135819050447&tickletest=2" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" width="160" height="600"></iframe>
+</div>
+
+
+
+
+
+        <br class="clear" />
+      </div>  
+      
+      
+      
+      
+      
+        <div id="footer">
+        
+        
+          <div id="lftcol">
+            <h4>Tickle Channels</h4>
+            <ul>
+              
+                <li><a href="http://web.tickle.com/rd/42781/channel/dating/">Dating &amp; Relationships</a></li>
+              
+              <li><a href="http://web.tickle.com/rd/42783/channel/career/">Career &amp; Money</a></li>
+              <li><a href="http://web.tickle.com/rd/42785/channel/education/ ">Education</a></li>
+              <li><a href="http://web.tickle.com/rd/42787/channel/mind/">Mind &amp; Body</a></li>
+              <li><a href="http://web.tickle.com/rd/42789/channel/parenting/">Parenting &amp; Family</a></li>
+              <li><a href="http://web.tickle.com/rd/42791/channel/entertainment/">Entertainment &amp; Celebs</a></li>
+              <li><a href="http://web.tickle.com/rd/42793/channel/lifestyle/">Lifestyle</a></li>
+              <li><a href="http://web.tickle.com/rd/42795/channel/teens/">Teens</a></li>
+            </ul>
+          </div>
+          <div id="midcol">
+            <h4>Tickle Family</h4>
+            <ul>
+              <li><a href="http://web.tickle.com/rd/42797/tests/">Tests</a></li>
+              
+                <li><a href="http://web.tickle.com/rd/42799/http://connect.tickle.com/">Networking</a></li>
+              
+              
+                
+                
+                  
+                
+                
+                  <li><a href="http://web.tickle.com/rd/42801/http://www.lovehappens.com?tickleUserId=">LoveHappens</a></li>
+                
+              
+              
+                <li><a href="http://web.tickle.com/rd/42803/marriage/">Happy Marriage</a></li>
+              
+              
+                <li><a href="http://web.tickle.com/rd/43026/http://www.ringo.com/">Ringo</a></li>
+              
+              <li><a href="http://web.tickle.com/rd/42805/http://uk.tickle.com">Tickle UK</a></li>
+              <li><a href="http://web.tickle.com/rd/42807/http://de.tickle.com">Tickle Germany</a></li>
+              <li><a href="http://web.tickle.com/network.jsp">The Monster Network</a></li>
+              <li><a href="http://www.monster.com" target="_blank">Search Jobs</a></li>
+            </ul>
+          </div>
+          <div id="rtcol">
+            
+            
+              
+            
+            <h4>About Tickle</h4>
+            <ul>
+              <li><a href="http://web.tickle.com/rd/42811/about/">About Us</a></li>
+              <li><a href="http://web.tickle.com/rd/42813/about/contact.jsp">Contact Us</a></li>
+              <li><a href="http://web.tickle.com/rd/42815/about/privacy.jsp">Privacy Policy</a></li>
+              <li><a href="http://web.tickle.com/rd/42817/about/terms.jsp">Terms of Use</a></li>
+              <li><a href="http://web.tickle.com/rd/42819/http://sales.tickle.com/">Advertise</a></li>
+              <li><a href="http://web.tickle.com/rd/42821/http://support.tickle.com/">Help</a></li>
+            </ul>
+          </div>
+          
+          
+          <br class="clear" />
+        </div>
+        <div id="copyright">
+          <a href="http://web.tickle.com/get/matchmaking.jsp" style="text-decoration:none; color:#000;">&copy;1999-2005</a> <a href="http://web.tickle.com/get/networking.jsp" style="text-decoration:none; color:#000;">Tickle Inc.</a> <a href="http://web.tickle.com/get/tests.jsp" style="text-decoration:none; color:#000;">All rights</a> <a href="http://web.tickle.com/get/marriage.jsp" style="text-decoration:none; color:#000;">reserved.</a>
+          
+          
+          
+        </div>
+      
+      
+    </div>  
+    
+    
+    
+      <script language="Javascript1.2" type="text/javascript">
+<!--<![CDATA[
+var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//]]>-->
+</script>
+<script language="JavaScript" type="text/javascript">
+<!--<![CDATA[
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var gDomain="cookie.monster.com";
+var gDcsId="DCS000042_3X1N";
+function dcsVar(){
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<img border="0" name="DCSIMG" width="1" height="1" src="'+dcsSrc+'">');
+	}
+}
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+dcsVar();
+dcsTag();
+//]]>-->
+</script>
+<noscript>
+<img border="0" name="DCSIMG" width="1" height="1" src="http://cookie.monster.com/DCS000042_3X1N/njs.gif?dcsuri=/nojavascript">
+</noscript>
+    
+    
+    
+    
+    
+    
+      <iframe src="http://web.tickle.com/ads/adcompixel.jsp" name="adcompix" id="adcompix" width="1" height="1" marginwidth="0" marginheight="0" scrolling="no" frameborder="0"></iframe>
+    
+    
+     
+    
+      
+        <div id="tickleftr">
+          
+            
+          
+        </div>
+      
+    
+    <div id="cornertear"></div>
+    
+    
+     
+      
+      
+    
+    
+    
+  </body>
+</html>
+
+

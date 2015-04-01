@@ -1,0 +1,299 @@
+<!-- URL: http://www.castlemountains.com/index.cfm?action=sendcard&card_id=666&type_id=3 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 14:38:21 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 63.215.75.61:80 -->
+<!-- IISExport: This web site was exported using IIS Export v4.2 -->
+<!-- IISExport: This web site was exported using IIS Export v4.2 -->
+<!-- Link: </style.css>; rel="StyleSheet"; title="CASTLEMOUNTAINS"; type="text/css" -->
+<!-- P3P: CP="CAO DSP COR CUR CON OUR STP UNI", policyref="http://www.flowgo.com/w3c/p3p.xml" -->
+<!-- Page-Completion-Status: Normal -->
+<!-- Page-Completion-Status: Normal -->
+<!-- Set-Cookie: FROM_EMAIL=; path=/;  -->
+<!-- Set-Cookie: FROM_NAME=; path=/;  -->
+<!-- Title: Best Free Postcards From Castlemountains Postcards -->
+
+ 
+	
+
+	
+	
+
+	
+
+	
+
+	<!-- CFERROR -->
+    
+
+
+
+
+	
+
+
+
+
+
+
+	
+
+		
+
+		
+			
+		
+
+		
+		
+	
+
+
+
+
+
+
+	
+	
+			
+	
+	
+
+	
+	
+
+
+
+
+	
+<html>
+<head>
+<title>Best Free Postcards From Castlemountains Postcards</title>
+<LINK REL=StyleSheet HREF="/style.css" TYPE=text/css TITLE=CASTLEMOUNTAINS>
+
+
+
+
+<!-- PREMIUM DISABLED -->
+	<script language="javascript" src="http://popups.ad-logics.com/popup1/js/for_site.cfm?site_id=31"></script> 
+
+
+
+</head>
+
+<body background="http://www.castlemountains.com/backs/nov05_back.jpg" bgcolor="ffffff" link="365964" vlink="365964" alink="DECBE1" text="365964" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" align="center">
+<tr valign="top">
+<td>
+
+
+<table border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#FFFFFF">
+  <tr>
+	<td width="1" bgcolor="#83C5EB"><img src="images/t.gif" width="1" height="1" alt="" border="0"></td>
+	<td>
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <tr>
+		<td>
+	<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID=logo WIDTH=640 HEIGHT=74>
+	<PARAM NAME=movie VALUE="http://www.castlemountains.com/winterlogo.swf">
+	<PARAM NAME=quality VALUE=high>
+	<PARAM NAME=bgcolor VALUE=#FFFFFF>
+    <embed src="http://www.castlemountains.com/winterlogo.swf" quality="high" bgcolor="#FFFFFF" WIDTH="640" HEIGHT="74" TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></OBJECT></td>
+	  </tr>
+	  <tr>
+		<td bgcolor="#83C5EB">
+	
+		<table width="100%" border="0" cellspacing="1" cellpadding="2">
+		  <tr>
+			<td class="textwhite"><a href="/" class="textwhite"><B>Home</B></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href=http://www.castlemountains.com/help/help2.shtml CLASS="textwhite"><b>Help</a></b></td>
+			<td align="right" class="textwhite"><b>Friday, December 30</b></td>
+			
+		  </tr>
+		</table>
+	
+		</td>
+	  </tr>
+	 <tr>
+		<td bgcolor="#000000"><img src="images/t.gif" width="1" height="1" alt="" border="0"></td>
+	  </tr>
+	  <tr>
+		<td bgcolor="#FFFFFF">
+
+		<table border="0" cellspacing="0" cellpadding="3" align="center">
+		  <tr>	
+			<td class="textwhite" align="center" valign="middle"><br>
+				<a href="http://www.flowgo.com/subscription/newsletter/subscribe.cfm?url=www.castlemountains.com/index.cfm&lid=18"><img src="images/bn_newsletter.gif" border="0">
+			</td>
+		  </tr>
+		</table>
+		</td>
+	  </tr>
+
+	</table>
+
+<br>
+
+<table width="630" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top">
+  	
+	<td>
+
+	<script language="JavaScript">
+	function clear_addresses()
+	{
+		referform.to_name_1.value = "";
+		referform.to_name_2.value = "";
+		referform.to_name_3.value = "";
+		referform.to_name_4.value = "";
+		referform.to_name_5.value = "";
+		referform.to_name_6.value = "";
+		referform.to_name_7.value = "";
+		referform.to_name_8.value = "";
+		referform.to_name_9.value = "";
+		referform.to_name_10.value = "";
+		referform.to_name_11.value = "";
+		referform.friendemail1.value = "";
+		referform.friendemail2.value = "";
+		referform.friendemail3.value = "";
+		referform.friendemail4.value = "";
+		referform.friendemail5.value = "";
+		referform.friendemail6.value = "";
+		referform.friendemail7.value = "";
+		referform.friendemail8.value = "";
+		referform.friendemail9.value = "";
+		referform.friendemail10.value = "";
+		referform.friendemail11.value = "";
+	}
+	function set_formfield(formname,formvalue)
+	{
+	
+	}
+	function set_boxvalue(insert_list)
+	{
+		document.referform.friendemail11.value = insert_list;
+		document.referform.friendemail11.style.display = "";		
+	}
+	function get_value(i)
+	{
+		return eval("document.referform.friendemail" + i + ".value");
+	}
+	function set_value(indexnum,value)
+	{
+		eval("document.referform.friendemail" + indexnum + ".value = " + value);
+	}
+	function get_handle(i)
+	{
+		return eval("document.referform.friendemail" + i);
+	}
+</script>
+
+
+
+<table width="96%" cellpadding="0" border="0" cellspacing="0" align="center">
+	<tr>
+		<td><img src="images/clearPixel.gif" height="10" width="5"></td>
+    	<td>
+        	<table width=1 align="center" cellpadding="1" cellspacing="0" border="0" align="center" bgcolor="#97C4DB">
+          		<tr valign="top">
+					<td>
+						<table width="100%" cellpadding="4" cellspacing="0" border="0" align="center" bgcolor="#97C4DB">
+							<tr valign="top">
+								<td>
+								
+									
+									<P ALIGN=Center><TABLE BORDER=4 CELLSPACING=2 CELLPADDING=3 BORDERCOLOR="#B9B9B9">
+	<TR>
+		<TD ALIGN=Center VALIGN=Middle><applet code="lake.class" codebase="http://www.castlemountains.net/wolf3/"
+width="284" height="390"><param name="image" value="http://www.castlemountains.net/wolf3/wolf56.jpg"></applet></TD></TR></TABLE>
+</P>
+									
+								
+									<script LANGUAGE="JavaScript" TYPE="text/javascript">
+										<!-- 
+										function referral() {
+										   location.href='#send'
+										}
+										//-->
+									</script>
+
+								</td>
+							</tr>
+						</table>
+            		</td>
+         		 </tr>
+        	</table>
+			<table width="98%" align="center" cellspacing=0 cellpadding=0 border=0>
+				<tr>
+					<td align="center">
+						<br>
+						
+						<p><a href="http://www.flowgo.com/refer/referral.cfm?page_id=53722"><img src="images/castlemount_btn_send.gif" alt="" border="0"></a></p>
+						
+					</td>
+				</tr>
+			</table>
+			<br><br>
+			<table width="98%" align="center" cellspacing=0 cellpadding=0 border=0>
+				<tr>
+					<td align="center"><script LANGUAGE="JavaScript1.1" SRC="http://deMR.imixserver.com/js.ng/site=intermix&affiliate=www.castlemountains.com&mixpage=hp&placement=mrec&fcat=&partner=No&random=24812965"></script>
+	<script language="javascript" src="http://www.flowgo.com/pop/de.cfm?affiliate=www.castlemountains.com&mixpage=hp&fcat=&partner=No&rand=24812965"></script>
+	
+</td>
+					<td><img src="images/clearPixel.gif" height="1" width="4"></td>
+					<td align="center"><script LANGUAGE="JavaScript1.1" SRC="http://deMR2.imixserver.com/js.ng/site=intermix&affiliate=www.castlemountains.com&mixpage=hp&placement=mrec2&fcat=&partner=No&random=77391206"></script>
+</td>
+				</tr>
+			</table> 
+
+  		</td>
+  		<td><img src="images/clearPixel.gif" height="10" width="5"></td>
+	</tr>
+</table>
+
+	<br><img src="images/t.gif" width="474" height="1" alt="" border="0">
+
+
+	</td>
+  </tr>
+</table>
+
+<div align="center">
+
+<hr width="98%" size="1">
+
+<script LANGUAGE="JavaScript1.1" SRC="http://deBNB.imixserver.com/js.ng/site=intermix&affiliate=www.castlemountains.com&mixpage=hp&placement=bbanner&fcat=&partner=No&random=59429198"></script>
+
+
+<hr width="98%" size="1">
+
+
+<TABLE border=0 cellPadding=0 cellSpacing=0 width=640><TR><TD width=100% class=t1 align=center>
+
+
+<A href=mailto:claudie1@telusplanet.net><B>Contact Us</B></A> - <A href=http://www.flowgo.com/flowgo2_privacy.cfm><B>Privacy Policy</B></A> - <a href="http://www.flowgo.com/subscription/newsletter/subscribe.cfm?url=www.castlemountains.com/index.cfm&lid=18" class="ff" alt="Subscribe"><B>Subscribe</B></a>
+
+</TD></TR></TABLE>
+
+<hr width="98%" size="1">
+
+<table width=100% border=0 cellspacing=0 cellpadding=0 bgcolor=#83C5EB>
+<tr><td bgcolor=black><img src=http://www.castlemountains.com/1.gif width=1 height=1></td></tr>
+<tr><td class=textwhite width=100% bgcolor=83C5EB align=center>© Copyright CastleMountains.com - All Rights Reserved.
+</td></tr>
+<tr><td bgcolor=black><img src=http://www.castlemountains.com/1.gif width=1 height=1></td></tr></table>
+
+</div>
+	<td width="1" bgcolor="#FFCBF1"><img src="http://www.castlemountains.com/images/t.gif" width="1" height="1" alt="" border="0"></td>
+  <tr>
+    <td colspan="3" bgcolor="#FFCBF1" width="681"><img src="http://www.castlemountains.com/images/t.gif" width="1" height="1" alt="" border="0"></td>
+  </tr>
+</table>
+</body>
+

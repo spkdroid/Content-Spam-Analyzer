@@ -1,0 +1,343 @@
+<!-- URL: http://www.versiontracker.com/dyn/moreinfo/win/16568 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0 -->
+<!-- Connection: close -->
+<!-- Date: Mon, 26 Dec 2005 04:48:45 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache/1.3.29 (Unix) PHP/4.3.7 mod_fastcgi/2.2.12 -->
+<!-- Content-Language: en-us -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Expires: Thu, 19 Nov 1981 08:52:00 GMT -->
+<!-- Expires: -1 -->
+<!-- Client-Peer: 66.179.48.100:80 -->
+<!-- Imagetoolbar: false -->
+<!-- Link: <http://image.versiontracker.com/styles/on/blue.css>; /="/"; media="screen"; rel="stylesheet"; title="blue"; type="text/css" -->
+<!-- Link: <http://www.versiontracker.com/windows/recent.rss>; /="/"; rel="alternate"; title="rss"; type="application/rss+xml" -->
+<!-- Set-Cookie: PHPSESSID=577a6292f23efc3fd0738cb6b5913826; path=/; domain=.versiontracker.com -->
+<!-- Set-Cookie: currentplatform=windows; expires=Sun, 26-Mar-06 04:48:45 GMT; path=/; domain=.versiontracker.com -->
+<!-- Title: FlaX 3.10 – Windows – VersionTracker -->
+<!-- X-Meta-Author: Jim Mock -->
+<!-- X-Meta-Copyright: Copyright (c) 1996-2005, TechTracker, Inc. -->
+<!-- X-Meta-Description: VersionTracker.com - Windows software source with downloads, reviews and information for finding and updating all commercial, shareware and freeware programs. -->
+<!-- X-Meta-Keywords: windows software, windows downloads, pc downloads, commercial software, software version, free software downloads, windows updates, mp3 software, freeware, free game downloads, shareware, beta, free game demos, demo, shareware games, updating software, windows shareware, anti virus software download, fax software download, dvd software downloads, software updates, pc software, pc download, pc updates, pc fonts, versiontracker, version tracker, versiontracker.com -->
+<!-- X-Meta-MSSmartTagsPreventParsing: true -->
+<!-- X-Powered-By: PHP/4.3.7 -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+	<title>FlaX 3.10 &ndash; Windows &ndash; VersionTracker</title>
+		<!-- Globals -->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Content-Language" content="en-us" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="-1" />
+		<meta name="description" content="VersionTracker.com - Windows software source with downloads, reviews and information for finding and updating all commercial, shareware and freeware programs." />
+		<meta name="keywords" content="windows software, windows downloads, pc downloads, commercial software, software version, free software downloads, windows updates, mp3 software, freeware, free game downloads, shareware, beta, free game demos, demo, shareware games, updating software, windows shareware, anti virus software download, fax software download, dvd software downloads, software updates, pc software, pc download, pc updates, pc fonts, versiontracker, version tracker, versiontracker.com" />
+		<!-- Copyright info -->
+		<meta name="copyright" content="Copyright (c) 1996-2005, TechTracker, Inc." />
+		<meta name="author" content="Jim Mock" />
+		<!-- Microsoft specific -->
+		<meta http-equiv="imagetoolbar" content="false" />
+		<meta name="MSSmartTagsPreventParsing" content="true" />
+		<!-- Stylesheets -->
+		<link rel="stylesheet" type="text/css" media="screen" href="http://image.versiontracker.com/styles/on/blue.css" title="blue" />
+		<style type="text/css" media="screen">@import "http://image.versiontracker.com/styles/tt.css";</style>
+		<style type="text/css" media="screen">@import "http://image.versiontracker.com/styles/common.css";</style>
+		<!-- RSS -->
+		<link rel="alternate" type="application/rss+xml" title="rss" href="http://www.versiontracker.com/windows/recent.rss" />
+		<!-- Scripts -->
+		<script type="text/javascript" src="http://image.versiontracker.com/js/minmax.js"></script>
+		<script type="text/javascript" src="/js/__utm.js"></script>
+		<script type="text/javascript" src="http://a.as-us.falkag.net/dat/dlv/aslmain.js"></script>
+		<script type="text/javascript" src="http://image.versiontracker.com/js/common.js"></script>
+		<script type="text/javascript">
+			var targetOS = 'Windows';
+			var tabsetting = targetOS;
+			var categoryOS = targetOS;
+			var ProductID = '16568';
+			var ProductDB = 'win';
+			var ProductCodeLetter = 'C';		
+		
+			function isUser() { return ; } 
+			function isPro() { return ; } 
+			function getEmail() { return ""; }
+			function getUID() { return ; } 
+			function doesUserGetAds() { return 1; }
+			function getPassword() { return ""; }
+
+		var modeArray = new Array(4);
+modeArray[160975] = new Array("All Feedback (0)","Reviews (0)","Troubleshooting (0)","Usage Tips (0)","Developer Notes (0)","Commentary (0)","Featured Feedback (0)");
+modeArray[135742] = new Array("All Feedback (0)","Reviews (0)","Troubleshooting (0)","Usage Tips (0)","Developer Notes (0)","Commentary (0)","Featured Feedback (0)");
+modeArray[53410] = new Array("All Feedback (3)","Reviews (2)","Troubleshooting (0)","Usage Tips (0)","Developer Notes (0)","Commentary (1)","Featured Feedback (0)");
+modeArray[14821] = new Array("All Feedback (0)","Reviews (0)","Troubleshooting (0)","Usage Tips (0)","Developer Notes (0)","Commentary (0)","Featured Feedback (0)");
+modeArray["All"] = new Array("All Feedback (3)","Reviews (2)","Troubleshooting (0)","Usage Tips (0)","Developer Notes (0)","Commentary (1)","Featured Feedback (0)");
+			// add a spinspot to screenshot page to count impressions
+			function adWrapScreenshot(url) {
+			   var adWindow = window.open("","newAdWin");
+			   var d = adWindow.document;
+			   d.write('<html><head><title>VersionTracker: Screenshots </title>');
+			   d.write('</head><body>');
+			   d.write('<img src="http://image.versiontracker.com' + url + '">');  
+			   //d.write('<sc'+'ript language="javascript" src="http://spinbox.techtracker.com/?DC=screenshot&JS=Y"></scr'+'ipt>');
+			   d.write('</body></html>');
+			}
+		</script>
+		<script type="text/javascript" src="http://image.versiontracker.com/js/moreinfo.js"></script>
+		<script type="text/javascript" src="http://image.versiontracker.com/js/moreInfoAdmin.js"></script>
+		<script type="text/javascript" src="http://image.versiontracker.com/js/jsRPC.js"></script>
+		<script type="text/javascript" src="http://image.versiontracker.com/js/quickRate.js"></script>
+	</head>
+	
+	<body>
+				<div id="mainWrapper">
+			<div id="wrapper">
+						
+		<div id="headWrap">
+			<div id="header">
+				<p class="topLogin"><a href="https://secure.versiontracker.com/?dest=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fwin%2F16568">Free Registration</a> | <a href="https://secure.versiontracker.com/login.php?dest=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fwin%2F16568">Login</a></p>
+				<p id="logo"><a href="/" target="_top"><img src="http://image.versiontracker.com/images/vtLogo.jpg" alt="VersionTracker" /></a></p>
+			</div>
+			<div id="headNav">
+				<ul>
+					<li class="first"><a href="/developer/login.php">Developers</a></li>
+					<li><a href="http://www.techtracker.com/" target="_blank">Advertisers</a></li>
+					<li><a href="/faq/">Support</a></li>
+					<li class="last"><a href="mailto:info&#64;versiontracker.com">Contact Us</a></li>
+				</ul>
+			</div>
+			<div id="headBottom">
+				<div id="searchWrapper">
+					<form method="get" action="/php/search.php" name="searchForm" target="_top" id="searchForm">
+						<input type="hidden" name="mode" value="basic" />
+						<input type="hidden" name="action" value="search" />
+						<label for="headSearch">Search:</label>
+						<input type="text" name="str" id="headSearch" />
+						<select name="plt[]">
+							<option label="Mac OS X" value="macosx">Mac OS X</option>
+							<option label="Mac OS 8/9" value="macos">Mac OS 8/9</option>
+							<option label="Windows" value="windows" selected="selected">Windows</option>
+							<option label="Palm OS" value="palmos">Palm OS</option>
+						</select>
+						<input type="image" src="http://image.versiontracker.com/images/go.gif" class="go" />
+					</form>
+					<div id="searchTypes">
+											</div>
+				</div>
+				<div id="platWrap">
+					<ul>
+						<li class="first">Platform:</li>
+						<li><a href="/macosx/">Mac OS X</a></li>
+<li><a href="/macos/">Mac OS 8/9</a></li>
+<li><a href="/windows/" class="here">Windows</a></li>
+<li><a href="/palmos/">Palm OS</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		
+		<div id="topBanner">
+<!-- BEGIN:   -->
+<script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=728;Ads_yl=90;Ads_xp='';Ads_yp='';Ads_xp1='';Ads_yp1='';Ads_opt=0;Ads_wrd='';Ads_prf='vendor=goldshell+digital+media+inc.;product=flax';Ads_par='';Ads_sec=0;Ads_cnturl='';</script>
+<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/09/67/58.js"></script>
+<!-- END: win_cat_utilities_top -->
+
+</div>
+<div id="nav">
+	<ul>
+		<li class="first1On"><a href="/windows/" class="first1On">Today's Updates</a></li>
+		<li class="cat1"><a href="/windows/updByCat.php" class="cat1">Updates by Category</a></li>
+		<li class="midnav1"><a href="/errpgs/pro_error.shtml?FID=TD&amp;origin=http%3A%2F%2Fwww.versiontracker.com%2Fwindows%2Ftopdl%2F&amp;dest=http%3A%2F%2Fwww.versiontracker.com%2Fwindows%2Ftopdl%2F" class="midnav1">Top Downloads</a></li>
+		<li class="midnav2"><a href="/errpgs/pro_error.shtml?FID=EP&amp;origin=http%3A%2F%2Fwww.versiontracker.com%2Fwindows%2Fep%2F&amp;dest=http%3A%2F%2Fwww.versiontracker.com%2Fwindows%2Fep%2F" class="midnav2">Editor's Picks</a></li>
+		<li class="midnav3"><a href="/tools/" class="midnav3">My Tools</a></li>
+	</ul>
+	<br />
+</div>
+				<div id="container">
+					<div id="prodWrap">
+						<div id="prodInfo">
+							<div class="rbtop"><div><div></div></div></div>
+							<div class="rbcontentwrap"><div class="rbcontent">
+									<h1><a href="/">Windows</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/windows/cat/utilities">Utilities</a>&nbsp;&nbsp;|&nbsp;&nbsp;<strong>FlaX</strong></h1>
+<div class="borderWrap">
+<table cellspacing="0" cellpadding="0" class="prodInfoTable">
+											<tr>
+												<td colspan="2"><img src="http://image.versiontracker.com/client_icons/win/14821/anyversion-icon-32x32-32bit.png" alt="FlaX" class="appIcon" /> <h2>FlaX - <span class="appVersion">3.10</span><br /><span class="desc">create text effects for Flash</span></h2></td>
+												<td class="prodQuickLinks" rowspan="2">
+													<p class="dlBox"><a href="http://tc.versiontracker.com/product/redir/lid/465336/download.cgi" onmouseover="window.status='http://www.flaxfx.com/cgi-bin/download.cgi?prog=flax&type=exe&site=2'" onmouseout="window.status=''" class="headerBlue" alt="Download FlaX" title="Download FlaX"><img src="http://image.versiontracker.com/images/dlbugNew.gif" alt="Download Now" /></a> <a href="http://tc.versiontracker.com/product/redir/lid/465336/download.cgi" onmouseover="window.status='http://www.flaxfx.com/cgi-bin/download.cgi?prog=flax&type=exe&site=2'" onmouseout="window.status=''" class="headerBlue" alt="Download FlaX" title="Download FlaX">Download Now</a><br /><span class="fileSize">(File Size: 677k)</span></p>
+<p class="emailAFriend"><img src="/images/iconEmailFriend.gif" alt="Email a Friend" /> <a href="javascript:emailAFriend();">E-mail a Friend</a></p>
+<div class="subToolsWrap">
+<div id="freeAlertPromoBox">
+<h2>Free Product Alerts!</h2>
+<p><img src="http://image.versiontracker.com/images/redBell.gif" alt="" /><a href="/errpgs/pro_error.shtml?FID=CA&amp;origin=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fwin%2F16568%26amp%3BshowOptions%3Dyes&amp;dest=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fwin%2F16568%26amp%3Bmsg%3DPLUS%2520Features%2520enabled%26amp%3BshowOptions%3Dyes">Notify me</a> when FlaX is updated on VersionTracker.</p>
+</div>
+<div id="buyProduct">
+</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="prodDevInfo" rowspan="2">
+													<ul>
+														<li><a href="#feedback">Feedback Summary</a></li>
+<li><a href="/dyn/moreinfo/win/16568&amp;mode=feedback">All Feedback</a> (<span id="feedbackCount"></span>)</li>
+<li><a href="#news">News</a></li>
+<li><a href = "/developer/12506/Goldshell+Digital+Media+Inc."> About Goldshell Digital Media Inc.</a></li>
+<li><a href="http://tc.versiontracker.com/product/redir/kind/0/db/win/id/16568/" onmouseover="return ws('http://www.goldshell.com/flax/main.htm')" onmouseout="foo()" target="_blank">Developer's Site</a></li>
+													</ul>
+												</td>
+												<td class="prodInfoBox"><table cellspacing="0" cellpadding="0" class="prodInfoBoxTable">
+<tr>
+<td class="left"><strong>All Time:</strong></td>
+<td><img src="http://image.versiontracker.com/images/starfull.gif" alt="" /><img src="http://image.versiontracker.com/images/starfull.gif" alt="" /><img src="http://image.versiontracker.com/images/starfull.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /> (2.5)</td>
+</tr>
+<tr>
+<td ><strong>This Version:</strong></td>
+<td>Not rated (0.0)</td>
+</tr>
+<tr class="odd">
+<td >Current Version:</td>
+<td>3.10</td>
+</tr>
+<tr class="even">
+<td >Release Date:</td>
+<td>2004-08-30</td>
+</tr>
+<tr class="odd">
+<td >License:</td>
+<td>Commercial</td>
+</tr>
+<tr class="even">
+<td >Downloads (this version):</td>
+<td>526</td>
+</tr>
+<tr class="odd">
+<td>Downloads (all versions):</td>
+<td>1,338</td>
+</tr>
+<tr class="even">
+<td >Price:</td>
+<td>$39.95</td>
+</tr>
+</table>
+</td>
+											</tr>
+										</table>
+									</div>
+									
+									<div id="relatedInfo">
+<p class="notifyUs"><a href="javascript:uuPopup();">Broken Link?	Newer Version?	Tell us!</a></p>
+<h2 class="relInfoHdr">Information Related to Version: <select name="vid" onchange="jumpTo(this);" class="relInfoSel"><option value="/dyn/moreinfo/win/16568&amp;vid=160975&amp;mode=info" selected="selected">3.10</option><option value="/dyn/moreinfo/win/16568&amp;vid=135742&amp;mode=info">3.01 (2004-02-29)</option><option value="/dyn/moreinfo/win/16568&amp;vid=53410&amp;mode=info">1.42 (2002-04-29)</option><option value="/dyn/moreinfo/win/16568&amp;vid=14821&amp;mode=info">1.31 (2001-07-30)</option></select></h2>
+<h2>Product Description:</h2>
+FlaX creates text effects for Macromedia Flash, and does that real-time! With its intuitive approach, it has raised the standards for Flash text effects.
+<br /><br />
+FlaX comes equipped with 42 highly adjustable effects, which the user can tweak using sliders and buttons, thus being able to create tens of thousands of unique effects.
+<br /><br />
+Any adjustment made takes effect immediately, which makes FlaX a productivity tool that you can't afford to miss out on. Creating high quality ShockWave material has never been so simple.
+
+Effects which were virtually impossible to create by hand in Flash have now become reality!
+
+<h2>Product Requirements:</h2>
+<ul>
+<li> Windows 95/98/ME/NT/2000</ul>
+<h2><a name="screenshots"></a>Screenshots:</h2>
+<p><strong>Developer:</strong> <a href="http://www.versiontracker.com/developer">Submit screenshots for FlaX</a></p>
+<h2><a name="additionalDL"></a>Download Links:</h2>
+<p><a href="http://tc.versiontracker.com/product/redir/lid/465336/download.cgi" onmouseover="return ws('http://www.flaxfx.com/cgi-bin/download.cgi?prog=flax&type=exe&site=2')" onmouseout="foo()">Download FlaX Now</a>&nbsp;(File Size: 677k)</p><script type="text/javascript">hideElement("newslink");</script></div>
+<div class="prodInfoBot">&nbsp;</div>
+<div id="prodReviews">
+<script type="text/javascript">
+	var d = document.getElementById("feedbackCount");	d.innerHTML = "1";</script>
+<a name="feedback"></a>
+<div class="feedbackSummary">
+<div class="resultLimiter">
+<a href="/dyn/moreinfo/win/16568&amp;mode=feedback" class="showAllFeedback">Show All Feedback (1)</a><img src="http://image.versiontracker.com/images/iconProMagnifyGlass.gif" alt="Search Feedback" class="magGlass" /><a href="/errpgs/pro_error.shtml?FID=AS&amp;dest=http%3A%2F%2Fwww.versiontracker.com%2Fphp%2Ffeedback%2Fsearch.php&amp;origin=http%3A%2F%2Fwww.versiontracker.com%2Fdyn%2Fmoreinfo%2Fwin%2F16568" class="searchFeedback">Search Feedback</a></div>
+<h2 class="feedbackSumHdr">Feedback Summary:</h2>
+<table cellpadding="0" cellspacing="0" class="prodRatingBox">
+<tr>
+<td colspan="6"><strong>This Version:</strong></td>
+</tr>
+<tr>
+<td>Overall Rating:</td>
+<td>Not rated (0.0)</td>
+<td>Features:</td>
+<td>Not rated (0.0)</td>
+<td>Support:</td>
+<td>Not rated (0.0)</td>
+</tr>
+<tr>
+<td>Ease of Use:</td>
+<td>Not rated (0.0)</td>
+<td>Quality / Stability:</td>
+<td>Not rated (0.0)</td>
+<td>Price:</td>
+<td>Not rated (0.0)</td>
+</tr>
+</table>
+<form action="/errpgs/pro_error.shtml"><input type="hidden" name="FID" value="PF" /><input type="hidden" name="dest" value="http%3A%2F%2Fwww.versiontracker.com%2Fphp%2Ffeedback%2Fsubmit.php%3FTID%3Dfeedback%26amp%3BcontentDB%3Dwin%26amp%3BcontentID%3D16568%26amp%3BpName%3DFlaX" /><input type="image" src="http://image.versiontracker.com/images/buttonAddFeedback.gif" name="submit" value="Add Your Feedback" /></form></div>
+<div class="feedbackKeyBox">
+<h3>Key to Types of Feedback</h3>
+<p class="feedbackKey"><img src="http://image.versiontracker.com/images/reviews.gif" alt="Reviews" />Reviews&nbsp;&nbsp;&nbsp;<img src="http://image.versiontracker.com/images/troubleshooting.gif" alt="Troubleshooting" />Troubleshooting&nbsp;&nbsp;&nbsp;<img src="http://image.versiontracker.com/images/usageTips.gif" alt="Usage Tips" />Usage Tips&nbsp;&nbsp;&nbsp;<img src="http://image.versiontracker.com/images/devNotes.gif" alt="Developer Notes" />Developer Notes&nbsp;&nbsp;&nbsp;<img src="http://image.versiontracker.com/images/commentaries.gif" alt="Commentary" />Commentary&nbsp;&nbsp;&nbsp;<img src="http://image.versiontracker.com/images/reviewsFeatured.gif" alt="Featured Reviews" />Featured Reviews</p>
+</div>
+<a name="1026630000537"></a>
+<div id="feedback1026630000537" class="odd">
+<div class="feedbackBody">
+<h3><img src="http://image.versiontracker.com/images/reviews.gif" alt = "FlaX Review" /><a href="/php/feedback/article.php?story=1026630000537">I'm the same&hellip;</a> <img src="http://image.versiontracker.com/images/starfull.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /><img src="http://image.versiontracker.com/images/starempty.gif" alt="" /> - <strong>Version:</strong> 1.42, 7/14/2002 02:21AM PST </h3>
+<p id="helpfulDiv1026630000537"></p><span class="userLink"><a href="/users/manders1966"><strong>manders1966</strong></a></span>
+<div class="commentWrap">
+guy that wrote the review below, and sadly I have to add that GoldShell media have disappointed me. Flax uses an XP-style serialisation technique - re-install your system and you'll need them to send you a new serial. Do it too many times in a row and they'll not send them any more. Experimenting with XP, I have installed several new systems in the last few months, and GoldShell have decided not to send m e any more serials, so that's $40 down the drain. Avoid. There are alternatives.</div>
+
+<span id="editorNote1026630000537" class="editorNote"></span><a href="/php/feedback/comment.php?sid=1026630000537"><img src="http://image.versiontracker.com/images/buttonReplyToComment.gif" alt="Post a comment" class="commentButt" /></a><a href="javascript:aaPopup('1026630000537')"><img src="http://image.versiontracker.com/images/buttonAlertAdmin.gif" alt="Alert Admin" class="commentButt" /></a><br class="clearLeft" />
+<p class="commentCount"></p>
+</div>
+</div>
+<br class="clearBoth" /></div>
+<div class="prodPageGoogleAd">
+<!-- BEGIN:   -->
+<script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=0;Ads_yl=0;Ads_xp='';Ads_yp='';Ads_xp1='';Ads_yp1='';Ads_opt=0;Ads_wrd='';Ads_prf='vendor=goldshell+digital+media+inc.;product=flax';Ads_par='';Ads_sec=0;Ads_cnturl='';</script>
+<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/09/69/64.js"></script>
+<!-- END: win_cat_utilities_context -->
+</div>
+									<div class="totalFiller">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Sed eu mi at massa ullamcorper aliquet. Morbi massa nibh, semper a, varius id, sagittis quis, lorem. Sed metus. Cras purus turpis, malesuada vitae, dignissim sed, aliquet eget, neque. Nullam vel libero ut magna euismod eleifend. Proin urna. Sed feugiat dapibus massa.</div>
+								</div></div>
+							<div class="rbbot"><div><div></div></div></div>
+						</div>
+					</div>
+				</div>
+				<div id="adsWrap">
+	<div id="ads">
+<!-- BEGIN:   -->
+<script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=160;Ads_yl=600;Ads_xp='';Ads_yp='';Ads_xp1='';Ads_yp1='';Ads_opt=0;Ads_wrd='';Ads_prf='vendor=goldshell+digital+media+inc.;product=flax';Ads_par='';Ads_sec=0;Ads_cnturl='';</script>
+<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/09/68/81.js"></script>
+<!-- END: win_cat_utilities_sky -->
+	</div>
+</div>
+				<div id = "edNoteformDiv" style = "position:absolute;border:2px solid #666;background:#eee;padding:5px;visibility:hidden;display:none;z-index:1000;width:400px;">
+<form method="post" action = "/php/jsrpc.php" name = "edNoteform">
+<b>Enter Note Here</b><input type="hidden" name="sid" value= "<Unknown>"><br/>
+<textarea name="editorNote" rows="10" style="width:390px;">
+This is the Editor note Input Form
+</textarea><br>
+<input type="button" name="closeEditorNote" value="Cancel Note" onclick="HideEdNote();" /><input type="button" name="submitEditorNote" value="Submit Note" onclick="saveEdNote();" />
+</form></div>
+
+				<div id="ScratchPad"></div>
+						<div id="bottomBanner">
+<!-- BEGIN:   -->
+<script language="javascript" type="text/javascript">Ads_kid=0;Ads_bid=0;Ads_xl=728;Ads_yl=90;Ads_xp='';Ads_yp='';Ads_xp1='';Ads_yp1='';Ads_opt=0;Ads_wrd='';Ads_prf='vendor=goldshell+digital+media+inc.;product=flax';Ads_par='';Ads_sec=0;Ads_cnturl='';</script>
+<script type="text/javascript" language="javascript" src="http://a.as-us.falkag.net/dat/cjf/00/09/67/59.js"></script>
+<!-- END: win_cat_utilities_bottom -->
+
+</div>
+		<div class="clearBoth">&nbsp;</div>
+		<div id="footer">
+			<p id="xmlRss"><a href="/faq/rss/"><img src="http://image.versiontracker.com/images/xml.jpg" alt="XML" /></a>&nbsp;&nbsp;<a href="/faq/rss/"><img src="http://image.versiontracker.com/images/rss.jpg" alt="RSS" /></a></p>
+			<p id="vtFoot">VersionTracker: Software Downloads and Updates.  <a href="http://www.techtracker.com/about/copyright.php" target="_blank">Copyright 1996-2005</a>.  <a href="http://www.techtracker.com/privacy" target="_blank">Privacy Policy</a> | <a href="http://www.techtracker.com/terms" target="_blank">Member Agreement</a><br />
+			VersionTracker is a part of the <a href="http://www.techtracker.com">TechTracker Network</a>. Visit <a href="http://www.computing.net">Computing Forums</a>.</p>
+		</div>
+			</div>
+		</div>
+	</body>
+</html>

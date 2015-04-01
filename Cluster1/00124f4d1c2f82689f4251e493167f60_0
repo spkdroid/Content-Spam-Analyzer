@@ -1,0 +1,24 @@
+<!-- URL: http://www.betrayal.org/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 06:08:39 GMT -->
+<!-- Server: Apache/2.0.46 (Red Hat) -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Client-Peer: 72.3.225.27:80 -->
+<!-- Title: www.betrayal.org -->
+
+<html>
+	<head>
+	<title>www.betrayal.org</title>
+
+	</head>
+
+	<!-- <frameset rows="90,*,45" frameborder="NO" border="0" framespacing="0"> -->
+	<frameset rows="*" frameborder="NO" border="0" framespacing="0">
+	<!-- <frame src="top_other.cgi?s=www.betrayal.org " name="topFrame" scrolling="NO" noresize> -->
+		<frame src="http://apps5.oingo.com/apps/domainpark/domainpark.cgi?s=www.betrayal.org&cid=BDOM3212&uid=130.207.117.49" name="mainFrame">
+	<!--   <frame src="/cgi-bin/bottom.cgi" name="bottomFrame" scrolling="NO" noresize marginheight="0" marginwidth="0"> -->
+	</frameset>
+
+	</html>
+	

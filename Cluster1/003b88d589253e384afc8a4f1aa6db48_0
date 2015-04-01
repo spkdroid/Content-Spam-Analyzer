@@ -1,0 +1,60 @@
+<!-- URL: http://awesomehealth.MedicalSource.com/lander.jsp?referrer=&domain=awesomehealth.net&cm_mmc= -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-cache, must-revalidate -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 18:04:16 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache -->
+<!-- Content-Length: 1437 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Mon, 26 Jul 1997 05:00:00 GMT -->
+<!-- Last-Modified: 30 Dec 2005 18:04:16 GMT -->
+<!-- Cartoon: Etch -->
+<!-- Client-Peer: 208.254.3.166:80 -->
+<!-- P3P: CP="NOI CURa ADMa OUR NOR BUS PHY ONL UNI PUR COM NAV STA" -->
+
+
+
+
+
+            <html>
+            <head>
+            <noscript>
+            Click <a href="/medicalsource/results.jsp?portal_id=144&domain=awesomehealth.net&keyword=health">here</a> if you are not redirected.
+            <meta http-equiv="refresh" content="1;url=/medicalsource/results.jsp?portal_id=144&domain=awesomehealth.net&keyword=health">
+            </noscript>
+
+            <script type="text/javascript" src="/cookies.js"></script>
+
+    <script language="javascript">
+    <!--
+    function bd_redirect()
+    {
+        self.location = "/medicalsource/results.jsp?portal_id=144&domain=awesomehealth.net&keyword=health";
+    }
+
+    // just in case we are directing back to seeq
+    setCookie("hasSession", "true");
+    setCookie("hasPops","false");
+
+    // set a session cookie for AB test
+    // A will be the basaeline until there is a B
+    setCookie("test", "A");
+
+    var img = new Image;
+    img.onload = bd_redirect;
+    img.onerror = bd_redirect;
+    img.onabort = bd_redirect;
+    img.src = "/servlet/ImageTracker?referrer=&provider=overture&domain=awesomehealth.net&timestamp=1135965856084";
+
+    setTimeout("bd_redirect()",5000);
+    //-->
+    </script>
+    </head>
+    <body>
+    <noscript>
+        <img width="1" height="1" src="/servlet/ImageTracker?referrer=&provider=overture&domain=awesomehealth.net&timestamp=1135965856084">
+    </noscript>
+    </body>
+    </html>
+

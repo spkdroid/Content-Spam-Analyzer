@@ -1,0 +1,31 @@
+<!-- URL: http://www.leadtecks.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 10:23:30 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 385 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 216.122.145.102:80 -->
+<!-- Refresh: 0; URL=http://64.225.154.135/index.asp?Site=bGVhZHRlY2tzLmNvbQ== -->
+<!-- Set-Cookie: ASPSESSIONIDCARBARAR=AFDOKHNBGLGGKCKCMPFBKIHD; path=/ -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+<html>
+<head>
+<script language="javascript">
+{
+function redirect(){
+var strTemp;
+var strPort;
+	strTemp = "http://64.225.154.135/index.asp?Site=bGVhZHRlY2tzLmNvbQ==";
+	top.location.replace(strTemp);
+}
+}
+</script>
+<meta http-equiv=Refresh content="0; URL=http://64.225.154.135/index.asp?Site=bGVhZHRlY2tzLmNvbQ=="> 
+</head>
+<body onLoad="redirect();">
+</body>
+</html>

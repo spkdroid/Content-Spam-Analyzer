@@ -1,0 +1,620 @@
+<!-- URL: http://www.art-inspirations.com/nihilisticart.html -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Sun, 25 Dec 2005 06:52:40 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "254156-c5d7-a10b1640" -->
+<!-- Server: Apache -->
+<!-- Content-Length: 50647 -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Last-Modified: Sat, 24 Dec 2005 18:52:01 GMT -->
+<!-- Client-Peer: 205.205.8.218:80 -->
+<!-- Link: <http://art-inspirations.com/inspirational-art.xml>; rel="alternate"; title="RSS"; type="application/rss+xml" -->
+<!-- Title: Nihilistic Art - by Dennis Engleman -->
+<!-- X-Meta-Description: Nihilistic Art - the Basis of Modern Art -->
+<!-- X-Meta-Keywords: nihilistic art, nihilism, dennis engleman -->
+<!-- X-Pad: avoid browser bug -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Nihilistic Art - by Dennis Engleman</TITLE>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://art-inspirations.com/inspirational-art.xml">
+<META Name="Description" Content="Nihilistic Art - the Basis of Modern Art">
+<META Name="Keywords" Content="nihilistic art, nihilism, dennis engleman">
+
+<script language="JavaScript">
+<!--
+ //browser detection
+function Is() 
+{
+   var agent = navigator.userAgent.toLowerCase();
+   this.major = parseInt(navigator.appVersion);
+   this.minor = parseFloat(navigator.appVersion);
+
+   this.ns = ((agent.indexOf('mozilla') != -1) && 	
+    (agent.indexOf('spoofer') == -1) && 
+    (agent.indexOf('compatible') == -1) && 
+    (agent.indexOf('opera') == -1) && 
+    (agent.indexOf('webtv') == -1));
+
+   this.ns2 = (this.ns && (this.major == 2));
+   this.ns3 = (this.ns && (this.major == 3));
+   this.ns4 = (this.ns && (this.major == 4));
+   this.ns6 = (this.ns && (this.major >= 5));
+   this.ie = (agent.indexOf("msie") != -1);
+   this.ie3 = (this.ie && (this.major < 4));
+   this.ie4 = (this.ie && (this.major == 4));
+   if(this.ie4 && (agent.indexOf("msie 5.0") != -1))
+   {
+      this.ie4=false;
+      this.ie5=true;
+   }
+
+   this.ieX = (this.ie && !this.ie3 && !this.ie4);
+}
+
+var is = new Is();
+
+//Write text on top of a layer
+function WriteLayer(id,text) 
+{
+   var DOM = (document.getElementById) ? true:false;	
+   var divID;
+
+   if (is.ns4) divID = document.layers[id];
+   else if (is.ie4) divID = document.all[id];
+   else if (DOM) divID = document.getElementById(id);
+
+   if (is.ns4) 
+   {
+      divID.document.open();
+      divID.document.write(text);
+      divID.document.close();
+   }
+   else if (DOM ||is.ie4) 
+   {
+      divID.innerHTML = text;						
+   }
+}
+
+function SetLayerVisibility(id,visibility)
+{
+   if (is.ieX||is.ns6)
+   {
+        this.obj = document.getElementById(id).style;
+        this.obj.visibility = visibility;
+   }
+   else if(is.ie4)
+   {
+        this.obj = document.all[id].style;
+        this.obj.visibility = visibility;
+   }
+   else if(is.ns4)
+   {
+        this.obj = document.layers[id];
+        return this.obj;
+   }
+}
+
+function SubmitData(code)
+{
+   var flag;
+
+   flag = eval('isReady_' + code + '()');
+
+   if (!flag)
+   {
+	return false;
+   }   
+   eval('document._' + code + '.target="_self";');
+   eval('document._' + code + '.submit();');
+}
+
+var Reqd;
+var eMai;
+
+function trim(s)
+{
+   while (s.substring(0,1) == ' ')
+   {
+      s = s.substring(1,s.length);
+   }
+   while (s.substring(s.length-1,s.length) == ' ')
+   {
+      s = s.substring(0,s.length-1);
+   }
+   return s;
+}
+
+function CheckEmail(eMai)
+{
+    eMai=trim(eMai);
+    var ok = "1234567890abcdefghijklmnopqrstuvwxyz[].\@-_ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    for(h=0; h < eMai.length ;h++)
+    {
+        if(ok.indexOf(eMai.charAt(h))<0)
+        {
+            return (false);
+        }
+    }
+    var re = /(@.*@)|(\.\.)|(^\.)|(^@)|(@$)|(\.$)|(@\.)/;
+    var re_two = /^.+\@(\[?)[a-zA-Z0-9\-\.]+\.([a-zA-Z]{2,4}|[0-9]{1,4})(\]?)$/;
+    if (!eMai.match(re) && eMai.match(re_two))
+    {
+        return -1;
+    }
+}
+
+ function isReady_6426805776930433()
+{
+   var bFieldsFilled=true;
+   
+    if (document._6426805776930433._6471027448509442.value == "")
+    {
+        var Bl='B'+"_6426805776930433_6471027448509442";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_6471027448509442";
+        SetLayerVisibility(Re,"visible");
+
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._6471027448509442.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_6471027448509442";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_6471027448509442";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._0635750464625588.value == "")
+    {
+        var Bl='B'+"_6426805776930433_0635750464625588";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_0635750464625588";
+        SetLayerVisibility(Re,"visible");
+
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._0635750464625588.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_0635750464625588";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_0635750464625588";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._0086665171381343.value == "")
+    {
+        var Bl='B'+"_6426805776930433_0086665171381343";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_0086665171381343";
+        SetLayerVisibility(Re,"visible");
+
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._0086665171381343.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_0086665171381343";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_0086665171381343";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+    Reqd='*'; 
+
+    eMai=document._6426805776930433._0086665171381343.value;
+      
+    if(eMai.length && !CheckEmail(eMai))
+    {
+        var Bl='B'+"_6426805776930433_0086665171381343";
+        WriteLayer(Bl,"<td align=left><font color='red'><b>The e-mail address<br>is not valid.<br>Please correct it.</b></font></td>");
+
+        document._6426805776930433._0086665171381343.style.background = "#ff0000";
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._0086665171381343.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_0086665171381343";
+        var str="<td><b>E-mail Address"+Reqd+"</b></td>";      
+        WriteLayer(Bl,str);
+        document._6426805776930433._0086665171381343.style.background = "#ffffff";
+    }
+
+  
+    if (document._6426805776930433._1258929729137137.value == "")
+    {
+        var Bl='B'+"_6426805776930433_1258929729137137";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_1258929729137137";
+        SetLayerVisibility(Re,"visible");
+
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._1258929729137137.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_1258929729137137";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_1258929729137137";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._5482623823992979.value == "")
+    {
+        var Bl='B'+"_6426805776930433_5482623823992979";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_5482623823992979";
+        SetLayerVisibility(Re,"visible");
+
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._5482623823992979.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_5482623823992979";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_5482623823992979";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._6782537171260208.value == "")
+    {
+        var Bl='B'+"_6426805776930433_6782537171260208";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_6782537171260208";
+        SetLayerVisibility(Re,"visible");
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._6782537171260208.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_6782537171260208";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_6782537171260208";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._5888719182716393.value == "")
+    {
+        var Bl='B'+"_6426805776930433_5888719182716393";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_5888719182716393";
+        SetLayerVisibility(Re,"visible");
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._5888719182716393.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_5888719182716393";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_5888719182716393";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+    if (document._6426805776930433._7854260528612510.value == "")
+    {
+        var Bl='B'+"_6426805776930433_7854260528612510";
+        SetLayerVisibility(Bl,"hidden");
+
+        var Re='R'+"_6426805776930433_7854260528612510";
+        SetLayerVisibility(Re,"visible");
+        if( bFieldsFilled)
+        {
+           document._6426805776930433._7854260528612510.focus();
+           bFieldsFilled=false;
+        }
+    }
+    else
+    {
+        var Bl='B'+"_6426805776930433_7854260528612510";
+        SetLayerVisibility(Bl,"visible");
+
+        var Re='R'+"_6426805776930433_7854260528612510";
+        SetLayerVisibility(Re,"hidden");
+    }
+
+
+   if(!bFieldsFilled)
+   {
+      var str='<br><b><FONT size="3" face="Verdana, Arial, Helvetica, sans-serif" color="red">';
+          str +='This Form cannot be submitted until the missing<BR>';
+          str +='fields (labelled below in red) have been filled in.</FONT></b>';
+      WriteLayer("MissingFields_6426805776930433",str);
+
+
+      SetLayerVisibility("MissingFields_6426805776930433","visible");
+   }
+   else
+   {
+      SetLayerVisibility("MissingFields_6426805776930433","hidden");
+   }
+   return bFieldsFilled;
+}
+
+ 
+ --></script>
+<script language="JavaScript">
+<!--
+
+function MM_swapImgRestore() 
+{
+    var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() 
+{
+    var d=document; 
+    if(d.images)
+    { 
+	if(!d.MM_p) d.MM_p=new Array();
+	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
+	for(i=0; i<a.length; i++)
+	    if (a[i].indexOf("#")!=0)
+	    { 
+		d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
+	    }
+    }
+}
+
+function MM_swapImage() 
+{
+    var i,j=0,x,a=MM_swapImage.arguments; 
+    document.MM_sr=new Array; 
+    for(i=0;i<(a.length-2);i+=3)
+	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) 
+{
+    window.open(theURL,winName,features);
+}
+
+function MM_findObj(n, d) 
+{
+    var p,i,x;  
+    if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) 
+    {
+	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
+    }
+    if(!(x=d[n])&&d.all) 
+	x=d.all[n]; 
+    for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+    for(i=0;!x&&d.layers&&i<d.layers.length;i++) 
+	x=MM_findObj(n,d.layers[i].document);
+    if(!x && d.getElementById) 
+	x=d.getElementById(n); 
+    return x;
+			
+}
+//-->
+</script>
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_displayStatusMsg(msgStr) { //v1.0
+  status=msgStr;
+  document.MM_returnValue = true;
+}
+//-->
+</script>
+
+
+
+</HEAD>
+<BODY link="Blue" vlink="Purple" alink="Red" background="imgs/BACK.gif" BGCOLOR="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onLoad="MM_preloadImages('http://art-inspirations.com/imgs/index.gif', 'http://art-inspirations.com/imgs/index-over.gif', 'http://art-inspirations.com/imgs/inspirational-art-blog.gif', 'http://art-inspirations.com/imgs/inspirational-art-blog-over.gif', 'http://art-inspirations.com/imgs/inspirational-art-gallery.gif', 'http://art-inspirations.com/imgs/inspirational-art-gallery-over.gif', 'http://art-inspirations.com/imgs/bouguereau-gallery.gif', 'http://art-inspirations.com/imgs/bouguereau-gallery-over.gif', 'http://art-inspirations.com/imgs/engleman-inspirational-art.gif', 'http://art-inspirations.com/imgs/engleman-inspirational-art-over.gif', 'http://art-inspirations.com/imgs/motivational-art.gif', 'http://art-inspirations.com/imgs/motivational-art-over.gif', 'http://art-inspirations.com/imgs/religious-art.gif', 'http://art-inspirations.com/imgs/religious-art-over.gif', 'http://art-inspirations.com/imgs/floral-art.gif', 'http://art-inspirations.com/imgs/floral-art-over.gif', 'http://art-inspirations.com/imgs/landscapeart.gif', 'http://art-inspirations.com/imgs/landscapeart-over.gif', 'http://art-inspirations.com/imgs/mother-child.gif', 'http://art-inspirations.com/imgs/mother-child-over.gif', 'http://art-inspirations.com/imgs/love-and-romance.gif', 'http://art-inspirations.com/imgs/love-and-romance-over.gif', 'http://art-inspirations.com/imgs/inspirational-illustrations.gif', 'http://art-inspirations.com/imgs/inspirational-illustrations-over.gif', 'http://art-inspirations.com/imgs/army-ranger-training.gif', 'http://art-inspirations.com/imgs/army-ranger-training-over.gif', 'http://art-inspirations.com/imgs/holiday-specials.gif', 'http://art-inspirations.com/imgs/holiday-specials-over.gif', 'http://art-inspirations.com/imgs/free-image-downloads.gif', 'http://art-inspirations.com/imgs/free-image-downloads-over.gif', 'http://art-inspirations.com/imgs/art-lesson.gif', 'http://art-inspirations.com/imgs/art-lesson-over.gif', 'http://art-inspirations.com/imgs/art-history.gif', 'http://art-inspirations.com/imgs/art-history-over.gif', 'http://art-inspirations.com/imgs/unique-jewelry.gif', 'http://art-inspirations.com/imgs/unique-jewelry-over.gif', 'http://art-inspirations.com/imgs/travel-germany.gif', 'http://art-inspirations.com/imgs/travel-germany-over.gif', 'http://art-inspirations.com/imgs/travel-greece-patmos.gif', 'http://art-inspirations.com/imgs/travel-greece-patmos-over.gif', 'http://art-inspirations.com/imgs/travel-eastern-europe.gif', 'http://art-inspirations.com/imgs/travel-eastern-europe-over.gif', 'http://art-inspirations.com/imgs/art-articles.gif', 'http://art-inspirations.com/imgs/art-articles-over.gif', 'http://art-inspirations.com/imgs/art-inspirations-newsletters.gif', 'http://art-inspirations.com/imgs/art-inspirations-newsletters-over.gif', 'http://art-inspirations.com/imgs/inspirational-art-links.gif', 'http://art-inspirations.com/imgs/inspirational-art-links-over.gif', 'http://art-inspirations.com/imgs/contact-art-inspirations.gif', 'http://art-inspirations.com/imgs/contact-art-inspirations-over.gif', 'http://art-inspirations.com/imgs/printmaking-services.gif', 'http://art-inspirations.com/imgs/printmaking-services-over.gif')">
+<TABLE WIDTH="725" BORDER="0" CELLSPACING="0" CELLPADDING="0" align="center">
+<TR>
+<TD colspan="2"><IMG src="imgs/logo.jpg"></TD>
+</TR>
+
+<TR>
+<TD VALIGN="TOP" width="130" background="imgs/LEFT.gif">
+<DIV id="Layer1" style="position:absolute; width:130px; z-index:1; top: 120">
+<p align="center"><table width="90%" cellpadding="3" cellspacing="0" bgcolor="" border="1" bordercolor="#cccccc"><tr><td align="center"><a href="http://www.art-inspirations.com/inspirational-art.xml" target="_new" onClick="alert('Sorry, please right-click on this button, and then copy the shortcut (the URL of this link). Paste that URL into your RSS reader. If this message is confusing, close this window and then please click on the &quot;What\'s an RSS feed?&quot; link just below the orange button.'); return false;"><IMG SRC="http://www.art-inspirations.com/objects/xml-rss.gif"WIDTH="72" HEIGHT="14" ALIGN="absmiddle" BORDER="0" vspace="3"></a><br><a href="http://www.art-inspirations.com/help/rss.html" target="_new"><font size="1" face="Arial, Helvetica, sans-serif">What's an RSS feed?</font></a><br><a href="http://add.my.yahoo.com/content?.intl=us&url=http://www.art-inspirations.com/inspirational-art.xml" target="yahoo_window"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo2.gif" 
+ width="100" height="14" border="0" align="middle" alt="Add to My Yahoo!" vspace="8"></a><br><a href="http://my.msn.com/addtomymsn.armx?id=rss&ut=http://www.art-inspirations.com/inspirational-art.xml&ru=http://www.art-inspirations.com" 
+target="msn_window">
+<IMG SRC="http://www.art-inspirations.com/objects/mymsn.gif" width="78" height="17" 
+border="0" alt="Add to My MSN"></a><br><a href="http://fusion.google.com/add?feedurl=http://www.art-inspirations.com/inspirational-art.xml" 
+ target="google_window"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="104" height="17" 
+border="0" alt="Add to Google" vspace="8"></a><br></td></tr></table></p>
+<BR>
+<A href="http://www.art-inspirations.com/index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('index','','http://art-inspirations.com/imgs/index-over.gif',1)"><IMG name="index" border="0" src="http://art-inspirations.com/imgs/index.gif"></A><BR>
+<A href="http://www.art-inspirations.com/inspirational-art-blog.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image0','','http://art-inspirations.com/imgs/inspirational-art-blog-over.gif',1)"><IMG name="Image0" border="0" src="http://art-inspirations.com/imgs/inspirational-art-blog.gif"></A><BR>
+<A href="http://www.art-inspirations.com/inspirational-art-gallery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image1','','http://art-inspirations.com/imgs/inspirational-art-gallery-over.gif',1)"><IMG name="Image1" border="0" src="http://art-inspirations.com/imgs/inspirational-art-gallery.gif"></A><BR>
+<A href="http://www.art-inspirations.com/bouguereau-gallery.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image2','','http://art-inspirations.com/imgs/bouguereau-gallery-over.gif',1)"><IMG name="Image2" border="0" src="http://art-inspirations.com/imgs/bouguereau-gallery.gif"></A><BR>
+<A href="http://www.art-inspirations.com/engleman-inspirational-art.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image3','','http://art-inspirations.com/imgs/engleman-inspirational-art-over.gif',1)"><IMG name="Image3" border="0" src="http://art-inspirations.com/imgs/engleman-inspirational-art.gif"></A><BR>
+<A href="http://www.art-inspirations.com/motivational-art.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image4','','http://art-inspirations.com/imgs/motivational-art-over.gif',1)"><IMG name="Image4" border="0" src="http://art-inspirations.com/imgs/motivational-art.gif"></A><BR>
+<A href="http://www.art-inspirations.com/religious-art.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image5','','http://art-inspirations.com/imgs/religious-art-over.gif',1)"><IMG name="Image5" border="0" src="http://art-inspirations.com/imgs/religious-art.gif"></A><BR>
+<A href="http://www.art-inspirations.com/floral-art.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image6','','http://art-inspirations.com/imgs/floral-art-over.gif',1)"><IMG name="Image6" border="0" src="http://art-inspirations.com/imgs/floral-art.gif"></A><BR>
+<A href="http://www.art-inspirations.com/landscapeart.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image7','','http://art-inspirations.com/imgs/landscapeart-over.gif',1)"><IMG name="Image7" border="0" src="http://art-inspirations.com/imgs/landscapeart.gif"></A><BR>
+<A href="http://www.art-inspirations.com/mother-child.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image8','','http://art-inspirations.com/imgs/mother-child-over.gif',1)"><IMG name="Image8" border="0" src="http://art-inspirations.com/imgs/mother-child.gif"></A><BR>
+<A href="http://www.art-inspirations.com/love-and-romance.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image9','','http://art-inspirations.com/imgs/love-and-romance-over.gif',1)"><IMG name="Image9" border="0" src="http://art-inspirations.com/imgs/love-and-romance.gif"></A><BR>
+<A href="http://www.art-inspirations.com/inspirational-illustrations.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image10','','http://art-inspirations.com/imgs/inspirational-illustrations-over.gif',1)"><IMG name="Image10" border="0" src="http://art-inspirations.com/imgs/inspirational-illustrations.gif"></A><BR>
+<A href="http://www.art-inspirations.com/army-ranger-training.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image11','','http://art-inspirations.com/imgs/army-ranger-training-over.gif',1)"><IMG name="Image11" border="0" src="http://art-inspirations.com/imgs/army-ranger-training.gif"></A><BR>
+<A href="http://www.art-inspirations.com/holiday-specials.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image12','','http://art-inspirations.com/imgs/holiday-specials-over.gif',1)"><IMG name="Image12" border="0" src="http://art-inspirations.com/imgs/holiday-specials.gif"></A><BR>
+<A href="http://www.art-inspirations.com/free-image-downloads.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','http://art-inspirations.com/imgs/free-image-downloads-over.gif',1)"><IMG name="Image13" border="0" src="http://art-inspirations.com/imgs/free-image-downloads.gif"></A><BR>
+<A href="http://www.art-inspirations.com/art-lesson.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image14','','http://art-inspirations.com/imgs/art-lesson-over.gif',1)"><IMG name="Image14" border="0" src="http://art-inspirations.com/imgs/art-lesson.gif"></A><BR>
+<A href="http://www.art-inspirations.com/art-history.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image15','','http://art-inspirations.com/imgs/art-history-over.gif',1)"><IMG name="Image15" border="0" src="http://art-inspirations.com/imgs/art-history.gif"></A><BR>
+<A href="http://www.art-inspirations.com/unique-jewelry.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image16','','http://art-inspirations.com/imgs/unique-jewelry-over.gif',1)"><IMG name="Image16" border="0" src="http://art-inspirations.com/imgs/unique-jewelry.gif"></A><BR>
+<A href="http://www.art-inspirations.com/travel-germany.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image17','','http://art-inspirations.com/imgs/travel-germany-over.gif',1)"><IMG name="Image17" border="0" src="http://art-inspirations.com/imgs/travel-germany.gif"></A><BR>
+<A href="http://www.art-inspirations.com/travel-greece-patmos.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image18','','http://art-inspirations.com/imgs/travel-greece-patmos-over.gif',1)"><IMG name="Image18" border="0" src="http://art-inspirations.com/imgs/travel-greece-patmos.gif"></A><BR>
+<A href="http://www.art-inspirations.com/travel-eastern-europe.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image19','','http://art-inspirations.com/imgs/travel-eastern-europe-over.gif',1)"><IMG name="Image19" border="0" src="http://art-inspirations.com/imgs/travel-eastern-europe.gif"></A><BR>
+<A href="http://www.art-inspirations.com/art-articles.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image20','','http://art-inspirations.com/imgs/art-articles-over.gif',1)"><IMG name="Image20" border="0" src="http://art-inspirations.com/imgs/art-articles.gif"></A><BR>
+<A href="http://www.art-inspirations.com/art-inspirations-newsletters.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image21','','http://art-inspirations.com/imgs/art-inspirations-newsletters-over.gif',1)"><IMG name="Image21" border="0" src="http://art-inspirations.com/imgs/art-inspirations-newsletters.gif"></A><BR>
+<A href="http://www.art-inspirations.com/inspirational-art-links.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image22','','http://art-inspirations.com/imgs/inspirational-art-links-over.gif',1)"><IMG name="Image22" border="0" src="http://art-inspirations.com/imgs/inspirational-art-links.gif"></A><BR>
+<A href="http://www.art-inspirations.com/contact-art-inspirations.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image23','','http://art-inspirations.com/imgs/contact-art-inspirations-over.gif',1)"><IMG name="Image23" border="0" src="http://art-inspirations.com/imgs/contact-art-inspirations.gif"></A><BR>
+<A href="http://www.art-inspirations.com/printmaking-services.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image24','','http://art-inspirations.com/imgs/printmaking-services-over.gif',1)"><IMG name="Image24" border="0" src="http://art-inspirations.com/imgs/printmaking-services.gif"></A><BR>
+<BR>
+<BR>
+
+</DIV>
+<IMG src="imgs/LEFT.gif"></TD>
+<TD VALIGN="TOP" width="595">
+
+<TABLE WIDTH="550" BORDER="0" CELLPADDING="8" CELLSPACING="0">
+<TR>
+<TD width="15">&nbsp;</TD>
+<TD>
+<FONT face="Verdana, Arial, Helvetica, sans-serif" size="2">
+<h2 align="Center">Nihilistic Art <br>The Basis of Modern Art</h2>
+<h3 align="Center">by Dennis Engleman</h3>
+<table width="550" cellpadding="3" cellspacing="3"><tr><td valign="top"><font size="3"><p align="Left">
+When we say the basis of modern art is nihilism, or nihilistic art, it is fitting to examine the opposite artistic quality.  Good art is art that in its truest form represents man’s attempt to replicate and celebrate the divine, living beauty that characterizes this universe.  No other form of art is worthy a creature destined to take his place in heaven alongside the angels.  This need not mean that all art must be ecclesial or “religious” per se.  <p align="Left">
+But to be considered great and meriting an audience’s attention, it certainly ought to suggest eternal verities to the viewer’s mind.  William Bouguereau’s work shows that he believed his own words on this subject:<p align="Left">
+<P><center><img src="http://www.art-inspirations.com/images/Work_Interrupted-William Bouguereau.jpg" width="180" height="305" border="0" hspace="5" vspace="5" alt="Femme"><br><i>"Work Interrupted"<br>William Bouguereau </i></center><p align="Left">
+<p align="Left">
+</font></td><td width="150" align="center"><script type="text/javascript"><!--
+google_ad_client = "pub-4958388429433085";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "text";
+google_ad_channel ="1857143571";
+google_color_border = "FFCC99";
+google_color_bg = "FFCC99";
+google_color_link = "0000FF";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script><script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script></td></tr></table>
+<table width="550" cellpadding="3" cellspacing="3"><tr><td valign="top"><font size="3"><i>"One has to seek Beauty and Truth, Sir! As I always say to my pupils, you have to work to the finish. There's only one kind of painting. It is the painting that presents the eye with perfection, the kind of beautiful and impeccable enamel you find in Veronese and Titian."</i><p align="Left">
+Frederick Nietzsche articulated the credo of nihilistic art by declaring that art should be created "for art’s sake alone."  This narcissistic focus pulled art from its moorings in reality and sent it into an abyss of irrational and meaningless foolishness.  Beyond this, Nietzsche declared “truth is ugly” and worse, “there is no truth.”  The real world, he complained, is “false, cruel, contradictory, deductive, and without meaning.”  Never mind that Nietzche ended his vain life as a madman; his stupid, irrational ideas have inspired revolutions and destroyed cultures.<p align="Left">
+<i>Art for art's sake</i> is the modern art mantra, and the motto of nihilistic art as well.  This is art completely unattached to reality, except to reject it. Nihilistic artists typically define themselves as working "against" beauty and truth.  They work against because that is the only direction they have left.  <p align="Left">
+Nihilistic art refuses to admit truth, finds truth nowhere, not even in itself.  Therefore what is "art for art's sake" but a vision of eternal nothingness?  It postulates and glorifies the emptiness of non-being and must do so by force of bare will, for all this goes completely and radically against human nature. 	<p align="Left">
+Nietzsche did not “create” nihilism of course, but he articulated it so effectively that otherwise intelligent people may doubt their own senses and life-experience, and agree with him that beauty is ugliness and ugliness is beautiful.  Nor did he create nihilist art, per se either, though he yearned to see and hear it.<p align="Left">
+Nihilism is at basis a denial of revealed truth.  Nihilistic artists claim that nothing can be true, therefore everything is meaningless. Nietzsche's infernal vision of a mankind turned in upon the void was taken up in visual art by men like Pablo Picasso, and in music by musicians such as Arnold Schoenberg.   <p align="Left">
+  <P><center><img src="http://www.art-inspirations.com/images/Femme_a_la_Resille-Pablo Picasso.jpg" width="100" height="123" border="0" hspace="5" vspace="5" alt="Femme"><br><i>"Femme a la Resille"<br>Pablo Picasso </i></center><p align="Left">
+Pablo Picasso is one of many artists whose artistic talents, whatever they may have been, were corrupted by nihilism. "I have a horror of people who speak about the beautiful. What is the beautiful?" (Liberman, Picasso, Vogue, November 1, 1956)  <p align="Left">
+<p align="Left">
+Picasso’s comments show him to both unoriginal and diabolical in thought.  He adopted Nietzsche’s absurd philosophy and used it to create anti-art. "What is truth? Truth cannot exist. ... Truth does not exist. ... Truth is a lie." (Parmelin, Picasso: The Artist, His Model, and Other Related Works, 1965, p. 110).  What profound thoughts, those!  He places nihilistic art at the apex of human achievement and declares this greatness.  How is it that so many congratulatory books are written about the death of the human spirit? <p align="Left">
+<P><center><img src="http://www.art-inspirations.com/images/Woman_with_a_Blue_Hat-Pablo Picasso.jpg" width="100" height="119" border="0" hspace="5" vspace="5" alt="Tristan & Isolde"><br><i>"Woman with a Blue Hat"<br>Pablo Picasso </i></center><p align="Left">
+"The goal I proposed myself in making cubism? To paint and nothing more. And to paint seeking a new expression, divested of useless realism, with a method linked only to my thought - without enslaving myself with objective reality. Neither the good nor the true; neither the useful or the useless." Picasso (Del Pomar, Con las Buscadores del Camino, 1932, p. 126). <p align="Left">
+<p align="Left">
+This is the deceit of nihilistic art - it claims to be all while it is actually nothing.  It claims to be honest while it is based on the most sinister and unrepentant lie.  It claims to represent reality while it has no preception of truth. <p align="Left">
+Art Renewal Chairman Fred Ross clearly links modern art to nihilism:<p align="Left">
+"Modern and Post-modern Art is nihilistic and anti-human. It denigrates humanity along with our hopes, dreams, desires and the real world in which we live. All reference to any of these things is forbidden in the canonistic halls of modernist ideology. We can see that their hallowed halls are a hollow shell, a vacuous, vacant vault that locks their devotees away from life and humanity. It ultimately bores the overwhelming bulk of its would-be audience, who can find nothing with which to relate.<p align="Left">
+"It has been called exciting and cutting-edge, but the sad truth is that it is incredibly humdrum and monotonous. Whether you glue together pieces of plastic or shards of glass, assemble metal scraps or piles of feathers. Whether you dribble little dollops of colors or drag fat uneven slashes of black. Whether you compile a mountain of paper or wrap the Statue of Liberty. The effect is always the same. MEANINGLESS PRIMITIVISM. <p align="Left">
+"Modernism is art about art. It endlessly asks the question, ad nauseum: What is art? What is art? Only those things that expand the boundaries of art are good; all else is bad. It is art about art. Whereas all the great art in history, my friends, is ART ABOUT LIFE.<p align="Left">
+"Of course, this isn't exactly the first time in history that ideas which were complete shams managed to engulf the belief systems of entire cultures and civilizations. In many of those in the past, the lunacy was enforced by the severest of punishments for anyone who would dare to speak out. At least we live in a time and place where it's possible to speak against this consummate con that has been perpetrated against the greatest period of artistic development and achievement in the history of Western Civilization and culture over the last 500 years. Three-quarters of the 20th century will go down in art history as a great wasteland of insanity -- a nightmarish blip in the long road of the development of human logic and reason and art, from which we are only just starting to awake."  <p align="Left">
+To read more of Mr. Ross' insightful comments, go to <a href="http://www.artrenewal.org/articles/2001/ASOPA/bad_art_good_art3.asp" target="new">Art Renewal Center.</a><p align="Left">
+Like all that makes a pretense of truth while actually being a lie, nihilistic art is addictive and infects those who surrender themselves to it with a false sense of superior insight and ability.  Yet when the works produced under the influence of this philosophy are compared with true masters of meaning and beauty, they are found to be abysmally lacking in every beneficial quality.  </font></td></tr></table>
+<p><p>For more information, click
+<a href="http://www.apologetics.org/books/zeropoint.html" onClick="window.open('/cgi-bin/counter.pl?url=http%3A%2F%2Fwww.apologetics.org%2Fbooks%2Fzeropoint.html&referrer=http%3A%2F%2Fwww.art-inspirations.com%2Fnihilisticart.html'); return false;">Nihilistic Art.</a>
+<hr size="4" width="100%" align="Center" >
+<p><b>Nihilistic Art - the Basis of Modern Art</b> is written and copyrighted by Dennis Eugene Engleman. Permission is granted to copy articles in whole or in part for content on other websites so long as the following considerations are met: <ul><li>Author Dennis Engleman is contacted via the "USE" form below.</li><p align="Left">
+<li>Author Dennis Engleman is credited as the author of the writing.</li><p align="Left">
+<li>A return text or graphic link is placed prominently in the website near the writing linking back to Art-inspirations.com (use the links provided on our <b>Link Exchange</b> page).</li></ul><p><p>
+<!-- FormDisplay.html -->
+<STYLE type="text/css">
+<!--
+.formbody {font-family: Verdana, Arial, Helvetia, sans-serif; font-size: 12 px;}
+-->
+</STYLE>
+<form method="post" name="_6426805776930433" action="http://art-inspirations.com/cgi-bin/fb/FormProcess.pl" >
+<!--FORMCODE 0646277839653536_6426805776930433-->
+<INPUT type="hidden" name="DOMAIN" value="art-inspirations.com" >
+<INPUT type="hidden" name="DOMAIN_ID" value="5814" >
+<INPUT type="hidden" name="FORM_CODE" value="0646277839653536" >
+<INPUT type="hidden" name="SUBMISSION_TYPE" value="1" >
+
+<TABLE bgcolor="#FFCC99" border="1" bordercolor="#999999" 
+cellspacing="0" cellpadding="2" align="Center" width="500">
+<TR>
+<TD><TABLE border="0" cellspacing="0" cellpadding="4" align="center" width="100%" class="formbody">
+<TR>
+<TD colspan="2" align="center">
+<FONT size="+1"><B>Use of Dennis Engleman's Writing</B></FONT>
+</TD>
+</TR>
+
+
+<DIV ID="FormLayer_6426805776930433" style="visibility:visible">
+<DIV ID="MissingFields_6426805776930433" style="visibility:hidden" align="center">
+</DIV>
+<tr><td colspan="2" align="center"><font face="Verdana, Arial, Helvetica,
+sans-serif" size="1">Please note that all fields followed by an asterisk must be filled in.</font></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_6471027448509442" style="visibility: visible"><font color="black">First Name*</font></div><div id="R_6426805776930433_6471027448509442" style="visibility: hidden"><font color="red">First Name*</font></div></b></td><td width="50%"><input type="text" name="_6471027448509442" size="35"></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_0635750464625588" style="visibility: visible"><font color="black">Last Name*</font></div><div id="R_6426805776930433_0635750464625588" style="visibility: hidden"><font color="red">Last Name*</font></div></b></td><td width="50%"><input type="text" name="_0635750464625588" size="35"></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_0086665171381343" style="visibility: visible"><font color="black">E-mail Address*</font></div><div id="R_6426805776930433_0086665171381343" style="visibility: hidden"><font color="red">E-mail Address*</font></div></b></td><td width="50%"><input type="text" name="_0086665171381343" size="35"></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_1258929729137137" style="visibility: visible"><font color="black">Web Site URL*</font></div><div id="R_6426805776930433_1258929729137137" style="visibility: hidden"><font color="red">Web Site URL*</font></div></b></td><td width="50%"><input type="text" name="_1258929729137137" size="35"></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_5482623823992979" style="visibility: visible"><font color="black">Country*</font></div><div id="R_6426805776930433_5482623823992979" style="visibility: hidden"><font color="red">Country*</font></div></b></td><td width="50%"><SELECT name="_5482623823992979"><OPTION SELECTED value="">Country</OPTION><OPTION value="United States">United States</OPTION><OPTION value="Canada">Canada</OPTION><OPTION value="">----------------</OPTION><OPTION value="Afghanistan">Afghanistan</OPTION><OPTION value="Albania">Albania</OPTION><OPTION value="Algeria">Algeria</OPTION><OPTION value="American Samoa">American Samoa</OPTION><OPTION value="Andorra">Andorra</OPTION><OPTION value="Angola">Angola</OPTION><OPTION value="Anguilla">Anguilla</OPTION><OPTION value="Antarctica">Antarctica</OPTION><OPTION value="Antigua">Antigua</OPTION><OPTION value="Argentina">Argentina</OPTION><OPTION value="Armenia">Armenia</OPTION><OPTION value="Aruba">Aruba</OPTION><option value="Australia">Australia</option><option value="Austria">Austria</option><option value="Azerbaijan">Azerbaijan</option><option value="Bahamas">Bahamas</option><option value="Bahrain">Bahrain</option><option value="Bangladesh">Bangladesh</option><option value="Barbados">Barbados</option><option value="Belarus">Belarus</option><option value="Belgium">Belgium</option><option value="Belize">Belize</option><option value="Benin">Benin</option><option value="Bermuda">Bermuda</option><option value="Bhutan">Bhutan</option><option value="Bolivia">Bolivia</option><option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option><option value="Botswana">Botswana</option><option value="Bouvet Island">Bouvet Island</option><option value="Brazil">Brazil</option><option value="British Indian Ocean Territory"> British Indian Ocean Territory</option><option value="British Virgin Islands">British Virgin Islands</option><option value="Brunei">Brunei</option><option value="Bulgaria">Bulgaria</option><option value="Burkina Faso">Burkina Faso</option><option value="Burundi">Burundi</option><option value="Cambodia">Cambodia</option><option value="Cameroon">Cameroon</option><option value="Cape Verde">Cape Verde</option><option value="Cayman Islands">Cayman Islands</option><option value="Central African Republic">Central African Republic</option><option value="Chad">Chad</option><option value="Chile">Chile</option><option value="China">China</option><option value="Christmas Island">Christmas Island</option><option value="Cocos Islands">Cocos Islands</option><option value="Colombia">Colombia</option><option value="Comoros">Comoros</option><option value="Congo">Congo</option><option value="Cook Islands">Cook Islands</option><option value="Costa Rica">Costa Rica</option><option value="Croatia">Croatia</option><option value="Cuba">Cuba</option><option value="Cyprus">Cyprus</option><option value="Czech Republic">Czech Republic</option><option value="Denmark">Denmark</option><option value="Djibouti">Djibouti</option><option value="Dominica">Dominica</option><option value="Dominican Republic">Dominican Republic</option><option value="East Timor">East Timor</option><option value="Ecuador">Ecuador</option><option value="Egypt">Egypt</option><option value="El Salvador">El Salvador</option><option value="Equatorial Guinea">Equatorial Guinea</option><option value="Eritrea">Eritrea</option><option value="Estonia">Estonia</option><option value="Ethiopia">Ethiopia</option><option value="Falkland Islands">Falkland Islands</option><option value="Faroe Islands">Faroe Islands</option><option value="Fiji">Fiji</option><option value="Finland">Finland</option><option value="France">France</option><option value="French Guiana">French Guiana</option><option value="French Polynesia">French Polynesia</option><option value="French Southern Territories">French Southern Territories</option><option value="Gabon">Gabon</option><option value="Gambia">Gambia</option><option value="Georgia">Georgia</option><option value="Germany">Germany</option><option value="Ghana">Ghana</option><option value="Gibraltar">Gibraltar</option><option value="Greece">Greece</option><option value="Greenland">Greenland</option><option value="Grenada">Grenada</option><option value="Guadeloupe">Guadeloupe</option><option value="Guam">Guam</option><option value="Guatemala">Guatemala</option><option value="Guinea">Guinea</option><option value="Guinea-Bissau">Guinea-Bissau</option><option value="Guyana">Guyana</option><option value="Haiti">Haiti</option><option value="Heard and McDonald Islands">Heard and McDonald Islands</option><option value="Honduras">Honduras</option><option value="Hong Kong">Hong Kong</option><option value="Hungary">Hungary</option><option value="Iceland">Iceland</option><option value="India">India</option><option value="Indonesia">Indonesia</option><option value="Iran">Iran</option><option value="Iraq">Iraq</option><option value="Ireland">Ireland</option><option value="Israel">Israel</option><option value="Italy">Italy</option><option value="Ivory Coast">Ivory Coast</option><option value="Jamaica">Jamaica</option><option value="Japan">Japan</option><option value="Jordan">Jordan</option><option value="Kazakhstan">Kazakhstan</option><option value="Kenya">Kenya</option><option value="Kiribadi">Kiribadi</option><option value="North Korea">North Korea</option><option value="South Korea">South Korea</option><option value="Kuwait">Kuwait</option><option value="Kyrgyzstan">Kyrgyzstan</option><option value="Laos">Laos</option><option value="Latvia">Latvia</option><option value="Lebanon">Lebanon</option><option value="Lesotho">Lesotho</option><option value="Liberia">Liberia</option><option value="Libya">Libya</option><option value="Liechtenstein">Liechtenstein</option><option value="Lithuania">Lithuania</option><option value="Luxembourg">Luxembourg</option><option value="Macao">Macao</option><option value="Former Republic of Macedonia">Former Republic of Macedonia</option><option value="Madagascar">Madagascar</option><option value="Malawi">Malawi</option><option value="Malaysia">Malaysia</option><option value="Maldives">Maldives</option><option value="Mali">Mali</option><option value="Malta">Malta</option><option value="Marshall Islands">Marshall Islands</option><option value="Martinique">Martinique</option><option value="Mauritania">Mauritania</option><option value="Mauritius">Mauritius</option><option value="Mayotte">Mayotte</option><option value="Mexico">Mexico</option><option value="Federated States of Micronesia">Federated States of Micronesia</option><option value="Moldova">Moldova</option><option value="Monaco">Monaco</option><option value="Mongolia">Mongolia</option><option value="Monserrat">Monserrat</option><option value="Morocco">Morocco</option><option value="Mozambique">Mozambique</option><option value="Myanmar">Myanmar</option><option value="Namibia">Namibia</option><option value="Nauru">Nauru</option><option value="Nepal">Nepal</option><option value="Netherlands">Netherlands</option><option value="Netherlands Antilles">Netherlands Antilles</option><option value="New Caledonia">New Caledonia</option><option value="New Zealand">New Zealand</option><option value="Nicaragua">Nicaragua</option><option value="Niger">Niger</option><option value="Nigeria">Nigeria</option><option value="Niue">Niue</option><option value="Norfolk Island">Norfolk Island</option><option value="Northern Mariana Islands">Northern Mariana Islands</option><option value="Norway">Norway</option><option value="Oman">Oman</option><option value="Pakistan">Pakistan</option><option value="Palau">Palau</option><option value="Panama">Panama</option><option value="Papua New Guinea">Papua New Guinea</option><option value="Paraguay">Paraguay</option><option value="Peru">Peru</option><option value="Philippines">Philippines</option><option value="Pitcairn Island">Pitcairn Island</option><option value="Poland">Poland</option><option value="Portugal">Portugal</option><option value="Puerto Rico">Puerto Rico</option><option value="Qatar">Qatar</option><option value="Reunion">Reunion</option><option value="Romania">Romania</option><option value="Russia">Russia</option><option value="Rwanda">Rwanda</option><option value="S. Georgia and S. Sandwich Isls.">S. Georgia and S. Sandwich Isls.</option><option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option><option value="Saint Lucia">Saint Lucia</option><option value="Saint Vincent and The Grenadines">Saint Vincent and The Grenadines</option><option value="Samoa">Samoa</option><option value="San Marino">San Marino</option><option value="Sao Tome and Principe">Sao Tome and Principe</option><option value="Saudi Arabia">Saudi Arabia</option><option value="Senegal">Senegal</option><option value="Seychelles">Seychelles</option><option value="Sierra Leone">Sierra Leone</option><option value="Singapore">Singapore</option><option value="Slovakia">Slovakia</option><option value="Slovenia">Slovenia</option><option value="Solomon Islands">Solomon Islands</option><option value="Somalia">Somalia</option><option value="South Africa">South Africa</option><option value="Spain">Spain</option><option value="Sri Lanka">Sri Lanka</option><option value="St. Helena">St. Helena</option><option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option><option value="Sudan">Sudan</option><option value="Suriname">Suriname</option><option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option><option value="Swaziland">Swaziland</option><option value="Sweden">Sweden</option><option value="Switzerland">Switzerland</option><option value="Syria">Syria</option><option value="Taiwan">Taiwan</option><option value="Tajikistan">Tajikistan</option><option value="Tanzania">Tanzania</option><option value="Thailand">Thailand</option><option value="Togo">Togo</option><option value="Tokelau">Tokelau</option><option value="Tonga">Tonga</option><option value="Trinidad and Tobago">Trinidad and Tobago</option><option value="Tunisia">Tunisia</option><option value="Turkey">Turkey</option><option value="Turkmenistan">Turkmenistan</option><option value="Turks and Caicos Islands">Turks and Caicos Islands</option><option value="Tuvalu">Tuvalu</option><option value="U.S. Minor Outlying Islands">U.S. Minor Outlying Islands</option><option value="Uganda">Uganda</option><option value="Ukraine">Ukraine</option><option value="United Arab Emirates">United Arab Emirates</option><option value="United Kingdom">United Kingdom</option><option value="Uruguay">Uruguay</option><option value="Uzbekistan">Uzbekistan</option><option value="Vanuatu">Vanuatu</option><option value="Vatican City">Vatican City</option><option value="Venezuela">Venezuela</option><option value="Vietnam">Vietnam</option><option value="US VIrgin Islands">US VIrgin Islands</option><option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option><option value="Western Sahara">Western Sahara</option><option value="Yemen">Yemen</option><option value="Yugoslavia (former)">Yugoslavia (former)</option><option value="Zaire">Zaire</option><option value="Zambia">Zambia</option><option value="Zimbabwe">Zimbabwe</option></SELECT></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_6782537171260208" style="visibility: visible"><font color="black">Which writings do you want to use? (Dennis Engleman must be credited as author)*</font></div><div id="R_6426805776930433_6782537171260208" style="visibility: hidden"><font color="red">Which writings do you want to use? (Dennis Engleman must be credited as author)*</font></div></b></td><td width="50%"><TEXTAREA name="_6782537171260208" cols="35" rows="8" wrap="VIRTUAL"></TEXTAREA></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_5888719182716393" style="visibility: visible"><font color="black">Context in which the writings are to be used? (Nature and focus of publication)*</font></div><div id="R_6426805776930433_5888719182716393" style="visibility: hidden"><font color="red">Context in which the writings are to be used? (Nature and focus of publication)*</font></div></b></td><td width="50%"><TEXTAREA name="_5888719182716393" cols="35" rows="8" wrap="VIRTUAL"></TEXTAREA></td></tr>
+<tr><td align="right" valign="top" width="50%"><b><div id="B_6426805776930433_7854260528612510" style="visibility: visible"><font color="black">URL of webpage where writings appear? (A reciprocal link to art-inspirations.com must be included)*</font></div><div id="R_6426805776930433_7854260528612510" style="visibility: hidden"><font color="red">URL of webpage where writings appear? (A reciprocal link to art-inspirations.com must be included)*</font></div></b></td><td width="50%"><TEXTAREA name="_7854260528612510" cols="35" rows="8" wrap="VIRTUAL"></TEXTAREA></td></tr>
+	
+</DIV>
+						
+
+<TR>
+<TD colspan="2" align="center">
+<INPUT type="button" name="Button" value="Submit" onClick="SubmitData('6426805776930433');">
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+
+</form>
+
+
+</FONT>
+<br>
+<p align="Center"><img src="http://www.art-inspirations.com/imgs/FOOTER.gif" alt="footer for nihilistic art page" width="500" height="80" border="0"><BR>
+</TD>
+</TR>
+</TABLE>
+</TD>
+</TR>
+</TABLE>
+</BODY>
+</HTML>

@@ -1,0 +1,739 @@
+<!-- URL: http://www.arbeitsagentur.de -->
+<!-- HTTP/1.0 200 OK -->
+<!-- Cache-Control: max-age=600 -->
+<!-- Cache-Control: must-revalidate -->
+<!-- Date: Sat, 24 Dec 2005 20:18:25 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "59d5f7cb-15-40ae93e0-418f" -->
+<!-- Server: Netscape-Enterprise/6.0 -->
+<!-- Content-Language: de -->
+<!-- Content-Length: 16783 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Last-Modified: Sat, 24 Dec 2005 19:45:02 GMT -->
+<!-- Client-Peer: 192.56.24.98:80 -->
+<!-- Link: </vam/css/ba_layout_ns_img.css>; /="/"; rel="stylesheet"; type="text/css" -->
+<!-- Link: </vam/css/ba_layout_ns.css>; /="/"; rel="stylesheet"; type="text/css" -->
+<!-- Link: </vam/img/favicon.ico>; /="/"; rel="icon"; type="image/ico" -->
+<!-- Link: </vam/img/favicon.ico>; /="/"; rel="shortcut icon"; type="image/ico" -->
+<!-- Link: </vam/index.jsp?rqc=1&ls=false&ut=0>; /="/"; rel="start"; title="Startseite" -->
+<!-- Link: <#link_rel_seitenanfang>; /="/"; rel="top"; title="Seitenanfang" -->
+<!-- Link: </vam/vamController/Contentsuche/neueSuche>; /="/"; rel="search"; title="Zur erweiterten Suche nach allgemeinen Informationen" -->
+<!-- Link: </vam/vamController/CMSConversation/anzeigePage?page_name_id=1&content=/generic/Impressum.jsp&tl=true&rqc=1&ls=false&ut=0>; /="/"; rel="copyright"; title="Impressum" -->
+<!-- Link: </vam/vamController/CMSConversation/anzeigeContent?navId=170&tl=true&rqc=1&ls=false&ut=0>; /="/"; rel="author"; title="Über Uns" -->
+<!-- Link: </vam/content/supertemplates/STHilfePopup.jsp?refId=homepage&rqc=1&ls=false&ut=0>; /="/"; rel="help"; title="Zu den Hilfeseiten des Portals arbeitsagentur.de" -->
+<!-- Link: </vam/content/supertemplates/STHilfePopup.jsp?lk=/content/templates/T01HilfePopup.jsp&navId=3964&rqc=1&ls=false&ut=0>; /="/"; rel="glossary"; title="Zum Lexikon in der Hilfe" -->
+<!-- Title: arbeitsagentur.de -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!--##3A-->
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+		
+		
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+<head>
+	<title>arbeitsagentur.de</title>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<meta http-equiv="content-language" content="de" />
+	<meta http-equiv="Cache-Control" content="must-revalidate" />
+	
+	
+
+
+
+
+
+
+    <link type="text/css" href='/vam/css/ba_layout_ns_img.css' rel="stylesheet" />
+    <link type="text/css" href='/vam/css/ba_layout_ns.css' rel="stylesheet" />
+
+    
+        <style type="text/css">
+            @import url(/vam/css/ba_layout_img.css);
+        </style>
+
+        <style type="text/css">
+            @import url(/vam/css/ba_layout_mo.css);
+        </style>
+
+        <style type="text/css">
+             @import url(/vam/css/ba_layout_op6_start.css);
+        </style>
+
+	    <!--[if lte IE 5.100]>
+            <style type="text/css">
+                @import url(/vam/css/ba_layout_ie5_start.css);
+            </style>
+	    <![endif]-->
+        <!--[if gte IE 5]>
+            <style type="text/css">
+                @import "/vam/css/ba_layout.css";
+            </style>
+        <![endif]-->
+        <!--[if gte IE 6]>
+            <style type="text/css">
+                @import "/vam/css/ba_layout_ie6.css";
+            </style>
+        <![endif]-->
+    
+
+
+	<link rel="icon" href='/vam/img/favicon.ico' type="image/ico" />
+	<link rel="shortcut icon" href='/vam/img/favicon.ico' type="image/ico" />
+	<script src='/vam/bin/script.js' type="text/javascript"></script>
+
+
+	
+
+	<link rel='start' title='Startseite' href='/vam/index.jsp?rqc=1&amp;ls=false&amp;ut=0' />
+
+	<link rel='top' title='Seitenanfang'
+	 href='#link_rel_seitenanfang' />
+
+	
+	<link rel='search' title='Zur erweiterten Suche nach allgemeinen Informationen'
+	 href='/vam/vamController/Contentsuche/neueSuche' />
+	
+
+	<link rel='copyright' title='Impressum' href='/vam/vamController/CMSConversation/anzeigePage?page_name_id=1&amp;content=/generic/Impressum.jsp&amp;tl=true&amp;rqc=1&amp;ls=false&amp;ut=0' />
+
+	<link rel='author' title='Über Uns' href='/vam/vamController/CMSConversation/anzeigeContent?navId=170&amp;tl=true&amp;rqc=1&amp;ls=false&amp;ut=0' />
+
+	<link rel='help' title='Zu den Hilfeseiten des Portals arbeitsagentur.de' href='/vam/content/supertemplates/STHilfePopup.jsp?refId=homepage&amp;rqc=1&amp;ls=false&amp;ut=0' />
+
+	<link rel='glossary' title='Zum Lexikon in der Hilfe' href='/vam/content/supertemplates/STHilfePopup.jsp?lk=/content/templates/T01HilfePopup.jsp&amp;navId=3964&amp;rqc=1&amp;ls=false&amp;ut=0' />
+	
+
+</head>
+
+<body>
+	
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="kopf">
+
+    <h1 class="versteckt">arbeitsagentur.de | Ein Service der Bundesagentur für Arbeit</h1>
+
+    
+    <div class="logo_versioneins">
+		
+		    <img src='/vam/img/logo_platzhalter_gelb.gif' alt="" />
+		
+    </div>
+
+    
+    <h2 class="versteckt">Navigation</h2>
+
+    
+    <div class="hidden_shortcuts">
+        <ul class="horizontal_list">
+            
+            
+            <li><a title='Zum Seiteninhalt' href="#link_rel_formular" class="img" accesskey="8"><img src='/vam/img/blank.gif' alt='Zum Seiteninhalt' width="1" height="1" /></a></li>
+        </ul>
+    </div>
+
+    
+    <h3 class="versteckt">Übergreifende Informationen</h3>
+
+    
+    <div class="primaerlink">
+        
+            <a href="/vam/vamController/Homepage/?rqc=1&amp;ls=false&amp;ut=0"  tabindex="100" accesskey="0" title="Zur Startseite" name="link_rel_seitenanfang" class="linksaeins">Startseite</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=215&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="110" title="Zu Informationen für Journalisten und weitere Interessierte" class="linksaeins">Presse</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/CMSConversation/anzeigePage?page_name_id=2&amp;content=/generic/Datenschutz.jsp&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="120" title="Zur Datenschutzerklärung des Portals arbeitsagentur.de" class="linksaeins">Datenschutz</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=34912&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="130" accesskey="9" title="Zur Kontaktaufnahme mit dem Portal arbeitsagentur.de" class="linksaeins">Kontakt</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=170&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="140" title="Zu generellen Informationen über die Bundesagentur für Arbeit" class="linksaeins">Über Uns</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/Sitemap/anzeigen?rqc=1&amp;ls=false&amp;ut=0"  tabindex="145" accesskey="6" title="Zur Übersicht über die erreichbaren Seiten des Portals arbeitsagentur.de" class="linksaeins">Inhalt</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/vamController/CMSConversation/anzeigePage?page_name_id=1&amp;content=/generic/Impressum.jsp&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="150" title="Zur Information über den Herausgeber dieses Internetangebotes" class="linksaeins">Impressum</a>&nbsp;&nbsp;|&nbsp;
+            <a href="/vam/content/supertemplates/STHilfePopup.jsp?refId=homepage&amp;rqc=1&amp;ls=false&amp;ut=0"  target="JavaScriptLinkHelp" tabindex="160" title="Zu den Hilfeseiten des Portals arbeitsagentur.de. Öffnet in neuem Fenster." class="linksaeins" onclick="StartPageHelp('/vam/content/supertemplates/STHilfePopup.jsp?refId=homepage','JavaScriptLinkHelp')">Hilfe</a>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="loginhead">
+    <form action="/vam/authenticateUser" method="post"><input type="hidden" name="form_submit" value="true" />
+<input type="hidden" name="de.arbeitsamt.vam.arch.conversation.tokenId" value="null" />
+<input type="hidden" name="rqc" value="2" />
+<input type="hidden" name="ls" value="false" />
+<input type="hidden" name="ut" value="0" />
+
+        <div class="login">
+
+            
+            
+
+                 
+                 <div class="loginmitbild">
+					<img src='/vam/img/ba_loginlogo_weiss.gif' alt="arbeitsagentur.de - Ein Service der Bundesagentur für Arbeit" class="loginlogoweiss" />
+                 </div>
+				 
+
+            
+            
+
+        </div>
+        
+	</form>
+</div>
+
+
+
+
+
+
+	
+            <div class="root">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="sekundaer">
+
+
+
+    
+    <a name="link_rel_hauptmenue"></a>
+
+        
+
+    			<h3 class="ueberschrift_nav">Stellen-, Bewerberbörse</h3>
+    			<div class="sekmenue">
+	            <ul class="auflistunggelb">
+
+					<li>
+	
+    	                			<a href="/vam/vamController/Homepage/navigation?item=auswahl_arbeitgeber&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="500" title="Zur Seite für Arbeitgeber">Arbeitgeber</a>
+
+                    </li>
+
+					<li>
+	
+    	                			<a href="/vam/vamController/Homepage/navigation?item=auswahl_bewerber&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="501" title="Zur Seite für Arbeitnehmer, Arbeit- und Ausbildungsplatzsuchende">Arbeit- und Ausbildungssuchende</a>
+
+                    </li>
+
+            	</ul>
+				</div>
+
+
+
+
+
+
+    
+    <div class="trennlinie_kurz">
+        &nbsp;<hr />
+    </div>
+
+    
+    <h3 class="ueberschrift_nav">Informationen</h3>
+
+    <div class="sekmenue">
+        <ul class="auflistunggelb">
+
+
+            <li>
+                <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=3&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="502" title="Zu allgemeinen Informationen für Arbeitgeber">Informationen für Arbeitgeber</a>
+
+            </li>
+
+            <li>
+                <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=48&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="503" title="Zu allgemeinen Informationen für Arbeitnehmer">Informationen für Arbeitnehmer</a>
+            </li>
+            <li>
+                <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=85&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="504" title="Zu Informationen zur Ausbildung / Berufs- und Studienwahl">Ausbildung / Berufs- und Studienwahl</a>
+            </li>
+
+            <li>
+                <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=130&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="505" title="Zur Seite &quot;Service von A bis Z&quot;">Service von A bis Z</a>
+            </li>
+            <li>
+                <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=247&amp;tl=tlhn&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="506" title="Zu näheren Informationen und Kontaktdaten Ihrer Agentur für Arbeit vor Ort oder zu besonderen Dienststellen">Ihre Agentur für Arbeit</a>
+            </li>
+            <li>
+                <a href="http://infobub.arbeitsagentur.de/kurs/index.html"  target="kurs" tabindex="507" title="Bildungsangebote einfach finden und anbieten. Öffnet in neuem Fenster.">KURSNET</a>
+            </li>
+            <li>
+                <a href="http://infobub.arbeitsagentur.de/berufe/index.jsp"  target="berufenet" tabindex="508" title="Berufsinformationen einfach finden. Öffnet in neuem Fenster.">BERUFENET</a>
+            </li>
+        </ul>
+    </div>
+
+
+
+
+    
+    <a name="link_rel_content_suche"></a>
+
+    <h3 class="versteckt">Suche nach allgemeinen Informationen</h3>
+    <label for="contentsuche_keyword_id" 
+      class="ueberschrift_nav">Stichwortsuche</label>
+
+    
+    <div class="suchen">
+        <form action="/vam/vamController/Contentsuche/" method="get"><input type="hidden" name="defaultCmd" value="cmd#einfacheSuche" />
+<input type="hidden" name="rqc" value="2" />
+<input type="hidden" name="ls" value="false" />
+<input type="hidden" name="ut" value="0" />
+
+        <div class="input">
+            <input tabindex="530" type="text" name="keywordeinfach" id="contentsuche_keyword_id" class="suchen" maxlength="60" value="" />
+        </div>
+        <div>
+            <input type="submit" id="contentsuche_start_id" class="searchstart" name="cmd#einfacheSuche" tabindex="540" title="Suche nach allgemeinen Informationen ausführen und zur Ergebnisliste" alt="" value="&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suche starten" />
+            &nbsp;
+            <a href="/vam/vamController/Contentsuche/neueSuche?rqc=1&amp;ls=false&amp;ut=0"  tabindex="550" title="Zur erweiterten Suche nach allgemeinen Informationen">Erweiterte Suche</a>
+        </div>
+        </form>
+
+    </div>
+</div>
+
+
+
+
+
+            <div class="main">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <table class="main" width="99%" cellspacing="0" cellpadding="0" border="0" summary=''>
+      <tr>
+          <td valign="top">
+
+  
+  <a name="link_rel_formular"></a>
+
+  
+  <h2 class="versteckt">Seiteninhalt</h2>
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        
+    
+
+
+
+
+<table width="100%" class="start" cellspacing="0" border="0" cellpadding="0"
+    summary=''>
+    <colgroup>
+        <col width="1%"/>
+        <col width="66%"/>
+        <col width="1%"/>
+        <col width="31%"/>
+        <col width="1%"/>
+    </colgroup>
+    <tr>
+        <td width="1%"></td>
+        <td width="66%"></td>
+        <td width="1%"></td>
+        <td width="31%"></td>
+        <td width="1%"></td>
+    </tr>
+    <tr>
+        <td class="newstrenner" valign="top">
+            <img class="rechts" src='/vam/img/linie_vertikal.gif' alt="" />
+        </td>
+        <td class="formularkopf" valign="top">
+
+
+
+<table class="startlinks" width="100%" cellpadding="0" cellspacing="0" border="0"
+    summary=''>
+    <colgroup>
+        <col width="95%"/>
+        <col width="5%"/>
+    </colgroup>
+    <tr>
+        <td width="95%">&nbsp;</td>
+        <td width="5%">&nbsp;</td>
+    </tr>
+    <tr>
+        <td class="ueberschrift" colspan="2">
+            <h4>Willkommen auf den Seiten der Bundesagentur für Arbeit</h4>
+        </td>
+    </tr>
+    <tr>
+        <td class="links" colspan="2">
+            Auf unseren Internetseiten finden Sie wichtige Informationen rund um unsere Leistungen und Angebote.<br /><br />Wenn Sie eine Arbeitsstelle oder Ausbildungsstelle suchen oder ein Stellenangebot aufgeben möchten, nutzen Sie bitte unsere Stellen- und Bewerberbörse.<br /><br />Möchten Sie Informationen Ihrer Agentur vor Ort abrufen, dann finden Sie alles Wichtige unter dem Link &quot;Ihre Agentur für Arbeit&quot;.
+        </td>
+    </tr>
+
+	
+    
+    
+    	<tr>
+        	<td width="100%" colspan="2">&nbsp;</td>
+	    </tr>
+        <tr>
+            <td class="ueberschrift">
+                <h4>Stellenangebote zur Fußball-Weltmeisterschaft 2006 in Kooperation mit dem DFB</h4>
+            </td>
+            <td class="ueberschrift">
+                <img src='/vam/img/dfb.gif'
+                    alt="Deutscher Fußball-Bund"
+                    title="Deutscher Fußball-Bund"
+                    width="50" height="40" />
+            </td>
+        </tr>
+        <tr>
+            <td class="links" colspan="2">
+                <ul class="startlisteoffen">
+                    <li>
+                        <b>Arbeitgeber</b><br />
+                        Sie können Stellenangebote zur Fußball-WM 2006 ab jetzt gesondert kennzeichnen.<br />
+                        <a href="/vam/vamController/StelleMelden/anzeigeGabelseite?spezialSteA=true&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="1010" title="Zur Meldung eines Stellenangebots zur Fußball-WM 2006 an die Agentur für Arbeit">Stellenangebot aufgeben zur Fußball-WM 2006</a>
+                    </li>
+                    <li>
+                        <b>Arbeitsuchende</b><br />
+                        Sie können ab jetzt gezielt nach Stellenangeboten zur Fußball-WM 2006 suchen.<br />
+                        <a href="/vam/vamController/SchnellsucheAS/leereSchnellsuche?spezialSteA=true&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="1020" title="Zur Suche nach Stellenangeboten zur Fußball-WM 2006">Stellenangebote suchen zur Fußball-WM 2006</a>
+                    </li>
+                </ul>
+        	</td>
+	    </tr>
+	
+</table>
+
+
+        </td>
+        <td class="newstrenner" valign="top">
+            <img class="rechts" src='/vam/img/linie_vertikal.gif' alt="" />
+        </td>
+        
+        <td class="newskopf" valign="top">
+            <h3 class="ueberschrift_nav" style="padding-left:10px">Arbeitsagentur Aktuell</h3>
+            <div class="nachrichten">
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+   
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table id="tabelle_presseInfo_id" width="100%" cellpadding="0" cellspacing="0" border="0" summary="">
+
+
+    <tr><td>
+    <ul class="newsgelb">
+            <li>
+            <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=246&amp;docId=81134&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="6997" title="Anpfiff zur 2. Halbzeit de...  (22.12.2005)" class="startseitenlink">Anpfiff zur 2. Halbzeit de...  (22.12.2005)</a>&nbsp;Ähnlich angespannt wie im Vorjahr präsentiert sich derzeit die Lage auf dem Ausbildungsmar [...]
+
+            </li>
+            <li>
+            <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=246&amp;docId=63646&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="6998" title="Arbeitslosengeld II (19.12.2005)" class="startseitenlink">Arbeitslosengeld II (19.12.2005)</a>&nbsp;Ausführliche Informationen	
+
+            </li>
+    <li>
+        <a href="/vam/vamController/CMSConversation/anzeigeContent?navId=246&amp;&amp;rqc=1&amp;ls=false&amp;ut=0"  tabindex="7000" title="Alle Nachrichten">Alle Nachrichten</a>
+    </li>
+    
+    </ul>
+    </td></tr>
+</table>
+
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
+            </div>
+        </td>
+        <td class="newstrenner" valign="top">
+            <img class="rechts" src='/vam/img/linie_vertikal.gif' alt="" />
+        </td>
+    </tr>
+</table>
+        </td>
+    </tr>
+</table>
+</div>
+</div>
+
+</body>
+</html>
+
+
+
+
+		<!--**2-->
+		

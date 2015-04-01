@@ -1,0 +1,30 @@
+<!-- URL: http://allsayyes.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 14:13:44 GMT -->
+<!-- Server: Apache/2.0 -->
+<!-- Content-Length: 634 -->
+<!-- Content-Type: text/html; charset=UTF-8 -->
+<!-- Client-Peer: 64.40.102.44:80 -->
+<!-- Link: <http://static.hitfarm.com/template/qing/images/qing.ico>; /="/"; rel="shortcut icon"; type="image/x-icon" -->
+<!-- P3P: CP="NOI COR NID ADMa DEVa PSAa PSDa STP NAV DEM STA PRE" -->
+<!-- Set-Cookie: source=1; expires=Fri, 30 Dec 2005 16:13:44 GMT -->
+<!-- Title: allsayyes.com -->
+<!-- X-Powered-By: PHP/5.0.5 -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html lang="en">
+<head>
+<title>allsayyes.com</title>
+<link rel="shortcut icon" href="http://static.hitfarm.com/template/qing/images/qing.ico" type="image/x-icon" />
+</head>
+<frameset cols="1,*" border="0" frameborder="0">
+  <frame name="hftop" src="/top.php" scrolling="no" frameborder="0" marginwidth="0" marginheight="0" noresize="noresize" />
+  <frame name="hfdisplay" src="/landing.php" scrolling="auto" frameborder="0" marginwidth="0" marginheight="0" noresize="noresize" />
+<noframes>
+<body>
+<p>This page requires frames</p>
+</body>
+</noframes>
+</frameset>
+</html>

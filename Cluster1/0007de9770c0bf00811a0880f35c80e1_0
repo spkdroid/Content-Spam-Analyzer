@@ -1,0 +1,60 @@
+<!-- URL: http://bluerocketonline.TechBuyer.com/lander.jsp?referrer=&domain=bluerocketonline.com&cm_mmc= -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-cache, must-revalidate -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 13:25:35 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache -->
+<!-- Content-Length: 1470 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Mon, 26 Jul 1997 05:00:00 GMT -->
+<!-- Last-Modified: 28 Dec 2005 13:25:35 GMT -->
+<!-- Cartoon: Etch -->
+<!-- Client-Peer: 208.254.3.166:80 -->
+<!-- P3P: CP="NOI CURa ADMa OUR NOR BUS PHY ONL UNI PUR COM NAV STA" -->
+
+
+
+
+
+            <html>
+            <head>
+            <noscript>
+            Click <a href="/techbuyer/results.jsp?portal_id=128&domain=bluerocketonline.com&keyword=wireless systems">here</a> if you are not redirected.
+            <meta http-equiv="refresh" content="1;url=/techbuyer/results.jsp?portal_id=128&domain=bluerocketonline.com&keyword=wireless systems">
+            </noscript>
+
+            <script type="text/javascript" src="/cookies.js"></script>
+
+    <script language="javascript">
+    <!--
+    function bd_redirect()
+    {
+        self.location = "/techbuyer/results.jsp?portal_id=128&domain=bluerocketonline.com&keyword=wireless systems";
+    }
+
+    // just in case we are directing back to seeq
+    setCookie("hasSession", "true");
+    setCookie("hasPops","false");
+
+    // set a session cookie for AB test
+    // A will be the basaeline until there is a B
+    setCookie("test", "A");
+
+    var img = new Image;
+    img.onload = bd_redirect;
+    img.onerror = bd_redirect;
+    img.onabort = bd_redirect;
+    img.src = "/servlet/ImageTracker?referrer=&provider=overture&domain=bluerocketonline.com&timestamp=1135776335529";
+
+    setTimeout("bd_redirect()",5000);
+    //-->
+    </script>
+    </head>
+    <body>
+    <noscript>
+        <img width="1" height="1" src="/servlet/ImageTracker?referrer=&provider=overture&domain=bluerocketonline.com&timestamp=1135776335529">
+    </noscript>
+    </body>
+    </html>
+

@@ -1,0 +1,46 @@
+<!-- URL: http://www.oxidant.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Sun, 25 Dec 2005 06:47:57 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache/2.0.52 (Unix) mod_ssl/2.0.52 OpenSSL/0.9.7e PHP/4.3.10 -->
+<!-- Content-Length: 925 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Expires: -1 -->
+<!-- Client-Peer: 65.61.146.199:80 -->
+<!-- Set-Cookie: svc=2; expires=Mon, 26-Dec-2005 06:47:57 GMT; path=/; domain=oxidant.com -->
+<!-- Title: Welcome to oxidant.com -->
+<!-- X-Meta-Description: oxidant.com -->
+<!-- X-Meta-Keywords: oxidant.com -->
+<!-- X-Powered-By: PHP/4.3.10 -->
+
+<html>
+<head>
+<title> Welcome to oxidant.com</title>
+<meta NAME="description" CONTENT="oxidant.com">
+<meta NAME="keywords" CONTENT="oxidant.com">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</head>
+
+<frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+<frame src="http://apps5.oingo.com/apps/domainpark/domainpark.cgi?client=TELE39H7&s=oxidant.com&ip=130.207.5.18&hl=en">
+</frameset>
+<noframes>
+<body bgcolor="#ffffff" text="#000000">
+<a href="http://apps5.oingo.com/apps/domainpark/domainpark.cgi?client=TELE39H7&s=oxidant.com&ip=130.207.5.18&hl=en">Click here to enter</a>.
+</body>
+</noframes>
+
+</html>
+<!-- trafficclub.com -->
+<!-- exec: 0.0313019752502 -->
+<!-- domain: oxidant.com -->
+<!-- ip: 130.207.5.18 -->
+<!-- fingerprint: 76f4ada2f19dd3e6470cfda537613807 -->
+<!-- country: US -->
+<!-- service: 2 -->
+<!-- rand: 89/100 -->
+<!-- count: 1/0 -->
+<!--  -->
+

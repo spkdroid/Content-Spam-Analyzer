@@ -1,0 +1,481 @@
+<!-- URL: http://www.webservicespro.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 18:39:53 GMT -->
+<!-- Server: Apache/2.0.52 (Unix) PHP/4.3.11 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Client-Peer: 66.28.139.160:80 -->
+<!-- Link: <http://images.ientrymail.com/webservicespro/webservicespro.css>; rel="stylesheet"; type="text/css" -->
+<!-- Title: Web Services Tutorials - WebServicesPro.com -->
+<!-- X-Meta-Author: iEntry Inc. -->
+<!-- X-Meta-Classification: News -->
+<!-- X-Meta-Copyright: 2002 iEntry Inc. -->
+<!-- X-Meta-Distribution: Global -->
+<!-- X-Meta-Rating: General -->
+<!-- X-Meta-Reply-To: comments@webservicespro.com -->
+<!-- X-Meta-Robots: all -->
+<!-- X-Powered-By: PHP/4.3.11 -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!--title-->
+<title>Web Services Tutorials - WebServicesPro.com</title>
+<!--title-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--meta-->
+<meta name="classification" content="News">
+<meta name="robots" content="all">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="author" content="iEntry Inc.">
+<meta name="reply-to" content="comments@webservicespro.com">
+<meta name="copyright" content="2002 iEntry Inc.">
+<link href="http://images.ientrymail.com/webservicespro/webservicespro.css" rel="stylesheet" type="text/css">
+</head>
+<center>
+<SCRIPT LANGUAGE="JavaScript" SRC="http://action.ientry.net/?DC=Site-Banner-eBiz-WPS&JS=Y&ALIGN=CENTER"></SCRIPT>
+</center><br>
+<P> 
+<body leftmargin="0" topmargin="15" marginwidth="0" marginheight="0">
+<map name="Map2">
+  <area shape="rect" coords="3,25,252,54" href="http://www.webservicespro.com">
+</map>
+<map name="Map">
+  <area shape="rect" coords="80,44,225,58" href="http://www.ientry.com">
+  <area shape="rect" coords="118,17,226,41" href="mailto:articlesubmissions@ientry.com?subject=Submitted%20Article">
+  <area shape="rect" coords="230,5,276,55" href="http://www.ientry.com">
+</map>
+<map name="Map3">
+  
+<area shape="rect" coords="6,2,104,13" href="http://www.ientry.com/page/ad/contact.html">
+  <area shape="rect" coords="123,3,180,21" href="http://www.webprowire.com/">
+  <area shape="rect" coords="198,3,303,41" href="http://www.ientry.com/page/newsletters/signup.html">
+</map>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="28%"><img src="http://images.ientrymail.com/webservicespro/middleleft.gif" width="273" height="60" border="0" usemap="#Map2"></td>
+    <td width="72%" background="http://images.ientrymail.com/webservicespro/middlemiddle.gif"> </td>
+    <td width="0%"><img src="http://images.ientrymail.com/webservicespro/middleright.gif" border="0" usemap="#Map"></td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td width="50%" background="http://images.ientrymail.com/webservicespro/search.gif"> 
+      <table width="400" border="0" cellspacing="0" cellpadding="3">
+        <tr> 
+          <form name="form1" method="post" action="http://www.webprowire.com/exec/search">
+            <td><font color="#000000" size="-1" face="Verdana, Arial, Helvetica, sans-serif">    </font> 
+              <input name="k" type="text" value="" size="18"> <input type="submit" name="Submit22" value="Search News"></td>
+          </form>
+        </tr>
+      </table></td>
+    <td width="1%"><img src="http://images.ientrymail.com/webservicespro/curve.gif" width="43" height="35"></td>
+    <td width="49%"><div align="right"><img src="http://images.ientrymail.com/webservicespro/links2.gif" width="311" height="13" border="0" usemap="#Map3"></div></td>
+  </tr>
+</table>
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td width="114" valign="top" bgcolor="#FFFFFF"><div align="center"><form action="http://signups.ientry.com/cgi-bin/webadd.cgi" method="POST"
+ 
+onSubmit="return emailCheck(this.email.value);"> <table width="160" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#0A3D7D">
+                                  <tr> 
+                                    <td><table width="160" border="0" align="center" cellpadding="1" cellspacing="0" bgcolor="#FFFFFF">
+                                        <tr> 
+                                          <td><table width="160" border="0" align="center" cellpadding="0" cellspacing="0">
+                                              <tr> 
+                                                <td height="209" class="verdana"> 
+                                                  <div align="center"> 
+                                                    <table width="100%" border="0" cellspacing="0" cellpadding="3">
+                                                      
+                                                        <tr> 
+                                                          
+<td bgcolor="#0066CC"><span class="mn"><b><a href="http://www.ientry.com/page/newsletters/index.html" style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none;"><font color="#FFFFFF">Free 
+                                                            Newsletters</font> </a></b></span></td>
+                                                        </tr>
+                                                        <tr> 
+                                                          
+<td align="center" bgcolor="#eeeeee" class="verdana"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">Part 
+                                                            of the <a href="http://www.ientry.com/page/newsletters/"><font color="#0000FF">iEntry 
+                                                            Network</font></a><br>
+                                                            over 4 million subscribers</font></strong></td>
+                                                        </tr>
+                                                      
+                                                    </table>
+                                                    <table width="93%" border="0" cellpadding="0" cellspacing="0">
+                                                      <tr> </tr>
+                                                      <tr> 
+                                                        <td align="center"> <table width="100%" border="0" cellspacing="0" cellpadding="2" >
+                                                            <tr> 
+                                                              <td class="verdana"> 
+                                                                <input name="256" type="checkbox" value="1" checked>
+ 
+                                                                <a href="http://www.WebServicesPro.com"><strong><font size="1" face="Verdana, Arial, Helvetica, sans-serif">WebServicesPro</font></strong></a></td>
+                                                            </tr>
+                                                            <tr> 
+                                                              <td bgcolor="#eeeeee" class="verdana"> 
+                                                                <input name="28" type="checkbox" value="1" checked>
+ 
+                                                                <a href="http://www.InvestNewz.com"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">InvestNewz</font></a></td>
+                                                            </tr>
+                                                            <tr> 
+                                                              <td class="verdana"> 
+                                                                <input name="62" type="checkbox" value="1" checked>
+ 
+                                                                <a href="http://www.CareerNewz.com"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">CareerNewz</font></a></td>
+                                                            </tr>
+                                                          </table>
+                                                          <div align="left"> 
+                                                            <input type="text" name="email" onFocus='this.value="";' value="enter email" class="verdana">
+                                                            <input type="text" name="zip" onFocus='this.value="";' value="enter zip" class="verdana">
+                                                            <span class="style3"><br>
+                                                            <input type="checkbox" name="promo" value="pmd-promo">
+                                                            <font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
+                                                            Send me relevant info 
+                                                            on products and services.</font></span><br>
+                                                            <p></p>
+                                                            
+<p align="right"><font size="2" face="Arial, Helvetica, sans-serif"><b> 
+                                                              
+<input name="Submit2222" type="image" src="http://images.ientrymail.com/images/signupbutton/button42.gif" align="top"  border="0" input>
+                                                              
+<input type="hidden" name="source2" value="101256">
+                                                                                                                            </b></font></p>
+                                                          </div>
+                                                        </td>
+                                                      </tr>
+                                                    </table>
+                                                  </div></td>
+                                              </tr>
+                                            </table></td>
+                                        </tr>
+                                      </table></td>
+                                  </tr>
+                                </table></form>
+<A HREF="http://action.ientry.net/?SHT=Jayde_Member_Forum_Sites"><IMG 
+SRC="http://action.ientry.net/?SIT=Jayde_Member_Forum_Sites" BORDER="0"></A>
+<br><br>
+<SCRIPT LANGUAGE="JavaScript" SRC="http://action.ientry.net/?DC=Site-SS-Network-160x400&JS=Y&ALIGN=CENTER"></SCRIPT>
+<script language="JavaScript" src="http://www.webproworld.com/col2.php" type="text/javascript"></script>
+</div>
+<div align="center"><br>
+        <table width="160" border="0" cellpadding="1" cellspacing="0" bgcolor="#000000">
+          <tr> 
+            <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+                <tr> 
+                  <td width="100%"><div align="center"> 
+                      <script language="JavaScript" src="http://action.ientry.net/?DC=Channel-eBusiness-RC-1&JS=Y&ALIGN=CENTER"></script>
+                      <br>
+                      <script language="JavaScript" src="http://action.ientry.net/?DC=Channel-eBusiness-RC-2&JS=Y&ALIGN=CENTER"></script>
+                      <br>
+                      <script language="JavaScript" src="http://action.ientry.net/?DC=Channel-eBusiness-RC-3&JS=Y&ALIGN=CENTER"></script>
+                    </div></td>
+                </tr>
+              </table></td>
+          </tr>
+        </table>
+      </div></td>
+    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="10">
+        <tr> 
+          <td valign="top" class="text"><sidebar> 
+            <table width="25" border="0" align="right" cellpadding="0" cellspacing="0">
+              <tr> 
+                <td> <table width="336" border="0" align="center" cellpadding="0" cellspacing="0">
+                    <tr> 
+                      <td> 
+                      <SCRIPT LANGUAGE="JavaScript" SRC="http://action.ientry.net/?DC=Site-Ad-eBiz-WPS&JS=Y&ALIGN=CENTER"></SCRIPT> </td>
+                    </tr>
+                    <tr> 
+                      <td> </td>
+                    </tr>
+                  </table>
+                  <br>
+                 
+                  <table width="336" border="0">
+  <tr>
+    <td align="right" class="text"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><strong><a href="http://action.ientry.net/?RC=15475&AI=4396">Click 
+      Here</a></strong><a href="http://action.ientry.net/?RC=15475&AI=4396"> 
+      to get your site reviewed for free!</a></font></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://action.ientry.net/?SHT=Site-House-Misc-336x140"><img src="http://action.ientry.net/?SIT=Site-House-Misc-336x140" align="CENTER" border="0"></a></td>
+  </tr>
+</table> <br> <table width="336" border="0" cellspacing="0" cellpadding="0">
+                    <tr> 
+                      <td><img src="http://images.ientrymail.com/webservicespro/news.gif" width="336" height="28"></td>
+                    </tr>
+                    <tr> 
+                      <td background="http://mercury.ientrymail.com/webpronews/images/news_bg.gif"> 
+                        <table width="336" border="0" cellspacing="0" cellpadding="5">
+                          <tr> 
+                            <td valign="top" background="../../My%20Documents/My%20Documents/Garrett/Desktop/ientrymain/INDEX/tranz.gif" class="sb"><b><font face="verdana" size="1"> 
+                              <script language="JavaScript" src="http://www.webprowire.com/wpwhl_js.html?"></script>
+                              </font></b></td>
+                          </tr>
+                        </table></td>
+                    </tr>
+                    <tr> 
+                      <td><img src="http://images.ientrymail.com/webservicespro/newsbottom.gif" width="336" height="28"></td>
+                    </tr>
+                  </table>
+<br>
+<table width="334" height="0" border="0" cellpadding="0" cellspacing="1" bgcolor="#000000">
+  <tr>
+    <td valign="top"><table width="100" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="irImage" style="margin-top: 10px;">
+        <tr>
+          <td><img src="http://text-link-ads.ientry.com/images/ientrycontextwpn.gif" width="334" height="39"></td>
+        </tr>
+        <tr>
+          <td align="left" class="verdana10" style="padding-left: 35px;"><ul>
+              <font size="1" face="Verdana, Arial, Helvetica, sans-serif">
+              &nbsp; <a class="black" target=_new href="http://www.online-degrees-today.com/">Online MBA</a><br>
+&nbsp; <a class="black" target=_new href="http://www.speeddateronline.co.uk">Online Dating</a><br>
+&nbsp; <a class="black" target=_new href="http://www.insidepool.com">Pool Cues Billiard Supplies</a><br>
+&nbsp; <a class="black" target=_new href="http://www.submitawebsite.com/">Search Engine Optimization</a><br>
+&nbsp; <a class="black" target=_new href="http://www.mortgageleads.com">Mortgage Leads</a><br>
+&nbsp; <a class="black" target=_new href="http://www.high-rely.com/">Hard drive backup</a><br>
+&nbsp; <a class="black" target=_new href="http://www.abtelectronics.com/">Appliances & Electronics</a><br>
+&nbsp; <a class="black" target=_new href="http://www.leadplanet.com/">Mortgage Leads</a><br>
+&nbsp; <a class="black" target=_new href="http://www.allbreakers.com/">Circuit Breakers</a><br>
+&nbsp; <a class="black" target=_new href="http://www.webuildpages.com">Internet Marketing</a><br>
+              </font>
+          </ul></td>
+        </tr>
+    </table></td>
+  </tr>
+</table></td>
+              </tr>
+            </table>
+            </sidebar> 
+            <font size="3" face="Verdana, Arial, Helvetica, sans-serif"><strong>Top Articles</strong></font><br><br>
+        <a href="webservicespro-69-20051230BBCOpensNewsArchiveOnline.html" class="six">BBC Opens News Archive Online</a><br>[2005-12-30] For a brief time, the BBC will throw open the film vaults online and let UK-based users create mashups of the content.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051227GoogleOpeningFeedReaderAPI.html" class="six">Google Opening Feed Reader API</a><br>[2005-12-27] The next API Google opens to developers will be for its RSS feed reading service, Google Reader.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051224YouTubeBackOnMySpace.html" class="six">YouTube Back On MySpace </a><br>[2005-12-24] MySpace members who use the YouTube service should be able to place videos on their profiles again.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051223WhenWebServicesGoBad.html" class="six">When Web Services Go Bad</a><br>[2005-12-23] Much has been made of the new wave of web services, where a hosted application fulfills the needs of numerous users. When it goes wrong, though, the efficiency of the distributed system plummets.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051222YahooHeardYouAboutAudioSearch.html" class="six">Yahoo Heard You About Audio Search</a><br>[2005-12-22] The search crew at Yahoo has managed to work an Audio tab onto Yahoo's front page, to allow users to begin their music or podcast search as soon as they hit the site.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051219Web20OnlineWoesPersist.html" class="six">Web 2.0 Online Woes Persist</a><br>[2005-12-19] Typepad seems to have overcome its recent 18-hour outage and RSS reader site Bloglines has a datacenter migration planned; but recent Yahoo acquisition of social bookmarking site del.icio.us now has the "Closed" sign posted.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051215MicrosoftGoogleSunGetRAD.html" class="six">Microsoft, Google, Sun Get RAD </a><br>[2005-12-15] Joint collaboration on a Reliable, Adaptive and Distributive Systems lab at UC-Berkeley has the three tech companies contributing $7.5 million toward the lab's mission of creating freely-available web services.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051201IBMOracleStandardizingWebServices.html" class="six">IBM, Oracle Standardizing Web Services</a><br>[2005-12-01] Sometimes a great joke never dies. Just substitute "Web" for "Unix" in the following canonical one-liner and you'll see what I mean: "The nice thing about Unix standards is that there are so many to choose from."
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051110OzzieGateMicrosoftShipinChangingSeas.html" class="six">OzzieGate - Microsoft Ship in Changing Seas</a><br>[2005-11-10] A memo that reportedly leaked from Microsoft has been making the rounds of the tech media.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051101MicrosoftChallengesGoogleOnWebServices.html" class="six">Microsoft Challenges Google On Web Services</a><br>[2005-11-01] Bill Gates gave demonstrations of Windows Live and Office Live to journalists in San Francisco today, as the 30-year-old software company tries to show it isn't quite ready to be pushed aside by Google.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20051027GooglePushesServicesToPHPCoders.html" class="six">Google Pushes Services To PHP Coders</a><br>[2005-10-27] The search engine company sent an executive to keynote the wrapup of the Zend/PHP Conference and Expo; Adam Bosworth noted the move to web services in his talk.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050914CompaniesDemonstrateInteroperabilityofWSDMOASISStandard.html" class="six">Companies Demonstrate Interoperability of WSDM OASIS Standard</a><br>[2005-09-14] Powerful tech companies collaborated with OASIS on their Web Services Distributed Management (WSDM) standard. Those companies include IBM, DataPower, Hewlett-Packard, Hitachi and Tibco and they demonstrated the interoperability of  that standard at the Enterprise Management World conference in Bethesda, Maryland.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050824IBMExtendsCompositeApplications.html" class="six">IBM Extends Composite Applications</a><br>[2005-08-24] IBM has launched its IBM Workplace Designer 2.5, aimed at letting customers extend roles-based document-oriented composite applications.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050822AnExtensiveExaminationofWebServicesWSEstandards.html" class="six">An Extensive Examination of Web Services: WSE standards</a><br>[2005-08-22] As we've discussed in the previous installments of this article series, Web services are comprised of a number of core standards, including:
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050808IBMConceptualizingSearch.html" class="six">IBM Conceptualizing Search</a><br>[2005-08-08] IBM said today they are giving away search software concentrating on factual information and concepts over traditional keyword searches used by most of the main search engine entities out there.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050801WebServicesInteroperability.html" class="six">Web Services Interoperability</a><br>[2005-08-01] Interoperability is one of the main promises of Web services. Web services are designed to be independent of the underlying operating system and programming language.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050801WebServiceMessaging.html" class="six">Web Service Messaging</a><br>[2005-08-01] Web services are revolutionizing the Internet by enabling applications to speak a common language: XML. While Web services technology enables the execution of remote functions, it does not provide a robust infrastructure for handling information.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050713AnExtensiveExaminationofWebServicesPart7.html" class="six">An Extensive Examination of Web Services: Part 7</a><br>[2005-07-13] As we discussed in Part 1 of this article series, a Web service is invoked with a client sending a SOAP-formatted message to the server where the Web service resides. The server then:
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050628ConversagentKicksUpCustomerService.html" class="six">Conversagent Kicks Up Customer Service</a><br>[2005-06-28] Every company is in the customer service business. They may say they're in the fast food business or the book selling business or cable TV business, but in the end business won't succeed if you don't offer good service to your customers. More and more companies offer services on the Internet for their customers to utilize. Often these services are difficult to navigate and when you get to the FAQs, you may have weed through 200 questions before you get to the one you need. Most people have been there.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050615AnExtensiveExaminationofWebServicesPart6.html" class="six">An Extensive Examination of Web Services: Part 6 </a><br>[2005-06-15] In Part 1 of this article series we looked at the pieces involved in using Web services, including SOAP, which is the standard by which the messages passed to and from a Web service are encoded by.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050520SAPMicrosoftPushToAutomateBusiness.html" class="six">SAP, Microsoft Push To Automate Business</a><br>[2005-05-20] Cisco and Intel, along with Microsoft, have licensed SAP's technology to automate business processes.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050511WildcatIcahnLatchesOntoBlockbusterBoard.html" class="six">Wildcat Icahn Latches Onto Blockbuster Board</a><br>[2005-05-11] Corporate raider Carl Icahn and his two associates won seats on the Blockbuster board today after a heated battle with CEO John Antioco. The battle had been raging for weeks after Icahn bought up significant share in the video rental company to make him the lead stockholder.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050505IWANTMYYAHOOTV.html" class="six">I WANT MY YAHOO TV!</a><br>[2005-05-05] Yahoo took another search engine leap today by offering a video option when looking through Yahoo's search engine. With video clips from top names like CBS, Buena Vista Pictures(Disney), VH1, MTV and a whole host of others, Yahoo continues to add to their offerings.
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050504OASISPlansOpenStandardsDayInAmsterdam.html" class="six">OASIS Plans Open Standards Day In Amsterdam</a><br>[2005-05-04] The open standards consortium OASIS plans a one-day conference on May 24th in Amsterdam. The OASIS Open Standards Day will be held in conjunction with the IDEAlliance XTech 2005 Conference & Exhibition (formerly XML Europe).
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        <a href="webservicespro-69-20050503OASISTakesAnotherSteponSOA.html" class="six">OASIS Takes Another Step on SOA</a><br>[2005-05-03] OASIS, the consortium of electronic business mega corporations, takes another step in its goal of international standards for the internet world. They announced the development of a committee to create a reference model for service-oriented-architectures (SOA-RM).
+                                                <br>
+                                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                                        <tr>
+                                                        </tr>
+                                                </table>
+                                                <font color="#999999"></font>
+                                                <br>
+        
+          </td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td bgcolor="#FFCC00"> <div align="center" class="text"><a href="archive.html" class="corp2">Newsletter 
+        Archive</a> | <a href="articlearchive.html" class="corp2">Article Archive</a> 
+        | <a href="mailto:articlesubmissions@ientry.com?subject=Submitted%20Article" class="corp2">Submit 
+        Article</a> | <a href="http://www.ientry.com/page/ad/contact.html" class="corp2">Advertising 
+        Information</a> | <a href="http://ientry.com/page/corp/aboutus.html" class="corp2">About 
+        Us</a> | <a href="http://ientry.com/page/corp/contactus.html" class="corp2">Contact 
+        </a></div></td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr> 
+    <td><div align="center" class="text"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.webservicespro.com">WebServicesPro</a> 
+        is an<a href="http://www.ientry.com"> iEntry, Inc.</a>® publication 
+        - 2004 All Rights Reserved  <a href="http://www.iEntry.com/page/corp/privacy.html">Privacy 
+        Policy</a> and <a href="http://www.iEntry.com/page/corp/legal.html">Legal</a> 
+        </font></div></td>
+  </tr>
+</table>
+</body>
+</html>

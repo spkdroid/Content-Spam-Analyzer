@@ -1,0 +1,677 @@
+<!-- URL: http://www.somatropingh.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 12:57:21 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "1882f6-ad88-42ec298c" -->
+<!-- Server: Apache/1.3.34 (Unix) mod_ssl/2.8.25 OpenSSL/0.9.7a FrontPage/5.0.2.2635 mod_throttle/3.1.2 -->
+<!-- Content-Length: 44424 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html;charset=ISO-8859-1 -->
+<!-- Last-Modified: Sun, 31 Jul 2005 01:29:48 GMT -->
+<!-- Client-Peer: 64.40.149.84:80 -->
+<!-- Title: Somatropin GH -->
+<!-- X-Meta-GENERATOR: Microsoft FrontPage 6.0 -->
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<meta name="generator" content="Microsoft FrontPage 6.0">
+		<title>Somatropin GH</title>
+		<csscriptdict>
+			<script><!--
+CSInit = new Array;
+function CSScriptInit() {
+if(typeof(skipPage) != "undefined") { if(skipPage) return; }
+idxArray = new Array;
+for(var i=0;i<CSInit.length;i++)
+	idxArray[i] = i;
+CSAction2(CSInit, idxArray);}
+CSAg = window.navigator.userAgent; CSBVers = parseInt(CSAg.charAt(CSAg.indexOf("/")+1),10);
+function IsIE() { return CSAg.indexOf("MSIE") > 0;}
+function CSIEStyl(s) { return document.all.tags("div")[s].style; }
+function CSNSStyl(s) { return CSFindElement(s,0); }
+function CSFindElement(n,ly) { if (CSBVers < 4) return document[n];
+	var curDoc = ly ? ly.document : document; var elem = curDoc[n];
+	if (!elem) { for (var i=0;i<curDoc.layers.length;i++) {
+		elem = CSFindElement(n,curDoc.layers[i]); if (elem) return elem; }}
+	return elem;
+}
+
+function CSClickReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return true; // dont follow link
+	else return false; // dont follow link
+}
+
+function CSButtonReturn () {
+	var bAgent = window.navigator.userAgent; 
+	var bAppName = window.navigator.appName;
+	if ((bAppName.indexOf("Explorer") >= 0) && (bAgent.indexOf("Mozilla/3") >= 0) && (bAgent.indexOf("Mac") >= 0))
+		return false; // follow link
+	else return true; // follow link
+}
+
+CSIm = new Object();
+function CSIShow(n,i) {
+	if (document.images) {
+		if (CSIm[n]) {
+			var img = (!IsIE()) ? CSFindElement(n,0) : document[n];
+			if (img && typeof(CSIm[n][i].src) != "undefined") {img.src = CSIm[n][i].src;}
+			if(i != 0)
+				self.status = CSIm[n][3];
+			else
+				self.status = " ";
+			return true;
+		}
+	}
+	return false;
+}
+function CSILoad(action) {
+	im = action[1];
+	if (document.images) {
+		CSIm[im] = new Object();
+		for (var i=2;i<5;i++) {
+			if (action[i] != '') { CSIm[im][i-2] = new Image(); CSIm[im][i-2].src = action[i]; }
+			else CSIm[im][i-2] = 0;
+		}
+		CSIm[im][3] = action[5];
+	}
+}
+CSStopExecution = false;
+function CSAction(array) { 
+	return CSAction2(CSAct, array);
+}
+function CSAction2(fct, array) { 
+	var result;
+	for (var i=0;i<array.length;i++) {
+		if(CSStopExecution) return false; 
+		var actArray = fct[array[i]];
+		if (actArray == null) return false;
+		var tempArray = new Array;
+		for(var j=1;j<actArray.length;j++) {
+			if((actArray[j] != null) && (typeof(actArray[j]) == "object") && (actArray[j].length == 2)) {
+				if(actArray[j][0] == "VAR") {
+					tempArray[j] = CSStateArray[actArray[j][1]];
+				}
+				else {
+					if(actArray[j][0] == "ACT") {
+						tempArray[j] = CSAction(new Array(new String(actArray[j][1])));
+					}
+				else
+					tempArray[j] = actArray[j];
+				}
+			}
+			else
+				tempArray[j] = actArray[j];
+		}			
+		result = actArray[0](tempArray);
+	}
+	return result;
+}
+CSAct = new Object;
+
+
+// --></script>
+		</csscriptdict>
+		<csactiondict>
+			<script><!--
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button21',/*URL*/'images/qqq23_10.gif',/*URL*/'images/qqq23_10z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button22',/*URL*/'images/qqq23_12.gif',/*URL*/'images/qqq23_12z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button23',/*URL*/'images/qqq23_13.gif',/*URL*/'images/qqq23_13z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button24',/*URL*/'images/qqq23_14.gif',/*URL*/'images/qqq23_14z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button25',/*URL*/'images/qqq23_15.gif',/*URL*/'images/qqq23_15z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button26',/*URL*/'images/qqq23_16.gif',/*URL*/'images/qqq23_16z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button27',/*URL*/'images/qqq23_17.gif',/*URL*/'images/qqq23_17z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button28',/*URL*/'images/qqq23_18.gif',/*URL*/'images/qqq23_18z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button29',/*URL*/'images/qqq23_20.gif',/*URL*/'images/qqq23_20z.gif',/*URL*/'','');
+CSInit[CSInit.length] = new Array(CSILoad,/*CMP*/'button30',/*URL*/'images/qqq23_21.gif',/*URL*/'images/qqq23_21z.gif',/*URL*/'','');
+
+// --></script>
+		</csactiondict>
+
+	</head>
+
+	<body bgcolor="#ffffff" background="images/somatile.gif" onload="CSScriptInit();">
+		<div align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="675">
+				<tr>
+					<td colspan="3" valign="top" align="right"><img src="images/bottop.gif" width=104 height=36></td>
+				</tr>
+				<tr height="271">
+					<td valign="top" align="left" height="271" colspan="2"><img src="images/qqq23_06.jpg" width=204 height=271></td>
+					<td valign="top" align="left" rowspan="3" width="471">
+
+						<table border="0" cellpadding="0" cellspacing="0" width="471" height="545" bgcolor="white">
+							<tr height="113">
+								<td valign="top" align="left" height="113" width="471">
+                                <a href="order.html">
+                                <img src="images/qqq23_07a.gif" width=471 height=113 border="0"></a></td>
+							</tr>
+							<tr height="277">
+								<td height="277" valign="top" align="left" bgcolor="white" width="471">
+									<table border="0" cellpadding="0" cellspacing="0" width="460" height="273">
+										<tr height="12">
+											<td colspan="2" height="12" valign="top" align="left"></td>
+										</tr>
+										<tr height="261">
+											<td width="12" valign="top" align="left" height="261"></td>
+											<td valign="top" align="left" height="261" width="448">
+												<table border="0" cellpadding="0" cellspacing="0" width="64">
+													<tr>
+														<td width="448">
+															<table border="0" cellpadding="0" cellspacing="0" width="448" height="122">
+																<tr>
+																	<td colspan="2" width="448" height="57"><img src="images/x_03.gif" width=416 height=57></td>
+																</tr>
+																<tr height="78">
+																	<td rowspan="2" width="88" valign="top" align="left" height="65"><img src="images/x_07.jpg" width=88 height=97></td>
+																	<td height="32" valign="top" align="left" width="360">
+																		<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber3" align="left" height="1">
+                                                                          <tr>
+                                                                            <td width="33%" height="20">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Increase 
+                                                                            Energy</font></b></td>
+                                                                            <td width="33%" height="20">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Improve 
+                                                                            Memory</font></b></td>
+                                                                            <td width="34%" height="20">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Heighten 
+                                                                            Mood</font></b></td>
+                                                                          </tr>
+                                                                          <tr>
+                                                                            <td width="33%" height="7">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Reduce 
+                                                                            Fat</font></b></td>
+                                                                            <td width="33%" height="7">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Regulate 
+                                                                            Sleep</font></b></td>
+                                                                            <td width="34%" height="7">
+                                                                            <b>
+                                                                            <font face="Arial" size="2">
+                                                                            Improve 
+                                                                            Healing
+                                                                            </font>
+                                                                            </b>
+                                                                            </td>
+                                                                          </tr>
+                                                                          <tr>
+                                                                            <td width="33%" height="3">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Gain 
+                                                                            Strength</font></b></td>
+                                                                            <td width="33%" height="3">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            Rejuvenate 
+                                                                            Skin</font></b></td>
+                                                                            <td width="34%" height="3">
+                                                                            <b>
+                                                                            <font size="2" face="Arial">
+                                                                            And 
+                                                                            much 
+                                                                            more...</font></b></td>
+                                                                          </tr>
+                                                                        </table>
+																	</td>
+																</tr>
+																<tr>
+																	<td valign="bottom" align="right" width="360" height="33">
+                                                                    <a href="productinfo.html">
+                                                                    <img src="images/x_10.gif" width=99 height=33 border="0"></a></td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+													<tr height="1">
+														<td bgcolor="#245780" width="448" height="1"><img src="images/line.gif" width="19" height="1" border="0"></td>
+													</tr>
+													<tr height="28">
+														<td width="448" height="28" valign="top" align="left">
+															<img src="images/x_15.gif" width=368 height=28></td>
+													</tr>
+													<tr height="53">
+														<td width="448" height="53" valign="top" align="left">
+                                                        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+                                                          <tr>
+                                                            <td width="100%">
+                                                        <p style="TEXT-ALIGN: center">
+                                                        <font face="Arial"><b>
+                                                        <font size="2">Landmark 
+                                                        Study by</font></b><font size="2"><br>
+                                                        L. Cass Terry, M.D., 
+                                                        Ph.D., and
+                                                        Edmund Chein, M.D.<br>
+                                                        Effects of  Growth 
+                                                        Hormone when 
+                                                        administered with low 
+                                                        dose and <br>
+                                                        high-frequency 
+                                                        over a period of six 
+                                                        months:</font></font><table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2">
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="305">
+                                                      <font face="Arial" size="2">
+                                                      <b>
+                                                      <span style="COLOR: rgb(127,0,170)">
+                                                      &nbsp;Strength, Exercise &amp; Body 
+                                                      Fat Loss</span></b></font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="117">
+                                                      <font face="Arial" size="2">
+                                                      <b>
+                                                      <span style="COLOR: rgb(51,153,0)">
+                                                      Improvement</span></b></font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Muscle Strength</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      88%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Muscle Size</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      81%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Body Fat Loss</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      72%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Exercise Tolerance</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      81%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="305">
+                                                      <font face="Arial" size="2">
+                                                      <span style="COLOR: rgb(127,0,170)">
+                                                      &nbsp;<b>Energy, Emotions &amp; 
+                                                      Memory</b></span></font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="117">
+                                                      <font face="Arial" size="2">
+                                                      <span style="COLOR: rgb(51,153,0)">
+                                                      <b>Improvement </b></span>
+                                                      </font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Energy Level</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      84%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Emotional Stability</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      67%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Attitude Toward Life</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      78%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Memory</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      62%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="305">
+                                                      <font face="Arial" size="2">
+                                                      <b>
+                                                      <span style="COLOR: rgb(127,0,170)">
+                                                      &nbsp;Skin and Hair</span></b></font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="117">
+                                                      <font face="Arial" size="2">
+                                                      <span style="COLOR: rgb(51,153,0)">
+                                                      <b>Improvement</b></span></font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Skin Texture</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      71%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Skin Thickness</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      68%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Skin Elasticity</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      71%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Wrinkle Disappearance</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      61%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;New Hair Growth</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      38%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="305">
+                                                      <font face="Arial" size="2">
+                                                      <b>
+                                                      <span style="COLOR: rgb(127,0,170)">
+                                                      &nbsp;Healing, Flexibility &amp; 
+                                                      Resistance</span></b></font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="117">
+                                                      <font face="Arial" size="2">
+                                                      <span style="COLOR: rgb(51,153,0)">
+                                                      <b>Improvement</b></span></font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Healing of Old Injuries</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      55%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Healing of Other Injuries</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      61%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Healing Capacity</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      71%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Back Flexibility</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      83%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Resistance to Common 
+                                                      Illness</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      73%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="305">
+                                                      <font face="Arial" size="2">
+                                                      <b>
+                                                      <span style="COLOR: rgb(127,0,170)">
+                                                      &nbsp;Sexual Function</span></b></font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid; BACKGROUND-COLOR: rgb(255,255,204)" width="117">
+                                                      <font face="Arial" size="2">
+                                                      <span style="COLOR: rgb(51,153,0)">
+                                                      <b>Improvement</b></span></font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Sexual Potency/Frequency</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      75%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Duration of Male Erection</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      62%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Frequency of Nighttime 
+                                                      Urination</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      57%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Hot Flashes</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      58%</font></td>
+                                                              </tr>
+                                                              <tr>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="305">
+                                                      <font face="Arial" size="2">
+                                                      &nbsp;Menstrual Cycle 
+                                                      Regulation</font></td>
+                                                      <td style="BORDER-BOTTOM: rgb(102,153,204) 1pt solid" width="117">
+                                                      <font face="Arial" size="2">
+                                                      39%</font></td>
+                                                              </tr>
+                                                            </table>
+                                                            </td>
+                                                          </tr>
+                                                        </table>
+                                                        </td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+							<tr height="155">
+								<td height="155" valign="bottom" align="right" bgcolor="white" width="471">
+                                                                    <a href="productinfo.html">
+                                                                    <img src="images/x_10.gif" width=99 height=33 border="0"></a>&nbsp;&nbsp;&nbsp; 
+                                                                    <table border="0" cellpadding="0" cellspacing="0" width="460" height="63">
+										<tr height="150">
+											<td width="223" height="63" align="center">
+                                            <p align="center"><br>
+                                            <br>
+						                    <b>
+                                            <font face="Arial" size="2" color="#245780">
+                                            <a href="order.html">
+						<img src="images/ordernow.gif" width="132" height="42" border="0"></a></font></b><br>
+                                            <br>
+                                            <br>
+&nbsp;</td>
+											<td width="237" valign="bottom" align="right" height="63">
+                                            <p align="center">
+                                                                    <a href="guarantee.html">
+                                            <img src="images/x_19.jpg" width=237 height=122 border="0"></a></td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr height="24">
+					<td valign="top" align="left" height="24" colspan="2">
+                    <a href="order.html"><img src="images/qqq23_09.gif" width="204" height="24" border="0"></a></td>
+				</tr>
+				<tr height="249">
+					<td width="154" valign="top" align="left" height="249">
+						<table border="0" cellpadding="0" cellspacing="0" width="64">
+							<tr>
+								<td><csobj w="154" h="27" t="Button" ht="images/qqq23_10z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button21',1)" onmouseout="return CSIShow(/*CMP*/'button21',0)" onclick="return CSButtonReturn()" href="about.html"><img src="images/qqq23_10.gif" width="154" height="27" name="button21" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="25" t="Button" ht="images/qqq23_12z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button22',1)" onmouseout="return CSIShow(/*CMP*/'button22',0)" onclick="return CSButtonReturn()" href="doctors.html"><img src="images/qqq23_12.gif" width="154" height="25" name="button22" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="24" t="Button" ht="images/qqq23_13z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button23',1)" onmouseout="return CSIShow(/*CMP*/'button23',0)" onclick="return CSButtonReturn()" href="howitworks.html"><img src="images/qqq23_13.gif" width="154" height="24" name="button23" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="24" t="Button" ht="images/qqq23_14z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button24',1)" onmouseout="return CSIShow(/*CMP*/'button24',0)" onclick="return CSButtonReturn()" href="rightforme.html"><img src="images/qqq23_14.gif" width="154" height="24" name="button24" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="25" t="Button" ht="images/qqq23_16z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button26',1)" onmouseout="return CSIShow(/*CMP*/'button26',0)" onclick="return CSButtonReturn()" href="press.html"><img src="images/qqq23_16.gif" width="154" height="25" name="button26" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="24" t="Button" ht="images/qqq23_17z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button27',1)" onmouseout="return CSIShow(/*CMP*/'button27',0)" onclick="return CSButtonReturn()" href="questions.html"><img src="images/qqq23_17.gif" width="154" height="24" name="button27" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="24" t="Button" ht="images/qqq23_18z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button28',1)" onmouseout="return CSIShow(/*CMP*/'button28',0)" onclick="return CSButtonReturn()" href="productinfo.html"><img src="images/qqq23_18.gif" width="154" height="24" name="button28" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="24" t="Button" ht="images/qqq23_20z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button29',1)" onmouseout="return CSIShow(/*CMP*/'button29',0)" onclick="return CSButtonReturn()" href="contact.html"><img src="images/qqq23_20.gif" width="154" height="24" name="button29" border="0"></a></csobj></td>
+							</tr>
+                            <tr>
+								<td><csobj w="154" h="29" t="Button" ht="images/qqq23_21z.gif">
+                                <a onmouseover="return CSIShow(/*CMP*/'button30',1)" onmouseout="return CSIShow(/*CMP*/'button30',0)" onclick= "window.open('http://www.somatropingh.com/cgi-bin/soma_refer/soma_refer.cgi?job=refer&URL='+self.location.href,'','width=425,height=550,scrollbars=yes'+scroll+',resizable');"><img src="images/qqq23_21.gif" width="154" height="29" name="button30" border="0"></a></csobj><br>
+                                <br>
+&nbsp;</td>
+							</tr>
+							<tr>
+								<td>
+                                <p align="center">
+                                <a href="guarantee.html">
+                                <img border="0" src="images/guarantee_icon.gif" width="71" height="68"></a><br>
+                                <br>
+                                <font face="Arial" size="1">
+                                <a href="disclaimer.html">DISCLAIMER</a><br>
+                                </font>
+                                <font color="#777777" face="Arial" size="1">
+                                <a href="privacy.html">PRIVACY POLICY</a></font></td>
+							</tr>
+						</table>
+					</td>
+					<td width="50" valign="top" align="left" bgcolor="white" height="249">
+						<div align="left">
+							<font color="white"><img src="images/dots.gif" width="46" height="176" border="0"><br>
+&nbsp;</font></div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							<br>
+                            <br>
+&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							<br>
+                            <br>
+&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							<br>
+                            <br>
+&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+						<div align="left">
+							&nbsp;</div>
+					</td>
+				</tr>
+				<tr>
+					<td width="154" valign="top" align="center">&nbsp;</td>
+					<td colspan="2" valign="top" align="left"><img src="images/qqq23_19.jpg" width=521 height=70></td>
+				</tr>
+			</table>
+			<p></p>
+		</div>
+		<p></p>
+	</body>
+
+</html>

@@ -1,0 +1,30 @@
+<!-- URL: http://lastminutetravel.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 18:00:19 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 511 -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Refresh: 0;url=PageDefault.aspx -->
+<!-- Set-Cookie: ASP.NET_SessionId=l1rluhaygvrm5245oyci2vey; path=/ -->
+<!-- Title: LastMinuteTravel - airfare, hotels, cruises, cars, vacations Home -->
+<!-- X-AspNet-Version: 1.1.4322 -->
+<!-- X-Meta-CODE-LANGUAGE: C# -->
+<!-- X-Meta-GENERATOR: Microsoft Visual Studio .NET 7.1 -->
+<!-- X-Meta-Vs-DefaultClientScript: JavaScript -->
+<!-- X-Meta-Vs-TargetSchema: http://schemas.microsoft.com/intellisense/ie5 -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" > 
+<html>
+<head>
+<title id="pgTitle">LastMinuteTravel - airfare, hotels, cruises, cars, vacations Home</title>
+<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+<meta name="CODE_LANGUAGE" Content="C#">
+<meta name=vs_defaultClientScript content="JavaScript">
+<meta name=vs_targetSchema content="http://schemas.microsoft.com/intellisense/ie5">
+<meta http-equiv="Refresh" content="0;url=PageDefault.aspx">
+</head>
+</html>

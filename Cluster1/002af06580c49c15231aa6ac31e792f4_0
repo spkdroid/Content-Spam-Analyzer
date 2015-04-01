@@ -1,0 +1,42 @@
+<!-- URL: http://www.myfirstsexteacher.com/maintour.php/5406/11/1 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0 -->
+<!-- Connection: close -->
+<!-- Date: Sat, 31 Dec 2005 00:42:10 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache/1.3.34 (Unix) mod_perl/1.29 PHP/4.4.0 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=windows-1252 -->
+<!-- Expires: Thu, 19 Nov 1981 08:52:00 GMT -->
+<!-- Client-Peer: 64.255.182.21:80 -->
+<!-- Set-Cookie: PHPSESSID=82de62f2ae5b07e5b2b51b13cc0c3cca; path=/ -->
+<!-- Title: www.myfirstsexteacher.com -->
+<!-- X-Powered-By: PHP/4.4.0 -->
+
+		<html>
+		<head>
+		<script language="JavaScript">
+
+		<!--
+var freeOut = 0;
+		var popup1 = "";
+		var popup2 = "";
+		var popup4 = "1";
+		var webmasterid = "5406";
+		//-->
+		</script>
+		<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title>www.myfirstsexteacher.com</title>
+				</head>
+		<!--<FRAMESET rows="100%,*" scrolling="no" border="0" frameborder="no" framespacing="0">
+		<FRAME name="main" src="/tour.php/5406/11/1">
+				<FRAME name="exit" id="exitframe" src="/empty.php?freeOut=0&popup1=&popup2=&popup4=1&console_code=&webmasterid=5406">
+			</FRAMESET>-->
+
+		<FRAMESET rows="100%,*" scrolling="no" border="0" frameborder="no" framespacing="0">
+		<FRAME name="main" src="/tour.php/5406/11/1?p_url=/maintour.php/5406/11/1">
+
+				<FRAME name="exit" id="exitframe" src="/empty.php?freeOut=0&popup1=&popup2=&popup4=1&console_code=">
+				</FRAMESET>
+		</html>
+		

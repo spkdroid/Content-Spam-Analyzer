@@ -1,0 +1,401 @@
+<!-- URL: http://www.infobeat.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 13:08:18 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 63.215.75.80:80 -->
+<!-- IISExport: This web site was exported using IIS Export v4.2 -->
+<!-- IISExport: This web site was exported using IIS Export v4.2 -->
+<!-- Link: <style.css>; rel="stylesheet" -->
+<!-- P3P: CP="CAO DSP COR CUR CON OUR STP UNI", policyref="http://www.flowgo.com/w3c/p3p.xml" -->
+<!-- Page-Completion-Status: Normal -->
+<!-- Page-Completion-Status: Normal -->
+<!-- Set-Cookie: PO=infobeat; path=/;  -->
+<!-- Title: InfoBeat - Don't Miss A Beat -->
+
+ 
+	
+<html>
+<head>
+	<title>InfoBeat - Don't Miss A Beat</title>
+<SCRIPT language="javascript" type="text/javascript">
+<!--
+function newWin(){
+var confirmWin = window.open('signup_pop.cfm','','width=400,height=380,scrollbars=no,left=380,top=0')
+	//give a reference between the opener
+	//and the popup for backwards compatibility
+	if(confirmWin.opener==null){
+		confirmWin.opener = self;
+	}
+}
+//-->
+</SCRIPT>
+
+<script language="javascript" src="http://popups.ad-logics.com/popup1/js/for_site.cfm?site_id=241&nocache=1479"></script>
+
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body topmargin=0 leftmargin=0 marginheight=0 marginwidth=0 onload="open_flowgo_popup_onload();" onunload="open_flowgo_popup()">
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top">
+	<td>
+
+<table border=0 cellpadding=0 cellspacing=0 width=770>
+
+	<tr>
+		<td><a href="index.cfm"><img src="images/logo1.gif" width="300" height="68" border="0"></a></td>
+		<td align=left valign=middle bgcolor="80ACFF" colspan=2><script LANGUAGE="JavaScript1.1" SRC="http://deBNT.imixserver.com/js.ng/site=intermix&affiliate=www.infobeat.com&mixpage=hp&placement=banner&fcat=&partner=No&random=26676079"></script>
+	<script language="javascript" src="http://www.flowgo.com/pop/de.cfm?affiliate=www.infobeat.com&mixpage=hp&fcat=&partner=No&rand=26676079"></script>
+	
+</td>
+	</tr>
+	<tr>
+		<form action="http://www.sirsearch.com/index.cfm" name="search" METHOD="GET">
+		<input type="hidden" name="action" value="search">
+		<input type="hidden" name="pc" value="infobeat">
+		<input type="hidden" name="st" value="1">
+		<td rowspan=2><img src="images/logo2.gif" width="300" height="52" border="0"></td>
+		<td valign=top bgcolor="E1E1E1"><img src="images/topmiddle.gif" width="340" height="26" border="0"></td>
+		<td rowspan=2><input type="image" src="images/enews_top.gif" alt="Search" width="130" height="52" border="0" onclick="search.submit();"></td>
+	</tr>
+	<tr>
+		<td bgcolor="E1E1E1" align=right valign=top>
+		<table border="0" cellspacing="0" cellpadding="0" align="right">
+			  <tr>
+				<td>Search The Web:</td>
+				<td><input type="text" size="30" name="Keywords" alue="#url.Keywords#"></td>
+			  </tr></form>
+			</table>
+		</td>
+	</tr>
+</table>
+<table border=0 cellpadding=0 cellspacing=0 width=770>
+	<tr valign="top">
+		<td valign=top background="images/nav_bkg.gif">
+		
+
+		<table border="0" cellspacing="0" cellpadding="0">
+		  <tr>
+			<td colspan="2"><a href="index.cfm"><img src="images/menu/home.gif" width="153" height="34" alt="" border="0"></a></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep1.gif" width="40" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=1" class="category_nav">Business</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep2.gif" width="2" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=5" class="category_nav">Entertainment</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep2.gif" width="2" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=2" class="category_nav">Finance</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep2.gif" width="2" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=7" class="category_nav">Sports</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep2.gif" width="2" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=4" class="category_nav">Technology</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		  <tr>
+		  	<td width="41"><img src="images/menu/sep2.gif" width="2" height="22" alt="" border="0"></td>
+			<td align="right" background="images/menu/bg.gif" width="113"><a href="index.cfm?action=category&id=3" class="category_nav">Top Stories</a> &nbsp;&nbsp;&nbsp;</td>
+		  </tr>
+		  <tr>
+			<td colspan="2"><img src="images/menu/sep3.gif" width="153" height="3" alt="" border="0"></td>
+		  </tr>
+		  
+		</table>
+		<br><br>
+
+	
+
+
+
+
+			
+			<table border=0 cellspacing=0 cellpadding=0 width=160 style='width:120.0pt;mso-cellspacing:0in;mso-padding-alt:0in 0in 0in 0in' align="center">
+				<tr height=1 style='mso-yfti-irow:0;height:.75pt'>
+					<td width=10 rowspan=5 bgcolor="#CCCCCC" style='width:.1in;background:#CCCCCC;padding:0in 0in 0in 0in;height:.75pt'><p class=MsoNormal><a name="#closingbell"></a><font size=3 color=black face="Times New Roman"><span style='font-size:12.0pt'><img border=0 width=1 height=1 id="_x0000_i1039" src="http://www.infoBeat.com/images/transp.gif" NOSEND=1><o:p></o:p></span></font></p></td>
+					<td height=1 bgcolor="#CCCCCC" style='background:#CCCCCC;padding:0in 0in 0in 0in;height:.75pt'><p class=MsoNormal style='mso-line-height-alt:.75pt'><font size=3 color=black face="Times New Roman"><span style='font-size:12.0pt'><img border=0 width=1 height=1 id="_x0000_i1040" src="http://www.infoBeat.com/images/transp.gif" NOSEND=1><o:p></o:p></span></font></p></td>
+					<td width=10 rowspan=5 bgcolor="#CCCCCC" style='width:.1in;background:#CCCCCC;padding:0in 0in 0in 0in;height:.75pt'><p class=MsoNormal style='mso-line-height-alt:.75pt'><font size=3 color=black face="Times New Roman"><span style='font-size:12.0pt'><img border=0 width=1 height=1 id="_x0000_i1041" src="http://www.infoBeat.com/images/transp.gif" NOSEND=1><o:p></o:p></span></font></p></td>
+				</tr>
+				
+				<tr height=34 style='mso-yfti-irow:3;height:25.5pt'>
+					<td height=34 style='padding:0in 0in 0in 0in;height:25.5pt'>
+						<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=158 style='width:118.5pt;mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt'>
+							<tr style='mso-yfti-irow:0;mso-yfti-lastrow:yes'>
+			
+			
+								<td style='padding:3.75pt 3.75pt 3.75pt 3.75pt'>
+								<p class=MsoNormal><b><font size=2 color="#ff6600" face=Arial><span style='font-size:10.0pt;font-family:Arial;color:#FF6600;font-weight:bold'>U.S. INDICES</span></font></b><br>
+								<font size=1 face=Arial><span style='font-size:7.5pt;font-family:Arial'>(4:00 p.m. ET)</span></font> <b><font size=2 color="#334633" face=Arial><span style='font-size:10.0pt;font-family:Arial;color:#334633;font-weight:
+								bold'><br>
+								DJIA</span></font></b><font size=2 color="#334633" face=Arial><span
+								style='font-size:10.0pt;font-family:Arial;color:#334633'> <br>
+								Value: n/a </span></font><font size=2 face=Arial><span
+								style='font-size:10.0pt;font-family:Arial'><br>
+								Change: n/a</span></font><font size=2 color="#334633" face=Arial><span
+								style='font-size:10.0pt;font-family:Arial;color:#334633'> <br>
+								<b><span style='font-weight:bold'>Nasdaq Comp. </span></b><br>
+								Value: n/a <br>
+								Change: </span></font><font size=2 face=Arial><span style='font-size:
+								10.0pt;font-family:Arial'>n/a</span></font><font size=2
+								color="#334633" face=Arial><span style='font-size:10.0pt;font-family:
+								Arial;color:#334633'> <br>
+								<b><span style='font-weight:bold'>S&amp;P 500 </span></b><br>
+								Value: n/a <br>
+								Change: </span></font><font size=2 face=Arial><span style='font-size:
+								10.0pt;font-family:Arial'>n/a</span></font><font size=2
+								color="#334633" face=Arial><span style='font-size:10.0pt;font-family:
+								Arial;color:#334633'> <br>
+								<br>
+								</span></font>
+			
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr height=1 style='mso-yfti-irow:4;mso-yfti-lastrow:yes;height:.75pt'>
+					<td height=1 bgcolor="#CCCCCC" style='background:#CCCCCC;padding:0in 0in 0in 0in;height:.75pt'><p class=MsoNormal style='mso-line-height-alt:.75pt'><font size=3 color=black face="Times New Roman"><span style='font-size:12.0pt'><img 	border=0 width=1 height=1 id="_x0000_i1044" src="http://www.infoBeat.com/images/transp.gif" NOSEND=1><o:p></o:p></span></font></p></td>
+				</tr>
+			</table>
+			
+
+		</td>
+		<td valign=top><img src="images/clear.gif" width="487" height="5" border="0"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="5">
+  <tr>
+	<td>
+
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+	<td><img src="images/front.jpg" width="175" height="125" alt="" border="1"></td>
+	<td>
+
+		
+		<a href="index.cfm?action=article&id=4294832" class="headline_ts">Seoul welcomes Bush's diplomatic approach</a>
+		<br><img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+		SEOUL, Jun 01, 2005 (United Press International via COMTEX) -- South Korea   Wednesday welcomed U.S.... <a href="index.cfm?action=article&id=4294832"><b>Read More</b></a>
+		
+
+	</td>
+  </tr>
+</table>
+<br>
+<img src="images/headers/headlines.gif" width="470" height="18" alt="" border="0">
+
+
+	
+	<li> <a href="index.cfm?action=article&id=4294835" class="headline_fp">17 killed in Afghan mosque explosion</a><br>
+	<span class="small">&nbsp;&nbsp;&nbsp;&nbsp;Seventeen people including Kabul's   police chief were killed in a suicide bomb attac...</span><br>
+	<img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+
+	
+	<li> <a href="index.cfm?action=article&id=4294833" class="headline_fp">Forex - US dollar steady vs euro ahead of US data, Dutch referendum</a><br>
+	<span class="small">&nbsp;&nbsp;&nbsp;&nbsp; via COMTEX) -- The US dollar barely moved   against the euro while slightly firmer a...</span><br>
+	<img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+
+	
+	<li> <a href="index.cfm?action=article&id=4294837" class="headline_fp">New York politicians team up on terror</a><br>
+	<span class="small">&nbsp;&nbsp;&nbsp;&nbsp;  Republican and Democratic leaders in New York State have teamed up to push   throug...</span><br>
+	<img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+
+	
+	<li> <a href="index.cfm?action=article&id=4294834" class="headline_fp">Washington Post confirms ex-FBI official Felt was 'Deep Throat'</a><br>
+	<span class="small">&nbsp;&nbsp;&nbsp;&nbsp;The Washington Post confirmed   Tuesday that former Federal Bureau of Investigation D...</span><br>
+	<img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+
+	
+	<li> <a href="index.cfm?action=article&id=4294838" class="headline_fp">Airport security program set for Orlando</a><br>
+	<span class="small">&nbsp;&nbsp;&nbsp;&nbsp;Orlando,   Fla., International Airport is getting ready to be the next facility to le...</span><br>
+	<img src="images/t.gif" width="1" height="3" alt="" border="0"><br>
+
+
+
+
+<br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top">
+	<td width="49%">
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	  <tr>
+		<td bgcolor="#F96713" class="cat_h">Business</td>
+	  </tr>
+	  <tr>
+		<td>
+		
+		<a href="index.cfm?action=article&id=4294387" class="headline_fp">T&F Informa MD insists it is ready to take on IIR Holdings acquisition</a><br>
+		LONDON, Jun 01, 2005 (AFX-UK via COMTEX) -- LONDON (AFX) - The managing   director of academic and professional publisher T&F Informa has insisted that it   is not biting off more than it can chew by its plans to acquire Dubai-based   ...<p>
+		<p>
+		
+		</td>
+	  </tr>
+	</table>
+	
+	</td>
+	<td width=6><img src="images/t.gif" width="6" height="1" alt="" border="0"></td>
+	<td>
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	  <tr>
+		<td bgcolor="#F96713" class="cat_h">Entertainment</td>
+	  </tr>
+	  <tr>
+		<td>
+		
+		<a href="index.cfm?action=article&id=4303099" class="headline_fp">Singers' parents sue movie producer</a><br>
+		PARIS, Jun 01, 2005 (United Press International via COMTEX) -- Parents of the   child singers in the hit French movie "LesChorists" are suing for financial   compensation.<p>
+		<p>
+		
+		</td>
+	  </tr>
+	</table>
+
+	</td>
+  </tr>
+  <tr valign="top">
+	<td width="49%">
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	  <tr>
+		<td bgcolor="#3380CC" class="cat_h">Finance</td>
+	  </tr>
+	  <tr>
+		<td>
+		
+		<a href="index.cfm?action=article&id=4294416" class="headline_fp">Crude oil rises ahead of weekly data</a><br>
+		LONDON (MarketWatch) - Crude-oil prices rose Wednesday past $52 a barrel, with investors taking positions ahead of the U.S.<p>
+		<p>
+		
+		</td>
+	  </tr>
+	</table>
+	
+	</td>
+	<td width=6><img src="images/t.gif" width="6" height="1" alt="" border="0"></td>
+	<td>
+
+
+	<table width="100%" border="0" cellspacing="0" cellpadding="3">
+	  <tr>
+		<td bgcolor="#3380CC" class="cat_h">Technology</td>
+	  </tr>
+	  <tr>
+		<td>
+		
+		<a href="index.cfm?action=article&id=4300455" class="headline_fp">Infineon offers better PC security</a><br>
+		TAIPEI, Taiwan, May 31, 2005 (United Press International via COMTEX) --   Germany's Infineon Technologies AG unveiled Tuesday its latest platform to boost   security of personal computers.<p>
+		<p>
+		
+		</td>
+	  </tr>
+	</table>
+
+	</td>
+  </tr>
+</table>
+
+
+	</td>
+  </tr>
+</table>
+<script LANGUAGE="JavaScript1.1" SRC="http://deBNB.imixserver.com/js.ng/site=intermix&affiliate=www.infobeat.com&mixpage=hp&placement=bbanner&fcat=&partner=No&random=65372791"></script>
+
+
+		</td>
+		<td valign=top background="images/rightnav_bkg.gif">
+		<table border=0 cellpadding=0 cellspacing=0>
+			<tr>
+				<td><a href="javascript:newWin();"><img src="images/enews_top2.gif" width="130" height="100" border="0"></a></td>
+			</tr>
+			<tr>
+				<td><img src="images/enews_bot.gif" width="130" height="26" border="0"></td>
+			</tr>
+			<tr>
+				<td><a href="http://www.flowgo.com"><img src="images/funflash_top.gif" width="130" height="66" border="0"></a></td>
+			</tr>
+				<tr>
+				<td background="images/funflash_bkg.gif" align=center><br>
+				<a href="http://www.flowgo.com/funpages/view.cfm/9479" target="_new"><img src="http://i.euniverse.com/funpages/cms_content/9479/tsunami_aid.gif" alt="Fun Flash" width="70" height="70" vspace="3" border="1"><br>
+Help The Tsunami Victims  
+ </a></td>
+			</tr>
+			<tr>
+				<td background="images/funflash_bkg.gif" align=center><br>
+				<a href="http://www.flowgo.com/holidays/christmas_2004/funpages/view.cfm/1084" target="_new"><img src="http://i.euniverse.com/funpages/cms_content/1084/kitty_new_years.gif" alt="Fun Flash" width="70" height="70" vspace="3" border="1"><br>
+				Cat's New Years Resolutions! 
+    </a></td>
+			</tr>
+			<tr>
+				<td background="images/funflash_bkg.gif" align=center><br>
+				<a href="http://www.bigfatbaby.com/funpages/view.cfm/9453" target="_new"><img src="http://i.euniverse.com/funpages/cms_content/9453/2005_hooters.gif" alt="Fun Flash" width="70" height="70" vspace="3" border="1"><br>
+2005 Hooters Calendar! 
+    </a></td>
+			</tr>
+		
+			<tr>
+				<td background="images/funflash_bkg.gif" align=center><br>
+				<a href="http://www.bigfatbaby.com/funpages/view.cfm/9499" target="_new"><img src="http://i.euniverse.com/funpages/cms_content/9499/fastcarbaby.jpg" alt="Fun Flash" width="70" height="70" vspace="3" border="1"><br>
+ FASTCAR Baby!  
+</a></td>
+			</tr> 
+		</table>
+		<br>
+		</td>
+	</tr>
+</table>
+<br>
+<table cellpadding=0 cellspacing=0 border=0 width=770>
+	<tr>
+		<td align=center>Infobeat is a Service Mark of eUniverse, Inc. Copyright © 2000-2002. All Rights Reserved.<br>
+		<a href="index.cfm?action=about">About</a>&nbsp; | &nbsp;<a href="http://www.flowgo.com/flowgo2_privacy.cfm">Privacy Policy</a></td>
+	</tr>
+</table>
+
+	</td>
+	<td>&nbsp;</td>
+	<td>
+	<br>
+	sponsored by:<br>	
+	<script LANGUAGE="JavaScript1.1" SRC="http://deSKY.imixserver.com/js.ng/site=intermix&affiliate=www.flowgo.com&mixpage=hp&placement=skyscraper&fcat=&partner=No&random=65075566"></script>
+</td>
+  </tr>
+</table>
+
+<br>
+</body>
+</html>

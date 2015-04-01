@@ -1,0 +1,198 @@
+<!-- URL: http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 08:14:43 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Expires: 0 -->
+<!-- Client-Peer: 82.165.26.33:80 -->
+<!-- Title: regional-suchen.de - die regionale Suche von Business1x1 Gbr -->
+<!-- X-Meta-Abstract: Der neue regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen? -->
+<!-- X-Meta-Allow-Search: index,follow,all -->
+<!-- X-Meta-Audience: all -->
+<!-- X-Meta-Author: info@malinet.de -->
+<!-- X-Meta-Copyright: 2002 by business1x1 All Rights Reserved. -->
+<!-- X-Meta-DATE: 01/01/2002 -->
+<!-- X-Meta-Description: Der neue Regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen? -->
+<!-- X-Meta-Distribution: global -->
+<!-- X-Meta-Keywords: regional-suchen.de, Suchkatalog, regional, regionale Suche, kostenloser Eintragsservice, Eintragsservice -->
+<!-- X-Meta-Language: de -->
+<!-- X-Meta-Page-Topic: Der neue regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen? -->
+<!-- X-Meta-Page-Type: document -->
+<!-- X-Meta-Resource-Type: document -->
+<!-- X-Meta-Revisit-After: 2 days -->
+<!-- X-Meta-Robots: all, index, follow -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//DE" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"> <html> <head> <title>regional-suchen.de - die regionale Suche von Business1x1 Gbr</title> <meta name="description" content="Der neue Regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen?"> <meta name="keywords" content="regional-suchen.de, Suchkatalog, regional, regionale Suche, kostenloser Eintragsservice, Eintragsservice"> <meta name="ABSTRACT"  content="Der neue regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen?"> <meta name="page-topic"  content="Der neue regional-suchen.de Suchkatalog mit regionaler Suche ist online. Sind auch Sie eingetragen?"> <meta name="distribution" content="global"> <meta name="robots" content="all, index, follow"> <meta name="page-type" content="document"> <meta name="resource-type" content="document"> <meta name="date" content="01/01/2002"> <meta name="allow-search" content="index,follow,all"> <meta name="audience" content="all"> <meta name="language" content="de"> <meta name="copyright" content="2002 by business1x1 All Rights Reserved."> <meta name="author" content="info@malinet.de"> <meta name="revisit-after" content="2 days"> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <meta http-equiv="Pragma" CONTENT="no-cache"> <meta http-equiv="expires" CONTENT="0"> <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> <style>
+ body,td { font-family:Verdana;font-size:12px }
+ a:link		{
+ font-family: Verdana;
+ color: #15406A;
+ font-weight: normal;
+ font-size: 12px;
+ text-decoration: none;
+ }
+a:visited			{
+ font-family: Verdana;
+ color: #15406A;
+ font-weight: normal;
+ font-size: 12px;
+ text-decoration: none;
+ }
+a:active			{
+ font-family: Verdana;
+ color: #15406A;
+ font-weight: normal;
+ font-size: 12px;
+ text-decoration: none;
+ }
+a:hover				{
+ font-family: Verdana;
+ color: #366DA2;
+ font-weight: normal;
+ font-size: 12px;
+ text-decoration: none;
+ }
+</style> <style type="text/css">
+ .search { background-color: #E1EBF3; layer-background-color: #E1EBF3; height: 19px font-family:Verdana,Arial; font-size: 12px; font-weight:bold; }
+</style> <script language="JavaScript1.2">
+// Drop-in content box- By Dynamic Drive
+// For full source code and more DHTML scripts, visit http://www.dynamicdrive.com
+// This credit MUST stay intact for use
+var ie=document.all
+var dom=document.getElementById
+var ns4=document.layers
+var calunits=document.layers? "" : "px"
+var bouncelimit=32 //(must be divisible by 8)
+var direction="up"
+function initbox(){
+if (!dom&&!ie&&!ns4)
+return
+crossobj=(dom)?document.getElementById("dropin").style : ie? document.all.dropin : document.dropin
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+crossobj.top=scroll_top-250+calunits
+crossobj.visibility=(dom||ie)? "visible" : "show"
+dropstart=setInterval("dropin()",50)
+}
+function dropin(){
+scroll_top=(ie)? truebody().scrollTop : window.pageYOffset
+if (parseInt(crossobj.top)<100+scroll_top)
+crossobj.top=parseInt(crossobj.top)+40+calunits
+else{
+clearInterval(dropstart)
+bouncestart=setInterval("bouncein()",50)
+}
+}
+function bouncein(){
+crossobj.top=parseInt(crossobj.top)-bouncelimit+calunits
+if (bouncelimit<0)
+bouncelimit+=8
+bouncelimit=bouncelimit*-1
+if (bouncelimit==0){
+clearInterval(bouncestart)
+}
+}
+function dismissbox(){
+if (window.bouncestart) clearInterval(bouncestart)
+crossobj.visibility="hidden"
+}
+function truebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = ""
+if (document.cookie.length> 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset)
+if (end == -1)
+end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+function dropornot(){
+if (get_cookie("droppedin")==""){
+window.onload=initbox
+document.cookie="droppedin=yes"
+}
+}
+dropornot()
+</script> </head> <body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginheight="0" marginwidth="0" bgcolor="#E1EBF3"> <center> <table width="765" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"> <tr> <td colspan="4"> <!-- header --> <TABLE WIDTH=765 BORDER=0 CELLPADDING=0 CELLSPACING=0> <TR> <TD COLSPAN=3> <IMG SRC="http://pro-pool.de/images/pp_header_01.jpg" WIDTH=765 HEIGHT=5 ALT=""></TD> </TR> <TR> <TD COLSPAN=2> <IMG SRC="http://pro-pool.de/images/rsh_02.jpg" WIDTH=297 HEIGHT=60 ALT=""></TD> <TD width="468" height="60"> <!--webbot bot="HTMLMarkup" startspan --> <IFRAME src="http://www.banner-netmarketing.de/cgi-bin/advertpro/banners.pl?region=42&refresh=10&keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"> <A href="http://www.banner-netmarketing.de/cgi-bin/advertpro/blink.pl?region=42&slot=1" target="_top"> <IMG src="http://www.banner-netmarketing.de/cgi-bin/advertpro/bimg.pl?region=42&slot=1&keyword=NULL" border="0" width="468" height="60" alt="Click Here!"> </A> </IFRAME> <!--webbot bot="HTMLMarkup" endspan --> </TD> </TR> <TR> <TD> <IMG SRC="http://pro-pool.de/images/rsh_04.jpg" WIDTH=273 HEIGHT=27 ALT=""></TD> <TD COLSPAN=2 ROWSPAN=3> <IMG SRC="http://pro-pool.de/images/pp_header_05.jpg" WIDTH=492 HEIGHT=64 ALT=""></TD> </TR> <TR> <TD width="273" height="22" background="http://pro-pool.de/images/pp_header_06.jpg"> <!-- search bar --> <table width="273" height="22" border="0" cellspacing="0" cellpadding="0"> <tr> <form action="http://www.pro-pool.de/cgi-bin/suche/search.cgi" method="GET"><input type=hidden name='t' value='regional'>
+<input type=hidden name='d' value='1'>
+ <td width="6" height="22"></td> <td width="70" height="22"><font color="#FFFFFF" size="-2" face="Verdana, Arial, Helvetica, sans-serif">Suche nach:</font></td> <td width="162" height="22"><div align="center"><input type="text" class="search" name="query"></div></td> <td width="35" height="22"><input name="imageField" type="image" src="http://pro-pool.de/images/go.jpg" width="35" height="19" border="0"></td> </form> </tr> </table> <!-- end search bar --> </TD> </TR> <TR> <TD> <IMG SRC="http://pro-pool.de/images/pp_header_07.jpg" WIDTH=273 HEIGHT=15 ALT=""></TD> </TR> <TR> <TD> <IMG SRC="http://pro-pool.de/images/spacer.gif" WIDTH=273 HEIGHT=1 ALT=""></TD> <TD> <IMG SRC="http://pro-pool.de/images/spacer.gif" WIDTH=24 HEIGHT=1 ALT=""></TD> <TD> <IMG SRC="http://pro-pool.de/images/spacer.gif" WIDTH=468 HEIGHT=1 ALT=""></TD> </TR> </TABLE> <!-- end header --> </td> </tr> <tr> <td width="5" height="411"></td> <td width="200" valign="top"><br><br> <!-- menue left --> <script language="JavaScript" type="text/JavaScript">
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+ window.open(theURL,winName,features);
+}
+</script> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?g=&t=regional&d=1">Home</a></font></div></td> </tr> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=impressum&t=regional&d=1">Impressum</a></font></div></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_werb.jpg" width="180" height="20"></div> <table width="100%" cellpadding="0" cellspacing="0"> <tr><td align="left"> <table border="1" cellpadding="0" cellspacing="0" width="160"> <tr> <TD width="162" valign="top" align="center" bgcolor="#FFFFFF" style="border-left: 2px double rgb(255,247,222); border-right: 2px double rgb(255,247,222); border-top: medium none rgb(255,247,222); border-bottom: 2px double rgb(255,247,222)" height="60"> <font face="verdana,arial" size=1> <a href="javascript:;" onClick="MM_openBrWindow('http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=noni','NONI','resizable=yes,width=700,height=750')"><img src="http://www.pro-pool.de/images/noni_100.jpg" width="121" height="131" border="0"></a><br> <b>Weltneuheit! Kein Scheitern mehr möglich!!!</b><br>
+ Ein neues, vollautomatisches System führt
+ direkt zum Erfolg. Ein perfektes Produkt
+ gepaart mit einem automatischen Erfolgssystem.
+ Verpassen Sie nicht die größte Chance
+ in Ihrem Leben!<br> <a href="javascript:;" onClick="MM_openBrWindow('http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=noni','NONI','resizable=yes,width=700,height=700')">Bitte klicken sie hier für weitere Informationen</a><br> </td></tr> </table> </td></tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="8"></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_pp.jpg" width="180" height="20"></div> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/user.cgi?d=1&t=regional">Login</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/add.cgi?d=1&t=regional">Neuer Eintrag</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/modify.cgi?d=1&t=regional">Eintrag ändern</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="8"></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_werb.jpg" width="180" height="20"></div> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://newsletterwerbeagentur.de/cgi-bin/li/mail.cgi?mail=bestellen" target="_blank">Werbung buchen</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/subscribe.cgi?d=1&t=regional">Newsletter</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="8"></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_tools.jpg" width="180" height="20"></div> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">Free Profieintrag</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional" target="_blank">Free Webmail</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional" target="_blank">Free Autoresponder</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="8"></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_hptools.jpg" width="180" height="20"></div> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">META Generator</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">Doorwaypage Generator</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">Robotstext Generator</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">Popup Generator</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free&d=1&t=regional">IFrame Generator</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="8"></td> </tr> </table> <div align="left"><img src="http://pro-pool.de/images/hl_service.jpg" width="180" height="20"></div> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.business1x1.info" target="_blank">Webdesign</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.newsletterwerbeagentur.de" target="_blank">Promotion</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="25"><img src="http://pro-pool.de/images/pfeil.jpg" width="22" height="10"></td> <td width="175"><div align="left"><font face="Verdana" size="-1"><a href="http://www.pr-a.de" target="_blank">Contentservice</a></font></div></td> </tr> </table> <table width="100%" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="3"></td> </tr> </table> <table width="200" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="200"><div align="left"><font face="Verdana" size="1"><b><font color="#cc0000"><hr size="1" color="#97B1C5" width="92%" align="left">SPONSOREN-LINKS</font></b><span class="sml drk">&nbsp;<br>
+ (<a class="dll" href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=partnerlinks&t=regional&d=1" target="_blank">So
+ werden Sie Sponsor</a>)<br><br> </span></font></div></td> </tr> </table> <br> <div align="left"><a href="http://pro-pool.de/index.html" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.pro-pool.de');"><font face="verdana" size=-2><b>pro-pool.de als Startseite</b></font></a></div> <br> <div align="center"> <!-- BEGIN PARTNER PROGRAM - DO NOT CHANGE THE PARAMETERS OF THE HYPERLINK --><br> <!-- END PARTNER PROGRAM --> </div><br> <div align="left"> <strong><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">Die
+ Top Suchbegriffe: </font></strong><br> <a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=sex&t=regional&d=1">sex</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=shop&t=regional&d=1">shop</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=maskensex&t=regional&d=1">maskensex</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=aloevera&t=regional&d=1">aloevera</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=aeroe&t=regional&d=1">aeroe</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=bearded collie&t=regional&d=1">bearded collie</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=passivhaus&t=regional&d=1">passivhaus</a><br><a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?query=happy-bearded&t=regional&d=1">happy-bearded</a> </div><br> <div align="center"> <a href="http://www.mc-wetter.de" target="_blank"><img src="http://www.mc-wetter.de/bilder/d_sm_tag.jpg" alt="Deutschlandwetter von MC-Wetter" border="0" height="159" width="120"></a><br> <font face="Verdana,Arial" size="1"><a href="http://www.mc-wetter.de/wetter/heute.html">Deutschland heute</a><br>
+ © MC-Wetter GmbH</font> </div><br><br> <!-- end menue left --> </td> <td width="555" valign="top"> <br> <!-- content --> <!--webbot bot="HTMLMarkup" startspan --> <font face="Verdana" size="2">
+Füllen Sie bitte alle Felder aus und Klicken Sie auf weiter.<br>
+dieser Service ist absolut <b>kostenlos</b>.<br> </font> <FORM action=http://autores.citrus-directmail.de/cgi-bin/autores/autores.cgi><input type=hidden name='t' value='regional'>
+<input type=hidden name='d' value='1'>
+ <TABLE borderColorLight=#119cd5 border=1> <TBODY> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><font face="Verdana" size="2"><FONT
+color=#ffffff>Anrede:</FONT><font color="#FF0000">*</font></font></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><SELECT size=1
+name=Anrede> <OPTION value="Sehr geehrte Frau" selected>Frau</OPTION> <OPTION value="Sehr geehrter Herr">Herr</OPTION> </SELECT></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><FONT
+color=#ffffff face="Verdana" size="2">Firma:</FONT></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=45
+name=Firma></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><font face="Verdana" size="2"><FONT
+color=#ffffff>Name:</FONT><font color="#FF0000">*</font></font></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=45
+name=Name></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><FONT
+color=#ffffff face="Verdana" size="2">Strasse:</FONT></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=45
+name=Strasse></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><font face="Verdana" size="2"><FONT
+color=#ffffff>Plz/Ort</FONT><font color="#FF0000">*</font><FONT
+color=#ffffff>:</FONT></font></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=8 name=Plz> <INPUT size=27 name=Ort>  &nbsp;</font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><font color="#FFFFFF" face="Verdana" size="2"><b>Land:</b></font></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff> <font face="Verdana" size="2"> <SELECT size=1 name=Land> <OPTION value=Deutschland
+selected>Deutschland</OPTION> <OPTION value=Österreich>Österreich</OPTION> <OPTION value=Italien>Italien</OPTION> <OPTION
+value=Schweiz>Schweiz</OPTION></SELECT></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><FONT
+color=#ffffff face="Verdana" size="2">Tel:</FONT></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2">Tel: <INPUT size=29
+name=Tel> </font> </TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><FONT
+color=#ffffff face="Verdana" size="2">Url:</FONT></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=45
+name=Url></font></TD></TR> <TR> <TD class=field_text vAlign=center align=center bgColor=#FFFFFF colspan="2"><font size="1" face="Verdana">Geben
+ Sie eine <font color="#FF0000"><b>aktuelle</b></font> Email an da an diese Ihr
+ Quelltext gesendet wird.</font></TD> </TR> <TR> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><font face="Verdana" size="2"><FONT
+color=#ffffff>Email</FONT><font color="#FF0000">*</font><FONT
+color=#ffffff>:</FONT></font></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><INPUT size=45
+name=Email></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=center bgColor=#FFFFFF colspan="2"><b><font face="Verdana" size="2">Wählen
+ Sie hier das Tool das Sie kostenlos nutzen wollen.</font></b></TD> </TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=left bgColor=#119cd5><B><font face="Verdana" size="2"><FONT
+color=#ffffff>Tool:</FONT><font color="#FF0000">*</font></font></B></TD> <TD class=copy vAlign=center align=left bgColor=#ffffff><font face="Verdana" size="2"><SELECT size=1
+name=Vertreter> <OPTION value="http://suchbude.de/cgi-bin/doorway/form.htm" selected>Free
+ Doorwaypage Generator</OPTION> <OPTION value="http://www.malimail.de">Free
+ Webmail</OPTION> <option value="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=profieintrag&amp;d=1">Free
+ Profi Suchmaschineneintrag</option> <option value="http://www6.malinet.de/cgi-bin/autores/autores.cgi?do=signup_form">Free
+ Autoresponder</option> <option value="http://suchbude.de/cgi-bin/meta/meta.html">Free Metatag
+ Generator</option> <option value="http://suchbude.de/cgi-bin/robots/robots.cgi">Free Robotstext
+ Generator</option> <option value="http://suchbude.de/cgi-bin/popup/popup.html">Free Popup
+ Generator</option> <option value="http://suchbude.de/cgi-bin/iframe/iframe.cgi">Free iFrame
+ Generator</option> <option value="http://suchbude.de/cgi-bin/linkparade/linkparade.cgi">Free
+ Linkparade</option> <option value="http://pr-a.de/cgi-bin/page.cgi?d=1&amp;g=CONTENT_SERVICE">Free
+ News Content Generator</option> </SELECT></font></TD></TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=center bgColor=#119cd5 colspan="2"><font face="Verdana" size="2"><INPUT type=submit value='>> Weiter'> </font> </TD> </TR> <TR bgColor=#119cd5> <TD class=field_text vAlign=center align=center bgColor=#FFFFFF colspan="2"><font face="Verdana" size="2">Felder
+ mit <font color="#FF0000"><b>* </b></font>sind Pflichtfelder.</font> </TD> </TR> </TBODY></TABLE> <INPUT type=hidden value=add_lead_external name=do> <INPUT type=hidden value=webmastertools name=Username> <INPUT type=hidden value=Active name=Stop_Status> <INPUT type=hidden value=0 name=Cycle_Number> <INPUT type=hidden value=http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free_succes&d=1 name=Failure_URL> <INPUT type=hidden value=http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=free_succes&d=1 name=Success_URL> <INPUT type=hidden value="Nutzung von Tools" name=Notes> <INPUT type=hidden value="regional-suchen.de" name=Portal> </FORM> <!--webbot bot="HTMLMarkup" endspan --> <!-- end content --> </td> <td width="5"></td> </tr> <tr> <td colspan="4"> <!-- footer top --> <TABLE WIDTH=765 BORDER=0 CELLPADDING=0 CELLSPACING=0> <TR> <TD COLSPAN=2> <IMG SRC="http://pro-pool.de/images/pp_footer_01.jpg" WIDTH=765 HEIGHT=11 ALT=""></TD> </TR> <TR> <TD width="282" height="22" background="http://pro-pool.de/images/pp_footer_02.jpg"> <table width="282" border="0" cellspacing="0" cellpadding="0"> <tr> <td width="6"></td> <td width="276"><font color="#FFFFFF" size="-2" face="Verdana, Arial, Helvetica, sans-serif">&copy;
+ by regional suchen | <a href="http://www.business1x1.info"><font color="#FFFFFF" size="-2">business1x1&reg;</font></a> </font></td> </tr> </table> </TD> <TD> <IMG SRC="http://pro-pool.de/images/pp_footer_03.jpg" WIDTH=483 HEIGHT=22 ALT=""></TD> </TR> </TABLE> <!-- end footer top --> </td> </tr> <tr bgcolor="#366DA2"> <td colspan="4" height="25" valign="middle"> <!-- footer links --> <center> <a href="http://www.pro-pool.de/cgi-bin/suche/search.cgi?d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Suche</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?d=1&p=rc_top&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Hitliste</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?g=New&d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Neue Einträge</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?g=Cool&d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Empfehlung</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?g=Ratings&d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Bewertung</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=nutzung&d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Nutzungsbedingungen</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?p=impressum&d=1&t=regional"><font color="#FFFFFF" size="-2" face="Verdana">Impressum</font></a> </center> <!-- end footer links --> </td> </tr> </table> <!-- footer stat --> <center> <table width="753" border="0" cellspacing="3" cellpadding="0"> <tr> <td colspan="7" width="754"><div align="center"> <p align="center"><strong><font size="-2" face="Verdana, Arial, Helvetica, sans-serif">Unsere
+ Partner</font></strong></div></td> </tr> <tr> <td width="111"><div align="center"> <p align="center"><a href="http://www.business1x1.de"><img src="http://www.suchbude.de/Bilder/business1x1.jpg" width="80" height="35" border="0"></a></div></td> <td width="111"><div align="center"> <p align="center"><a href="http://www.shoppinx.de"><img src="http://www.suchbude.de/Bilder/shoppinx.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.in-brd.com"><img src="http://www.suchbude.de/Bilder/inbrd.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.wintersport1x1.de"><img src="http://www.suchbude.de/Bilder/wintersport1x1.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.net2f.de"><img src="http://www.suchbude.de/Bilder/net2f.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.topshop4you.de"><img src="http://www.suchbude.de/Bilder/topshop.jpg" width="80" height="35" border="0"></a></div></td> <td width="84"><div align="center"> <p align="center"><a href="http://www.kicker1x1.de"><img src="http://www.suchbude.de/Bilder/kicker1x1.jpg" width="80" height="35" border="0"></a></div></td> </tr> <tr> <td width="111"><div align="center"> <p align="center"><a href="http://www.news1x1.de"><img src="http://www.suchbude.de/Bilder/news1x1.jpg" width="80" height="35" border="0"></a></div></td> <td width="111"><div align="center"> <p align="center"><a href="http://www.nrw-lokal.de"><img src="http://www.suchbude.de/Bilder/nrw.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.pro-pool.de/cgi-bin/suche/page.cgi?g=&t=regional&d=1"><img src="http://www.suchbude.de/Bilder/propool.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.suchmarie.de"><img src="http://www.suchbude.de/Bilder/suchmarie.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.hierists.de"><img src="http://www.suchbude.de/Bilder/hierists.jpg" width="80" height="35" border="0"></a></div></td> <td width="103"><div align="center"> <p align="center"><a href="http://www.werbe1x1.de"><img src="http://www.suchbude.de/Bilder/werbe1x1.jpg" width="80" height="35" border="0"></a></div></td> <td width="84"><div align="center"> <p align="center"><a href="http://www.newsletterwerbeagentur.de"><img src="http://www.suchbude.de/Bilder/news.jpg" width="80" height="35" border="0"></a></div></td> </tr> <tr> <td width="111"><div align="center"></div></td> <td width="111"><div align="center"></div></td> <td width="103"><div align="center"></div></td> <td width="103"><div align="center"></div></td> <td width="103"><div align="center"></div></td> <td width="103"><div align="center"></div></td> <td width="84"><div align="center"></div></td> </tr> </table> </center> <hr width="765"> <p align="center"> <center> <font size=1 face="verdana,arial" color="#000066"><small class="update">Seite am Freitag, 30.12.2005 um 09:14:43 erstellt.<br>
+ regional-suchen.de
+<b>© 1999-2003 <a href="http://www.malinet.de" linkcolor="white" target="_blank"><font size="-2">malinet
+ Informatik</font></a><font size="-2">.</font> Alle Rechte vorbehalten.<br> <!--webbot bot="HTMLMarkup" startspan --><script><!--
+var color = Math.pow(2,screen.pixelDepth);
+var cookie = (navigator.cookieEnabled == true) ? "on" : "off";
+var java = (navigator.javaEnabled() == true) ? "on" : "off";
+document.write('<script src="http://suchbude.de/cgi-bin/counter/uos.cgi?&action=index&cookie=' + cookie + '&java=' + java + '&e=js&location=' + escape(document.location) + '&ref=' + escape(document.referrer) + '&ref2=' + escape(top.document.referrer) + '&farbe=' + color + '&bit=' + screen.colorDepth + '&width=' + screen.width + '&height=' + screen.height + '"><\/script>');
+//--></script><!--webbot bot="HTMLMarkup" endspan --> </b> </small></font> </center> </center> <!-- end footer stat --> <div id="dropin" style="position:absolute;visibility:hidden;left:200px;top:100px;width:250px;height:300px;background-color:#FFFFFF"> <table width="250" border="0" cellspacing="0" cellpadding="0"> <tr> <td height="285" valign="top"> <!-- content --> <IFRAME src="http://www.banner-netmarketing.de/cgi-bin/advertpro/banners.pl?region=51&keyword=NULL" height="285" width="250" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"> <A href="http://www.banner-netmarketing.de/cgi-bin/advertpro/blink.pl?region=51&slot=1" target="_blank"> <IMG src="http://www.banner-netmarketing.de/cgi-bin/advertpro/bimg.pl?region=51&slot=1&keyword=NULL" border="0" width="250" height="285" alt="Click Here!"> </A> </IFRAME> <!-- end content --> </td> </tr> <tr> <td height="15"><div align="right"><a href="#" onClick="dismissbox();return false"><font size="-2" face="Verdana, Arial, Helvetica, sans-serif" color="#000000">x
+ Fenster schliessen </font></a></div></td> </tr> </table> </div> </body> </html>

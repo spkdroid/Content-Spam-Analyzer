@@ -1,0 +1,22 @@
+<!-- URL: http://summary.antiadwareco.com/?id=kez769 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 17:35:35 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 306 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 64.225.154.135:80 -->
+<!-- Refresh: 0; URL=http://lb1.youbettersearch.com/index/Site=c3VtbWFyeS5hbnRpYWR3YXJlY28uY29t -->
+<!-- Set-Cookie: ASPSESSIONIDCADCAQSR=FAHOAEGBBOODGPEOPOMCJFCN; path=/ -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+<SCRIPT LANGUAGE="javascript">
+{
+var strTemp;
+strTemp = "http://lb1.youbettersearch.com/index/Site=c3VtbWFyeS5hbnRpYWR3YXJlY28uY29t";
+top.location.replace(strTemp);
+}
+</SCRIPT>
+<meta http-equiv=Refresh content="0; URL=http://lb1.youbettersearch.com/index/Site=c3VtbWFyeS5hbnRpYWR3YXJlY28uY29t"> 

@@ -1,0 +1,448 @@
+<!-- URL: http://secure.liveteen.com/signup/signup.php?nats=OjI6NA&step=2 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0 -->
+<!-- Connection: close -->
+<!-- Date: Tue, 27 Dec 2005 23:54:00 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache/1.3.33 (Unix) PHP/4.4.0 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Thu, 19 Nov 1981 08:52:00 GMT -->
+<!-- Client-Peer: 66.235.134.2:80 -->
+<!-- Set-Cookie: PHPSESSID=e45cc6fba6bafd3be26de0451d458d39; path=/ -->
+<!-- Set-Cookie: nats_sess=69fff8d52e21e720a5f0bad0f43e1db4; expires=Thu, 06 Apr 2006 23:54:00 GMT; path=/; domain=liveteen.com -->
+<!-- Title: LiveTeen Signup -->
+<!-- X-Powered-By: PHP/4.4.0 -->
+
+        
+<html>
+<head>
+<title>LiveTeen Signup</title>
+<style type="text/css">
+
+body {
+	background:#ffefe5;
+	color:#000000;
+	background-image:url("http://tour.liveteen.com/images/mainbg.gif");
+	background-position:center;
+	background-repeat:repeat-y;
+	font-family:arial;
+	font-size:10pt;
+	text-align:center;
+	margin:0px;
+}
+a,a:visited {
+	color:#0000ff;
+	text-decoration:underline;
+}
+a:hover {
+	color:#ff0000;
+}
+#main {
+	position:absolute;
+	left:50%;
+	margin:0px;
+	text-align:center;
+	width:742px;
+	margin-left:-371px;
+	height:100%;
+}
+#lteenlogo {
+	position:absolute;
+	left:50%;
+	width:360px;
+	height:287px;
+	margin-left:-360px;
+	z-index:10;
+}
+.outsidebox {
+	border:solid black 2px;
+	padding:5px;
+	background:#ddffff;
+	text-align:center;
+}
+.outsidebox td {
+	font-family:Verdana,Arial,sans-serif;
+	font-weight:bold;
+	font-size:10pt;
+}
+.join_error {
+	color:#ff0000;
+}
+
+</style>
+</head>
+<body>
+<center>
+<div id="main">
+<div id="lteenlogo">
+<script language="javascript">
+
+if(navigator.appName.indexOf("Internet Explorer") == -1)
+{
+	document.write('<img src="http://tour.liveteen.com/images/liveteen.png" width="360" height="287" border="0">');
+}
+else
+{
+	document.write('<img src="http://tour.liveteen.com/images/spacer.png" width="360" height="287" style="filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=\'http://tour.liveteen.com/images/liveteen.png\', sizingMethod=\'scale\');" border="0">');
+}
+
+</script>
+</div>
+<img src="http://tour.liveteen.com/images/header.jpg" width="742" height="200" border="0"/><br/>
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+<div class="outsidebox">
+
+<form action="presignup.php" method="POST">
+<input type="hidden" name="site" value="">
+<input type="hidden" name="program" value="">
+<input type="hidden" name="campaign" value="">
+<input type="hidden" name="nats" value="OjI6NA">
+<input type="hidden" name="step" value="2">
+<input type="hidden" name="signup[username:1:6:16:::username_check]" value="aed6531">
+<input type="hidden" name="signup[password:1:6:16:::password_check]" value="6694511">
+<table border="0" align="center">
+<tr>
+	<td colspan="3" align="center"><font face="verdana" size="3"><b>Get Your LiveTeen Pass</b></font><br/><br/></td>
+</tr>
+<tr>
+	<td align="left" valign="middle" rowspan="8"><img src="http://tour.liveteen.com/images/safebill.gif" width="150" height="200" border="0"></td>
+	</tr>
+
+
+<tr>
+	<td align="right" valign="top">E-Mail:</td>
+	<td><input size="20" type="text" name="signup[email:1:1:128:::email_check]" value=""></td>
+</tr>
+<tr>
+	<td align="right" valign="top">ZIP (Postal Code):</td>
+	<td><input size="10" type="text" name="signup[zip:1]" value=""></td>
+</tr>
+<tr>
+	<td align="right" valign="top">Country:</td>
+	<td><select name="signup[country]"><option label="Afghanistan" value="AF">Afghanistan</option>
+<option label="Albania" value="AL">Albania</option>
+<option label="Algeria" value="DZ">Algeria</option>
+<option label="American Samoa" value="AS">American Samoa</option>
+<option label="Andorra" value="AD">Andorra</option>
+<option label="Angola" value="AO">Angola</option>
+<option label="Anguilla" value="AI">Anguilla</option>
+<option label="Antarctica" value="AQ">Antarctica</option>
+<option label="Antigua And Barbuda" value="AG">Antigua And Barbuda</option>
+<option label="Argentina" value="AR">Argentina</option>
+<option label="Armenia" value="AM">Armenia</option>
+<option label="Aruba" value="AW">Aruba</option>
+<option label="Australia" value="AU">Australia</option>
+<option label="Austria" value="AT">Austria</option>
+<option label="Azerbaijan" value="AZ">Azerbaijan</option>
+<option label="Bahamas" value="BS">Bahamas</option>
+<option label="Bahrain" value="BH">Bahrain</option>
+<option label="Bangladesh" value="BD">Bangladesh</option>
+<option label="Barbados" value="BB">Barbados</option>
+<option label="Belarus" value="BY">Belarus</option>
+<option label="Belgium" value="BE">Belgium</option>
+<option label="Belize" value="BZ">Belize</option>
+<option label="Benin" value="BJ">Benin</option>
+<option label="Bermuda" value="BM">Bermuda</option>
+<option label="Bhutan" value="BT">Bhutan</option>
+<option label="Bolivia" value="BO">Bolivia</option>
+<option label="Bosnia And Herzegowina" value="BA">Bosnia And Herzegowina</option>
+<option label="Botswana" value="BW">Botswana</option>
+<option label="Bouvet Island" value="BV">Bouvet Island</option>
+<option label="Brazil" value="BR">Brazil</option>
+<option label="British Indian Ocean" value="IO">British Indian Ocean</option>
+<option label="Brunei Darussalam" value="BN">Brunei Darussalam</option>
+<option label="Bulgaria" value="BG">Bulgaria</option>
+<option label="Burkina Faso" value="BF">Burkina Faso</option>
+<option label="Burundi" value="BI">Burundi</option>
+<option label="Cambodia" value="KH">Cambodia</option>
+<option label="Cameroon" value="CM">Cameroon</option>
+<option label="Canada" value="CA">Canada</option>
+<option label="Cape Verde" value="CV">Cape Verde</option>
+<option label="Cayman Islands" value="KY">Cayman Islands</option>
+<option label="Central African Republic" value="CF">Central African Republic</option>
+<option label="Chad" value="TD">Chad</option>
+<option label="Chile" value="CL">Chile</option>
+<option label="China" value="CN">China</option>
+<option label="Christmas Island" value="CX">Christmas Island</option>
+<option label="Cocos (keeling) Islands" value="CC">Cocos (keeling) Islands</option>
+<option label="Colombia" value="CO">Colombia</option>
+<option label="Comoros" value="KM">Comoros</option>
+<option label="Congo" value="CG">Congo</option>
+<option label="Cook Islands" value="CK">Cook Islands</option>
+<option label="Costa Rica" value="CR">Costa Rica</option>
+<option label="Cote D'ivoire" value="CI">Cote D'ivoire</option>
+<option label="Croatia" value="HR">Croatia</option>
+<option label="Cuba" value="CU">Cuba</option>
+<option label="Cyprus" value="CY">Cyprus</option>
+<option label="Czech Republic" value="CZ">Czech Republic</option>
+<option label="Denmark" value="DK">Denmark</option>
+<option label="Djibouti" value="DJ">Djibouti</option>
+<option label="Dominica" value="DM">Dominica</option>
+<option label="Dominican Republic" value="DO">Dominican Republic</option>
+<option label="East Timor" value="TP">East Timor</option>
+<option label="Ecuador" value="EC">Ecuador</option>
+<option label="Egypt" value="EG">Egypt</option>
+<option label="El Salvador" value="SV">El Salvador</option>
+<option label="Equatorial Guinea" value="GQ">Equatorial Guinea</option>
+<option label="Eritrea" value="ER">Eritrea</option>
+<option label="Estonia" value="EE">Estonia</option>
+<option label="Ethiopia" value="ET">Ethiopia</option>
+<option label="Falkland Islands" value="FK">Falkland Islands</option>
+<option label="Faroe Islands" value="FO">Faroe Islands</option>
+<option label="Fiji" value="FJ">Fiji</option>
+<option label="Finland" value="FI">Finland</option>
+<option label="France" value="FR">France</option>
+<option label="France, Metropolitan" value="FX">France, Metropolitan</option>
+<option label="French Guiana" value="GF">French Guiana</option>
+<option label="French Polynesia" value="PF">French Polynesia</option>
+<option label="French Southern Territories" value="TF">French Southern Territories</option>
+<option label="Gabon" value="GA">Gabon</option>
+<option label="Gambia" value="GM">Gambia</option>
+<option label="Georgia" value="GE">Georgia</option>
+<option label="Germany" value="DE">Germany</option>
+<option label="Ghana" value="GH">Ghana</option>
+<option label="Gibraltar" value="GI">Gibraltar</option>
+<option label="Greece" value="GR">Greece</option>
+<option label="Greenland" value="GL">Greenland</option>
+<option label="Grenada" value="GD">Grenada</option>
+<option label="Guadeloupe" value="GP">Guadeloupe</option>
+<option label="Guam" value="GU">Guam</option>
+<option label="Guatemala" value="GT">Guatemala</option>
+<option label="Guinea" value="GN">Guinea</option>
+<option label="Guinea-bissau" value="GW">Guinea-bissau</option>
+<option label="Guyana" value="GY">Guyana</option>
+<option label="Haiti" value="HT">Haiti</option>
+<option label="Heard And Mc Donald Isl." value="HM">Heard And Mc Donald Isl.</option>
+<option label="Honduras" value="HN">Honduras</option>
+<option label="Hong Kong" value="HK">Hong Kong</option>
+<option label="Hungary" value="HU">Hungary</option>
+<option label="Iceland" value="IS">Iceland</option>
+<option label="India" value="IN">India</option>
+<option label="Indonesia" value="ID">Indonesia</option>
+<option label="Iran" value="IR">Iran</option>
+<option label="Iraq" value="IQ">Iraq</option>
+<option label="Ireland" value="IE">Ireland</option>
+<option label="Israel" value="IL">Israel</option>
+<option label="Italy" value="IT">Italy</option>
+<option label="Jamaica" value="JM">Jamaica</option>
+<option label="Japan" value="JP">Japan</option>
+<option label="Jordan" value="JO">Jordan</option>
+<option label="Kazakhstan" value="KZ">Kazakhstan</option>
+<option label="Kenya" value="KE">Kenya</option>
+<option label="Kiribati" value="KI">Kiribati</option>
+<option label="Korea, Republic Of" value="KR">Korea, Republic Of</option>
+<option label="Kuwait" value="KW">Kuwait</option>
+<option label="Kyrgyzstan" value="KG">Kyrgyzstan</option>
+<option label="Lao People's Democratic Republic" value="LA">Lao People's Democratic Republic</option>
+<option label="Latvia" value="LV">Latvia</option>
+<option label="Lebanon" value="LB">Lebanon</option>
+<option label="Lesotho" value="LS">Lesotho</option>
+<option label="Liberia" value="LR">Liberia</option>
+<option label="Libyan Arab Jamahiriya" value="LY">Libyan Arab Jamahiriya</option>
+<option label="Liechtenstein" value="LI">Liechtenstein</option>
+<option label="Lithuania" value="LT">Lithuania</option>
+<option label="Luxembourg" value="LU">Luxembourg</option>
+<option label="Macau" value="MO">Macau</option>
+<option label="Macedonia" value="MK">Macedonia</option>
+<option label="Madagascar" value="MG">Madagascar</option>
+<option label="Malawi" value="MW">Malawi</option>
+<option label="Malaysia" value="MY">Malaysia</option>
+<option label="Maldives" value="MV">Maldives</option>
+<option label="Mali" value="ML">Mali</option>
+<option label="Malta" value="MT">Malta</option>
+<option label="Marshall Islands" value="MH">Marshall Islands</option>
+<option label="Martinique" value="MQ">Martinique</option>
+<option label="Mauritania" value="MR">Mauritania</option>
+<option label="Mauritius" value="MU">Mauritius</option>
+<option label="Mayotte" value="YT">Mayotte</option>
+<option label="Mexico" value="MX">Mexico</option>
+<option label="Micronesia" value="FM">Micronesia</option>
+<option label="Moldova, Republic Of" value="MD">Moldova, Republic Of</option>
+<option label="Monaco" value="MC">Monaco</option>
+<option label="Mongolia" value="MN">Mongolia</option>
+<option label="Montserrat" value="MS">Montserrat</option>
+<option label="Morocco" value="MA">Morocco</option>
+<option label="Mozambique" value="MZ">Mozambique</option>
+<option label="Myanmar" value="MM">Myanmar</option>
+<option label="Namibia" value="NA">Namibia</option>
+<option label="Nauru" value="NR">Nauru</option>
+<option label="Nepal" value="NP">Nepal</option>
+<option label="Netherlands" value="NL">Netherlands</option>
+<option label="Netherlands Antilles" value="AN">Netherlands Antilles</option>
+<option label="New Caledonia" value="NC">New Caledonia</option>
+<option label="New Zealand" value="NZ">New Zealand</option>
+<option label="Nicaragua" value="NI">Nicaragua</option>
+<option label="Niger" value="NE">Niger</option>
+<option label="Nigeria" value="NG">Nigeria</option>
+<option label="Niue" value="NU">Niue</option>
+<option label="Norfolk Island" value="NF">Norfolk Island</option>
+<option label="Northern Mariana Islands" value="MP">Northern Mariana Islands</option>
+<option label="Norway" value="NO">Norway</option>
+<option label="Oman" value="OM">Oman</option>
+<option label="Pakistan" value="PK">Pakistan</option>
+<option label="Palau" value="PW">Palau</option>
+<option label="Panama" value="PA">Panama</option>
+<option label="Papua New Guinea" value="PG">Papua New Guinea</option>
+<option label="Paraguay" value="PY">Paraguay</option>
+<option label="Peru" value="PE">Peru</option>
+<option label="Philippines" value="PH">Philippines</option>
+<option label="Pitcairn" value="PN">Pitcairn</option>
+<option label="Poland" value="PL">Poland</option>
+<option label="Portugal" value="PT">Portugal</option>
+<option label="Puerto Rico" value="PR">Puerto Rico</option>
+<option label="Qatar" value="QA">Qatar</option>
+<option label="Reunion" value="RE">Reunion</option>
+<option label="Romania" value="RO">Romania</option>
+<option label="Russian Federation" value="RU">Russian Federation</option>
+<option label="Rwanda" value="RW">Rwanda</option>
+<option label="Saint Kitts And Nevis" value="KN">Saint Kitts And Nevis</option>
+<option label="Saint Lucia" value="LC">Saint Lucia</option>
+<option label="Saint Vincent, The Grenadines" value="VC">Saint Vincent, The Grenadines</option>
+<option label="Samoa" value="WS">Samoa</option>
+<option label="San Marino" value="SM">San Marino</option>
+<option label="Sao Tome And Principe" value="ST">Sao Tome And Principe</option>
+<option label="Saudi Arabia" value="SA">Saudi Arabia</option>
+<option label="Senegal" value="SN">Senegal</option>
+<option label="Seychelles" value="SC">Seychelles</option>
+<option label="Sierra Leone" value="SL">Sierra Leone</option>
+<option label="Singapore" value="SG">Singapore</option>
+<option label="Slovakia (slovak Republic)" value="SK">Slovakia (slovak Republic)</option>
+<option label="Slovenia" value="SI">Slovenia</option>
+<option label="Solomon Islands" value="SB">Solomon Islands</option>
+<option label="Somalia" value="SO">Somalia</option>
+<option label="South Africa" value="ZA">South Africa</option>
+<option label="South Georgia, South Sandwich Isl." value="GS">South Georgia, South Sandwich Isl.</option>
+<option label="Spain" value="ES">Spain</option>
+<option label="Sri Lanka" value="LK">Sri Lanka</option>
+<option label="St. Helena" value="SH">St. Helena</option>
+<option label="St. Pierre And Miquelon" value="PM">St. Pierre And Miquelon</option>
+<option label="Sudan" value="SD">Sudan</option>
+<option label="Suriname" value="SR">Suriname</option>
+<option label="Svalbard And Jan Mayen Islands" value="SJ">Svalbard And Jan Mayen Islands</option>
+<option label="Swaziland" value="SZ">Swaziland</option>
+<option label="Sweden" value="SE">Sweden</option>
+<option label="Switzerland" value="CH">Switzerland</option>
+<option label="Syrian Arab Republic" value="SY">Syrian Arab Republic</option>
+<option label="Taiwan" value="TW">Taiwan</option>
+<option label="Tajikistan" value="TJ">Tajikistan</option>
+<option label="Tanzania, United Republic Of" value="TZ">Tanzania, United Republic Of</option>
+<option label="Thailand" value="TH">Thailand</option>
+<option label="Togo" value="TG">Togo</option>
+<option label="Tokelau" value="TK">Tokelau</option>
+<option label="Tonga" value="TO">Tonga</option>
+<option label="Trinidad And Tobago" value="TT">Trinidad And Tobago</option>
+<option label="Tunisia" value="TN">Tunisia</option>
+<option label="Turkey" value="TR">Turkey</option>
+<option label="Turkmenistan" value="TM">Turkmenistan</option>
+<option label="Turks And Caicos Islands" value="TC">Turks And Caicos Islands</option>
+<option label="Tuvalu" value="TV">Tuvalu</option>
+<option label="Uganda" value="UG">Uganda</option>
+<option label="Ukraine" value="UA">Ukraine</option>
+<option label="United Arab Emirates" value="AE">United Arab Emirates</option>
+<option label="United Kingdom" value="GB">United Kingdom</option>
+<option label="United States" value="US" selected="selected">United States</option>
+<option label="United States Minor Outlying Isl." value="UM">United States Minor Outlying Isl.</option>
+<option label="Uruguay" value="UY">Uruguay</option>
+<option label="Uzbekistan" value="UZ">Uzbekistan</option>
+<option label="Vanuatu" value="VU">Vanuatu</option>
+<option label="Vatican City State" value="VA">Vatican City State</option>
+<option label="Venezuela" value="VE">Venezuela</option>
+<option label="Viet Nam" value="VN">Viet Nam</option>
+<option label="Virgin Islands (british)" value="VG">Virgin Islands (british)</option>
+<option label="Virgin Islands (u.s.)" value="VI">Virgin Islands (u.s.)</option>
+<option label="Wallis, Futuna Islands" value="WF">Wallis, Futuna Islands</option>
+<option label="Western Sahara" value="EH">Western Sahara</option>
+<option label="Yemen" value="YE">Yemen</option>
+<option label="Yugoslavia" value="YU">Yugoslavia</option>
+<option label="Zaire" value="ZR">Zaire</option>
+<option label="Zambia" value="ZM">Zambia</option>
+<option label="Zimbabwe" value="ZW">Zimbabwe</option>
+</select></td>
+</tr>
+<tr>
+<td class="join_name" align="left" valign="top" width="95">Membership:</td>
+<td class="join_value" rowspan="2" colspan="2" align="left" valign="middle">
+	<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+		<td><input type="radio" name="signup[optionid]" value="34"  /><br /></td>
+		<td><font size="2" >$1.95 24-Hour Trial*</font></td>
+	</tr>
+		<tr>
+		<td><input type="radio" name="signup[optionid]" value="9"  /><br /></td>
+		<td><font size="2" >$29.95 Monthly Membership</font></td>
+	</tr>
+		<tr>
+		<td><input type="radio" name="signup[optionid]" value="10"  /><br /></td>
+		<td><font size="2" >$59.95 One-Time 3 Month Membership</font></td>
+	</tr>
+		<tr>
+		<td><input type="radio" name="signup[optionid]" value="28" checked="checked" /><br /></td>
+		<td><font size="2" >$79.95 One-Time 6 Month Membership</font></td>
+	</tr>
+		
+	</table>
+</td>
+</tr>
+</table>
+<table align="center">
+<tr>
+<td width="300" align="center">
+<input class="join_button" type="submit" name="cascade[default]" value="Join by Credit Card">
+<input class="join_button" type="submit" name="cascade[defaultcheck]" value="Join by Check">
+</td>
+</tr>
+</table>
+</form>
+
+<br/>
+<center>
+<b>24/7 Live Customer Support.  Visit our <a href="http://natshelper.stiffycash.com/cs/service.html" target="_blank">support center here</a> or call us toll free (800) 968-6044.
+<br><br>
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" id="compliance">
+
+<tr><td align="center" bgcolor="#F3F8FE">
+<a href="http://www.stiffycash.com/2257.html" target="_blank">2257</a> | 
+<a href="http://www.stiffycash.com/service.html" target="_blank">Customer Service</a> | 
+<a href="http://www.stiffycash.com/sitetc.html" target="_blank">Terms and Conditions</a> | 
+<a href="http://www.stiffycash.com/sitepp.html" target="_blank">Privacy Policy</a> | 
+<a href="http://www.stiffycash.com/" target="_blank">Webmasters</a> | 
+<a href="http://members.liveteen.com/secure/" target="_top">Members Login</a>
+</td></tr>
+
+<tr><td align="center" bgcolor="#F3F8FE">
+Please visit Paycom, OPS or WTS, our authorized sales agents.
+</td></tr>
+
+<tr><td align="center" bgcolor="#F3F8FE">
+*Trial membership renews automatically at $39.95 every month until cancelled.
+</td></tr>
+
+</table>
+</center>
+</div>
+
+
+
+</div>
+
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+

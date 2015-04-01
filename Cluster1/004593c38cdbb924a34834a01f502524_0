@@ -1,0 +1,432 @@
+<!-- URL: http://www.mediacenter.org/mediacenter/index.cfm -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Date: Wed, 28 Dec 2005 16:27:10 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Language: en-US -->
+<!-- Content-Type: text/html; charset=UTF-8 -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Expires: 0 -->
+<!-- Last-Modified: Tuesday, September 24, 2002 12:00:00 AM EST -->
+<!-- Client-Peer: 204.8.120.198:80 -->
+<!-- Link: </css/style_print.css>; /="/"; media="print,handheld"; rel="stylesheet"; rev="stylesheet"; type="text/css" -->
+<!-- Link: </mediacenter/css/mc.css>; /="/"; media="screen,projection"; rel="stylesheet" -->
+<!-- Link: </mediacenter/css/mc_print.css>; /="/"; media="print"; rel="stylesheet" -->
+<!-- Link: </mediacenter/css/mc_small.css>; /="/"; media="screen,projection"; rel="alternate stylesheet"; title="mc_small" -->
+<!-- Link: </mediacenter/css/mc_medium.css>; /="/"; media="screen,projection"; rel="alternate stylesheet"; title="mc_medium" -->
+<!-- Link: </mediacenter/css/mc_large.css>; /="/"; media="screen,projection"; rel="alternate stylesheet"; title="mc_large" -->
+<!-- Title: The Media Center - The Media Center @ API -->
+<!-- X-Meta-Author: The Media Center @ API -->
+<!-- X-Meta-Copyright: Copyright (c) 2005 by The Media Center at API -->
+<!-- X-Meta-Description: News industry executives and managers from around the world come to API's renowned seminars to share their expertise and learn from one another's experiences. -->
+<!-- X-Meta-Distribution: Global -->
+<!-- X-Meta-Keywords: american press institute,newspaper,journalism,media,news,internet news,digital media,newspaper executives,journalism,journalists,seminars,professional development,training,media training,Reston,Virginia,API,courses,classes,publishing,management,news industry,media business,media discussions,media courses,managing editor,training,circulation,marketing, advertising,sales,supervisor,supervisors,reporters -->
+<!-- X-Meta-Rating: General -->
+<!-- X-Meta-Resource-Type: document -->
+<!-- X-Meta-Revisit-After: 1 days -->
+<!-- X-Meta-Robots: index,follow -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<!-- Valid XHTML prepared by Jay Small, Small Initiatives, www.smallinitiatives.com -->
+<title>The Media Center - The Media Center @ API</title>
+<!-- CSS Browser Detect BEGIN -->
+<script type="text/javascript">
+<!--
+browser_version = parseInt(navigator.appVersion);
+browser_type = navigator.appName;
+
+if (browser_type == "Microsoft Internet Explorer" && (browser_version >= 4)) {
+document.write('<link rel="stylesheet" href="/mediacenter/css/mc.css" type="text/css">');
+} 
+else if (browser_type == "Netscape" && (browser_version <= 4)) {
+document.write('<link rel="stylesheet" href="/mediacenter/css/mc" type="text/css">');
+}
+else {
+document.write('<link rel="stylesheet" href="/mediacenter/css/mc" type="text/css">');
+}
+// -->
+</script>
+<!-- CSS Browser Detect END -->
+<!-- Call the cascading menus script -->
+<script src="/mediacenter/javascript/mc_core.js" type="text/javascript"></script>
+<!-- Stylesheet for printing only -->
+<link href="/css/style_print.css" rel="stylesheet" rev="stylesheet" type="text/css" media="print,handheld" />
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+<meta name="author" content="The Media Center @ API" />
+
+<meta name="keywords" content="american press institute,newspaper,journalism,media,news,internet news,digital media,newspaper executives,journalism,journalists,seminars,professional development,training,media training,Reston,Virginia,API,courses,classes,publishing,management,news industry,media business,media discussions,media courses,managing editor,training,circulation,marketing, advertising,sales,supervisor,supervisors,reporters" />
+<meta name="description" content="News industry executives and managers from around the world come to API's renowned seminars to share their expertise and learn from one another's experiences." />
+<meta name="robots" content="index,follow" />
+<meta name="resource-type" content="document" />
+<meta http-equiv="expires" content="0" />
+<meta name="copyright" content="Copyright (c) 2005 by The Media Center at API" />
+<meta name="revisit-after" content="1 days" />
+<meta name="distribution" content="Global" />
+<meta name="rating" content="General" />
+
+
+<link rel="stylesheet" href="/mediacenter/css/mc.css" media="screen,projection" />
+<link rel="stylesheet" href="/mediacenter/css/mc_print.css" media="print" />
+	<link rel="alternate stylesheet" href="/mediacenter/css/mc_small.css" media="screen,projection" title="mc_small" />
+	<link rel="alternate stylesheet" href="/mediacenter/css/mc_medium.css" media="screen,projection" title="mc_medium" />
+	<link rel="alternate stylesheet" href="/mediacenter/css/mc_large.css" media="screen,projection" title="mc_large" />
+	<script src="/mediacenter/javascript/mc_core.js" type="text/javascript" language="javascript"></script>
+	<script src="/mediacenter/javascript/mc_fontsize.js" type="text/javascript" language="javascript"></script>
+	<script src="/mediacenter/javascript/mc_tabs.js" type="text/javascript" language="javascript"></script>
+	<script src="/mediacenter/javascript/mc_flash.js" type="text/javascript" language="javascript"></script>
+
+</head> 
+<!-- Core navs spawn cascading menus -->
+
+
+<div id="articlenav">
+<a name="nav"></a>
+<a href="/mediacenter/events/" onmouseover="controlsubmenu('menuevents',null)" onmouseout="closeall()" id="navevents" class="corenav">EVENTS</a>
+<a href="/network/" onmouseover="controlsubmenu('menuresearch',null)" onmouseout="closeall()" id="navresearch" class="corenav">NETWORK</a>
+<a href="/mediacenter/thinking/" onmouseover="controlsubmenu('menuthinking',null)" onmouseout="closeall()" id="navthinking" class="corenav">THINKING</a>
+<a href="/mediacenter/services/" onmouseover="controlsubmenu('menuengage',null)" onmouseout="closeall()" id="navengage" class="corenav">SERVICES</a>
+<a href="/mediacenter/connect/" onmouseover="controlsubmenu('menuconnect',null)" onmouseout="closeall()" id="navconnect" class="corenav">SUBSCRIBE</a>
+<a href="/mediacenter/about/mission/" onmouseover="controlsubmenu('menuabout',null)" onmouseout="closeall()" id="navabout" class="corenav">ABOUT</a>
+<a href="http://mediacenter.blogs.com/morph/" id="navhome" class="corenav">BLOG</a>
+<a href="/mediacenter/contact/" id="navcontact" class="corenav">CONTACT</a>
+
+
+</div>
+<!-- End core navs -->
+
+<!-- Cascading menus -->
+<div id="articlemenu">
+<div class="menu" id="menuevents">
+
+<a id="menuevents1" href="/events/" onmouseover="stopall()" onmouseout="closeall()">Schedule</a>
+<a id="menuevents2" href="/mediacenter/registration/policy/" onmouseover="stopall()" onmouseout="closeall()">Policies</a>
+<a id="menuevents3" href="/mediacenter/dls/" onmouseover="stopall()" onmouseout="closeall()">Discussion Leaders</a>
+<a id="menuevents4" href="/mediacenter/feedback/" onmouseover="stopall()" onmouseout="closeall()">Feedback</a>
+<a id="menuevents5" href="/mediacenter/whouses/" onmouseover="stopall()" onmouseout="closeall()">Who Attends</a> 
+<a id="menuevents6" href="/content/4374.cfm" onmouseover="stopall()" onmouseout="closeall()">Where We'll Be</a> 
+<a id="menuevents7" href="/events/past/" onmouseover="stopall()" onmouseout="closeall()">Past Events</a> 
+<a id="menuevents8" href="/content/6474.cfm" onmouseover="stopall()" onmouseout="closeall()">Sponsor Pricing and Details</a>
+
+</div>
+<div class="menu" id="menuresearch">
+<a id="menuresearch1" href="/network/" onmouseover="stopall()" onmouseout="closeall()">Join our Network</a>
+</div>
+
+<div class="menu" id="menuthinking">
+<a id="menuthinking1" href="/digitalthink/" onmouseover="stopall()" onmouseout="closeall()">Digital Think</a>
+<a id="menuthinking2" href="/mediacenter/research/" onmouseover="stopall()" onmouseout="closeall()">Research</a>
+<a id="menuthinking3" href="/headlines/" onmouseover="stopall()" onmouseout="closeall()">Headlines</a>
+<a id="menuthinking4" href="/content/4804.cfm" onmouseover="stopall()" onmouseout="closeall()">The Media Center Matrix</a>
+<a id="menuthinking5" href="/content/4478.cfm" onmouseover="stopall()" onmouseout="closeall()">The Mobiles</a>
+<a id="menuthinking6" href="/mediacenter/research/wemedia/" onmouseover="stopall()" onmouseout="closeall()">We Media</a>
+<a id="menuthinking7" href="/convergencetracker/" onmouseover="stopall()" onmouseout="closeall()">Convergence Tracker</a>
+<a id="menuthinking8" href="/mediacenter/research/partners/" onmouseover="stopall()" onmouseout="closeall()">Research Partners</a>
+</div>
+
+<div class="menu" id="menuengage">
+<a id="menuengage1" href="/mediacenter/services/" onmouseover="stopall()" onmouseout="closeall()">Custom Programs and Services</a>
+
+</div>
+
+<div class="menu" id="menuconnect">
+<a id="menuconnect1" href="/mediacenter/connect/" onmouseover="stopall()" onmouseout="closeall()">Newsletters & Alerts</a>
+
+</div>
+
+ <div class="menu" id="menuabout">
+<a id="menuabout1" href="/mediacenter/about/mission/" onmouseover="stopall()" onmouseout="closeall()">Our Commitment</a>
+<a id="menuabout2" href="/network/" onmouseover="stopall()" onmouseout="closeall()">Our Network</a>
+<a id="menuabout3" href="/mediacenter/about/advisory/" onmouseover="stopall()" onmouseout="closeall()">Our Advisors</a>
+<a id="menuabout4" href="/mediacenter/about/staff/" onmouseover="stopall()" onmouseout="closeall()">Our People</a>
+<a id="menuabout5" href="/mediacenter/about/funding/" onmouseover="stopall()" onmouseout="closeall()">Our Funding</a>
+<a id="menuabout6" href="/content/4845.cfm" onmouseover="stopall()" onmouseout="closeall()">Media Center in the News</a><!-- <a id="menuabout3" href="/mediacenter/about/mission/" onmouseover="stopall()" onmouseout="closeall()">Mission/Values/Vision</a>
+---> 
+
+
+</div>
+
+
+
+</div>
+<!-- End cascading menus -->
+
+<body>
+<!-- Include contains cascading menus -->
+
+
+<!-- Brand logo, followed by a skip link that only shows up on non-style-sheet browsers -->
+<div id="networkheader">
+  
+  <IMG SRC="/images/api_network_0605.gif" WIDTH=687 HEIGHT=19 BORDER=0 ALT="" USEMAP="#api_network_Map">
+  <MAP NAME="api_network_Map">
+    <AREA SHAPE="rect" ALT="The Learning Newsroom" COORDS="466,0,587,19" HREF="http://www.learningnewsroom.org">
+    <AREA SHAPE="rect" ALT="Journalists' Toolbox" COORDS="366,0,466,19" HREF="http://www.americanpressinstitute.org/toolbox">
+    <AREA SHAPE="rect" ALT="BusinessJournalism.org" COORDS="255,0,366,19" HREF="http://www.businessjournalism.org">
+    <AREA SHAPE="rect" ALT="The Media Center" COORDS="166,0,254,19" HREF="http://www.mediacenter.org">
+    <AREA SHAPE="rect" ALT="API Home" COORDS="109,0,166,19" HREF="http://www.americanpressinstitute.org">
+  </MAP>
+</div>
+<a href="/mediacenter/"><img id="articlebrand" src="/mediacenter/images/mediacenter_article.gif" alt="The Media Center at the American Press Institute" /></a> <a href="#nav" class="skip">Skip to navigation</a>
+<!-- End brand logo -->
+<div id="articlehome2">
+  <div id="homebody">
+    <table width="680" border="0">
+      <tr>
+        <td colspan="5"><h3>OUR COMMITMENT</h3>
+          <p>The Media Center is a nonprofit think tank committed to building a better-informed society in a connected world. <a href="http://mediacenter.org/mediacenter/about/mission/">Learn More About Us</a></p></td>
+      </tr>
+      <tr>
+        <td colspan="5"><table width="690" border="0" cellspacing="5" cellpadding="0">
+            <tr>
+              <td><h3>OUR RESEARCH</h3></td>
+              <td colspan="3" valign="bottom"><a href="http://mediacenter.org/mediacenter/research/">Browse all</a> </td>
+            </tr>
+            <tr>
+              <td valign="top"><P> <STRONG>Landfall</STRONG><br />
+                  <A href="http://www.mediacenter.org/synapse/landfall"><IMG alt="We Media 2.0: Landfall" src="/images/landfall_150_100.jpg" width=150 height="100" border=0></A><br clear="all">
+                  We Media 2.0 - The democratization of media. <A href="http://www.mediacenter.org/synapse/landfall">more</A><br />
+              </td>
+              <td valign="top"><P><strong>Digital Think</strong><br />
+                  <A href="/digitalthink/"><IMG src="/images/dig_think_thumb.jpg" width=150 height="100" border=0></A><br clear="all">
+                  The art of the possible. A story and conversation about stories. <A href="/digitalthink/">more</A></P></td>
+              <td valign="top"><P> <STRONG>We Media</STRONG><br />
+                  <A href="/wemedia05/"><IMG src="/images/wm_150_100.gif" width=150 height="100" border=0 alt="We Media - New York - October 2005"></A><br clear="all">
+                  ARCHIVE: Leading thinkers and innovators discuss participatory media. <A href="/wemedia05/">more</A></P></td>
+              <td valign="top"><p><STRONG>The Media Center Matrix</STRONG> <br />
+                  <A href="http://www.mediacenter.org/content/4804.cfm"><IMG src="/images/matrix_150.jpg" width=150 height="100" border=0></A><br clear="all">
+                  Designed to evaluate, implement, and map media strategies. <A href="http://www.mediacenter.org/content/4804.cfm">more</A></p></td>
+              <!--  <td valign="top"><P> <STRONG>The Future of News</STRONG><br />
+                  <A href="http://www.mediacenter.org/content/6470.cfm"><IMG alt="Synapse - The Future of News" src="/images/synapse_psp_150.jpg" width=150 height="100" border=0></A><br clear="all">
+                  Mobile, immediate, visual, interactive, participatory and trusted. 
+                  <A href="http://www.mediacenter.org/content/6470.cfm">more</A><br />
+              </td> -->
+              <!-- <td>&nbsp;</td> -->
+              <!--  <td>&nbsp;</td>
+              <td valign="top"> <p><STRONG>Make Way for Mobiles</STRONG><br />
+                  <A href="http://www.mediacenter.org/content/4478.cfm"><IMG src="/images/mobiles_150.jpg" width=150 height="100" border=0></A><br clear="all">
+                  Mobility becomes a cultural imperative. <A href="http://www.mediacenter.org/content/4478.cfm">more</A> 
+                </p></td> -->
+              <!--  <td>&nbsp;</td> -->
+              <!-- <td>&nbsp;</td> -->
+              <!-- <td valign="top"><P> <STRONG>We Media</STRONG><br />
+                  <A href="/mediacenter/research/wemedia/"><IMG src="/images/wemedia_150.jpg" width=150 height="100" border=0></A><br clear="all">
+                  Audiences shape the future of news and information. <A href="/mediacenter/research/wemedia/">more</A></P></td>
+              <!-- <td>&nbsp;</td> -->
+              <!--  <td valign="top"><P> <font color="#FF9900"><strong>VIDEO</strong></font> 
+                  <STRONG>Larry Kramer</STRONG><br />
+                  <A href="/content/6758.cfm"><IMG src="/images/kramer_larry_062205_150.jpg" width=150 height="100" border=0></A><br clear="all">
+                  Larry Kramer, President of CBS Digital Media, on the changing 
+                  attitude of advertisers. <A href="/content/6758.cfm">more</A></P></td> -->
+            </tr>
+          </table></td>
+      </tr>
+      <tr>
+        <td><img src="/images/dot_clear.gif" width="250" height="1" align="left"><br>
+          <h3>OUR EVENTS</h3>
+          <!-- <a href="/wemedia05/"><img src="/images/we_media_160.gif" width="170" height="160" align="left" border="0"></a> <br clear="all"> -->
+          
+          <p> :: <a href="http://www.mediacenter.org/events/past/">Past Events</a><br />
+            :: <a href="http://www.americanpressinstitute.org/mediacenter/connect/">Subscribe to our e-mail alerts</a><br />
+            <!-- :: <a href="/content/6474.cfm">Event sponsor pricing and details</a><br /> -->
+            <br />
+            
+            
+            <br />
+            <br />
+          <h3>QUOTED AND CITED</h3>
+          
+
+
+<P>											
+
+
+:: New Media and News Media, <a href="http://ameenehan.wordpress.com/2005/12/07/media-ecosystem/" target=_blank>December 7, 2005 </a>
+<br />
+  
+
+
+:: DenverPost.com, <a href="http://www.denverpost.com/entertainment/ci_3276048" target=_blank>December 5, 2005 </a>
+<br />
+  
+
+
+:: PoliticsOnline, <a href="http://www.politicsonline.com/content/main/interviews/" target=_blank>December 2, 2005 </a>
+<br />
+  
+
+</P>
+          <br />
+          <p>:: <a href="/content/4845.cfm">more quotes</a> </p></td>
+        <td><img src="/images/dot_clear.gif" width="5" height="1" align="left"><br></td>
+        <td><img src="/images/dot_clear.gif" width="1" height="1" align="left"><br>
+        </td>
+        <td><img src="/images/dot_clear.gif" width="1" height="1" align="left"><br></td>
+        <td><img src="/images/dot_clear.gif" width="360" height="1" align="left"><br>
+          <!-- Right side -->
+<div id="hometools2">
+
+
+<form action="/mediacenter/search/index.cfm" id="searchform">
+            <p>Search <br>
+
+              <input type="text" name="search_term" id="search_term" size="20" maxlength="255" class="formtext" />
+              <input type="submit" id="go" value="GO" class="formsubmit" />
+          </form>
+
+<br /><br /> 
+
+<strong>MEDIA CENTER NETWORK</strong><br />
+Charter Members<br />
+<a href="http://www.mediacenter.org/network/"><img src="/images/mcn_ap_pana_qual.gif" width="150" height="120" border="0"></a><br clear="all">
+Global partners committed to a better-informed society<br />
+::<strong> <a href="http://www.mediacenter.org/network/">Join the Network</a></strong> <br />
+<br /><br />
+
+
+<p><strong>Thanks to our sponsors, including:</strong><br /><br />
+:: Donald W. Reynolds Foundation<br />
+:: McCormick Tribune Foundation<br />
+:: John S. and James L. Knight Foundation
+<br />
+<br />
+
+::<strong><a href="http://mediacenter.org/mediacenter/about/funding/">About our sponsors</a></strong>
+</p>
+
+
+
+
+
+
+
+<p><br />
+<form name="ccoptin" action="http://ui.constantcontact.com/roving/d.jsp" target="_blank" method="post">
+Join our mailing list 
+<br />
+<b>Email:</b><br />
+<input type=text name="ea" size=20>
+<input type=hidden name="m" value="1011041932565">
+<input type=hidden name="p" value="oi"><br>
+<input type=submit name="go" value="Go">
+</form></p>
+	
+<br />
+:: <strong> <a href="/content/6474.cfm">Event sponsor pricing and details</a></strong>
+</div> 
+
+
+<!-- End right side -->
+
+
+
+
+
+          <table width="340" border="0" cellspacing="3" cellpadding="3" bgcolor="#EAEAEA">
+            <tr>
+              <td width="15" valign="top"><img src="/images/dot_clear.gif" width="15" height="1" align="left"></td>
+              <td width="220"><h3>OUR BLOG</h3>
+                
+                <p>
+                <div class="liclear">
+                  
+<ul>
+<li><a href="http://mediacenter.blogs.com/morph/2005/12/what_should_the.html">What Should The Media Center Do in 2006?</a> <br />by Andrew Nachison<br /> <br /></li>
+<li><a href="http://mediacenter.blogs.com/morph/2005/12/citizen_photojo.html">Citizen PHOTOjournalism</a> <br />by Lex<br /> <br /></li>
+<li><a href="http://mediacenter.blogs.com/morph/2005/12/did_the_media_i.html">Did the media inflame Aussie race riots </a> <br />by Matthew Levinson<br /> <br /></li>
+
+</ul>
+
+
+                  :: <a href="http://mediacenter.blogs.com/morph/">Read more, post comments</a> </div>
+                </p>
+                
+              </td>
+              <td width="95" valign="top"><a href="http://feeds.feedburner.com/blogs/morph_fb" title="Subscribe to my feed">Syndicate this blog <img src="http://www.feedburner.com/fb/images/pub/xml_button.gif" alt="" style="border:0"/></a> <br clear="all">
+                <!--                 <br /> <a href="http://www.feedster.com/myfeedster.php?action=addrss&rssurl=http://mediacenter.blogs.com/morph/index.rdf&confirm=no"><img border=0 src="http://i.feedster.com/fs07.gif" alt="Subscribe with myFeedster" /></a> 
+                <br clear="all">
+ -->
+                <br />
+                <a href="http://add.my.yahoo.com/rss?url=http://feeds.feedburner.com/blogs/morph_fb"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"/></a> <br clear="all">
+                <br />
+                <a href="http://feeds.feedburner.com/blogs/morph_fb" title="Subscribe to my feed"><img src="http://www.feedburner.com/fb/images/pub/fbapix.gif" alt="" style="border:0"/></a> <br clear="all">
+                <br />
+                <a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds.feedburner.com/blogs/morph_fb"><img src="http://www.newsgator.com/images/ngsub1.gif" alt="Subscribe in NewsGator Online" style="border:0"/></a> <br clear="all">
+                <br />
+                <a href="http://my.msn.com/addtomymsn.armx?id=rss&amp;ut=http://feeds.feedburner.com/blogs/morph_fb&amp;tt=CENTRALDIRECTORY&amp;ru=http://rss.msn.com'"><img src="http://sc.msn.com/c/rss/rss_mymsn.gif" alt="" style="border:0"/></a> <br clear="all"></td>
+              <td width="10" valign="top"><img src="/images/dot_clear.gif" width="10" height="1" align="left"></td>
+            </tr>
+          </table>
+          <br />
+          <br />
+          <h3>MEDIA HEADLINES</h3>
+          From <a href="http://www.IWantMedia.com" target="_blank">IWantMedia.com</a><br />
+          <br />
+          <p>
+            
+            <!-- BEGIN IWANTMEDIA LINKS --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="http://www.mediacenter.org/headlines/track.cfm?url=http%3A%2F%2Fwww%2Ewashingtonpost%2Ecom%2Fwp%2Ddyn%2Fcontent%2Farticle%2F2005%2F12%2F16%2FAR2005121601892%2Ehtml" target="_blank" TARGET="_blank">
+Google to Buy 5% of AOL for $1 Billion
+</a><br />
+Washington Post
+<br />
+
+<a href="http://www.mediacenter.org/headlines/track.cfm?url=http%3A%2F%2Fwww%2Eforbes%2Ecom%2Fmarkets%2F2005%2F12%2F16%2Ftime%2Dwarner%2Daol%2D1216markets06%2Ehtml" target="_blank" TARGET="_blank">
+Time Warner Breakup Likely Wouldn't Unlock Value 
+</a><br />
+Forbes.com
+<br />
+
+<a href="http://www.mediacenter.org/headlines/track.cfm?url=http%3A%2F%2Fwww%2Emarketwatch%2Ecom%2Fnews%2Fstory%2Easp%3Fguid%3D%257BE50DBBAA%252D76AC%252D4FE4%252D8FE7%252D25BE39ABDC89%257D%26siteid%3Dmktw%26dist%3D" target="_blank" TARGET="_blank">
+Downgrades Hit Sirius, XM Satellite
+</a><br />
+MarketWatch
+
+
+          </p>
+          <p>:: <a href="http://www.mediacenter.org/headlines/">more headlines</a></p></td>
+      </tr>
+      <tr>
+        <td colspan="5"><br />
+          <br />
+          <div align="center" class="copyright">
+            
+<p><a href="/mediacenter/privacy/">Privacy Policy</a> | <a href="/mediacenter/terms/">Terms of Use</a> | <a href="/mediacenter/directions/">Directions</a></p>
+<p>Copyright &copy; 2005 The Media Center at API</p>
+
+<!--WEBBOT bot="Script" startspan PREVIEW="Site Meter" --><script type="text/javascript" language="JavaScript">var site="s18mcmorph"</script><script type="text/javascript" language="JavaScript1.2" src="http://s18.sitemeter.com/js/counter.js?site=s18mcmorph"></script><noscript><a href="http://s18.sitemeter.com/stats.asp?site=s18mcmorph" target="_top"><img src="http://s18.sitemeter.com/meter.asp?site=s18mcmorph" alt="Site Meter" border="0"/></a></noscript><!-- Copyright (c)2005 Site Meter --><!--WEBBOT bot="Script" Endspan -->
+<br />
+
+          </div></td>
+      </tr>
+    </table>
+  </div>
+</div>
+<script type="text/javascript">
+<!--
+document.body.style.height = document.documentElement.scrollHeight+'px';
+-->
+</script>
+</body>
+</html>
+<!-- Page: /mediacenter/index.cfm -->

@@ -1,0 +1,24 @@
+<!-- URL: http://www.consumption.net/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 10:30:07 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- Server: Apache/2.0.54 (Debian GNU/Linux) DAV/2 SVN/1.2.1 PHP/4.3.10-16 mod_ssl/2.0.54 OpenSSL/0.9.7e mod_perl/1.999.21 Perl/v5.8.4 -->
+<!-- Content-Length: 275 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 64.65.134.42:80 -->
+<!-- Title: Consumption.net -->
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+<head><title>Consumption.net</title></head>
+<body bgcolor="#FFEB50">
+<center>
+<img src="logo_test.png" alt="Consumption.net"/>
+<hr>
+<br>
+</center>
+
+</body>
+</html>

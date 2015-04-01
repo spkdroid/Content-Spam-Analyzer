@@ -1,0 +1,110 @@
+<!-- URL: http://contravene.org/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 14:25:44 GMT -->
+<!-- Server: Apache/1.3.33 (Unix) DAV/1.0.3 mod_fastcgi/2.4.2 mod_gzip/1.3.26.1a PHP/4.3.10 mod_ssl/2.8.22 OpenSSL/0.9.7e -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Client-Peer: 64.111.110.94:80 -->
+<!-- Link: <http://contravene.org/textpattern/css.php?s=default>; /="/"; media="screen"; rel="stylesheet"; type="text/css" -->
+<!-- Title: contravene: Boredom is always counter-revolutionary. Always. -->
+<!-- X-Pad: avoid browser bug -->
+<!-- X-Powered-By: PHP/5.0.4 -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+		
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="http://contravene.org/textpattern/css.php?s=default" type="text/css" media="screen" />
+		<title>contravene: Boredom is always counter-revolutionary. Always.</title>
+	
+<script type="text/javascript" src="http://contravene.org/index.php?js=upm_img_popper"></script>
+</head>
+	
+	<body>
+		<div id="header">
+			<h1>contravene</h1>
+			<h2>Boredom is always counter-revolutionary. Always.</h2>
+		</div>
+		
+		<div id="menu"></div>
+		
+		<div id="content"><h1><a href="http://contravene.org/2005/10/13/modernism-and-subdialectic-discourse" title="Permanent link to this article">Modernism and Subdialectic discourse</a></h1>
+	<p>Vidit novum disputationi no eum, cum ne amet utamur omittam? Id choro soleat reprimique pro. Forensibus electram vituperatoribus sea cu. An labitur nonummy detraxit sed.</p>
+
+	<h1>This is Header 1</h1>
+
+	<h2>This is Header 2</h2>
+
+	<h3>This is Header 3</h3>
+
+	<h4>This is Header 4</h4>
+
+	<h5>This is Header 5</h5>
+
+	<h6>This is Header 6</h6>
+
+	<blockquote>
+		<p>Nam labore habemus et, pro copiosae posidonium cu? Pri ne partem invidunt. Nec timeam tincidunt et? Mel no mazim appellantur! Tation singulis omittantur sed no, facilisi invenire vel te, aeterno labitur discere eum ad. Vis iusto explicari incorrupte ei, ea sit causae persequeris suscipiantur? Quis qualisque consetetur et vim, quis graeci delectus ea usu!</p>
+	</blockquote>
+
+	<ol>
+		<li>This</li>
+		<li>is a</li>
+		<li>Numeric List.</li>
+	</ol>
+
+	<ul>
+		<li>This</li>
+		<li>is a</li>
+		<li>Bulleted list.</li>
+	</ul>
+
+	<p><em>emphasis</em></p>
+
+	<p><em>strong</em></p>
+
+	<p><cite>citation</cite></p>
+
+	<p>super<sup>script</sup></p>
+
+	<p>sub <sub>script</sub></p>
+
+
+ 
+<p><a href="http://contravene.org/2005/10/13/modernism-and-subdialectic-discourse#comment"  class="comments_invite">Comment</a> [1]</p>
+<p class="articlefooter"><wraptag class="author">Peter</wraptag><br />
+<wraptag class="date">13 October 2005, 13:27</wraptag><br /><img src="http://contravene.org/images/6.png" height="19" width="63" alt=""    /></p></div>
+		
+		<div id="footer">
+			<p>
+				anti-copyright.<br />
+				I like writing, and I hope that the ideas presented are put to use. If anything, you should give credit just so that people know where to get more.
+			</p>
+		</div>
+	</body>
+</html>
+<!-- Runtime: 8.7860 -->
+<!-- Queries: 15 -->
+<!-- Memory: no info available -->
+<!-- txp tag trace: 
+<txp:css />
+<txp:page_title />
+<txp:site_slogan />
+<txp:sitename />
+<txp:site_slogan />
+<txp:mdp_sectionmenu home="1" wrap="ul" section="Cover" break="li" order="Cover, archives, contact" />
+<txp:article form="default" limit="10" listform="default" />
+<txp:permlink><txp:title /></txp:permlink>
+<txp:title />
+<txp:body />
+<txp:if_comments><p><txp:comments_invite /></p></txp:if_comments>
+<txp:comments_invite />
+<txp:author />
+<txp:posted />
+<txp:image id="6" />
+ secondpass 
+
+ -->

@@ -1,0 +1,26 @@
+<!-- URL: http://duncanthrax.net/exiscan/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 08:37:50 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- Server: Apache/2.0.54 (Gentoo/Linux) mod_ssl/2.0.54 OpenSSL/0.9.7d DAV/2 SVN/1.0.8 PHP/4.4.0-pl1-gentoo -->
+<!-- Content-Length: 380 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Client-Peer: 195.2.162.40:80 -->
+<!-- Refresh: 1; URL=http://duncanthrax.net/exiscan-acl/ -->
+
+<html>
+<head>
+<META HTTP-EQUIV="Refresh" CONTENT="1; URL=http://duncanthrax.net/exiscan-acl/">
+</head>
+
+<body onLoad="javascript:document.location.href='http://duncanthrax.net/exiscan-acl/'">
+
+This site is now at
+<a
+href="http://duncanthrax.net/exiscan-acl/">http://duncanthrax.net/exiscan-acl/</a>.
+Please click the link if you are not forwarded automatically.
+</body>
+</html>
+
+

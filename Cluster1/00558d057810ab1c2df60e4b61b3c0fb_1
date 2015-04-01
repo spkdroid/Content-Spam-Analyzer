@@ -1,0 +1,61 @@
+<!-- URL: http://www.shopathome.com/home.htm?refer=35098 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: max-age=86400 -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 23:01:29 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "09ffcd24990c41:361" -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 1258 -->
+<!-- Content-Type: text/html -->
+<!-- Last-Modified: Wed, 01 Sep 2004 17:33:42 GMT -->
+<!-- Client-Peer: 199.221.131.101:80 -->
+<!-- X-Powered-By: ASP.NET -->
+
+<!DOCTYPE HTML PUBLIC "-/W3C/DTD HTML 3.2 Final/EN">
+	<script language=javascript src="querystring.js">
+	<!--
+	// This only shows if the browser couldn't load it.
+	// querystring.js failed to load.
+	-->
+	</script>
+
+	<script language=javascript>
+	<!--
+	// This only shows if the browser couldn't load it.
+	// redirect failed
+
+		var sRefer
+		if(queryString('refer')=='false') 
+		{
+		sRefer = '';
+		}else{
+		sRefer = queryString('refer');
+		}
+		var sRRCode
+		var sRefer = queryString('refer');
+		if(queryString('rrcode')=='false') 
+		{
+		sRRCode = '';
+		}else{
+		sRRCode = queryString('rrcode');
+		}
+		var sUrl = "default.aspx?sku="+ sRRCode + "&refer=" + sRefer ;
+		window.location=sUrl 
+	-->			
+	</script>
+
+
+<table border="0" cellpadding="1" cellspacing="0" width="590" align="left">
+	<tr><td align="center"><img src="images/freeCandM.gif" border="0"></td></tr>
+
+	<tr><td height="5"></td></tr>
+	<tr><td width="460" align="center">
+		<font color="#ff0000" size="4"><b> We have a new website!  If you are not automatically redirected within 5 seconds please click on the link below. </b></font>
+	</td></tr>	
+	<tr><td align = center> 
+	<a href="default.aspx"> ShopAtHome.com</a> 
+	</td></tr>
+</table>
+</body>
+</html>

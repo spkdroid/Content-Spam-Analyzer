@@ -1,0 +1,92 @@
+<!-- URL: http://www.TopVacationHome.com -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Fri, 30 Dec 2005 16:59:20 GMT -->
+<!-- Server: Apache/1.3.34 (Unix) mod_auth_passthrough/1.8 mod_log_bytes/1.2 mod_bwlimited/1.4 PHP/4.3.10 FrontPage/5.0.2.2635 mod_ssl/2.8.25 OpenSSL/0.9.7a -->
+<!-- Content-Type: text/html;charset=iso-8859-1 -->
+<!-- Content-Type: text/html; charset=iso-8859-1 -->
+<!-- Content-Type: text/html; charset=us-ascii -->
+<!-- Client-Peer: 217.174.252.204:80 -->
+<!-- Link: <fileadmin/tvh_template/stylesheet_main.css>; /="/"; rel="stylesheet"; type="text/css" -->
+<!-- Link: <fileadmin/tvh_template/stylesheet_main.css>; /="/"; rel="stylesheet"; type="text/css" -->
+<!-- Set-Cookie: fe_typo_user=6b3edc5a82; path=/ -->
+<!-- Title: TopVacationHome: Home -->
+<!-- X-Meta-Generator: TYPO3 3.8 CMS -->
+<!-- X-Powered-By: PHP/4.3.10 -->
+
+<!DOCTYPE html
+	PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
+<!-- 
+	This website is brought to you by TYPO3 - get.content.right
+	TYPO3 is a free open source Content Management Framework created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2005 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://www.typo3.com
+-->
+
+
+    <meta http-equiv="Content-Type" content="text/html; charset=us-ascii" />
+    <link href="fileadmin/tvh_template/stylesheet_main.css" rel="stylesheet" type="text/css" />
+<link href="fileadmin/tvh_template/stylesheet_main.css" rel="stylesheet" type="text/css" />
+	<title>TopVacationHome: Home</title>
+	<meta name="generator" content="TYPO3 3.8 CMS" />
+	<script type="text/javascript">
+		/*<![CDATA[*/
+	<!--
+		browserName = navigator.appName;
+		browserVer = parseInt(navigator.appVersion);
+		var msie4 = (browserName == "Microsoft Internet Explorer" && browserVer >= 4);
+		if ((browserName == "Netscape" && browserVer >= 3) || msie4 || browserName=="Konqueror") {version = "n3";} else {version = "n2";}
+			// Blurring links:
+		function blurLink(theObject)	{	//
+			if (msie4)	{theObject.blur();}
+		}
+		
+	// -->
+		/*]]>*/
+	</script>
+
+
+</head>
+<body bgcolor="#FFFFFF">
+
+<div id="topbar"><!--###topbar### begin -->
+   <img src="fileadmin/tvh_template/images/toplogo.jpg" alt="TopVacationHome.com Logo - Florida vacation home near Disney" width=560 height=108>
+   <P>A superb vacation home in Florida, close to Walt Disney World</P>
+<!--###topbar### end --></div>
+<div id="sidemenu"><!--###sidemenu### begin -->
+	<div id="menu_1"><div class="menu1-level1-act"><a href="index.php?id=9" onfocus="blurLink(this);">Home</a></div><div class="menu1-level1-no"><a href="index.php?id=3" onfocus="blurLink(this);">Plan &amp; Pics</a></div><div class="menu1-level1-no"><a href="index.php?id=4" onfocus="blurLink(this);">Savings</a></div><div class="menu1-level1-no"><a href="index.php?id=5" onfocus="blurLink(this);">Local Map</a></div><div class="menu1-level1-no"><a href="index.php?id=6" onfocus="blurLink(this);">Booking</a></div><div class="menu1-level1-no"><a href="index.php?id=7" onfocus="blurLink(this);">Links</a></div></div>
+	<div id="leftcontentshared"><!--###leftcontentshared### begin --><!--###leftcontentshared### end --></div>
+	<div id="leftcontent"></div>
+<!--###sidemenu### end --></div>
+
+<div id="maintext"><!--###maintext### begin -->
+
+<div id="normalcontentshared">
+	<!--  CONTENT ELEMENT, uid:4/text [begin] -->
+		<a name="4"></a>
+		<!--  Header: [begin] -->
+			<div class="csc-header csc-header-n1"><h1 class="csc-firstHeader">Sorry, but we are no longer in the Vacation Business</h1></div>
+		<!--  Header: [end] -->
+			
+		<!--  Text: [begin] -->
+			<p class="bodytext">We have recently sold our Florida Vacation home.</p>
+		<!--  Text: [end] -->
+			
+	<!--  CONTENT ELEMENT, uid:4/text [end] -->
+		</div>
+<div id="normalcontent"></div>
+        <div id="footer"><!--###footer### begin -->
+   &copy; 2003, www.TopVacationHome.com. Feedback to <a href="mailto:webmaster@TopVacationHome.com">webmaster@TopVacationHome.com</a>
+            <div id="bordercontentshared"></div>
+            <div id="bordercontent"><!--###bordercontent### begin --><!--###bordercontent### end --></div>
+        <!--###footer### end --></div>
+    <!--###maintext### end --></div>
+    
+
+
+</body>
+</html>

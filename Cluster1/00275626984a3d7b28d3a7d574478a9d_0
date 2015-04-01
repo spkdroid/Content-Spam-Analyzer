@@ -1,0 +1,47 @@
+<!-- URL: http://search.trafficclub.com/index2.php?domain=gotomyshopinternet.com&type=1 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 12:54:28 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Apache/2.0.52 (Unix) mod_ssl/2.0.52 OpenSSL/0.9.7e PHP/4.3.10 -->
+<!-- Content-Length: 968 -->
+<!-- Content-Type: text/html; charset=ISO-8859-1 -->
+<!-- Expires: -1 -->
+<!-- Client-Peer: 65.61.146.199:80 -->
+<!-- Set-Cookie: svc=12; expires=Thu, 29-Dec-2005 12:54:29 GMT; path=/; domain=gotomyshopinternet.com -->
+<!-- Title: Welcome to gotomyshopinternet.com -->
+<!-- X-Meta-Description: gotomyshopinternet.com -->
+<!-- X-Meta-Keywords: gotomyshopinternet.com -->
+<!-- X-Powered-By: PHP/4.3.10 -->
+
+<html>
+<head>
+<title> Welcome to gotomyshopinternet.com</title>
+<meta NAME="description" CONTENT="gotomyshopinternet.com">
+<meta NAME="keywords" CONTENT="gotomyshopinternet.com">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</head>
+
+<frameset rows="20,*" frameborder="no" border="0" framespacing="0">
+<frame src="/contactform.php?domain=gotomyshopinternet.com">
+<frame src="http://www.bnmq.com/?dn=gotomyshopinternet.com&cid=6484d09957">
+</frameset>
+<noframes>
+<body bgcolor="#ffffff" text="#000000">
+<a href="http://www.bnmq.com/?dn=gotomyshopinternet.com&cid=6484d09957">Click here to enter</a>.
+</body>
+</noframes>
+
+</html>
+<!-- trafficclub.com -->
+<!-- exec: 0.0523610115051 -->
+<!-- domain: gotomyshopinternet.com -->
+<!-- ip: 130.207.117.50 -->
+<!-- fingerprint: 13f1e73132a7ff1e59a70c90f03ff4c2 -->
+<!-- country: US -->
+<!-- service: 12 -->
+<!-- rand: 88/100 -->
+<!-- count: 1/0 -->
+<!-- FINGERPRINT OVERRIDE : 12 -->
+

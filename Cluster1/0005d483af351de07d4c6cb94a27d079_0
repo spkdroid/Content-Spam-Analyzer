@@ -1,0 +1,325 @@
+<!-- URL: http://www.woodweb.com/cgi-bin/forums/specialoffers.pl?review=262680 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 12:37:08 GMT -->
+<!-- Server: Apache -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 199.224.80.136:80 -->
+<!-- Link: </master.css>; rel="stylesheet" -->
+<!-- Set-Cookie: User=130.207.117.44.228701135859828778; path=/; expires=Mon, 28-Dec-09 12:37:08 GMT -->
+<!-- Title:  -->
+
+<HTML><HEAD><TITLE></TITLE>
+<link rel="stylesheet" href="/master.css">
+</HEAD><BODY BGCOLOR="#ffffff" TEXT="#000000"><FONT FACE="Arial" size="2">
+<!-- NOTE: consider related fdse files when revising-->
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="keywords" content="Auctions Sales and Special Offers - Sale/Offer"><meta name="description" content="Auctions, Sales and Special Offers - Auction/Sale/Offer"><title>
+Auctions, Sales and Special Offers - Auction/Sale/Offer</title>
+<!-----------------------------------------------------------------> 
+<!--#if expr="${QUERY_STRING} = /printfriendly/" -->
+<!--#else -->
+<!--#endif -->
+<!-----------------------------------------------------------------> 
+</head>
+<body bgcolor="#FFFFFF" vlink="#800000">
+<a name="top"></a>
+
+<!-----------------  begin tmplt_10 ----------------------> 
+<table border="0" width="195" align="right" valign="top" cellpadding="0" cellspacing="0">
+<tr>
+<td><span class="noprint">
+<!--spacer-->
+<img src="/images/2pix.gif" width="50" height="20">
+<!--spacer-->
+</td></span><!--end noprint span-->
+<td valign="top"><span class="noprint">
+<!-- spacer-->
+<img src="/images/2pix.gif" width="155" height="200">
+<!-- spacer -->
+
+
+<!-- highlight begin -->
+<script language="javascript" type="text/javascript">
+<!-- Begin
+function formHandler(form){
+var URL = document.form.area.options[document.form.area.selectedIndex].value;
+window.location.href = URL;
+}
+// End -->
+</script>
+<nobr>
+<form name="form" action="/cgi-bin/site_map_highlight.pl" method="post">
+<select name="area" onChange="javascript:formHandler()" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; height: auto; width: 125px;" valign="middle">
+<option value="">I'm interested in ..........
+<option value="/SiteMapBusiness.html?nonjs">Business
+<option value="/SiteMapBuySell.html?nonjs">Buy and Sell
+<option value="/SiteMapCabinetmaking.html?nonjs">Cabinetmaking
+<option value="/SiteMapComputersProduction.html?nonjs">Computers and Production
+
+<option value="/SiteMapEmployment.html?nonjs">Employment
+<option value="/SiteMapMachinery.html?nonjs">Machinery
+<option value="/SiteMapLumber.html?nonjs">Lumber
+<option value="/SiteMapPrimaryProcessing.html?nonjs">Sawing and Drying
+<option value="/SiteMapAdvertising.html?nonjs">Advertising Opportunities
+<option value="/SiteMap.html">Standard SiteMap
+</select>
+<input type="image" src="/images/go_white.gif" border="0" height="25" name="submit" width="25">
+</nobr>
+</form>
+<!-- highlight end -->
+
+
+<a href="/cgi-bin/forums/specialoffers.pl?review=262680&printfriendly"><img src="/images/ww_icons/print_friendly_icon.gif" width="150" height="22" border="0"></a><br><img src="/images/2pix.gif" width="150" height="10"><br>
+
+<font size="2">
+<b>
+<!--<a href="#navtwo">Related Information</a><br>-->
+<!-------------------  end  tmplt_10 ----------------------> 
+<br><img src="/images/red_point.gif" width="8" height="10" border="0"> Industry News<br>
+<a href="http://www.woodweb.com/cgi-bin/forums/industrynews.pl?review=442303">Sheldon Prom Promoted to Komo International Sales Manager</a><br>
+<!------------------- end dynamic IN bullet ad insert -------------------->
+<!------------------- begin dynamic IN bullet ad insert -------------------->
+</b>
+<br>
+<!--no billboards for this area--><a name="navtwo"></a><br>
+<b>
+Related Information:<br>
+<nobr><img src="/images/red_point.gif" width="8" height="10" border="0"> <a href="/ProductDirectory/">Product Directory</a></nobr><br>
+<img src="/images/red_point.gif" width="8" height="10" border="0"> <a href="/KnowledgeBase/">Knowledge Base</a><br>
+<img src="/images/red_point.gif" width="8" height="10" border="0"> <a href="/Forums/">Forums</a><br>
+<img src="/images/red_point.gif" width="8" height="10" border="0"> <a href="/Forums/">Exchanges</a>
+</b>
+<br>______________<br><br><br><b>Today's<br>Sponsors:</b><br><br>
+<!-- ~3~ DO NOT remove or change this line -->
+<!--MEREEN-JOHNSON MACHINE COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.mereen-johnson.com/&b=mereen_john_mach_co_link">Mereen-Johnson Machine Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MICROVELLUM--><a href="/cgi-bin/track/trk.pl?url=http://www.microvellum.com/&b=microvellum_link">Microvellum</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MIDWEST AUTOMATION--><a href="/cgi-bin/track/trk.pl?url=http://www.midwestautomation.com/&b=midwest_auto_link">Midwest Automation</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MIDWEST LUMBER & DIMENSION--><a href="/cgi-bin/track/trk.pl?url=http://www.midwestlumber.com/&b=midwest_lumber__dime_link">Midwest Lumber & Dimension</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MIDWEST SANDRIGHT--><a href="/cgi-bin/track/trk.pl?url=http://www.midwestsandright.com&b=rand_bright_corp_link">Midwest Sandright</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MIKRON WOODWORKING MACHINERY--><a href="/cgi-bin/track/trk.pl?url=http://www.mikronmachinery.com/&b=mikron_wwking_machinery_link">Mikron Woodworking Machinery</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MILL OUTLET--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/MillOutlet_2967447.htm&b=mill_outlet_link">Mill Outlet</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MILLWORK SPECIALTIES INTL--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/MillworkSpecialtiesIntl_4009395.htm&b=millwork_specialties_link">Millwork Specialties Intl</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MINIMAX--><a href="/cgi-bin/track/trk.pl?url=http://www.scmgroup.com/&b=minimax_link">Minimax</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MIRROR REFLECTIONS--><a href="/cgi-bin/track/trk.pl?url=http://www.mirror-reflections.com/&b=mirror_reflections_link">Mirror Reflections</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MITER CLAMP--><a href="/cgi-bin/track/trk.pl?url=http://www.miterclamp.com/&b=miter_clamp_link">Miter Clamp</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MLS MACHINERY--><a href="/cgi-bin/track/trk.pl?url=http://www.m-mls.com/&b=machinery_mls_link">MLS Machinery</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MODERN WOODWORKING MAGAZINE--><a href="/cgi-bin/track/trk.pl?url=http://www.modernwoodworking.com/&b=modern_wwking_mag_link">Modern Woodworking Magazine</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MOLDINGKNIVES.COM--><a href="/cgi-bin/track/trk.pl?url=http://www.moldingknives.com&b=moldingknives_com_link">Moldingknives.com</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MONARCH MACHINERY--><a href="/cgi-bin/track/trk.pl?url=http://www.woodweb.com/Monarch.html&b=monarch_machinery_link">Monarch Machinery</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MORBIDELLI--><a href="/cgi-bin/track/trk.pl?url=http://www.scmgroup.com/&b=morbidelli_link">Morbidelli</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MOULDER SERVICES--><a href="/cgi-bin/track/trk.pl?url=http://www.moulderservices.com/&b=moulder_services_link">Moulder Services</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MOULDER TECHNIQUES--><a href="/cgi-bin/track/trk.pl?url=http://www.mouldertechniques.com/&b=moulder_techniques_link">Moulder Techniques</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HARBIN CITY XINGHUA WOODWORKING CO.--><a href="/cgi-bin/track/trk.pl?url=http://www.hrbxh.com/&b=harbin_city_xinghua__link">Harbin City Xinghua Woodworking Co.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HARDWARE RESOURCES--><a href="/cgi-bin/track/trk.pl?url=http://www.hardwareresources.com/&b=hardware_resources_link">Hardware Resources</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HARDWOOD COUNCIL--><a href="/cgi-bin/track/trk.pl?url=http://www.hardwoodcouncil.com/&b=hardwood_council_link">Hardwood Council</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HARDWOOD STORE OF N.C. INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.hardwoodstore.com&b=hardwood_store_nc_link">Hardwood Store of N.C. Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HASKO MACHINES--><a href="/cgi-bin/track/trk.pl?url=http://www.haskomachines.com/&b=rk_haskew_co_link">Hasko Machines</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HENDRICK RWH INDUSTRIES--><a href="/cgi-bin/track/trk.pl?url=http://www.hendrickmfg.net/&b=hendrick_rtw_ind_link">Hendrick RWH Industries</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HER-SAF--><a href="/cgi-bin/track/trk.pl?url=http://www.hersaf.com/&b=hersaf_link">Her-Saf</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HERMANCE MACHINE COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.hermance.com/&b=hermance_mach_co_link">Hermance Machine Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HIGH POINT GRINDING - TOTAL SAW SOLUTIONS--><a href="/cgi-bin/track/trk.pl?url=http://www.highpointgrinding.com/&b=high_point_grinding__link">High Point Grinding - Total Saw Solutions</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HILCO INDUSTRIAL LLC--><a href="/cgi-bin/track/trk.pl?url=http://www.hilcoind.com/&b=hilco_industrial_llc_link">Hilco Industrial LLC</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HISTORICAL PLUS WOOD--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/HistoricalPlusWood_4003416.htm&b=historical_plus_wood_link">Historical Plus Wood</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HOFFMANN MACHINE COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.hoffmann-usa.com/&b=hoffman_link">Hoffmann Machine Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HOLLAND SOUTHWEST INTERNATIONAL--><a href="/cgi-bin/track/trk.pl?url=http://www.hollandsw.com&b=holland_sw_link">Holland Southwest International</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HOLZ HER U.S. INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.holzher.com/&b=holzher_us_inc_link">Holz Her U.S. Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HORTH LOG AND LUMBER--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/HorthLogLumberLTD_4001393.htm&b=horth_log_and_lumber_link">Horth Log and Lumber</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HOWARD S. TWICHELL CO.--><a href="/cgi-bin/track/trk.pl?url=http://www.twichell.com/&b=h_twichell_co_link">Howard S. Twichell Co.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--HSD USA--><a href="/cgi-bin/track/trk.pl?url=http://www.hsdusa.com&b=hsd_usa_link">HSD USA</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--ICA NORTH AMERICA--><a href="/cgi-bin/track/trk.pl?url=http://www.icaamerica.com&b=ica_north_america_link">ICA North America</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--ICY STRAITS LUMBER--><a href="/cgi-bin/track/trk.pl?url=http://www.alaskawoodproducts.com/&b=icy_straits_lumber_link">Icy Straits Lumber</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--IDM--><a href="/cgi-bin/track/trk.pl?url=http://www.scmgroup.com/&b=idm_link">IDM</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--IMPACT SEARCH AND PLACEMENT--><a href="/cgi-bin/track/trk.pl?url=http://www.impact-tqr.com&b=impact_link">Impact Search and Placement</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INDUSTRIAL AIR SOLUTIONS--><a href="/cgi-bin/track/trk.pl?url=http://www.industrialairsolutions.com/&b=industrial_air_link">Industrial Air Solutions</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INFINITE REVERSE PROFILING--><a href="/cgi-bin/track/trk.pl?url=http://www.irp.us/&b=infinite_reverse_pro_link">Infinite Reverse Profiling</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INTEGRA TOOLING--><a href="/cgi-bin/track/trk.pl?url=http://www.integratooling.com/&b=integra_tooling_link">Integra Tooling</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INTERNATIONAL PRIME LUMBER--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/InternationalPrimeLumber_2004290.htm&b=international_prime__link">International Prime Lumber</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INTERNETLUMBER.COM--><a href="/cgi-bin/track/trk.pl?url=http://www.internetlumber.com/&b=internetlumbercom_link">InternetLumber.com</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--INVICTA WOODWORKING MACHINES--><a href="/cgi-bin/track/trk.pl?url=http://www.invicta-usa.com&b=invicta_link">Invicta Woodworking Machines</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--ITALPRESSE--><a href="/cgi-bin/track/trk.pl?url=http://www.italpresseusa.net&b=italpresse_link">Italpresse</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--J&P MACHINES--><a href="/cgi-bin/track/trk.pl?url=http://www.jpmachines.com/&b=jp_machines_link">J&P Machines</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--J. GIBSON MCILVAIN COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.mcilvain.com/&b=jgibson_mcilvain_co_link">J. Gibson McIlvain Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JACARANDA INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.jacaranda.com/&b=jacaranda_inc_link">Jacaranda Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JDS COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.jdstools.com/&b=jds_company_link">JDS Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JIT HARDWARE SUPPLIES, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.jithardwaresupplies.com/&b=jit_hardware_supp_link">JIT Hardware Supplies, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JLT CLAMPS--><a href="/cgi-bin/track/trk.pl?url=http://www.jltclamps.com/&b=jlt_clamps_link">JLT Clamps</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JMHSOFTWARE.COM--><a href="/cgi-bin/track/trk.pl?url=http://www.jmhsoftware.com/index.html&b=jmhsoftwarecom_link">JMHsoftware.com</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JOHN G. WEBER CO.--><a href="/cgi-bin/track/trk.pl?url=http://www.johngweber.com&b=john_g_weber_link">John G. Weber Co.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--JOOS USA INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.joosusa.com/&b=joos_usa_link">Joos USA Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KCDW--><a href="/cgi-bin/track/trk.pl?url=http://www.kcdw.com&b=kcdw_link">KCDw</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KEIVER-WILLARD LUMBER CORP.--><a href="/cgi-bin/track/trk.pl?url=http://www.keiver-willard.com&b=keiver_willard_link">Keiver-Willard Lumber Corp.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KEYSTONE WOOD SPECIALTIES--><a href="/cgi-bin/track/trk.pl?url=http://www.keystonedoors.com/&b=key_wood_spec_link">Keystone Wood Specialties</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KEYTRIX DATA SYSTEMS--><a href="/cgi-bin/track/trk.pl?url=http://www.keytrix.com/&b=keytrix_data_systems_link">Keytrix Data Systems</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KILN-DIRECT.COM--><a href="/cgi-bin/track/trk.pl?url=http://www.kiln-direct.com&b=kilndirect_com_link">Kiln-direct.com</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KLEIBERIT ADHESIVES USA, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.kleiberit.com/&b=kleiberit_adhesives_usa_link">Kleiberit Adhesives USA, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KLINGSPOR--><a href="/cgi-bin/track/trk.pl?url=http://www.klingspor.com&b=klingspor_link">Klingspor</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KOCH MACHINERY--><a href="/cgi-bin/track/trk.pl?url=http://www.kochmachinery.com&b=koch_machinery_link">Koch Machinery</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KOESOFT, CONSTRUCTION SOFTWARE--><a href="/cgi-bin/track/trk.pl?url=http://www.cabinets-plus.net&b=koesoft_construction_link">KoeSoft, Construction Software</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KOETTER DRY KILN--><a href="/cgi-bin/track/trk.pl?url=http://www.koetterkiln.com/&b=koetter_link">Koetter Dry Kiln</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KOMO MACHINE, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.komo.com/&b=komo_mach_inc_link">Komo Machine, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KOOTUR LUMBER AND SAWMILL--><a href="/cgi-bin/track/trk.pl?url=http://www.kooturlumber.com&b=kootur_lumber_and_sa_link">KOOTUR Lumber and Sawmill</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--KREMLIN--><a href="/cgi-bin/track/trk.pl?url=http://www.kremlin.com/&b=kremlin_link">Kremlin</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LANE STANTON VANCE--><a href="/cgi-bin/track/trk.pl?url=http://www.lsvlumber.com/&b=lane_stanton_vance_link">Lane Stanton Vance</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LARICK MACHINERY--><a href="/cgi-bin/track/trk.pl?url=http://www.larickmachinery.com/&b=larick_machinery_link">Larick Machinery</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LEUCO TOOL CORPORATION--><a href="/cgi-bin/track/trk.pl?url=http://www.leucotool.com/&b=leuco_tool_link">LEUCO Tool Corporation</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LEWIS LUMBER PRODUCTS--><a href="/cgi-bin/track/trk.pl?url=http://www.lewislp.com/&b=lewis_lumber_prod_link">Lewis Lumber Products</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LOBO MACHINERY CORP.--><a href="/cgi-bin/track/trk.pl?url=http://www.lobomachine.com/&b=lobo_mach_corp_link">Lobo Machinery Corp.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LOCH LOGGING AND LUMBER--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/LochLoggingLumber_2966409.htm&b=oakdale_lumber_co_link">Loch Logging and Lumber</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LOGOSOL--><a href="/cgi-bin/track/trk.pl?url=http://www.logosol.com&b=logosol_link">Logosol</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LOGS TO LUMBER--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/LogstoLumberLLC_4004136.htm&b=logs_to_lumber_link">Logs to Lumber</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--LRH ENTERPRISES, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.lrhent.com/&b=lrh_enterprises_inc_link">LRH Enterprises, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MACBEATH HARDWOODS--><a href="/cgi-bin/track/trk.pl?url=http://www.macbeath.com/&b=macbeath_hardwoods_link">MacBeath Hardwoods</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MACHINES ITALIA - ITALIAN TRADE COMMISSION--><a href="/cgi-bin/track/trk.pl?url=http://www.italtrade.com/focus/machine.htm&b=machines_italia_link">Machines Italia - Italian Trade Commission</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MACOSER, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.macoser.com&b=macoser_inc_link">Macoser, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MADDEN MILLWORKS, INC.--><a href="/cgi-bin/track/trk.pl?url=http://www.maddenmillworks.com/&b=madden_millworks_inc_link">Madden Millworks, Inc.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MAHROS--><a href="/cgi-bin/track/trk.pl?url=http://www.scmgroup.com/&b=mahros_link">Mahros</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MANN AND PARKER LUMBER CO.--><a href="/cgi-bin/track/trk.pl?url=http://www.m-pgoldbrand.com/&b=mann_parker_link">Mann and Parker Lumber Co.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MARTIN WOODWORKING MACHINES CORP.--><a href="/cgi-bin/track/trk.pl?url=http://www.martin-usa.com&b=martin_woodworking_m_link">MARTIN Woodworking Machines Corp.</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MASENGILL MACHINERY COMPANY--><a href="/cgi-bin/track/trk.pl?url=http://www.masengills.com/&b=masengill_mach_co_link">Masengill Machinery Company</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MASTERCAM - CNC SOFTWARE--><a href="/cgi-bin/track/trk.pl?url=http://www.mastercamrouter.com/&b=mastercam_link">Mastercam - CNC Software</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MATTHEWS MILL--><a href="/cgi-bin/track/trk.pl?url=http://www.woodplanet.com/company_dir/MatthewsMillInc_7782.htm&b=matthews_mill_link">Matthews Mill</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MAXYM TECHNOLOGIES--><a href="/cgi-bin/track/trk.pl?url=http://www.maxymtech.com/&b=usa_robot_link">MAXYM Technologies</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!--MAYA POSITIONING EQUIPMENT--><a href="/cgi-bin/track/trk.pl?url=http://www.mayaposi-stop.com/&b=maya_position_equip_link">Maya Positioning Equipment</a><br><img src="/images/2pix.gif" width="66" height="6"><br>
+<!-----------------  begin tmplt_15 ----------------------> 
+</font>
+</td></span><!--end noprint span-->
+
+<td width="100"><span class="noprint">
+<!--spacer-->
+<img src="/images/2pix.gif" width="25" height="20"><!--spacer-->
+</td></span><!--end noprint span-->
+</tr>
+</table>
+<!-------------------  end tmplt_15 ----------------------> 
+
+<!-----------------  begin tmplt_17 ----------------------> 
+<center>
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+<tr> 
+<td>
+<a href="/index.html"><img src="/icons/ww_logo.gif" border="0" width="240" height="45" vspace="1"></a>
+</td>
+<form method="post" action="/cgi-bin/search/search.cgi">
+<td align="right"> &nbsp;&nbsp; <nobr> 
+<!-----------------  begin tmplt_17 ----------------------> 
+
+ &nbsp;&nbsp; <nobr> 
+<select name="Realm">
+<option selected value="All">Search Entire Site 
+<option value="ProductDirectory">Search Product Directory 
+<option value=KnowledgeBase>Search Knowledge Base
+<option value="Forum_FDSE_Files">Search All Forums
+<option value="exchanges_machinery">Search Machinery Exchange
+<option value="machineryfinder">Search Machinery Finder
+<option value="exchanges_lumber">Search Lumber Exchange
+<option value="exchanges_jobs">Search Job Opportunities
+<option value="exchanges_classifieds">Search Classified Ads
+<option value="Events Calendar">Search Events Calendar
+<option>------------------------
+<option>Search Individual Forums
+<option value="forums_adhesives">&nbsp; Adhesives
+<option value="forums_aw">&nbsp; Architectural Wdwrk
+<option value="forums_business">&nbsp; Business
+<option value="forums_cabinetmaking">&nbsp; Cabinetmaking
+<option value="forums_cad">&nbsp; CAD
+<option value="forums_cnc">&nbsp; CNC
+<option value="forums_dust">&nbsp; Dust/Safety/Plant
+<option value="forums_finishing">&nbsp; Finishing
+<option value="forums_forestry">&nbsp; Forestry
+<option value="forums_furniture">&nbsp; Furniture
+<option value="forums_install">&nbsp; Installation
+<option value="forums_lss">&nbsp; Laminate/Solid Surface
+<option value="forums_sawdry">&nbsp; Sawing &amp; Drying
+<option value="forums_swmf">&nbsp; Solid Wood Machining
+<option value="forums_vawp">&nbsp; Value Added Wood Prod.
+<option value="forums_veneer">&nbsp; Veneer
+<option value="forums_wnw">&nbsp; WOODnetWORK
+</select>
+<input maxlength="100" name="Terms" size="10">
+<input border="0" height="25" name="submit" src="/images/go_white.gif" type="image" width="25" valign="bottom">
+ &nbsp; </nobr>
+
+<!-----------------  begin tmplt_18 ----------------------> 
+</td>
+</form>
+</tr>
+</table>
+</center>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+
+<tr bgcolor="#CCCCFF"> 
+<td>
+<font size="3"><b>&nbsp;<a href="/index.html">Home</a> &raquo; 
+<!-------------------  end tmplt_18 ---------------------->
+
+<a href="/Forums/">Exchanges</a> »  <a href="/cgi-bin/forums/specialoffers.pl">Auctions, Sales and Special Offers</a> » <font color="#FF0000" size="3">Sale/Offer</font>
+<!-----------------  begin tmplt_20 ---------------------->
+</font></b>
+</td>
+<td align="right">
+<a href="/woodweb.html"><b>What's New</b></a> &nbsp;|&nbsp; <a href="/SiteMap.html"><b>Site Map</b></a>&nbsp;
+</td>
+</tr>
+
+<tr> 
+<td colspan="2"> 
+<!--begin banner table-->
+<center>
+<table cellpadding="5" border="0">
+<tr>
+<td align="center">
+
+<!--BeginFirstUrl--><a href="/cgi-bin/track/house_banner_direct.pl?bfile=woodweb_ban.gif"><!--EndFirstUrl--><!--CR-->
+<!--BeginFirstImage--><img src="/vendor_images/woodweb_ban.gif" border="0" alt="WOODWEB - The Information Resource for the Woodworking Industry"></a><!--EndFirstImage--><!--CR-->
+<!--BeginSpacer--><img src="/images/2pix.gif" width="80" height="60"><!--EndSpacer--><!--CR-->
+<!--BeginSecondUrl--><a href="/cgi-bin/track/house_banner_direct.pl?bfile=woodweb_ban_two.gif"><!--EndSecondUrl--><!--CR-->
+<!--BeginSecondImage--><img src="/vendor_images/woodweb_ban_two.gif" border="0" alt="WOODWEB - The Information Resource for the Woodworking Industry"></a><!--EndSecondImage--><!--CR-->
+
+</td>
+</tr>
+</table>
+</center>
+<!--end banner table-->
+</td>
+</tr>
+
+<tr> 
+<td colspan="2" bgcolor="#CCCCFF" height="3">
+<!-- lowerlinkbar content (if any) goes here --></td>
+</tr>
+
+</table>
+</center>
+<!-------------------  end tmplt_40 ---------------------->
+
+ <!--below: opening table call for script generated content-->
+ <center><table width=50% border=0><tr><td>
+<!--content_end-->
+
+<!-----------------  begin tmplt_50 ---------------------->
+</body>
+</html>
+<!-------------------  end tmplt_50 ---------------------->
+
+	<br><center><table width="500" border="0" cellpadding="0"><tr><td>
+	<br>The Forum Message for the <a href="http://www.woodweb.com/cgi-bin/forums/specialoffers.pl">Auctions, Sales and Special Offers</a> 
+	is not available. The message has either expired, or you may have
+	entered an incorrect message number.<br><br>
+	
+	You may view the main index page of the <a href="http://www.woodweb.com/cgi-bin/forums/specialoffers.pl">Auctions, Sales and Special Offers</a> 
+	by clicking on <a href="http://www.woodweb.com/cgi-bin/forums/specialoffers.pl">This Link.</a><br><br>
+	
+	The WOODWEB <a href="/SiteMap.html">Site Map</a> is available at 
+	<a href="/SiteMap.html">This Link</a>.<br><br>
+	
+	You may search the entire WOODWEB site by using the search box 
+	located in the upper right hand corner of this page.<br><br>
+	
+	To send an email message to WOODWEB's system administrator, 
+	<a href="/cgi-bin/forums/_email.pl?action=email_form&fm=Forum%20Non_Existant%20Message%20Error&poster=Carl%20Hagstrom&ad=smetsy@88732@s@woodweb.com">Click Here</a>
+	</td></tr></table></center>
+	

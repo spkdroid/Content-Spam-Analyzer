@@ -1,0 +1,1461 @@
+<!-- URL: http://www.pimsleurapproach.com/em.asp?learn=German&v=291c2 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: Keep-Alive -->
+<!-- Date: Thu, 29 Dec 2005 05:48:41 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Length: 68593 -->
+<!-- Content-Type: text/html -->
+<!-- Expires: Thu, 29 Dec 2005 05:48:41 GMT -->
+<!-- Client-Peer: 207.106.175.99:80 -->
+<!-- Link: <css/style1.css>; rel="STYLESHEET"; type="text/css" -->
+<!-- Set-Cookie: BasketInfo=PersonID=%7B0783D3DC%2D4F24%2D4913%2DB71E%2D2DD60875CE85%7D&Creation=12%2F29%2F2005+12%3A48%3A41+AM&Version=291c2; expires=Mon, 27-Feb-2006 05:00:00 GMT; path=/ -->
+<!-- Set-Cookie: ASPSESSIONIDSATRDSBA=EDDAFCEBECJKAAHPGLFMIBGH; path=/ -->
+<!-- Title: Learn German Now! -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+<html>
+	<head>
+	<title>Learn German Now!</title>
+		
+		
+		<link rel="STYLESHEET" type="text/css" href="css/style1.css">
+                
+		<!--<script src="js/popunder.js" language="javascript" TYPE="text/javascript"></script>-->
+                
+
+	</head>
+	<body BGCOLOR="#FFFFFF" leftmargin="10" topmargin="10" bottommargin="10" marginheight="10" marginwidth="0">
+
+
+
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
+<!-- V7.5 -->
+<!-- $DateTime$ -->
+<SCRIPT LANGUAGE="Javascript"><!--
+gVersion="1.0";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.3"><!--
+gVersion="1.3";
+if (window.ActiveXObject){
+	var gFV="";
+	for (var gVer=2;gVer<=10;gVer++){
+		try{
+			var gFlash = eval("new ActiveXObject('ShockwaveFlash.ShockwaveFlash."+gVer+"');");
+			if (gFlash){
+				gFV=gVer+".0";
+				break;
+			}
+		}
+		catch(e){
+		}
+	}
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+var gQP=new Array();
+
+var gDomain="statse.webtrendslive.com";
+var gDcsId="dcs23a0ad10000shkhucj7hsj_3b3u";
+
+if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)){
+	document.write("<SCR"+"IPT Language='JavaScript' SRC='"+"http://"+gDomain+"/"+gDcsId+"/wtid.js"+"'></SCR"+"IPT>");
+}
+//-->
+</SCRIPT>
+<SCRIPT LANGUAGE="Javascript"><!--
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+	if (document.title){
+		WT.ti=document.title;
+	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	if (document.body&&document.body.addBehavior){
+		document.body.addBehavior("#default#clientCaps");
+		if (document.body.connectionType){
+			WT.ct=document.body.connectionType;
+		}
+		document.body.addBehavior("#default#homePage");
+		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+	}
+	if (parseInt(navigator.appVersion)>3){
+		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
+			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
+		}
+		else if (navigator.appName=="Netscape"){
+			WT.bs=window.innerWidth+"x"+window.innerHeight;
+		}
+	}
+	WT.fi="No";
+	if (window.ActiveXObject){
+		if ((typeof(gFV)!="undefined")&&(gFV.length>0)){
+			WT.fi="Yes";
+			WT.fv=gFV;
+		}
+	}
+	else if (navigator.plugins&&navigator.plugins.length){
+		for (var i=0;i<navigator.plugins.length;i++){
+			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+				WT.fi="Yes";
+				WT.fv=navigator.plugins[i].description.split(" ")[2];
+				break;
+			}
+		}
+	}
+	WT.sp="@@SPLITVALUE@@";
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+		if (gQP.length>0){
+			for (var i=0;i<gQP.length;i++){
+				var pos=DCS.dcsqry.indexOf(gQP[i]);
+				if (pos!=-1){
+					var front=DCS.dcsqry.substring(0,pos);
+					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+					DCS.dcsqry=front+end;
+				}
+			}
+		}
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsLoadHref(evt){
+	if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+		window.location=gHref;
+		gHref="";
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
+			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
+		}
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var elems;
+	if (document.all){
+		elems=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		elems=document.getElementsByTagName("meta");
+	}
+	if (typeof(elems)!="undefined"){
+		for (var i=1;i<=elems.length;i++){
+			var meta=elems.item(i-1);
+			if (meta.name){
+				if (meta.name.indexOf('WT.')==0){
+					WT[meta.name.substring(3)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCSext.')==0){
+					DCSext[meta.name.substring(7)]=meta.content;
+				}
+				else if (meta.name.indexOf('DCS.')==0){
+					DCS[meta.name.substring(4)]=meta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+function dcsFunc(func){
+	if (typeof(window[func])=="function"){
+		window[func]();
+	}
+}
+
+dcsVar();
+dcsMeta();
+dcsFunc("dcsAdv");
+dcsTag();
+//-->
+</SCRIPT>
+
+<NOSCRIPT>
+<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcs23a0ad10000shkhucj7hsj_3b3u/njs.gif?dcsuri=/nojavascript&amp;WT.js=No">
+</NOSCRIPT>
+<!-- END OF SmartSource Data Collector  TAG -->	
+
+<center>
+  <!-- ImageReady Slices (header2.psd) -->
+  <table BORDER="0" CELLPADDING="0" CELLSPACING="0" width="740">
+    <tr> 
+      <td> <img SRC="images/header4_01.gif" WIDTH="229" HEIGHT="19"></td>
+      <td colspan="3" align="right">
+			<span class="normal10">
+
+
+
+						
+
+
+
+
+
+
+
+
+
+
+				<b>&nbsp;<a href="aboutus.asp"><font color="#31469C">About&nbsp;Us</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="checkout1.asp?xlearn=German&v=291c2&T=/em.asp"><font color="#31469C">Checkout</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="help.asp"><font color="#31469C">Help</font></a>&nbsp;</b>
+			</span>	   	  
+	  
+	  		<br clear="all">
+      </td>
+    </tr>
+    <tr> 
+      <td> <img SRC="images/header4_05.gif" WIDTH="229" HEIGHT="34"></td>
+      <td> <img SRC="images/spacer.gif" WIDTH="280" HEIGHT="34"></td>
+      <td> <img SRC="images/header5_07.jpg" WIDTH="188" HEIGHT="34"></td>
+      <td> <img SRC="images/spacer.gif" WIDTH="43" HEIGHT="34"></td>
+    </tr>
+    <tr> 
+      <td> <img SRC="images/header4_09.gif" WIDTH="229" HEIGHT="11"></td>
+      <td> <img SRC="images/header4_10.gif" WIDTH="280" HEIGHT="11"></td>
+      <td> <img SRC="images/header5_11.jpg" WIDTH="188" HEIGHT="11"></td>
+      <td> <img SRC="images/header4_12.gif" WIDTH="43" HEIGHT="11"></td>
+    </tr>
+    <tr> 
+      <td colspan="2" width="509"> 
+        <table width="509" border="0" cellspacing="0" cellpadding="5">
+          <tr valign="top"> 
+            <td align="right" width="24%"><img src="images/toppeople.jpg" vspace="5"></td>
+            <td width="76%"><img src="images/topforyoureyes.gif" width="235" height="48" vspace="5"><br clear="all">
+              <span class="toptext">Pimsleur courses help people who need 
+              to speak another language quickly. Our courses took 40 years to 
+              develop and are now used by the FBI, CIA, and business professionals 
+              everywhere. They're so effective, you have nothing to lose!<br>
+              </span> </td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top"> <img SRC="images/header5_15.jpg" WIDTH="188" HEIGHT="174" align="top"></td>
+      <td> <img SRC="images/spacer.gif" WIDTH="43" HEIGHT="174"></td>
+    </tr>
+  </table>
+  <table width="680" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr> 
+      <td align="center"><img src="images/spacerblue.gif" width="680" height="5"></td>
+    </tr>
+    <tr> 
+      <td align="center"> 
+        <table width="680" border="0" cellspacing="0" cellpadding="5" bgcolor="ADC1DF">
+          <tr> 
+            <td align="center"><span class="midtext">
+		
+		Start speaking German 
+              within 10 days or receive a full and courteous refund.<br>
+		
+              <font color="#FFFFFF"><i>You have nothing to lose!</i></font><br>
+              Pimsleur courses have educated over 25 million people since 
+              1980.</span></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr> 
+      <td align="center"><img src="images/spacerblue.gif" width="680" height="5"></td>
+    </tr>
+
+    <tr> 
+      <td bgcolor="#DEE3F7" align="center"> <br>
+			
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+     
+     
+     
+	<td align="center">
+	  <table width="648" border="0" cellspacing="0" cellpadding="0">
+		<tr valign="top"> 
+		  <td bgcolor="#ADC1DF" colspan="2"><span class="buyheader">&nbsp;The Smart Choice<br><br></span>
+                  </td>
+                 </tr>
+		<tr valign="top"> 
+		  <td bgcolor="#FFFFFF" width="425"><br><span class="buytext2">&nbsp;You'll Get Everything you need to speak German in 10 days:<br>
+                        <br> 
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;German instruction that is proven effective<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;No boring repetition, charts or meaningless formulas<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;8 fluency-oriented lessons on 4 Cassettes or audio CDs<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;Audio instruction with a 25 year history of success<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;An ACTFL certified course that you can count on<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;A full money-back guarantee (just in case)<br>
+                        &nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;+ Special Offers on our more advanced courses<br>
+                       <br clear="all">
+ 			</span>
+			<center>
+			<br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr valign="top"> 
+				<td width="210" align="right">
+				<img src="images/German4.jpg" width="116" height="125"><img src="images/position4_1995.jpg" width="83" height="125"><br clear="all">
+				<br>
+				<a href=images/large/German.jpg target=_new><font size=2>Larger Image</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</font>
+				
+				</td>
+				<td width="200" align="left"> <span class="normal13"><br>
+                                <span class=normal11>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>It's Risk Free!</b></span><br><br><br><center> <a href='/xt_orderform_additem.asp?stk_code=PA-032'><b>Buy now on cassette!</b></a><br><br><font size=4>OR</font><br><br><a href='/xt_orderform_additem.asp?stk_code=PA-033'><b>Buy now on audio CD!</b></a><br></center>
+                               </span> 
+                               </td>
+			 </tr>
+	               </table>
+		    </center>
+                      <td bgcolor="#FFFFFF">
+ 		          <span class="buytext"><br>
+                          <img src="images/googletest1/five_star.jpg"><br clear="all">
+                          <br>
+                          &quot;I would have bet that I'd collect the money-back guarantee, until I 
+			  played Lesson One...I WAS HOOKED!&quot;</span><br>
+                          <img src="images/spacer.gif" width="25" height="8"><br clear="all">
+                          <div align="right"><span class="normal10">
+                          <b>Los Angeles Times&nbsp;&nbsp;&nbsp;</b><br>
+                          </span> </div>
+                          <img src="images/spacer.gif" width="25" height="9"><br clear="all">
+			  <span class="buytext"> <br>
+                          &quot;Learn French while commuting, German while jogging, Spanish while cooking (or Russian, 
+			  Italian, and Japanese) all with NO WRITTEN MATERIALS!&quot;</span><br>
+                          <br>
+                          <div align="right"><span class="normal10">
+                          <b>New York Daily News&nbsp;&nbsp;&nbsp;</b><br><br>
+                          </span> </div>
+                           <center>
+                          <!-- BEGIN BASKET CONFIDENCE #99CCFF -->
+
+<table cellspacing="3" cellpadding="2" border="0" width="210" bgcolor="#DEE3F7">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="5" border="0" width="100%" bgcolor="#DEE3F7">
+				<tr valign="top">
+					<td align="center">
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#CC0000">
+							<b>Shop With Confidence</b>
+						</font>
+					</td>
+				</tr>
+				<tr valign="top">
+					
+          <td bgcolor="#DEE3F7"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000066"> 
+            <b>»</b>&nbsp;Satisfaction <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Guarantee</font></a><br>
+            <b>»</b>&nbsp;100% Safe, <a href="help.asp?xlearn=German&v=291c2&#secure"><font color="#0000CC">Secure</font></a> 
+            Shopping<br>
+            <b>»</b>&nbsp;30-day <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Return Policy</font></a><br>
+            <b>»</b>&nbsp;We Value Your <a href="help.asp?xlearn=German&v=291c2&#Privacy"><font color="#0000CC">Privacy</font></a><br>
+						</font>
+<br><DIV align=center>
+<!-- START OF SCANALERT RATING TAG -->
+<a target="_blank" href="//scanalert.com/RatingVerify?ref=www.pimsleurapproach.com"><img width="115" height="32" border="0" name="sarating" src="//scanalert.com/meter/22-www.pimsleurapproach.com.gif" alt="This site has earned the HACKER SAFE rating, certifying credit card security against hackers." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<script language="javascript" type="text/javascript">
+window.setTimeout("checkSaRating()",10000);
+function checkSaRating() {
+   if(document.sarating && !document.sarating.complete) {
+      document.sarating.src    = '';
+      document.sarating.width  = 0;
+      document.sarating.height = 0;
+   }
+}
+</script>
+<!-- END OF SCANALERT RATING TAG -->
+</div>
+
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- END BASKET CONFIDENCE -->	
+                          <img src="images/spacer.gif" width="25" height="7"><br clear="all">
+                           </center>
+        	       </td>
+  		  </td>			
+		</tr>
+            </td>
+		</tr>
+	  </table>
+	</td>
+	 
+  </tr>
+</table>
+      </td>
+    </tr>
+    <tr> 
+      <td bgcolor="#DEE3F7"><br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;You can rapidly learn German!</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td><img src="images/pic1.jpg" width="150" height="112" hspace="5"></td>
+                  <td><span class="normal13">Numerous studies have revealed that in every country, 
+                    native-speakers use only about <b>2,500 distinct words</b> 
+                    and phrases on a daily basis. Dr. Pimsleur spent his lifetime 
+                    studying these language building blocks. With the Pimsleur 
+                    approach, it's not how many words you know, but rather, which 
+                    words you can use. By aiming each lesson at teaching you to 
+                    use those 2500 words, the Pimsleur approach teaches you to 
+                    speak the most German in the least amount of time.<br>
+                    </span> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;Dr. Pimsleur</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td><img src="images/pic2.jpg" width="136" height="126" hspace="5"></td>
+                  <td><span class="normal13"> <br>
+                    Dr. Pimsleur was a language educator <b>for 40 years</b>. 
+                    He noticed that children have an amazing ability to learn 
+                    new languages--quickly. That's why there are so many bilingual 
+                    5-year olds. Dr. Pimsleur spent his life developing this course 
+                    to let you, as an adult, learn German as <b>easily 
+                    as a child</b> would. You might not realize it, but you've 
+                    already learned one language using the Pimsleur approach. 
+                    Your first language!<br>
+                    <br>
+                    </span> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;Children love cookies</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td><img src="images/pic3.jpg" width="151" height="209" hspace="5"></td>
+                  <td><span class="normal13">How old were you when you ate your 
+                    first cookie? Try not to laugh! Did you know what a cookie 
+                    was before your first bite? Mommy or Daddy didn't force you 
+                    to memorize the ingredients before your first taste. But you 
+                    sure knew how to ask for seconds! Pimsleur makes 
+                    learning and speaking German <b>just that easy</b>. 
+                    You just have to listen and participate with your Pimsleur 
+                    course.<br>
+                    <br>
+                    By age four, a child has acquired the building blocks of a 
+                    &quot;first&quot; language at a rate of about one every five hours of 
+                    waking time exposed to the language in use. With this course, 
+                    YOU will learn German at the rate of almost <b>one 
+                    item for every minute</b> of Pimsleur training.<br>
+                    <br>
+				
+                    </span> </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;The Purpose, of Course</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td><img src="images/pic4.jpg" width="156" height="229" hspace="5"></td>
+                  <td><span class="normal13">The entire Pimsleur approach is what language learning should be: quick, fun, and easy! Many foreign language students have difficulty learning. Their textbooks teach monotonous drills, grammar rules, and random lists of words. But textbooks alone can never bring it all together. <br>
+<br>
+Your only real goal in taking any German course is to speak German naturally with others. <br>
+<br>
+                    Dr. Pimsleur designed each lesson as 
+                    the foundation for the next. In other words, you'll keep building 
+                    on what you've previously learned. Best of all, the Pimsleur 
+                    German course does not waste your time 
+                    by cramming grammar down your throat. You learn to recognize 
+                    what sounds right through practice. The Pimsleur approach's 
+                    subtle grammar lessons won't seem like grammar lessons at 
+                    all.<br>
+                    </span> </td>
+                </tr>
+              </table>
+              <br>
+            </td>
+          </tr>
+        </table>
+        <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;The Pimsleur approach is Scientific</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td><img src="images/pic5.jpg" width="155" height="155" hspace="5"></td>
+                  <td><span class="normal13"> The Pimsleur approach is so effective 
+                    because it traces how people developed language. Before written 
+                    history, we had oral history. Most people, even kings, couldn't 
+                    write or read in ancient times. Some people can't even read 
+                    today. Most language learning systems fail to acknowledge 
+                    that writing only exists to represent the words we speak. 
+                    So you should ask yourself, &quot;Why should I learn to read 
+                    German if I can't even speak it?&quot;<br>
+                    
+                    <br>The Pimsleur German course immediately 
+                      immerses you in a German conversation to help you 
+                      grasp the syntax or structure of the German language. 
+                      Amazingly, once you understand the syntax, that chaotic, 
+                      &quot;foreign&quot; sound so common to language learning 
+                      disappears instantly. You'll start to recognize words and 
+                      phrases. The Pimsleur approach will help to change your 
+                      perception within your first 30 minutes!<br>
+                    </span>  </td>
+                </tr>
+              </table>
+              <br>
+            </td>
+          </tr>
+        </table>
+ 
+		<br>
+			
+<table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+  <tr bgcolor="#ADC1DF"> 
+	<td> 
+	  <h2 class="v1">&nbsp;&nbsp;The best guarantee of its kind</h2>
+	</td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+	<td><br>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+		<tr valign="top"> 
+		  <td><img src="images/pic9.gif" width="130" height="118" hspace="5"></td>
+		  <td><span class="normal13"> Maybe you've already tried to learn 
+			a language but realized it was all in vain. Don't give up. 
+			It's time to change your approach! Within thirty days of receiving your Pimsleur Approach course, you'll 
+			learn to speak German or we'll refund your money. 
+			You don't have anything to lose... You can start to speak German now!<br>
+			</span> </td>
+		</tr>
+	  </table>
+	  
+	</td>
+  </tr>
+</table>
+<br>
+
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+     
+     
+     
+	<td align="center">
+	  <table width="648" border="0" cellspacing="0" cellpadding="0">
+		<tr valign="top"> 
+		  <td bgcolor="#ADC1DF" colspan="2"><span class="buyheader">&nbsp;The Smart Choice<br><br></span>
+                  </td>
+                 </tr>
+		<tr valign="top"> 
+		  <td bgcolor="#FFFFFF" width="425"><br><span class="buytext2">&nbsp;You'll Get Everything you need to speak German in 10 days:<br>
+                        <br> 
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;German instruction that is proven effective<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;No boring repetition, charts or meaningless formulas<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;8 fluency-oriented lessons on 4 Cassettes or audio CDs<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;Audio instruction with a 25 year history of success<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;An ACTFL certified course that you can count on<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;A full money-back guarantee (just in case)<br>
+                        &nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;+ Special Offers on our more advanced courses<br>
+                       <br clear="all">
+ 			</span>
+			<center>
+			<br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr valign="top"> 
+				<td width="210" align="right">
+				<img src="images/German4.jpg" width="116" height="125"><img src="images/position4_1995.jpg" width="83" height="125"><br clear="all">
+				<br>
+				<a href=images/large/German.jpg target=_new><font size=2>Larger Image</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</font>
+				
+				</td>
+				<td width="200" align="left"> <span class="normal13"><br>
+                                <span class=normal11>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>It's Risk Free!</b></span><br><br><br><center> <a href='/xt_orderform_additem.asp?stk_code=PA-032'><b>Buy now on cassette!</b></a><br><br><font size=4>OR</font><br><br><a href='/xt_orderform_additem.asp?stk_code=PA-033'><b>Buy now on audio CD!</b></a><br></center>
+                               </span> 
+                               </td>
+			 </tr>
+	               </table>
+		    </center>
+                      <td bgcolor="#FFFFFF">
+ 		          <span class="buytext"><br>
+                          <img src="images/googletest1/five_star.jpg"><br clear="all">
+                          <br>
+                          &quot;I would have bet that I'd collect the money-back guarantee, until I 
+			  played Lesson One...I WAS HOOKED!&quot;</span><br>
+                          <img src="images/spacer.gif" width="25" height="8"><br clear="all">
+                          <div align="right"><span class="normal10">
+                          <b>Los Angeles Times&nbsp;&nbsp;&nbsp;</b><br>
+                          </span> </div>
+                          <img src="images/spacer.gif" width="25" height="9"><br clear="all">
+			  <span class="buytext"> <br>
+                          &quot;Learn French while commuting, German while jogging, Spanish while cooking (or Russian, 
+			  Italian, and Japanese) all with NO WRITTEN MATERIALS!&quot;</span><br>
+                          <br>
+                          <div align="right"><span class="normal10">
+                          <b>New York Daily News&nbsp;&nbsp;&nbsp;</b><br><br>
+                          </span> </div>
+                           <center>
+                          <!-- BEGIN BASKET CONFIDENCE #99CCFF -->
+
+<table cellspacing="3" cellpadding="2" border="0" width="210" bgcolor="#DEE3F7">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="5" border="0" width="100%" bgcolor="#DEE3F7">
+				<tr valign="top">
+					<td align="center">
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#CC0000">
+							<b>Shop With Confidence</b>
+						</font>
+					</td>
+				</tr>
+				<tr valign="top">
+					
+          <td bgcolor="#DEE3F7"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000066"> 
+            <b>»</b>&nbsp;Satisfaction <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Guarantee</font></a><br>
+            <b>»</b>&nbsp;100% Safe, <a href="help.asp?xlearn=German&v=291c2&#secure"><font color="#0000CC">Secure</font></a> 
+            Shopping<br>
+            <b>»</b>&nbsp;30-day <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Return Policy</font></a><br>
+            <b>»</b>&nbsp;We Value Your <a href="help.asp?xlearn=German&v=291c2&#Privacy"><font color="#0000CC">Privacy</font></a><br>
+						</font>
+<br><DIV align=center>
+<!-- START OF SCANALERT RATING TAG -->
+<a target="_blank" href="//scanalert.com/RatingVerify?ref=www.pimsleurapproach.com"><img width="115" height="32" border="0" name="sarating" src="//scanalert.com/meter/22-www.pimsleurapproach.com.gif" alt="This site has earned the HACKER SAFE rating, certifying credit card security against hackers." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<script language="javascript" type="text/javascript">
+window.setTimeout("checkSaRating()",10000);
+function checkSaRating() {
+   if(document.sarating && !document.sarating.complete) {
+      document.sarating.src    = '';
+      document.sarating.width  = 0;
+      document.sarating.height = 0;
+   }
+}
+</script>
+<!-- END OF SCANALERT RATING TAG -->
+</div>
+
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- END BASKET CONFIDENCE -->	
+                          <img src="images/spacer.gif" width="25" height="7"><br clear="all">
+                           </center>
+        	       </td>
+  		  </td>			
+		</tr>
+            </td>
+		</tr>
+	  </table>
+	</td>
+	 
+  </tr>
+</table>
+      <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;What the critics think about the Pimsleur approach</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td>
+              <table width="100%" border="0" cellspacing="6" cellpadding="8">
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;EXTREMELY ACCESSIBLE&#133;the 
+                    speakers have pleasant voices, each section within the lessons 
+                    is short enough to hold our attention, and there is enough 
+                    repetition to teach even those who consider themselves slow 
+                    learners&#133;Pimsleur tapes are extremely thorough 
+                    and easy to use-quite lively!&quot;<br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Boston 
+                    Herald</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;I would have bet that I'd collect 
+                    the money-back guarantee, until I played Lesson One&#133; 
+                    <br>
+                    I WAS HOOKED!&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Los Angeles 
+                    Times</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;Learn French while commuting, 
+                    German while jogging, Spanish while cooking (or Russian, <br>
+                    Italian, and Japanese) all with NO WRITTEN MATERIALS! &quot;<br>
+                    <br><img src="images/spacer.gif" width="250" height="4">
+                    -<b>New York Daily News</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;Designed for the ear and not 
+                    the eye&#133;the lessons provide PERFECT 30-minute bites of 
+                    work.&quot;<br><img src="images/spacer.gif" width="250" height="4">
+                    -<b>St. Louis Post-Dispatch</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;This is the easiest and simplest 
+                    language method&#133; OUTSTANDING!&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>New Hampshire 
+                    Union Leader</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;IDEAL for commuters.&quot;<br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Publishers 
+                    Weekly</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;There's a tutorial on tape 
+                    to suit every need&#133;using a UNIQUE system [the] segments will 
+                    have you carrying on simple conversations at the end of just 
+                    four hours.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Bookpage</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;THE MARKET LEADER in self-instructional 
+                    foreign language tapes.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Business 
+                    Life</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;A WELCOME CHANGE from some 
+                    of the more formal, highly structured language tapes.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-<b>Audio-Visual 
+                    Guide</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;Learn to habla espanol or parlez 
+                    français before your next trip aboard&#133;The interactive LESSONS 
+                    CHALLENGE STUDENTS to use new words in conversation instead 
+                    of memorize them.&quot;<br>
+                    <img src="images/spacer.gif" width="200" height="4">-American 
+                    Way, <b>American Airlines</b> in-flight magazine<br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;An excellent set of tapes&#133;simply 
+                    play these on the tapedeck of your car each day for a few 
+                    weeks and in no time at all, YOU'LL BE SPEAKING LIKE A NATIVE.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="200" height="4">-Sun Country, 
+                    <b>Sun Country Airlines</b> in-flight magazine<br>
+                    </span> </td>
+                </tr>																																						
+              </table>
+              
+            </td>
+          </tr>
+        </table>
+        <br>
+		<table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;What Pimsleur students say about 
+                our courses</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td>
+              <table width="100%" border="0" cellspacing="6" cellpadding="8">
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;WOW, IT REALLY WORKS!  Yes, it really works&#133;If the first tape gives me this fluency/confidence; it goes without saying that the rest will do the same.  I started speaking in German with my friends.  Buy it, listen to it and find yourself speaking in German.&quot;<br>
+                    <img src="images/spacer.gif" width="250" height="4">-Ik Soo Lim, <b>Lausanne, Switzerland</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;I found Pimsleur Portuguese VERY EASY TO USE.  I have other self-taught programs, but this was by far was the best.  The speakers enunciated well and allowed you enough time to repeat the phrases without rushing.  There is no writing or reading to be done.  Using my walkman, I found it convenient to carry with me and listen.  The key to this program is the repetition.  I enjoy using it.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-John H., <b>Burtonsville, MD</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;THE PIMSLEUR APPROACH IS THE 
+                    BEST EVER! This is the best program available to learn Korean 
+                    on the market today. I know because I have audited a dozen 
+                    of them. It is very simple. Just play a side per day.&quot;<br>
+                    <img src="images/spacer.gif" width="250" height="4">
+                    -D. M. Rothschild, <b>Ph.D.</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;It's great!  This audiobook made me and my little sister learn the basics of the French language.  It's really effective.  Well, Dr. Pimsleur's approach works for both the young and the old.  Now, I YEARN TO LEARN MORE.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-Leah Nillas, <b>Quezon City, Philippines</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;Top-quality teach-yourself Japanese, no reading involved.  LEARNING LANGUAGES WAS NEVER THIS MUCH FUN&#133;I would recommend this to all who would like to begin their study of the Japanese language&#133; the Pimsleur approach is very easy to learn from, hear and repeat.&quot;<br>
+                    <img src="images/spacer.gif" width="250" height="4">-Christopher Muro, <b>Pittsburgh, PA</b><br>
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td><span class="normal13">&quot;Very quick start to German.  These tapes allow you to learn as quickly or slowly as you like.  Also, the way that it is presented allowed me to retain the skills much longer than I was able to using book or book-and-tape methods.  Perhaps most importantly, by learning aurally and practicing orally I DEVELOPED VERY GOOD PRONUNCIATION.&quot;<br>
+                    <br>
+                    <img src="images/spacer.gif" width="250" height="4">-Damien Del Russo, <b>Dusseldorf, Germany</b><br>
+                    </span> </td>
+                </tr>
+               </table>
+              
+            </td>
+          </tr>
+        </table>		
+        <br>
+			
+<table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+  <tr bgcolor="#ADC1DF"> 
+	<td> 
+	  <h2 class="v1">&nbsp;&nbsp;The best guarantee of its kind</h2>
+	</td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+	<td><br>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+		<tr valign="top"> 
+		  <td><img src="images/pic9.gif" width="130" height="118" hspace="5"></td>
+		  <td><span class="normal13"> Maybe you've already tried to learn 
+			a language but realized it was all in vain. Don't give up. 
+			It's time to change your approach! Within thirty days of receiving your Pimsleur Approach course, you'll 
+			learn to speak German or we'll refund your money. 
+			You don't have anything to lose... You can start to speak German now!<br>
+			</span> </td>
+		</tr>
+	  </table>
+	  
+	</td>
+  </tr>
+</table>
+<br>
+
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+     
+     
+     
+	<td align="center">
+	  <table width="648" border="0" cellspacing="0" cellpadding="0">
+		<tr valign="top"> 
+		  <td bgcolor="#ADC1DF" colspan="2"><span class="buyheader">&nbsp;The Smart Choice<br><br></span>
+                  </td>
+                 </tr>
+		<tr valign="top"> 
+		  <td bgcolor="#FFFFFF" width="425"><br><span class="buytext2">&nbsp;You'll Get Everything you need to speak German in 10 days:<br>
+                        <br> 
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;German instruction that is proven effective<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;No boring repetition, charts or meaningless formulas<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;8 fluency-oriented lessons on 4 Cassettes or audio CDs<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;Audio instruction with a 25 year history of success<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;An ACTFL certified course that you can count on<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;A full money-back guarantee (just in case)<br>
+                        &nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;+ Special Offers on our more advanced courses<br>
+                       <br clear="all">
+ 			</span>
+			<center>
+			<br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr valign="top"> 
+				<td width="210" align="right">
+				<img src="images/German4.jpg" width="116" height="125"><img src="images/position4_1995.jpg" width="83" height="125"><br clear="all">
+				<br>
+				<a href=images/large/German.jpg target=_new><font size=2>Larger Image</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</font>
+				
+				</td>
+				<td width="200" align="left"> <span class="normal13"><br>
+                                <span class=normal11>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>It's Risk Free!</b></span><br><br><br><center> <a href='/xt_orderform_additem.asp?stk_code=PA-032'><b>Buy now on cassette!</b></a><br><br><font size=4>OR</font><br><br><a href='/xt_orderform_additem.asp?stk_code=PA-033'><b>Buy now on audio CD!</b></a><br></center>
+                               </span> 
+                               </td>
+			 </tr>
+	               </table>
+		    </center>
+                      <td bgcolor="#FFFFFF">
+ 		          <span class="buytext"><br>
+                          <img src="images/googletest1/five_star.jpg"><br clear="all">
+                          <br>
+                          &quot;I would have bet that I'd collect the money-back guarantee, until I 
+			  played Lesson One...I WAS HOOKED!&quot;</span><br>
+                          <img src="images/spacer.gif" width="25" height="8"><br clear="all">
+                          <div align="right"><span class="normal10">
+                          <b>Los Angeles Times&nbsp;&nbsp;&nbsp;</b><br>
+                          </span> </div>
+                          <img src="images/spacer.gif" width="25" height="9"><br clear="all">
+			  <span class="buytext"> <br>
+                          &quot;Learn French while commuting, German while jogging, Spanish while cooking (or Russian, 
+			  Italian, and Japanese) all with NO WRITTEN MATERIALS!&quot;</span><br>
+                          <br>
+                          <div align="right"><span class="normal10">
+                          <b>New York Daily News&nbsp;&nbsp;&nbsp;</b><br><br>
+                          </span> </div>
+                           <center>
+                          <!-- BEGIN BASKET CONFIDENCE #99CCFF -->
+
+<table cellspacing="3" cellpadding="2" border="0" width="210" bgcolor="#DEE3F7">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="5" border="0" width="100%" bgcolor="#DEE3F7">
+				<tr valign="top">
+					<td align="center">
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#CC0000">
+							<b>Shop With Confidence</b>
+						</font>
+					</td>
+				</tr>
+				<tr valign="top">
+					
+          <td bgcolor="#DEE3F7"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000066"> 
+            <b>»</b>&nbsp;Satisfaction <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Guarantee</font></a><br>
+            <b>»</b>&nbsp;100% Safe, <a href="help.asp?xlearn=German&v=291c2&#secure"><font color="#0000CC">Secure</font></a> 
+            Shopping<br>
+            <b>»</b>&nbsp;30-day <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Return Policy</font></a><br>
+            <b>»</b>&nbsp;We Value Your <a href="help.asp?xlearn=German&v=291c2&#Privacy"><font color="#0000CC">Privacy</font></a><br>
+						</font>
+<br><DIV align=center>
+<!-- START OF SCANALERT RATING TAG -->
+<a target="_blank" href="//scanalert.com/RatingVerify?ref=www.pimsleurapproach.com"><img width="115" height="32" border="0" name="sarating" src="//scanalert.com/meter/22-www.pimsleurapproach.com.gif" alt="This site has earned the HACKER SAFE rating, certifying credit card security against hackers." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<script language="javascript" type="text/javascript">
+window.setTimeout("checkSaRating()",10000);
+function checkSaRating() {
+   if(document.sarating && !document.sarating.complete) {
+      document.sarating.src    = '';
+      document.sarating.width  = 0;
+      document.sarating.height = 0;
+   }
+}
+</script>
+<!-- END OF SCANALERT RATING TAG -->
+</div>
+
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- END BASKET CONFIDENCE -->	
+                          <img src="images/spacer.gif" width="25" height="7"><br clear="all">
+                           </center>
+        	       </td>
+  		  </td>			
+		</tr>
+            </td>
+		</tr>
+	  </table>
+	</td>
+	 
+  </tr>
+</table>
+      <br>
+        <table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+          <tr bgcolor="#ADC1DF"> 
+            <td> 
+              <h2 class="v1">&nbsp;&nbsp;An objective opinion by a renowned language expert</h2>
+            </td>
+          </tr>
+          <tr bgcolor="#FFFFFF"> 
+            <td><br><h1>DEREK BICKERTON: LANGUAGE EXPERT</h1>
+              <br>
+              <table width="100%" border="0" cellspacing="0" cellpadding="5">
+                <tr valign="top"> 
+                  <td align="center"><img src="images/languageexpert.jpg" width="122" height="159" hspace="5"><br clear="all">
+                    <span class="normal9b"> Derek Bickerton, PhD<br>
+                    </span> </td>
+                  <td> 
+                    <h2 class="v1">How is language naturally acquired?</h2>
+                    <span class="normal13"> <br>
+                    Languages are naturally acquired by people listening to language. 
+                    The human brain is built to analyze it. You know, there are 
+                    a lot of places in the world-not in America-but in supposedly 
+                    &quot;backwards&quot; places like West Africa, New Guinea, where it 
+                    is commonplace to find people who speak half a dozen languages. 
+                    How do they do that? There are no language schools. So, they 
+                    do it because it's part of their lives. They go down to the 
+                    market, they find people talking in 4 or 5 languages and if 
+                    they're going to do any trade-or buy anything-they have to 
+                    know just enough of the other language to get by. So, this 
+                    is how languages are learned, whether by adults or by children-by 
+                    listening and interacting with real people in real-life situations. 
+                    </span> </td>
+                </tr>
+                <tr valign="top"> 
+                  <td colspan="2"> 
+                    <h2 class="v1"><br>
+                      How does the Pimsleur approach mirror this?</h2>
+                    <span class="normal13"><br>
+                    The way language is naturally acquired-in real-life second 
+                    language learning situations-is by listening to the language 
+                    itself. And analyzing it yourself. The people who learn second 
+                    languages most successfully, are not those who go to language 
+                    schools. If you go to a language school, you tend to go somewhere 
+                    where they have a special theory about how language should 
+                    be learned, and they impose that theory upon you. But actually, 
+                    the human mind is constructed to learn language. That's one 
+                    of the basic things. Just as a spider spins its web, so too 
+                    do people acquire language. It's just as natural as that. 
+                    If you try to constrain that process by imposing some regime 
+                    that you've thought, theoretically, that ought to work, it 
+                    really doesn't help. The Pimsleur approach's success lies 
+                    in its ability to mimic natural language acquisition insofar 
+                    as any teaching method can. <br>
+                    <br>
+                    </span> 
+                    <h2 class="v1">What is they key to language learning?</h2>
+                    <span class="normal13"> <br>
+                    You have to ask yourself, why is it that so many people try 
+                    to learn foreign languages and fail abysmally. I think there are 
+                    2 reasons why they fail: they're not motivated enough and 
+                    they don't have sufficient exposure to the real thing. The 
+                    key to language learning is a combination of these two things. 
+                    In regards to motivation, a lot of that's got to come from the 
+                    learner. But given the learner has a reasonable amount of 
+                    motivation, then the burden lies upon the course to hold the 
+                    learner's attention and continually present them with material 
+                    that is both interesting in itself, and relevant to the kinds 
+                    of things the learner will have to do when he's using the 
+                    language. That will keep up the motivation. <br>
+                    <br>
+                    Now, as for the material, if you have material produced by 
+                    a native speaker of that language, and a sufficient amount 
+                    of that material is provided, then language learn learning 
+                    takes place. Since we are equipped to learn languages, the 
+                    brain does the rest of the job for us. All it needs is sufficient 
+                    motivation and sufficient first-class, first-language speaker 
+                    material from which to learn. <br>
+                    <br>
+                    </span> 
+                    <h2 class="v1">Please explain the concept behind Pimsleur courses.</h2>
+                    <span class="normal13"> <br>
+                    From a linguist's standpoint, Pimsleur courses work 
+                    in a very natural manner. Lots of people try to learn foreign 
+                    languages-it's rather like people trying to lose weight. Lots 
+                    of people try to lose weight and very few do. Lots of people 
+                    try to learn foreign languages, but they get bored, they get 
+                    discouraged, they find that it's too hard for them. By presenting 
+                    the learner with material in the target language, Pimsleur 
+                    courses expose the learner-from the earliest stage-to 
+                    real-life dialogue in real-life situations. So, it's going 
+                    to keep the learner interested and teach the learner language 
+                    that can be used immediately. There's a payoff right away. 
+                    <br>
+                    <br>
+                    </span> 
+                    <h2 class="v1">Briefly, what are the fundamentals that make 
+                      up any given language?</h2>
+                    <span class="normal13"> <br>
+                    Our brain is automatically programmed to take words and put 
+                    them together. It differs from language to language, but not 
+                    as much as you'd think. Every language is cut to so close 
+                    a pattern, that some linguists regard them basically as dialects 
+                    of one language. So, in other words, you already have in your 
+                    brain a machine that is ready and waiting for language. <br>
+                    <br>
+                    What do you have to do? You have to learn the sound system 
+                    of the language, which may different from yours. Then, you 
+                    have to learn the words. And when you've done that, you have 
+                    to learn what the particular properties of the words are, 
+                    because the properties will tell you how to put them together 
+                    in a sentence. You do this by hearing them used correctly 
+                    in sentences, preferably, by a native speaker of that language. 
+                    That's all you need to know. You don't have to be given a 
+                    lot of elaborate grammatical rules, because your brain's already 
+                    equipped to figure them out for you. <br>
+                    <br>
+                    </span> 
+                    <h2 class="v1">How does the brain acquire new information?</h2>
+                    <span class="normal13"> <br>
+                    When you hear anything at all, it is stored in your short 
+                    term memory. The short-term memory will hold it, but unless 
+                    it is repeated and re-emphasized, it is not going to hold 
+                    on to it. Many things pass, so to speak, through your memory. 
+                    In order to make long-term memories, the information must 
+                    be transferred. This occurs through repetition, but if they're 
+                    repeated exactly as they were the first time, that becomes 
+                    monotonous. So, the best way to do it is to take the same 
+                    information, or similar information, and present it in a slightly 
+                    varied so you see the same situation from different angles. 
+                    <br>
+                    <br>
+                    </span> 
+                    <h2 class="v1">Why do you think the Pimsleur approach works?</h2>
+                    <span class="normal13"> <br>
+                    I think what makes the Pimsleur approach most effective is 
+                    that it engages the learner from the very first stage and 
+                    presents him with situations that hold his interest and attention-and 
+                    it's been carefully prepared to do so. Let's face it, lot 
+                    of foreign language work can be terribly boring. And one of 
+                    the key elements in language learning is motivation. If the 
+                    learner is not motivated and gets presented with mechanical, 
+                    repetitive kinds of exercise, then it becomes a chore. To 
+                    find a language program that holds the learner's interest 
+                    is really something quite rare. And I think the Pimsleur approach 
+                    certainly does that. <br>
+                    <br>
+					<br>
+                    </span>
+                   <blockquote>
+				   <h2 class="v1"><center>ABOUT DEREK BICKERTON, PHD</center></h2>
+                    <span class="normal13"> <br>
+					A graduate from the University of Cambridge, England in 1949, Derek Bickerton entered academic life in the 1960s, first as a lecturer in English Literature at the University of Cape Coast, Ghana, and then, after a year's postgraduate work in linguistics 
+					at the University of Leeds, as Senior Lecturer in Linguistics at the University of Guyana (1967-71).  For twenty-four years he was a Professor of Linguistics at the University of Hawaii, having meanwhile received a Ph.D. in linguistics from the University of Cambridge (1976). <br><br>
+                    Known the world over for his work on the evolution of language, 
+                    he is the author of many books, including <i>Language and 
+                    Species</i>, Derek Bickerton's most recent book, <i>Lingua 
+                    ex Machina: Reconciling Darwin and Chomsky with the Human 
+                    Brain</i>, was co-written with William H. Calvin and published 
+                    by MIT Press. <br>
+                    </span>					
+					</blockquote>
+					
+					</td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+        <br>
+			
+<table width="648" border="0" cellspacing="0" cellpadding="5" align="center">
+  <tr bgcolor="#ADC1DF"> 
+	<td> 
+	  <h2 class="v1">&nbsp;&nbsp;The best guarantee of its kind</h2>
+	</td>
+  </tr>
+  <tr bgcolor="#FFFFFF"> 
+	<td><br>
+	  <table width="100%" border="0" cellspacing="0" cellpadding="5">
+		<tr valign="top"> 
+		  <td><img src="images/pic9.gif" width="130" height="118" hspace="5"></td>
+		  <td><span class="normal13"> Maybe you've already tried to learn 
+			a language but realized it was all in vain. Don't give up. 
+			It's time to change your approach! Within thirty days of receiving your Pimsleur Approach course, you'll 
+			learn to speak German or we'll refund your money. 
+			You don't have anything to lose... You can start to speak German now!<br>
+			</span> </td>
+		</tr>
+	  </table>
+	  
+	</td>
+  </tr>
+</table>
+<br>
+
+<table width="680" border="0" cellspacing="0" cellpadding="0">
+  <tr valign="top"> 
+     
+     
+     
+	<td align="center">
+	  <table width="648" border="0" cellspacing="0" cellpadding="0">
+		<tr valign="top"> 
+		  <td bgcolor="#ADC1DF" colspan="2"><span class="buyheader">&nbsp;The Smart Choice<br><br></span>
+                  </td>
+                 </tr>
+		<tr valign="top"> 
+		  <td bgcolor="#FFFFFF" width="425"><br><span class="buytext2">&nbsp;You'll Get Everything you need to speak German in 10 days:<br>
+                        <br> 
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;German instruction that is proven effective<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;No boring repetition, charts or meaningless formulas<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;8 fluency-oriented lessons on 4 Cassettes or audio CDs<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;Audio instruction with a 25 year history of success<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;An ACTFL certified course that you can count on<br>
+			&nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;A full money-back guarantee (just in case)<br>
+                        &nbsp;&nbsp;<img src="images/bluebox.gif" width="10" height="9">&nbsp;+ Special Offers on our more advanced courses<br>
+                       <br clear="all">
+ 			</span>
+			<center>
+			<br><br>
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr valign="top"> 
+				<td width="210" align="right">
+				<img src="images/German4.jpg" width="116" height="125"><img src="images/position4_1995.jpg" width="83" height="125"><br clear="all">
+				<br>
+				<a href=images/large/German.jpg target=_new><font size=2>Larger Image</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</font>
+				
+				</td>
+				<td width="200" align="left"> <span class="normal13"><br>
+                                <span class=normal11>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>It's Risk Free!</b></span><br><br><br><center> <a href='/xt_orderform_additem.asp?stk_code=PA-032'><b>Buy now on cassette!</b></a><br><br><font size=4>OR</font><br><br><a href='/xt_orderform_additem.asp?stk_code=PA-033'><b>Buy now on audio CD!</b></a><br></center>
+                               </span> 
+                               </td>
+			 </tr>
+	               </table>
+		    </center>
+                      <td bgcolor="#FFFFFF">
+ 		          <span class="buytext"><br>
+                          <img src="images/googletest1/five_star.jpg"><br clear="all">
+                          <br>
+                          &quot;I would have bet that I'd collect the money-back guarantee, until I 
+			  played Lesson One...I WAS HOOKED!&quot;</span><br>
+                          <img src="images/spacer.gif" width="25" height="8"><br clear="all">
+                          <div align="right"><span class="normal10">
+                          <b>Los Angeles Times&nbsp;&nbsp;&nbsp;</b><br>
+                          </span> </div>
+                          <img src="images/spacer.gif" width="25" height="9"><br clear="all">
+			  <span class="buytext"> <br>
+                          &quot;Learn French while commuting, German while jogging, Spanish while cooking (or Russian, 
+			  Italian, and Japanese) all with NO WRITTEN MATERIALS!&quot;</span><br>
+                          <br>
+                          <div align="right"><span class="normal10">
+                          <b>New York Daily News&nbsp;&nbsp;&nbsp;</b><br><br>
+                          </span> </div>
+                           <center>
+                          <!-- BEGIN BASKET CONFIDENCE #99CCFF -->
+
+<table cellspacing="3" cellpadding="2" border="0" width="210" bgcolor="#DEE3F7">
+	<tr>
+		<td>
+			<table cellspacing="0" cellpadding="5" border="0" width="100%" bgcolor="#DEE3F7">
+				<tr valign="top">
+					<td align="center">
+						<font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#CC0000">
+							<b>Shop With Confidence</b>
+						</font>
+					</td>
+				</tr>
+				<tr valign="top">
+					
+          <td bgcolor="#DEE3F7"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#000066"> 
+            <b>»</b>&nbsp;Satisfaction <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Guarantee</font></a><br>
+            <b>»</b>&nbsp;100% Safe, <a href="help.asp?xlearn=German&v=291c2&#secure"><font color="#0000CC">Secure</font></a> 
+            Shopping<br>
+            <b>»</b>&nbsp;30-day <a href="help.asp?xlearn=German&v=291c2&#returns"><font color="#0000CC">Return Policy</font></a><br>
+            <b>»</b>&nbsp;We Value Your <a href="help.asp?xlearn=German&v=291c2&#Privacy"><font color="#0000CC">Privacy</font></a><br>
+						</font>
+<br><DIV align=center>
+<!-- START OF SCANALERT RATING TAG -->
+<a target="_blank" href="//scanalert.com/RatingVerify?ref=www.pimsleurapproach.com"><img width="115" height="32" border="0" name="sarating" src="//scanalert.com/meter/22-www.pimsleurapproach.com.gif" alt="This site has earned the HACKER SAFE rating, certifying credit card security against hackers." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a>
+<script language="javascript" type="text/javascript">
+window.setTimeout("checkSaRating()",10000);
+function checkSaRating() {
+   if(document.sarating && !document.sarating.complete) {
+      document.sarating.src    = '';
+      document.sarating.width  = 0;
+      document.sarating.height = 0;
+   }
+}
+</script>
+<!-- END OF SCANALERT RATING TAG -->
+</div>
+
+						
+					</td>
+				</tr>
+			</table>
+		</td>
+	</tr>
+</table>
+
+<!-- END BASKET CONFIDENCE -->	
+                          <img src="images/spacer.gif" width="25" height="7"><br clear="all">
+                           </center>
+        	       </td>
+  		  </td>			
+		</tr>
+            </td>
+		</tr>
+	  </table>
+	</td>
+	 
+  </tr>
+</table>
+      <br>
+      </td>
+    </tr>
+  </table>
+</center>
+
+<br>
+<table width="740" border="0" cellspacing="0" cellpadding="2" align="center">
+  <tr valign="top">
+	<td width="55%" rowspan="2" bgcolor="#FFFFFF">
+		<table width="95%" border="0" cellspacing="0" cellpadding="0" align="center">		
+			<tr>
+				<td width="100%" align="left">
+					<span class="normal10">
+					<font color="#003399"><b>Having difficulties?</b></font> For assistance, please <b>e-mail</b> the details of your problem to <a href="mailto:customercare@pimsleurapproach.com"><font color="#0000FF">CustomerCare@PimsleurApproach.com</font></a> <b>or call</b> us at <nobr>866-204-7139 / +1 202-266-3328 (international).
+
+
+SessionID = 291c2
+
+
+</nobr>
+					</span>
+				</td>
+			</tr>
+		</table>
+	</td>
+    <td width="45%" bgcolor="#FFFFFF" valign="top" align="right">
+			<span class="normal10">
+				<b>&nbsp;<a href="aboutus.asp"><font color="#31469C">About&nbsp;Us</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="checkout1.asp?xlearn=German&v=291c2&T=/em.asp"><font color="#31469C">Checkout</font></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="help.asp"><font color="#31469C">Help</font></a>&nbsp;</b>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			</span>
+	</td>
+  </tr>
+  <tr> 
+    <td width="45%" bgcolor="#FFFFFF" align="center" colspan="2"><span class="normal10"><br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>All prices in U.S. dollars</b>&nbsp;<br>
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;© 2000-2005 Internet Order LLC, All Rights Reserved.</span> </td>
+  </tr>
+</table>
+
+<!-- SiteCatalyst code version: H.2.
+Copyright 1997-2005 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" src="http://www.pimsleurapproach.com/include/s_code.js"></script>
+<script language="JavaScript"><!--
+/* Set any SiteCatalyst variable here */
+s.pageName="Landing Page - Language Specific"
+s.channel="LanguageLearning:German:Q&S"
+s.server="www.pimsleurapproach.com"
+s.prop1="PA Default"
+s.prop2="Regular"
+/*prodView event*/
+s.events = "prodView"
+s.products = ";PA-032;PA-033"
+
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<!-- End SiteCatalyst code version: H.2. -->
+
+</body>
+
+</html>

@@ -1,0 +1,63 @@
+<!-- URL: http://www.airstrip.com/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 16:39:58 GMT -->
+<!-- Accept-Ranges: bytes -->
+<!-- ETag: "311dd-79b-42a9e00a" -->
+<!-- Server: Apache/1.3.33 (Unix) FrontPage/5.0.2.2634 ApacheJServ/1.1.2 mod_auth_pam/1.1.1 -->
+<!-- Content-Length: 1947 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html;charset=ISO-8859-1 -->
+<!-- Last-Modified: Fri, 10 Jun 2005 18:46:34 GMT -->
+<!-- Client-Peer: 205.178.145.65:80 -->
+<!-- Title: A I R W A Y S communication inc. * Home Page -->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+
+	<head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+		<title>A I R W A Y S communication inc. * Home Page</title>
+		<csactionitem name="BA9F3A7F0"></csactionitem>
+		<csactions>
+			<csaction name="BA9F3A7F0" class="Adjust Frame Sources" type="onload"></csaction>
+		</csactions>
+		<csscriptdict import>
+			<script type="text/javascript" src="GeneratedItems/CSScriptLib.js"></script>
+		</csscriptdict>
+		<csactiondict>
+			<script type="text/javascript"><!--
+CSInit[CSInit.length] = new Array(OUTadjFrameSrcs);
+
+// --></script>
+		</csactiondict>
+	</head>
+
+	<frameset border="0" frameborder="no" framespacing="0" onload="CSScriptInit();" rows="*,155,360,*">
+		<frame name="topspacer" noresize scrolling="no" src="spacer.html">
+		<frameset border="0" cols="*,700,*" frameborder="no" framespacing="0">
+			<frame name="leftbannerspacer" noresize scrolling="no" src="spacer.html">
+			<frameset border="0" frameborder="no" framespacing="0" rows="125,30">
+				<frame name="banner" noresize scrolling="no" src="topbanner.html">
+				<frame name="button_banner_top" noresize scrolling="no" src="buttons_top.html">
+			</frameset>
+			<frame name="rightbannerspacer" noresize scrolling="no" src="spacer.html">
+		</frameset>
+		<frameset border="0" cols="*,172,528,*" frameborder="no" framespacing="0">
+			<frame name="leftpagespacer" noresize scrolling="no" src="spacer.html">
+			<frame name="leftbuttonbanner" noresize scrolling="no" src="buttons_left.html">
+			<frame name="contentarea" noresize scrolling="no" src="homepage.html">
+			<frame name="rightpagespacer" noresize scrolling="no" src="spacer.html">
+		</frameset>
+		<frame name="bottomspacer" noresize scrolling="no" src="spacer.html">
+		<noframes>
+
+			<body onload="CSScriptInit();" text="black" link="black" vlink="#666666" alink="#cccccc">
+				<p></p>
+			</body>
+
+		</noframes>
+	</frameset>
+
+</html>

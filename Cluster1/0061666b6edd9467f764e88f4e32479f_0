@@ -1,0 +1,98 @@
+<!-- URL: http://www.eversave.com/eversave/consumers/Optin.jsp?amp;ref=19149835&amp;zip=30291&amp;sourceid=2473 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 15:24:53 GMT -->
+<!-- Server: Apache -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 209.59.4.6:80 -->
+<!-- Set-Cookie: REGHOST=06c0a80a38; Domain=.eversave.com; Path=/ -->
+<!-- Set-Cookie: JSESSIONID=E1DEF9312BCA876F9ABFA9EC7A54D1FF.reg6; Path=/eversave -->
+
+<html>
+<body bgcolor="white"marginWidth="0"marginHeight="0" topmargin="0" leftmargin="0" >
+<head><title>Login</title></head>
+<form action="/eversave/consumers/Optin.jsp;jsessionid=E1DEF9312BCA876F9ABFA9EC7A54D1FF.reg6" name="loginform" method="post">
+<table border="0" cellpadding="0"cellspacing="0" width="100%">
+<tr>
+<td><table align="center" border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#b37b1a"><tr><td background="http://images.eversave.com/Images/navbar/BG_yellow.gif"><table border="0" cellpadding="0" cellspacing="0" height="115" width="100%"><tr><td rowspan="10" width="171"><img src="http://images.eversave.com/Images/navbar/woman1.jpg" height="116"  border="0"></td><td rowspan="10" align="left"><a href="/"><img src="http://images.eversave.com/Images/navbar/logo.gif" height="115" border="0"></a></td><td rowspan="10" width="30%"><img src="http://images.eversave.com/Images/navbar/spacer.gif" height="10"  border="0"></td><td><img src="http://images.eversave.com/Images/navbar/spacer.gif"  border="0" height="10" width="20%"></td></tr><tr><td rowspan="10" height="10"><img src="http://images.eversave.com/Images/navbar/spacer.gif" height="10" border="0"></td></tr></table></td></tr></table></td>
+</tr>
+</table>
+<table border="0" cellpadding="0"cellspacing="0" width="100%">
+<tr>
+<td valign="bottom" bgcolor="#57477">
+<a href=/>
+<img src="http://images.eversave.com/Images/button_home.gif "border="0"></a></td>
+</tr>
+<tr>
+<td height="30">&nbsp;</td>
+</tr>
+</table>
+<table border="0" cellpadding="2" cellspacing="2"width="400" align="center">
+<tr><td colspan="2">
+<font face="Arial,Helvetica,Sans-Serif"size="-1">
+We are sorry, but you are not currently logged in and your session<br>
+has expired.  The information on our Web site changes daily, so<br>
+please login below to reinitialize your session.<br><br>
+We will then attempt to get you to the page you originally requested.
+</font>
+</td>
+</tr>
+<tr>
+<td height="20">&nbsp;</td>
+</tr>
+<font face="Arial,Helvetica,Sans-Serif"size="-1">
+<tr><td><b>Email Address</b></td>
+<td>
+</font>
+<input type="text" name="emailaddress" value="">
+</td>
+</tr>
+<tr>
+<td>
+<font face="Arial,Helvetica,Sans-Serif"size="-1">
+<b>Password</b></td>
+<td>
+</font>
+<input type="password" name="password" value="">
+</td>
+</tr>
+<tr>
+<td colspan="2" height="20">&nbsp;</td>
+</tr>
+<tr><td colspan="2" align="center"><input type="submit"value="Login"></td>
+</tr>
+<tr>
+<td colspan="2" height="50">&nbsp;</td>
+</tr>
+</table>
+<table border="0" cellspacing="0"cellpadding="0" align="center">
+<tr>
+<td colspan="5" align="center">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td>
+<font face="Arial,Helvetica,Sans-Serif"size="-2"color="navy">
+Eversave.com&#153;</font></td>
+<td width="10">&nbsp;</td>
+<td>
+<font face="Arial,Helvetica,Sans-Serif"size="-2"color="navy">
+&copy;Copyright 1999 - 2005
+</font></td>
+<td width="10">&nbsp;</td>
+<td><font face="Arial,Helvetica,Sans-Serif"size="-2"color="navy">
+All rights reserved
+</font></td>
+</tr>
+<tr>
+<td colspan="3">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="5" height="100">&nbsp;</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+

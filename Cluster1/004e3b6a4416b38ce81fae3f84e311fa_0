@@ -1,0 +1,1677 @@
+<!-- URL: http://www.emedialive.com/newsletters/ -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Date: Thu, 29 Dec 2005 07:27:19 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Length: 88034 -->
+<!-- Content-Type: text/html; charset=utf-8 -->
+<!-- Client-Peer: 209.204.77.22:80 -->
+<!-- Link: <http://www.emedialive.com/Stylesheets/emedialive.css>; /="/"; rel="stylesheet" -->
+<!-- Set-Cookie: ASP.NET_SessionId=wdnjg045kepwedbowzhlky45; path=/ -->
+<!-- Title: EMediaLive.com -->
+<!-- X-AspNet-Version: 1.1.4322 -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+
+<html>
+	<head>
+		<title id="Template_TitleTag">EMediaLive.com</title>
+
+		<script language="JavaScript">
+		<!-- 
+			var nav = window.Event ? true : false; 
+			if (nav) { 
+				window.captureEvents(Event.KEYDOWN); 
+				window.onkeydown = NetscapeEventHandler_KeyDown;
+			} 
+			else {
+				document.onkeydown = MicrosoftEventHandler_KeyDown;
+			} 
+
+			function NetscapeEventHandler_KeyDown(e) {
+				if (e.which == 13 && e.target.type != 'textarea' && e.target.type != 'submit') {
+					//alert(e.target.name);
+					if (e.target.name == '_ctl0:_ctl4:txtQuery') {
+						document.location.href = 'http://www.emedialive.com/search/?Query=' + event.srcElement.value;
+					}
+					return false;
+				}
+				return true; 
+			} 
+
+			function MicrosoftEventHandler_KeyDown() {
+				if (event.keyCode == 13 && event.srcElement.type != 'textarea' && event.srcElement.type != 'submit') {
+					if (event.srcElement.name == '_ctl0:_ctl4:txtQuery') {
+						document.location.href = 'http://www.emedialive.com/search/?Query=' + event.srcElement.value;
+					}
+					return false;
+				}
+				return true; 
+		} 
+		//-->
+		</script> 
+
+		<link href="http://www.emedialive.com/Stylesheets/emedialive.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<form name="__aspnetForm" method="post" action="Default.aspx" id="__aspnetForm">
+<input type="hidden" name="__VIEWSTATE" value="dDwxMjcyMDM0NjU5OztsPFRlbXBsYXRlOl9jdGw0OmJ0blNlYXJjaDs+PmjZ2X3JCygL+vBTnvUuTmoGKXmT" />
+
+
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+			<tr>
+				<td>
+					<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td><a href="../"><img src="../Images/TemplateImages/section1.gif" alt="" border="0" /></a></td>
+					</tr>
+					</table>
+				</td>
+				<td width="100%">
+					<table cellspacing="0" cellpadding="0" width="100%">
+					<tr>
+						<td width="100%" height="19" background="http://www.emedialive.com/Images/TemplateImages/section14.gif"><img src="../Images/clear.gif" alt="" border="0" height="19" /></td>
+					</tr>
+					<tr>
+						<td height="66" align="center" background="http://www.emedialive.com/Images/TemplateImages/section13.gif">
+
+<!-- begin doubleclick 468x60 module -->
+<SCRIPT LANGUAGE="JavaScript">
+	ord=Math.random()*10000000000000000;
+	document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/emedialive.com/Newsletters;tile=1;sz=468x60;ord=' + ord + '?" width="468" height="60" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
+	document.write('<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=1;sz=468x60;abr=!ie4;abr=!ie5;ord=' + ord + '?">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=1;sz=468x60;abr=!ie4;abr=!ie5;ord=' + ord + '?" width="468" height="60" border=0 ALT=""></A>');
+	document.write('</IFRAME>');
+</SCRIPT>
+<NOSCRIPT>
+	<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=1;sz=468x60;ord=123456789?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=1;sz=468x60;ord=123456789?" WIDTH="468" HEIGHT="60" BORDER="0" ALT=""></A>
+</NOSCRIPT>
+<!-- end doubleclick 468x60 module -->
+
+</td>
+					</tr>
+					</table>
+				</td>
+				<td>
+					<table cellspacing="0" cellpadding="0">
+					<tr>
+						<td><img src="../Images/TemplateImages/section3.gif" alt="" border="0" height="85" width="32" /></td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+			</table>
+			<table cellspacing="0" cellpadding="0" width="100%" border="0">
+			<tr>
+				<td>
+					<table cellspacing="0" height="100%" cellpadding="0" border="0">
+					<tr>
+						<td width="27" height="18"><img width="27" height="18" src="http://www.emedialive.com/Images/TemplateImages/section4.gif"></td>
+						<td background="http://www.emedialive.com/Images/TemplateImages/section5.gif"></td>
+						<td height="18"><img src="http://www.emedialive.com/Images/TemplateImages/section6.gif"></td>
+						<td width="100%" colspan="2" background="http://www.emedialive.com/Images/TemplateImages/section7.gif"></td>
+						<td align="right" background="http://www.emedialive.com/Images/TemplateImages/section7.gif"><img src="http://www.emedialive.com/Images/TemplateImages/section8.gif"></td>
+					</tr>
+					<tr valign="top">
+						<td background="http://www.emedialive.com/Images/TemplateImages/section11.gif">
+							<img src="http://www.emedialive.com/Images/TemplateImages/section9.gif">
+						</td>
+						<td align="center" bgcolor="#F0F0EE">
+						
+							<table cellspacing="0" cellpadding="0">
+							<tr>
+								<td style="padding:5px 2px 5px 8px">
+<!-- begin search module -->
+
+<div style="font-size:11px;font-weight:bold;padding:0px 0px 4px 0px;">
+	Search EMediaLive
+</div>
+<table cellspacing="0" cellpadding="0" border="0">
+<tr>
+	<td><input name="Template:_ctl4:txtQuery" type="text" id="Template__ctl4_txtQuery" size="15" /></td>
+	<td><input type="image" name="Template:_ctl4:btnSearch" id="Template__ctl4_btnSearch" src="../Images/TemplateImages/gobutton.gif" alt="" border="0" /></td>
+</tr>
+</table>
+
+</td>
+							</tr>
+							<tr>
+								<td style="padding:5px 2px 5px 8px">
+
+<!-- begin categories module -->
+
+	<table cellspacing="0" cellpadding="0">
+	<tr>
+		<td style="font-size:11px;font-weight:bold;">
+			Research Center
+		</td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl1_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=28">CD-R/RW Drives</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl3_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=23">CD/DVD Duplication</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl5_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=25">CD/DVD Media</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl7_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=26">CD/DVD Printers</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl9_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=27">CD/DVD Replication</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl11_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=44">Copy Protection</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl13_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=42">Digital Audio</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl15_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=35">Displays</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl17_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=29">DVD Authoring Services</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl19_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=30">DVD Authoring Tools</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl21_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=67">HD & HDV</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl23_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=31">Networking Software</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl25_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=34">Packaging</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl27_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=38">Recording Software</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl29_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=46">Standards Issues</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl31_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=33">Storage</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl33_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=45">The DVD Market</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl35_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=39">Video Production Tools</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl37_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=32">Video Streaming and Streaming Codecs</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl39_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=66">Videography</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl41_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=47">White Papers</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl43_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=43">Workstations</a>
+		</td>
+	</tr>
+
+	<tr bgcolor="#bfbfbf">
+		<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+	</tr>
+
+	<tr>
+		<td style="padding:4px 0px 4px 0px;font-size:11px;">
+			<a id="Template__ctl5_rptCategories__ctl45_Category" href="http://www.emedialive.com/Categories/CategoryIndex.aspx?CategoryID=40">Writable DVD Drives</a>
+		</td>
+	</tr>
+
+	</table>
+
+<!-- end categories module -->
+
+</td>
+							</tr>
+							<tr>
+								<td align="center" style="padding:5px 0px 5px 8px">
+
+<!-- begin doubleclick 130x200 module -->
+<SCRIPT LANGUAGE="JavaScript">
+	ord=Math.random()*10000000000000000;
+	document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/emedialive.com/Newsletters;tile=3;sz=130x200;ord=' + ord + '?" width="130" height="200" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
+	document.write('<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=3;sz=130x200;abr=!ie4;abr=!ie5;ord=' + ord + '?">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=3;sz=130x200;abr=!ie4;abr=!ie5;ord=' + ord + '?" width="130" height="200" border=0 ALT=""></A>');
+	document.write('</IFRAME>');
+</SCRIPT>
+<NOSCRIPT>
+	<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=3;sz=130x200;ord=123456789?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=3;sz=130x200;ord=123456789?" WIDTH="130" HEIGHT="200" BORDER="0" ALT=""></A>
+</NOSCRIPT>
+<!-- end doubleclick 130x200 module -->
+
+</td>
+							</tr>
+							<tr>
+								<td style="padding:10px 2px 5px 8px">
+
+<!-- begin services module -->
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+	<td style="font-size:11px;font-weight:bold;">
+		Services
+	</td>
+</tr>
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="../Other/AboutEMediaLive.aspx">About EMediaLive.com</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="../Other/OnlineAdvertising.aspx">Online Advertising</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+
+
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="../Downloads/EMedia_EditorialCalendar_2004.pdf">Editorial Calendar</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="http://buyersguide.emedialive.com">Buyer's Guide</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="http://www.submag.com/sub/ea?tc=1&amp;pk=EMLIVE">Subscribe to Magazine</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="Default.aspx">Subscribe to Newsletter</a>
+	</td>
+</tr>
+</table>
+
+<table width="100%" cellspacing="0" cellpadding="0">
+<br>
+<tr>
+	<td style="font-size:11px;font-weight:bold;">
+		Other Related Sites
+	</td>
+</tr>
+
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="http://www.eventdv.net" target="_blank">EventDV.net</a>
+	</td>
+</tr>
+<tr bgcolor="#bfbfbf">
+	<td height="1"><img src="../Images/clear.gif" alt="" border="0" height="1" /></td>
+</tr>
+<tr>
+
+
+<tr>
+	<td style="padding:4px 0px 4px 0px;font-size:11px;">
+		<a href="http://www.streamingmedia.com" target="_blank">Streaming Media</a>
+	</td>
+</tr>
+</table>
+
+
+<!-- end services module --></td>
+							</tr>
+							<tr>
+								<td align="center" style="padding:5px 0px 5px 8px">
+
+<!-- begin doubleclick 125x125 module -->
+<SCRIPT LANGUAGE="JavaScript">
+	ord=Math.random()*10000000000000000;
+	document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/emedialive.com/Newsletters;tile=3;sz=125x125;ord=' + ord + '?" width="125" height="125" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
+	document.write('<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=3;sz=125x125;abr=!ie4;abr=!ie5;ord=' + ord + '?">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=3;sz=125x125;abr=!ie4;abr=!ie5;ord=' + ord + '?" width="125" height="125" border=0 ALT=""></A>');
+	document.write('</IFRAME>');
+</SCRIPT>
+<NOSCRIPT>
+	<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=3;sz=125x125;ord=123456789?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=3;sz=125x125;ord=123456789?" WIDTH="125" HEIGHT="125" BORDER="0" ALT=""></A>
+</NOSCRIPT>
+<!-- end doubleclick 125x125 module -->
+
+</td>
+							</tr>
+							</table>
+							
+						</td>
+						
+						<td background="http://www.emedialive.com/Images/TemplateImages/section12.gif">
+							<img src="http://www.emedialive.com/Images/TemplateImages/section10.gif">
+						</td>
+						<td rowspan="2" style="padding:10px 5px 5px 0px; font-size: 11px;" width="100%" height="100%">
+							
+	
+		<div align="center">
+			<img src="../Images/Newsletters/EMediaXtra_510x100.gif" alt="" border="0" />
+		</div>
+		<div class="readarticle_articlebody">
+						
+			<p>
+				<strong>EMedia Xtra</strong> is the weekly source for breaking news on all the 
+				technologies that converge in the digital studio. Each email issue covers everything 
+				from digital video capturing, editing, and encoding; DVD authoring, duplication, and
+				replication; LCD and CRT displays for video editing environments; and the latest 
+				mergers and acquisitions within the digital video and DVD industries. From raw 
+				footage to finished disc, this free weekly newsletter allows industry professionals 
+				to stay on top of breaking news as it's happening. 
+			</p>
+			<p>
+				Not available in concentrated form like this anywhere else, EMedia Xtra arrives with 
+				fresh and accurate news compiled and written by EMedia Editors. 
+			</p>
+
+			<div class="readarticle_separator"></div>
+
+			<p>
+			
+			
+				
+			<table align="center" cellspacing=5>
+			<tr> 
+				<td align=right><strong>Email Address:</strong></td>
+				<td align=left> 
+					
+					
+					<input name="Template:Address" type="text" id="Template_Address" size="40" />
+				</td>
+			</tr>
+			<tr>
+				<td colspan="2" align="center">
+					<input type="submit" name="Template:SubscribeButton" value="Subscribe" id="Template_SubscribeButton" />
+				</td>
+			</tr>
+			</table>
+				
+			<div class="readarticle_separator"></div>
+
+			<p>
+				
+					<table align="center">
+					<tr>
+						<td colspan="2" align="center"><b>Archived Issues of EMedia Xtra</td>
+					</tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl1_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=399">December 27, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl2_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=398">December 20, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl3_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=396">December 16, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl4_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=395">December 13, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl5_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=393">December 09, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl6_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=391">December 06, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl7_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=387">November 29, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl8_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=385">November 22, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl9_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=383">November 18, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl10_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=382">November 15, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl11_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=380">November 11, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl12_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=379">November 08, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl13_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=376">November 04, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl14_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=375">November 01, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl15_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=389">November 01, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl16_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=373">October 28, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl17_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=372">October 25, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl18_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=369">October 21, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl19_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=368">October 18, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl20_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=366">October 14, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl21_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=363">October 11, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl22_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=361">October 07, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl23_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=360">October 04, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl24_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=357">September 30, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl25_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=356">September 27, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl26_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=352">September 23, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl27_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=351">September 20, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl28_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=349">September 16, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl29_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=345">September 13, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl30_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=347">September 13, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl31_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=344">September 09, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl32_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=343">September 06, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl33_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=341">August 30, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl34_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=339">August 26, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl35_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=338">August 23, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl36_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=336">August 19, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl37_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=334">August 16, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl38_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=332">August 09, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl39_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=330">August 05, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl40_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=328">August 02, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl41_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=326">July 29, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl42_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=325">July 26, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl43_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=323">July 22, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl44_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=321">July 19, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl45_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=319">July 15, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl46_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=318">July 12, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl47_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=316">July 08, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl48_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=313">July 01, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl49_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=312">June 28, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl50_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=310">June 24, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl51_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=308">June 21, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl52_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=305">June 17, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl53_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=303">June 14, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl54_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=304">June 14, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl55_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=301">June 10, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl56_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=299">June 07, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl57_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=296">June 03, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl58_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=297">June 03, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl59_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=295">June 01, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl60_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=293">May 27, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl61_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=294">May 27, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl62_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=292">May 26, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl63_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=287">May 20, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl64_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=288">May 20, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl65_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=286">May 17, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl66_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=283">May 13, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl67_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=284">May 13, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl68_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=281">May 10, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl69_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=279">May 06, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl70_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=278">May 03, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl71_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=276">April 29, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl72_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=274">April 26, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl73_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=290">April 24, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl74_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=272">April 22, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl75_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=269">April 19, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl76_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=267">April 15, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl77_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=266">April 12, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl78_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=264">April 08, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl79_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=263">April 05, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl80_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=261">April 01, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl81_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=258">March 29, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl82_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=256">March 25, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl83_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=255">March 22, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl84_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=253">March 18, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl85_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=252">March 15, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl86_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=250">March 11, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl87_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=248">March 08, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl88_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=247">March 04, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl89_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=245">March 01, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl90_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=244">February 25, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl91_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=243">February 22, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl92_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=241">February 18, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl93_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=240">February 15, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl94_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=238">February 11, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl95_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=237">February 08, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl96_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=235">February 04, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl97_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=234">February 01, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl98_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=233">January 28, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl99_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=231">January 25, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl100_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=229">January 21, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl101_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=228">January 18, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl102_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=227">January 14, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl103_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=226">January 11, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl104_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=225">January 07, 2005</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl105_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=224">January 04, 2005</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl106_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=223">December 28, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl107_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=222">December 21, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl108_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=221">December 17, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl109_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=220">December 14, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl110_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=219">December 10, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl111_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=218">December 07, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl112_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=217">December 03, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl113_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=216">November 30, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl114_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=215">November 23, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl115_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=214">November 19, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl116_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=213">November 16, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl117_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=212">November 12, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl118_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=211">November 09, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl119_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=210">November 05, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl120_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=209">November 02, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl121_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=208">October 29, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl122_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=207">October 26, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl123_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=206">October 22, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl124_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=205">October 19, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl125_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=204">October 15, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl126_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=203">October 12, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl127_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=201">October 08, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl128_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=200">October 05, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl129_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=199">October 01, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl130_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=198">September 28, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl131_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=197">September 24, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl132_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=196">September 21, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl133_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=195">September 17, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl134_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=194">September 14, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl135_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=193">September 10, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl136_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=192">September 07, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl137_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=191">September 02, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl138_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=190">August 31, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl139_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=189">August 27, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl140_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=188">August 24, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl141_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=187">August 20, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl142_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=186">August 17, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl143_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=185">August 12, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl144_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=184">August 10, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl145_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=183">August 06, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl146_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=182">August 03, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl147_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=181">July 30, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl148_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=180">July 27, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl149_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=179">July 23, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl150_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=178">July 20, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl151_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=177">July 16, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl152_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=176">July 13, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl153_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=175">July 09, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl154_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=174">July 06, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl155_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=173">July 02, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl156_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=172">June 29, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl157_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=171">June 25, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl158_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=170">June 22, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl159_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=169">June 18, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl160_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=168">June 15, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl161_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=167">June 11, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl162_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=166">June 08, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl163_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=165">June 04, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl164_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=164">June 02, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl165_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=163">May 28, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl166_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=162">May 25, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl167_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=161">May 21, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl168_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=160">May 18, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl169_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=159">May 14, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl170_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=158">May 07, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl171_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=157">May 04, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl172_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=156">April 30, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl173_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=155">April 27, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl174_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=154">April 23, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl175_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=153">April 20, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl176_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=152">April 16, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl177_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=151">April 13, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl178_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=150">April 09, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl179_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=149">April 06, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl180_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=148">April 02, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl181_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=147">March 30, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl182_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=146">March 26, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl183_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=145">March 23, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl184_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=144">March 19, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl185_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=143">March 16, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl186_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=142">March 12, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl187_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=141">March 09, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl188_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=140">March 05, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl189_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=139">March 02, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl190_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=138">February 27, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl191_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=137">February 24, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl192_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=136">February 20, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl193_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=135">February 17, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl194_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=134">February 13, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl195_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=133">February 10, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl196_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=132">February 06, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl197_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=131">February 03, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl198_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=130">January 30, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl199_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=129">January 27, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl200_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=128">January 20, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl201_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=127">January 16, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl202_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=126">January 13, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl203_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=125">January 09, 2004</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl204_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=124">January 06, 2004</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl205_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=123">December 19, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl206_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=122">December 16, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl207_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=121">December 12, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl208_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=120">December 09, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl209_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=119">December 05, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl210_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=118">December 02, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl211_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=117">November 25, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl212_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=116">November 21, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl213_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=115">November 18, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl214_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=114">November 14, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl215_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=113">November 11, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl216_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=112">November 07, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl217_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=111">November 04, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl218_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=110">October 31, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl219_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=109">October 28, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl220_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=108">October 24, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl221_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=107">October 21, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl222_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=106">October 10, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl223_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=104">October 07, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl224_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=103">October 03, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl225_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=102">September 30, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl226_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=101">September 26, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl227_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=100">September 23, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl228_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=99">September 19, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl229_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=98">September 16, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl230_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=97">September 12, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl231_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=96">September 09, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl232_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=95">September 05, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl233_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=94">September 02, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl234_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=93">August 29, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl235_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=92">August 26, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl236_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=91">August 22, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl237_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=90">August 19, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl238_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=89">August 15, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl239_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=88">August 12, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl240_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=87">August 08, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl241_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=86">August 05, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl242_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=85">August 01, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl243_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=84">July 29, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl244_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=83">July 25, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl245_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=82">July 22, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl246_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=81">July 18, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl247_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=80">July 15, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl248_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=79">July 11, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl249_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=78">July 08, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl250_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=77">July 01, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl251_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=76">June 27, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl252_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=75">June 24, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl253_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=74">June 20, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl254_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=73">June 17, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl255_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=72">June 13, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl256_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=71">June 10, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl257_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=70">June 06, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl258_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=69">June 03, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl259_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=68">May 30, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl260_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=67">May 27, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl261_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=66">May 23, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl262_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=65">May 20, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl263_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=64">May 16, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl264_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=63">May 13, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl265_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=62">May 09, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl266_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=61">May 06, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl267_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=60">May 02, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl268_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=59">April 29, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl269_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=58">April 25, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl270_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=57">April 22, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl271_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=56">April 18, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl272_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=55">April 15, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl273_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=54">April 11, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl274_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=53">April 08, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl275_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=52">April 04, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl276_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=51">April 01, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl277_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=50">March 28, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl278_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=49">March 25, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl279_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=48">March 21, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl280_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=47">March 18, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl281_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=46">March 14, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl282_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=45">March 11, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl283_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=44">March 07, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl284_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=43">March 04, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl285_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=42">February 28, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl286_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=41">February 26, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl287_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=40">February 25, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl288_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=39">February 21, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl289_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=38">February 18, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl290_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=37">February 14, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl291_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=36">February 11, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl292_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=35">February 07, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl293_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=34">February 05, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl294_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=33">February 04, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl295_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=32">January 31, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl296_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=31">January 28, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl297_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=30">January 24, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl298_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=29">January 21, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl299_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=28">January 17, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl300_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=27">January 14, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl301_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=26">January 10, 2003</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl302_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=25">January 07, 2003</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl303_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=24">December 20, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl304_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=23">December 17, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl305_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=22">December 13, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl306_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=21">December 10, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl307_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=20">December 06, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl308_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=19">December 03, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl309_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=18">November 26, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl310_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=17">November 22, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl311_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=16">November 19, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl312_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=15">November 15, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl313_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=14">November 12, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl314_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=13">November 08, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl315_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=12">November 05, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl316_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=11">November 01, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl317_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=10">October 29, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl318_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=9">October 22, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl319_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=8">October 18, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl320_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=7">October 15, 2002</a></td>
+					<tr>
+				
+					<tr>
+						<td align="center" style="padding-right: 20px;"><a id="Template_rptXtras__ctl321_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=6">October 11, 2002</a></td>
+				
+						<td align="center" style="padding-left: 20px;"><a id="Template_rptXtras__ctl322_Xtra" href="/Newsletters/EMediaXtra.aspx?NewsletterID=5">October 09, 2002</a></td>
+					<tr>
+				
+					</table>
+				
+			</p>
+			
+	
+						</td>
+							<!-- Space between Body and right Images -->
+							<td>&nbsp;&nbsp;</td>
+						<td align="center" rowspan="3">
+							
+
+<!-- begin doubleclick 130x600 module -->
+<SCRIPT LANGUAGE="JavaScript">
+	ord=Math.random()*10000000000000000;
+	document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/emedialive.com/Newsletters;tile=2;sz=120x600;ord=' + ord + '?" width="120" height="600" frameborder="no" border="0" MARGINWIDTH="0" MARGINHEIGHT="0" SCROLLING="no">');
+	document.write('<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=2;sz=120x600;abr=!ie4;abr=!ie5;ord=' + ord + '?">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=2;sz=120x600;abr=!ie4;abr=!ie5;ord=' + ord + '?" width="120" height="600" border=0 ALT=""></A>');
+	document.write('</IFRAME>');
+</SCRIPT>
+<NOSCRIPT>
+	<A HREF="http://ad.doubleclick.net/jump/emedialive.com/Newsletters;tile=2;sz=120x600;ord=123456789?" TARGET="_blank"><IMG SRC="http://ad.doubleclick.net/ad/emedialive.com/Newsletters;tile=2;sz=120x600;ord=123456789?" WIDTH="120" HEIGHT="600" BORDER="0" ALT=""></A>
+</NOSCRIPT>
+<!-- end doubleclick 130x60 module -->
+
+
+
+							<div style="padding: 0px 0px 0px 0px">&nbsp;</div>
+							
+
+<!-- begin demoroom scraper -->
+
+
+	<table cellspacing="0" cellpadding="3" bgcolor="#000000">
+	<tr>
+		<td align="center">
+			<a href="http://tracking.onlineinc.com/sponsorhit.aspx?sponsorship_id=2275"><img src="../showcase/emLVshowcase.gif" alt="" border="0" /></a><br><Br><div align=center><font color=white>ENTER HERE!</font></div>
+		</td>
+	</tr>
+
+	</table>
+
+
+<!-- end demoroom scraper -->
+
+
+						</td>
+					</tr>
+					<tr>
+						<td background="http://www.emedialive.com/Images/TemplateImages/section11.gif"></td>
+						<td bgcolor="#F0F0EE"></td>
+						<td background="http://www.emedialive.com/Images/TemplateImages/section12.gif"></td>
+					</tr>
+					<tr>
+						<td background="http://www.emedialive.com/Images/TemplateImages/section11.gif"></td>
+						<td bgcolor="#F0F0EE"></td>
+						<td background="http://www.emedialive.com/Images/TemplateImages/section12.gif"></td>
+						<td style="padding-right:5px">
+							
+		<table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<tr>
+		<!--	<td><img src="../Images/TemplateImages/ArticleLists/leftside.gif" alt="" border="0" height="28" width="12" /></td>
+			<td width="100%" style="padding: 4px 0px 0px 0px; font-size: 12px; font-weight: bold; white-space: nowrap; background: #FFCC66; color: #006894;"><span id="Template__ctl11__ctl0_rptTextLinks__ctl0_CaptionText">SPONSORED LINKS</span></td>
+			<td class="default_captionbracket"><img src="../Images/TemplateImages/ArticleLists/rightside.gif" alt="" border="0" height="28" width="12" /></td>
+		
+		-->
+		
+			<!-- changed by NB to put the gif file instead of text at sponsored links at the bottom of the page -->
+			 <td><img src="../Images/TemplateImages/ArticleLists/infotodayspecials.gif" alt="" border="0" /><hr></td> 
+		
+		</tr>
+		</table>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl1_TextLink" href="http://www.mfdigital.com">DVD Duplication Equipment, DVD Duplicator, DVD  Printer, by MF Digital</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl2_TextLink" href="http://www.primera.com ">Primera Technology - DVD Duplicators CD Duplication and Disc Printers</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl3_TextLink" href="http://www.octave.com/">DVD Duplicators and CD Duplication Equipment at Octave</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl4_TextLink" href="http://www.mediatechnics.com">MEDIATECHNICS Production DVD / CD Duplication Systems</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl5_TextLink" href="http://www.proactionmedia.com">ProAction Media - The CD / DVD Duplication Service and Equipment Pros</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl6_TextLink" href="http://www.cdrom2go.com">CD / DVD Duplication Service and CD / DVD Duplicator Equipment</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl7_TextLink" href="http://www.summationtechnology.com">CD Duplication DVD Duplicators CD Printers by Rimage Primera - Summation</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl8_TextLink" href="http://www.discmakers.com/duplicators">DVD duplicators, CD duplication by Disc Makers</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl9_TextLink" href="http://www.onlinelabels.com">Laser Labels - CD Labels - Address Labels</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl10_TextLink" href="http://www.primerastore.com">Buy CD and DVD media, ink, accessories, and other supplies for your duplication equipment at Primerastore.com</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl11_TextLink" href="http://www.cd-writer.com">DVD duplicator, CD printer and DVD / CD copier machines from StorDigital</a>
+		</div>
+	
+		<div style="padding: 6px 3px 0px 3px; font-weight: bold; font-size:11px;">
+			<a id="Template__ctl11__ctl0_rptTextLinks__ctl12_TextLink" href="http://www.discnow.com">Fast, Accurate CD and DVD Duplication Services from DiscNow</a>
+		</div>
+	
+		<div>&nbsp;</div>
+	
+
+						</td>
+					</tr>
+					</table>
+				</td>
+			</tr>
+			</table>
+			
+		</form>
+
+		<SCRIPT LANGUAGE="JavaScript">
+			ord=Math.random()*10000000000000000;
+			document.write('<LAYER SRC="http://ad.doubleclick.net/adl/Emedialive.com/Newsletters;tile=1;sz=468x60;ord=' + ord + '?" width="468" height="60" visibility="hidden" onLoad="moveToAbsolute(layer1.pageX,layer1.pageY);clip.width=468;clip.height=60;visibility=\'show\';"></LAYER>');
+			document.write('<LAYER SRC="http://ad.doubleclick.net/adl/emedialive.com/Newsletters;tile=2;sz=120x600;ord=' + ord + '?" width="120" height="600" visibility="hidden" onLoad="moveToAbsolute(layer2.pageX,layer2.pageY);clip.width=120;clip.height=600;visibility=\'show\';"></LAYER>');
+			document.write('<LAYER SRC="http://ad.doubleclick.net/adl/emedialive.com/Newsletters;tile=3;sz=130x200;ord=' + ord + '?" width="130" height="200" visibility="hidden" onLoad="moveToAbsolute(layer3.pageX,layer3.pageY);clip.width=130;clip.height=200;visibility=\'show\';"></LAYER>');
+		</SCRIPT>
+
+	</body>
+</html>
+
+
+

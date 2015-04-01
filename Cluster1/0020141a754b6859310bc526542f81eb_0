@@ -1,0 +1,22 @@
+<!-- URL: http://xiediiow1.pimpstars.com/p/p.php -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Wed, 28 Dec 2005 07:44:11 GMT -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 310 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 64.225.154.135:80 -->
+<!-- Refresh: 0; URL=http://lb1.youbettersearch.com/index/Site=eGllZGlpb3cxLnBpbXBzdGFycy5jb20%3D -->
+<!-- Set-Cookie: ASPSESSIONIDACADARTR=KEMDHBBBINLFBAJDFGKNHNCJ; path=/ -->
+<!-- X-Powered-By: ASP.NET -->
+
+
+<SCRIPT LANGUAGE="javascript">
+{
+var strTemp;
+strTemp = "http://lb1.youbettersearch.com/index/Site=eGllZGlpb3cxLnBpbXBzdGFycy5jb20%3D";
+top.location.replace(strTemp);
+}
+</SCRIPT>
+<meta http-equiv=Refresh content="0; URL=http://lb1.youbettersearch.com/index/Site=eGllZGlpb3cxLnBpbXBzdGFycy5jb20%3D"> 

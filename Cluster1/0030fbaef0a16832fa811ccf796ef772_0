@@ -1,0 +1,634 @@
+<!-- URL: http://www.wnd.com/resources/mailingList.asp -->
+<!-- HTTP/1.0 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: close -->
+<!-- Date: Thu, 29 Dec 2005 21:09:28 GMT -->
+<!-- Pragma: no-cache -->
+<!-- Server: Microsoft-IIS/6.0 -->
+<!-- Content-Length: 21121 -->
+<!-- Content-Type: text/html -->
+<!-- Client-Peer: 70.84.155.164:80 -->
+<!-- Set-Cookie: ASPSESSIONIDASQTSTRS=FBMOEDOBAAJHJHPONEJAOGEJ; path=/ -->
+<!-- Title:  -->
+<!-- X-Cache: MISS from www.wnd.com -->
+<!-- X-Meta-Description: WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy of the personal information you provide us on our sites. -->
+<!-- X-Meta-Keywords: WorldNetDaily.com, exclusive, opinion, news, politic, media, Farah, internet,Washington D.C. -->
+<!-- X-Powered-By: ASP.NET -->
+
+<!-- start functions -->
+<!-- start globals2 -->
+<!-- this is the new server -->
+
+
+
+<!-- end globals2 -->
+
+
+
+
+
+
+
+
+<!-- end functions -->
+
+
+
+<html>
+<head>
+<title></title>
+<META name="description" content="WorldNetDaily.com (WorldNetDaily.com, Inc.) respects your right to the privacy of the personal information you provide us on our sites.">
+<META name="keywords" content="WorldNetDaily.com, exclusive, opinion, news, politic, media, Farah, internet,Washington D.C.">
+<META HTTP-EQUIV="Pragma" CONTENT="no-cache">
+
+<SCRIPT TYPE="text/javascript">
+<!--
+function isEmailAddr(email)
+{
+  var result = false
+  var theStr = new String(email)
+  var index = theStr.indexOf("@");
+  if (index > 0)
+  {
+    var pindex = theStr.indexOf(".",index);
+    if ((pindex > index+1) && (theStr.length > pindex+1))
+	result = true;
+  }
+  return result;
+}
+
+
+function popup(mylink, windowname)
+{
+if (! window.focus)return true;
+var href;
+if (typeof(mylink) == 'string')
+   href=mylink;
+else
+   href=mylink.href;
+window.open(href, windowname, 'width=356,height=446,scrollbars=yes');
+return false;
+}
+
+function SubmitForm(theform)
+{
+if ((theform.EMAIL_ADDRESS.value == '') || (theform.EMAIL_ADDRESS.value == null))
+{
+   alert("You must enter an email address.")
+   theform.EMAIL_ADDRESS.focus()
+   theform.EMAIL_ADDRESS.select()
+   return false
+}
+  if (!isEmailAddr(theform.EMAIL_ADDRESS.value))
+  {
+    alert("Please enter a complete email address in the form: yourname@yourdomain.com");
+    theform.EMAIL_ADDRESS.focus();
+    return false;
+  }
+if (theform.REQUEST_TYPE[0].checked)
+   {
+	if ((theform.FIRST_NAME.value == '') || (theform.FIRST_NAME.value == null))
+	{
+	   alert("Please enter your first name.")
+	   theform.FIRST_NAME.focus()
+	   theform.FIRST_NAME.select()
+	   return false
+	}
+	if ((theform.LAST_NAME.value == '') || (theform.LAST_NAME.value == null))
+	{
+	   alert("Please enter your last name.")
+	   theform.LAST_NAME.focus()
+	   theform.LAST_NAME.select()
+	   return false
+	}
+   }
+return true
+}
+//-->
+</SCRIPT>
+
+
+</head>
+
+<body bgcolor="#ffffff" link="#002288" vlink="777777">
+
+
+
+<table border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="126" align="center" bgcolor="#FFFFFF"><a href="/"><img src="/images/WND.logo.116x19.gif" width="116" height="19" border="0" alt="WorldNetDaily" vspace="8"></a></td>
+<td width="5">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336">&nbsp;</td>
+<td width="120">&nbsp;</td>
+<td width="16">&nbsp;</td>
+</tr>
+<tr bgcolor="#000000" align="center" valign="middle">
+<td width="126" align="center" bgcolor="#000000">&nbsp;</td>
+<td width="5">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336">
+<img src="/images/nav_top.gif" width="345" height="16" usemap="#navtop" border="0">
+</td>
+<td width="120">&nbsp;</td>
+<td width="16">&nbsp;</td>
+</tr>
+<tr>
+<td width="126" align="center" bgcolor="efefef">&nbsp;</td>
+<td width="5">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336">&nbsp;</td>
+<td width="120" bgcolor="#FF0000">&nbsp;</td>
+<td width="16" bgcolor="#FF0000">&nbsp;</td>
+</tr>
+<tr>
+<td width="126" align="center" bgcolor="efefef">
+<font color="#000000" face="Verdana, Arial, Helvetica, sans-serif" size="1">
+
+THURSDAY<br>
+DECEMBER 29<br>
+2005
+
+</font>
+</td>
+<td width="5">&nbsp;</td>
+<td colspan="3" align="right">
+
+<!-- INTERMARKETS BANNER AD CODE START -->
+<!-- (C) 2003 INTERMARKETS, INC. -->
+<!-- FOR MORE INFORMATION, OR TO ADVERTISE ON THIS SITE, PLEASE VISIT WWW.INTERMARKETS.NET -->
+<!-- TF 468x60 JScript HORIZ code -->
+<center>
+<script language="JavaScript">
+<!--
+
+function SymError()
+{
+  return true;
+}
+
+window.onerror = SymError;
+
+//-->
+</script>
+
+<script language=javascript><!--
+document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=WorldNetDaily&adSpace=ROS&size=468x60&type=horiz&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
+//-->
+</script>
+<noscript>
+   <a href="http://a.tribalfusion.com/i.click?site=WorldNetDaily&adSpace=ROS&size=468x60&requestID=587119135" target=_blank>
+   <img src="http://a.tribalfusion.com/i.ad?site=WorldNetDaily&adSpace=ROS&size=468x60&requestID=587119135" 
+                  width=468 height=60 border=0 alt="Click Here"></a>
+</noscript>
+</center>
+<!-- INTERMARKETS BANNER AD CODE END -->
+
+</td>
+<td width="16" bgcolor="#FF0000">&nbsp;</td>
+</tr>
+<tr>
+<td width="126" align="center" bgcolor="efefef">&nbsp;</td>
+<td width="5"> &nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336">&nbsp;</td>
+<td width="120" bgcolor="#FF0000">&nbsp;</td>
+<td width="16" bgcolor="#FF0000">&nbsp;</td>
+</tr>
+
+<tr valign="top">
+<td width="126" align="center"  bgcolor="efefef"> <br><br><br>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="100">
+<tr align="center" valign="top">
+<td>
+
+<a href="http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=15&CampaignID=158&AdvertiserID=100&BannerID=447&SiteID=1&RandomNumber=9817" target="_top"><img src="http://ads.wnd.com/adbanners/G2-know-b4-itsnews-f-125.gif"  width="125" height="125" alt="" align="Center" border="0"></a><br><br>
+
+</td>
+</tr>
+</table>
+
+<!-- left nav -->
+
+
+<p><table width="100%" cellpadding="2" cellspacing="1" border="0"><tr bgcolor="#CCCCCC"><td>
+
+
+
+
+<a href="http://shop.wnd.com/store/default.asp" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;ShopNetDaily</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://www.wnd.com/resources/mailingList.asp" style="text-decoration: none"><font face="verdana,sans-serif" color="RED"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Free News Alerts!</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Page 1 News</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/page2.asp" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Page 2 News</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/video/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;VideoNetDaily</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://g2.wnd.com/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1><nobr><b>&nbsp;&nbsp;G2 Bulletin</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/biznetdaily" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1><nobr><b>&nbsp;&nbsp;BizNetDaily</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/localnetdaily/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;LocalNetDaily</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/commentary.asp" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Commentary</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/classifieds/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Classified Ads</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="/letters.asp" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Letters</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://healthology.worldnetdaily.com/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Health</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://www.accuweather.com/adcbin/index?partner=WNDAILY" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Weather</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://www.tvguide.com" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;TV Guide</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://wnd.favestreet.com" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;MusicNetDaily</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+
+<a href="http://www.fandango.com/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Movies</b></nobr></a></td></tr><tr bgcolor="#CCCCCC"><td>
+
+<a href="http://www.investors.com/" style="text-decoration: none"><font face="verdana,sans-serif" color="#333365"><font size=-1>
+<nobr><b>&nbsp;&nbsp;Stocks</b></nobr></a></font></td>
+
+</tr>
+</table>
+<p>
+
+<!-- end left nav -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0" height="400">
+<tr valign="bottom" align="center">
+<td>
+
+<a href="http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=20&CampaignID=157&AdvertiserID=51&BannerID=743&SiteID=1&RandomNumber=47262" target="_top"><img src="http://www.worldnetdaily.com/adbanners/VOM2.gif"  width="120" height="240" alt="" align="Center" border="0"></a><br>
+
+</td>
+</tr>
+<tr valign="bottom" align="center">
+<td>
+</td>
+</tr>
+</table>
+
+
+</td>
+<td width="5">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336">
+
+<!-- begin pfv -->
+
+
+
+<hr noshade size="1">
+<img src="/images/sthdWNDrepak72x20.gif" width="72" height="20" alt="WorldNetDaily">
+<hr noshade size="1">
+
+<font face="Verdana, Arial, Helvetica, sans-serif" color= "#440000"size="-1"> <b>HOW TO STAY INFORMED</b></font> <br>
+<font face="book antiqua, palatino, times new roman, georgia, times" size="+2">
+Sign up for E-mail alerts<br>
+from WND -- it's free</font><br>
+
+<hr size="1"><br>
+
+<font face="book antiqua, palatino, times new roman, georgia, times">
+
+<p>Subscribe to WorldNetDaily's E-mail alert list and you'll never worry about
+missing the hottest stories on the Internet.
+
+
+<p>Your e-mail address and postal address will not be sold or abused, but
+we'll keep you up-to-date on the latest news, special offers and inside
+scoops from your favorite news source.
+
+<p>So, what do you have to lose?
+
+
+
+
+<!-- begin bodytext -->
+
+<p>
+<table width="374" border="0" cellspacing="0" cellpadding="8">
+<tr bgcolor="EFEFEF">
+<td width="352">
+<table border="0" cellspacing="4" cellpadding="0">
+<tr bgcolor="#EFEFEF">
+<td align="right" valign="top" width="133">
+<div align="right"><img src="/images/WND.logo.116x19.trans.gif" width="116" height="19" hspace="8" vspace="8"></div>
+</td>
+<td width="218" >
+<p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#CC0000">
+<b>HAVE YOU SIGNED UP FOR WND's<br>
+E-MAIL ALERTS?</b><br></font>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<tr bgcolor='#EFEFEF' align='left'>
+<td valign='top' width='339' colspan='3'><font face='Verdana, Arial, Helvetica, sans-serif' size='1'><br>
+
+Subscribe to WorldNetDaily's E-mail alert list, and you'll never worry about missing the hottest stories on the Internet.
+
+<p>There's no charge. So sign up today!
+
+</td>
+</tr>
+</table>
+
+
+
+<form action="http://66.201.46.115/resources/mailingList-process.asp" method="post" OnSubmit="return SubmitForm(this);">
+
+<table border="0" cellspacing="0" cellpadding="1" bgcolor="#EFEFEF" width="361">
+<tr>
+<td align="left"  nowrap><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+Your E-mail Address:</font></td>
+            <td colspan="2" width="262"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+&nbsp;&nbsp;
+<br> <input type="text" name="EMAIL_ADDRESS" size="24" maxlength="50" value=""></font></td></tr>
+<tr>
+<td align="left" ><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+Your First Name:</font></td>
+            <td colspan="2" width="262"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+&nbsp;&nbsp;
+<br> <input type="text" name="FIRST_NAME" size="24" maxlength="60" value="">
+</font></td>
+</tr>
+<tr>
+<td align="left" ><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+Your Last Name:</font></td>
+            <td colspan="2" width="262"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+&nbsp;&nbsp;
+<br> <input type="text" name="LAST_NAME" size="24" maxlength="60" value="">
+</font></td>
+</tr>
+<tr>
+<td align="left" width="95"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+<input type="radio" name="REQUEST_TYPE" value="SUBSCRIBE" checked>
+Subscribe <br>
+              </font> <font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#006666">
+<br>
+<input type="radio" name="REQUEST_TYPE" value="UNSUBSCRIBE">
+Unsubscribe <br>
+</font> <br>
+<input type="hidden" name="incentive" value="free WND bumper sticker">
+<p>&nbsp;
+</td>
+<td colspan="2" width="262">
+<table width="100%" border="0" cellpadding="12">
+<tr>
+<td>
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">Please note: Your privacy is important to us. Any information which you may furnish in conjunction with this offer will be used for absolutely no other purpose whatsoever. See our <a href="/resources/privacy.asp" target="_blank">privacy policy</a> for more information.<br>
+</font> </td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align="center" width="95">
+<input type="submit" name="OK" value="Sign Me Up!">
+</td>
+<td colspan="2" width="262">&nbsp;</td>
+</tr>
+</table>
+</form>
+
+
+</td>
+</tr>
+</table>
+
+<!-- end bodytext -->
+
+<!-- end pfv -->
+
+</font>
+
+</td>
+<td width="136" colspan = "2" valign="top">&nbsp;<br>
+
+
+
+<table width="100%" border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td><img src="/images/shim.gif" width=1 height=200 align=left></td>
+</tr>
+<tr>
+<td><img src="/images/shim.gif" width=1 height=50 align=left hspace=6></td>
+<td>
+
+<table border=0 cellspacing=0 cellpadding=0>
+<tr>
+<td colspan=2><img src="/images/wnd_today_highlights.gif" width=116 height=20></td>
+</tr>
+<tr>
+<td colspan=2><font face="Verdana, Arial, Helvetica, sans-serif" size=2><b>NEWS:</b></font></td>
+</tr>
+<tr>
+<td colspan=2><hr size=1 noshade></td>
+</tr>
+<!-- Start Dynamic Headlines Content here -->
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48104"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Lebanese leader claims Syria blackmailing U.S.</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48107"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Judges asked to rethink 'Islamic-indoctrination'</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48106"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>ABC News airs 'female pope' claim</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48096"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Group protests NBC's dysfunctional 'Christians'</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48105"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>'Farah Live' talks war</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48109"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Getting rich really quick: $1 from every American</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48103"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Most Americans back Bush-ordered wiretaps</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48097"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Funniest news stories of 2005</b></font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+
+<!-- End Headlines Dynamic -->
+<td colspan=2><font face="Verdana, Arial, Helvetica, sans-serif" size=2><b>COMMENTARY:</b></font></td>
+</tr>
+<tr>
+<td colspan=2><hr size=1 noshade></td>
+</tr>
+<!-- Put Commentary here -->
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48112"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Get ready for impeachment</b><br>By William Rusher</font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48110"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Kwanzaa: A holiday from the FBI</b><br>By Ann Coulter</font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><a href="/news/article.asp?ARTICLE_ID=48111"><img src="/images/arrow.gif" width=17 height=13 hspace=2 border=0></a></td>
+<td><font face="Verdana, Arial, Helvetica, sans-serif" size=1 color="#003366"><b>Gun violence in Toronto: 'It's America's fault'</b><br>By Hal Lindsey</font></td>
+</tr>
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+
+
+
+<!-- End Dynamic here -->
+<tr>
+<td colspan=2>&nbsp;</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+
+
+</td>
+</tr>
+<tr>
+<td width="126" align="center" bgcolor="efefef">&nbsp;
+</td>
+<td width="5">&nbsp;</td>
+<td colspan="3" align="center">
+<br><hr noshade size=1>
+
+<a href="http://www.worldnetdaily.com/admin/ads/banman.asp?Task=Click&ZoneID=18&CampaignID=349&AdvertiserID=188&BannerID=814&SiteID=1&RandomNumber=34927" target="_top"><img src="http://www.worldnetdaily.com/adbanners/CareNet-468x60.gif"  width="468" height="60" alt="" align="Center" border="0"></a><br>
+
+<br><font face="Palatino, Georgia, Times New Roman, Times, serif" size="1">
+
+<p><a href="/">GO TO PAGE 1</a> |
+<a href="/page2.asp">GO TO PAGE 2</a> |
+<a href="/commentary.asp">GO TO COMMENTARY</a> <BR><BR>
+<a href="/search.asp">SEARCH WND</a> |
+<a href="/contact.asp">CONTACT WND</a></font>
+</td>
+
+<td width="16">&nbsp;</td>
+</tr>
+<tr>
+<td width="126" align="center" bgcolor="efefef"> &nbsp; </td>
+<td width="5">&nbsp;</td>
+<td width="12">&nbsp;</td>
+<td width="336" colspan ="2" align="center">
+
+
+
+
+
+<table border="0" bgcolor="#ffffff" width="100%" cellpadding="4">
+<tr>
+<td align="center" colspan=3>
+<font face="verdana,arial,sans-serif" color="brown" size=1><b>
+<a href="/">Page 1</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/page2.asp">Page 2</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/commentary.asp">Commentary</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/biznetdaily">BizNetDaily</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="http://www.g2bulletin.com">G2 Bulletin</a>
+<br><br>
+<img src="/images/page1/wnd_logo.gif" border=0>
+<br><br>
+<a href="/resources/about_WND.asp">About Us</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#">Terms of Use</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/resources/privacy.asp">Privacy</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="/contactwnd.asp">Contact Us</a>
+</td>
+</tr>
+<tr>
+	<td><!--- icra ----><img src="/images/icra.jpg" border=0></td>
+	<td align="center"><font size=2>
+	Copyright 1997-2005<br>
+	All Rights Reserved. WorldNetDaily.com Inc.
+	</td>
+	<td align="right"><!---- trust -----><img src="/images/truste.jpg" border=0></td>
+</tr>
+</table>
+
+
+</td>
+<td width="16">&nbsp;</td>
+</tr>
+</table>
+
+<map name="navtop">
+<area shape="rect" coords="27,1,70,15" href="/">
+<area shape="rect" coords="74,1,115,15" href="/page2.asp">
+<area shape="rect" coords="122,1,196,15" href="/commentary.asp">
+<area shape="rect" coords="203,0,251,15" href="/search.asp">
+<area shape="rect" coords="258,0,336,16" href="/contact.asp">
+</map>
+
+</body>
+
+</html>

@@ -1,0 +1,55 @@
+<!-- URL: http://www.5i58.net/diary.asp?id=6 -->
+<!-- HTTP/1.1 200 OK -->
+<!-- Cache-Control: private -->
+<!-- Connection: Keep-Alive -->
+<!-- Date: Wed, 28 Dec 2005 04:53:24 GMT -->
+<!-- Server: Microsoft-IIS/5.0 -->
+<!-- Content-Language: zh-cn -->
+<!-- Content-Length: 1485 -->
+<!-- Content-Type: text/html -->
+<!-- Content-Type: text/html; charset=gb2312 -->
+<!-- Client-Peer: 211.156.32.70:80 -->
+<!-- Set-Cookie: ASPSESSIONIDQQQQABSD=NLFEOLEDCAOCGOABOCALGDFB; path=/ -->
+<!-- Title: admin的Flash日记本 Flash留言本 -- 我爱日记www.5irj.com打造中国最酷免费日记本 -->
+<!-- X-Meta-Description: Flash日记本 Flash留言本 免费日记本 -- 我爱日记www.5irj.com 中国最酷免费日记本 -->
+<!-- X-Meta-Keywords: Flash日记本 Flash留言本 免费日记本 -- 我爱日记www.5irj.com 中国最酷免费日记本 -->
+
+
+<html>
+<head>
+<META http-equiv=Content-Language content=zh-cn>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<META NAME="Keywords" CONTENT="Flash日记本 Flash留言本 免费日记本 -- 我爱日记www.5irj.com 中国最酷免费日记本">
+<META NAME="Description" CONTENT="Flash日记本 Flash留言本 免费日记本 -- 我爱日记www.5irj.com 中国最酷免费日记本">
+<title>admin的Flash日记本 Flash留言本 -- 我爱日记www.5irj.com打造中国最酷免费日记本</title>
+
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+</style>
+<script language="javascript">
+<!--
+var boodschap='如果你喜欢本站,别忘了把本站的网址 我爱日记 www.5irj.com 告诉给你QQ上的朋友哦!,谢谢你的支持!';
+function dgstatus(){
+window.status=boodschap;
+timerID=setTimeout("dgstatus()", 10000);}
+function News_Window(theURL,winName,features){window.open(theURL,winName,features);}
+-->
+</script>
+</head>
+
+<body onLoad="dgstatus();">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="970" height="606">
+  <param name="movie" value="daybook.swf">
+  <param name="quality" value="high">
+  <param name="menu" value="false">
+  <embed src="daybook.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="970" height="606"></embed>
+</object>
+</body>
+</html>
