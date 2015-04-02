@@ -25,6 +25,6 @@ Step 2: SpamDetection.java is the main file if you are testing for a single URL.
 <br>
 Step 3: Enter the URL 
 <br>
-<img scr="/screenshot/screenshot1.png">
+<img scr="screenshot1.png">
 <br>
  
