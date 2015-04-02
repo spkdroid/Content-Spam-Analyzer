@@ -36,7 +36,6 @@ public class SpamTestCalc {
 	     
 	     File fr=new File("500pop.txt");
 	        BufferedReader br1 = new BufferedReader(new FileReader(fr.getAbsoluteFile()));
-	        ;
 	        while ( (line=br1.readLine()) != null) {
 	        in.add(line.trim());
 	        }   
