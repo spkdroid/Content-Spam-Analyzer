@@ -17,7 +17,7 @@ Based on the score you can have an idea about weather the give page is spam or n
 We are working on Naive Bayes Model for the prediction part which will be updated soon.
 
 
-<h2>How to Use to Run the Program</h2>
+<h2>How to Run the Program</h2>
 <br>
 Step 1: Import the project into Eclipse
 <br>
