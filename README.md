@@ -22,7 +22,8 @@ before running the program
 
 
 
-We are working on Naive Bayes Model for the prediction part which will be updated soon.
+We are working on Naive Bayes Model for the prediction part for detection of the given page is spam or not.We are working on the GUI.Please feel free to use this part of code if you want in your tool.
+
 
 
 <h2>How to Run the Program</h2>
