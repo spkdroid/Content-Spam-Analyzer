@@ -1,6 +1,6 @@
 # Content-Spam-Analyzer
 
-<h4>Content Spam Analyzer is a tool that rates a web page based on following attributes using the content present inside it</h4>
+<h4>Content Spam Analyzer is a tool that rates a web page based on following attributes</h4>
 
 1) Word Count <br>
 2) Number of Anchor Tags<br>
@@ -10,9 +10,17 @@
 6) Popular Word Ratio<br>
 7) Average Word Length.<br>
 
-Based on the 7 Test that is performed by the page our analyzer program will give a score back to you.
+Based on the 7 parameters that has been shown above.Our program will test the webpage when the URL of the webpage is given. 
+After completing the test the program will output the rating score back to the user.
 
-Based on the score you can have an idea about weather the give page is spam or not.
+<br>
+To Process One Single File Just Create an Object for the SpamDetection.java file in your project and start invoking the method inside it.
+<br>
+If your project Requirement needs Bulk processing of webpages.Please use the SpamTestCalc.java and make sure that you need to mention the folder location
+before running the program
+<br>
+
+
 
 We are working on Naive Bayes Model for the prediction part which will be updated soon.
 
@@ -25,6 +33,5 @@ Step 2: SpamDetection.java is the main file if you are testing for a single URL.
 <br>
 Step 3: Enter the URL 
 <br>
-<img scr="screenshot1.png">
 <br>
  
