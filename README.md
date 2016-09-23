@@ -1,7 +1,8 @@
 # Content-Spam-Analyzer
 
-<h4>Content Spam Analyzer is a tool that rates a web page based on following attributes</h4>
+<h4>Content Spam Analyzer is a simple feature extraction tool that can be used on an HTML page to rate it spam or normal page</h4>
 
+The feature extracted are 
 1) Word Count <br>
 2) Number of Anchor Tags<br>
 3) Visibility Ratio<br>
@@ -10,8 +11,8 @@
 6) Popular Word Ratio<br>
 7) Average Word Length.<br>
 
-Based on the 7 parameters that has been shown above.Our program will test the webpage when the URL of the webpage is given. 
-After completing the test the program will output the rating score back to the user.
+Once the feature generation is completed the generated data can be applied to traditional machine learning algorithm to develop predictive models based on it.
+
 
 <br>
 To Process One Single File Just Create an Object for the SpamDetection.java file in your project and start invoking the method inside it.
