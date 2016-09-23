@@ -4,7 +4,8 @@
 
 <h4>Content Spam Analyzer is a simple feature extraction tool that can be used on an HTML page to rate it spam or normal page</h4>
 
-The feature extracted are 
+The feature extracted are <br>
+<b>
 1) Word Count <br>
 2) Number of Anchor Tags<br>
 3) Visibility Ratio<br>
@@ -12,7 +13,7 @@ The feature extracted are
 5) Content in the Title Text<br>
 6) Popular Word Ratio<br>
 7) Average Word Length.<br>
-
+</b>
 Once the feature generation is completed the generated data can be applied to traditional machine learning algorithm to develop predictive models based on it.
 
 
