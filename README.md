@@ -1,5 +1,7 @@
 # Content-Spam-Analyzer
 
+<img src="http://icons.iconarchive.com/icons/cornmanthe3rd/plex/128/Communication-email-icon.png"/>
+
 <h4>Content Spam Analyzer is a simple feature extraction tool that can be used on an HTML page to rate it spam or normal page</h4>
 
 The feature extracted are 
